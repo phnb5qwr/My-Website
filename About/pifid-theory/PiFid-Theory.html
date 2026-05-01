@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>void record</title>
+  <style>
+  
+
+  body {
+  background-color: black;
+  color: white;
+  font-family: 'Times New Roman', serif;
+  margin: 0;
+  padding: 0;
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* ← 上下中央 */
+  align-items: center;     /* ← 左右中央 */
+  }
+
+
+
+    h1 {
+
+      font-size: 1.5em;
+      margin-bottom: 0.5em;
+      color: rgba(130, 140, 243, 0.801)
+    }
+
+    p {
+      color: #8b8bef; /* 淡い青紫 */
+      margin-bottom: 2em;
+    }
+    
+    .buttons {
+    display: flex;
+    flex-direction: column; /* ← 1行につき1つ（縦並び） */
+    gap: 1rem;
+
+    align-items: flex-start; /* ← ボタンは左揃え */
+    width: fit-content;      /* ← ボタン群の幅を必要な分だけに */
+    margin: 0 auto;          /* ← ボタン群全体を中央に配置 */
+    }
+  
+    .center-button {
+     display: block;       /* ボタンをブロック扱いにする */
+     margin: 1rem auto 0 auto;  /* ← 自然な幅のまま中央へ */
+     text-align: center;   /* ボタン内の文字も中央 */
+     justify-content: center;  /* ← ボタンを中央に置く */
+     align-self: center;
+     margin-top: 30px;  /* ← ここを好きなだけ増やせる */
+    }
+    
+
+
+    a.button {
+      padding: 10px 20px;
+      background-color: #222; /* 目立たない背景色 */
+      color: rgba(130, 140, 243, 0.801);
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    a.button:hover {
+      background-color: #444; /* 少し明るいグレー */
+    }
+  </style>
+</head>
+<body>
+  <h1>Sound of Planes<sup>®</sup>PiFid Theory</h1>
+  <p></p>
+  <div class="buttons">
+    <a href="01-pifid-theory-summary.html" class="button">PiFid-theory-Summary</a>
+    <a href="02-chapter1.html" class="button">PiFid-theory-Chapter 1</a>
+    <a href="03-chapter2.html" class="button">PiFid-theory-Chapter 2</a>
+    <a href="04-chapter3.html" class="button">PiFid-theory-Chapter 3</a>
+    <a href="05-chapter4.html" class="button">PiFid-theory-Chapter 4</a>
+    <a href="06-chapter5.html" class="button">PiFid-theory-Chapter 5</a>
+    <a href="07-chapter6.html" class="button">PiFid-theory-Chapter 6</a>
+    <a href="08-chapter7.html" class="button">PiFid-theory-Chapter 7</a>
+    <a href="09-chapter8.html" class="button">PiFid-theory-Chapter 8</a>
+    <a href="10-chapter9.html" class="button">PiFid-theory-Chapter 9</a>
+    <a href="11-chapter10.html" class="button">PiFid-theory-Chapter 10</a>
+    <a href="Textbook-version-index.html" class="button">PiFid-theory-Textbook Version</a>
+    <a href="13-adult-version.html" class="button">PiFid-theory-Adult Version</a>
+    <a href="14-research-paper.html" class="button">PiFid-theory-Research Paper</a>
+
+    <div style="flex-basis:100%; height: 30px;"></div>
+    <a href="PiFid-Theory.html" class="button center-button">PiFid-Theory</a>
+    <a href="../../void.html" class="button center-button">Back to Silence</a>
+
+
+    
+  </div>
+</body>
+</html>
