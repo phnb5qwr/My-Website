@@ -88,11 +88,55 @@
 
     a.button:hover {
       background-color: #444; /* 少し明るいグレー */
+      font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+      font-size: 1em;
+      font-weight: normal;
+      border-radius: 7px;   /* ← タイトルと同じ“ほんのり丸い” */
+        }
+
+     .left-column a.button,
+     .right-column a.button {
+      font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+      font-size: 1em;
+      font-weight: normal;
+      border-radius: 7px;
+}
+
+    h1.theory-title {
+    font-family: "Verdana", "Noto Sans JP", sans-serif;
+    font-size: 1.8em;        /* ← 普通の見出しより少し控えめで上品 */
+    font-weight: normal;     /* ← ボタンと同じくノーマル */
+    margin-bottom: 0.5em;
     }
+
+    .left-column a.button,
+    .right-column a.button {
+    display: block;                 /* ← 幅を指定するために必要 */
+    width: 250px;                   /* ← 好きな幅に調整してOK */
+    font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+    font-size: 1em;
+    font-weight: normal;
+    border-radius: 7px;
+    text-align: center;             /* ← 文字を中央に */
+    }
+
+
+     /* footer */
+    footer {
+      font-size: 0.85em;
+      color: rgba(130, 140, 243, 0.801);
+      position: absolute;
+      bottom: 0.5em;
+      width: 100%;
+      text-align: center;
+      margin-bottom: 2em;
+    }
+
   </style>
 </head>
 <body>
-  <h1>Sound of Planes<sup>®</sup> PiFid Theory Textbook-version</h1>
+  <h1 class="theory-title">PiFid Theory Textbook-version</h1>
+
   <p></p>
   <div class="chapter-container">
 
@@ -105,14 +149,15 @@
     <a href="05-chapter4-Textbook Edition.html" class="button">Textbook Edition-chapter4</a>
     <a href="06-chapter5-Textbook Edition.html" class="button">Textbook Edition-chapter5</a>
     <a href="07-chapter6-Textbook Edition.html" class="button">Textbook Edition-chapter6</a>
-    <a href="08-chapter7-Textbook Edition.html" class="button">Textbook Edition-chapter7</a>
-    <a href="09-chapter8-Textbook Edition.html" class="button">Textbook Edition-chapter8</a>
-    <a href="10-chapter9-Textbook Edition.html" class="button">Textbook Edition-chapter9</a>
-    <a href="11-chapter10-Textbook Edition.html" class="button">Textbook Edition-chapter10</a>
+    
     </div>
 
   <!-- 右カラム：その他 -->
     <div class="right-column">
+    <a href="08-chapter7-Textbook Edition.html" class="button">Textbook Edition-chapter7</a>
+    <a href="09-chapter8-Textbook Edition.html" class="button">Textbook Edition-chapter8</a>
+    <a href="10-chapter9-Textbook Edition.html" class="button">Textbook Edition-chapter9</a>
+    <a href="11-chapter10-Textbook Edition.html" class="button">Textbook Edition-chapter10</a>  
     <a href="12-chapter11-Diagram Pages.html" class="button">Textbook Edition-chapter11-Diagram Pages</a>
     <a href="13-Appendix.html" class="button">Textbook Edition-Appendix</a>
     </div>
@@ -125,5 +170,6 @@
   <a href="../../../void.html" class="button center-button">Back to Silence</a>
     
 </div>
+  <footer>© 2026 Sound of Planes<sup>®</sup></footer>
 </body>
 </html>
