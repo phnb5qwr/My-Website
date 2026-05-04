@@ -34,6 +34,28 @@
       margin-bottom: 2em;
     }
     
+     .chapter-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px; /* 左右の間隔 */
+    margin-top: 40px; /* ページ上部の余白 */
+    }
+
+    .left-column,
+    .right-column {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* ボタン同士の間隔 */
+    }
+
+    .button-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px; /* 下のボタンとの余白 */
+    }
+
+
     .buttons {
     display: flex;
     flex-direction: column; /* ← 1行につき1つ（縦並び） */
@@ -72,7 +94,10 @@
 <body>
   <h1>Sound of Planes<sup>®</sup>PiFid Theory</h1>
   <p></p>
-  <div class="buttons">
+  <div class="chapter-container">
+
+  <!-- 左カラム：Summary〜Chapter10 -->
+    <div class="left-column">
     <a href="01-textbook-summary.html" class="button">Textbook-Summary</a>
     <a href="02-chapter1-Textbook Edition.html" class="button">Textbook Edition-chapter1</a>
     <a href="03-chapter2-Textbook Edition.html" class="button">Textbook Edition-chapter2</a>
@@ -84,15 +109,21 @@
     <a href="09-chapter8-Textbook Edition.html" class="button">Textbook Edition-chapter8</a>
     <a href="10-chapter9-Textbook Edition.html" class="button">Textbook Edition-chapter9</a>
     <a href="11-chapter10-Textbook Edition.html" class="button">Textbook Edition-chapter10</a>
+    </div>
+
+  <!-- 右カラム：その他 -->
+    <div class="right-column">
     <a href="12-chapter11-Diagram Pages.html" class="button">Textbook Edition-chapter11-Diagram Pages</a>
     <a href="13-Appendix.html" class="button">Textbook Edition-Appendix</a>
+    </div>
 
-    <div style="flex-basis:100%; height: 30px;"></div>
-    <a href="Textbook-version-index.html" class="button center-button">Back to Silence</a>
-    <a href="PiFid-Theory.html" class="button center-button">Back to Silence</a>
+    </div>
 
-
+  <!-- 下のナビゲーション -->
+  <div class="button-row">
+  <a href="../../../void.html" class="button center-button">Back to Silence</a>
+  <a href="../Pi-Fid-Theory.html" class="button center-button">Back to Pi-Fid Theory</a>
     
-  </div>
+</div>
 </body>
 </html>
