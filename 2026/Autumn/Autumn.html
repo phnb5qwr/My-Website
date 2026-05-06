@@ -34,56 +34,100 @@
       margin-bottom: 2em;
     }
     
+     /* ボタン群（左右カラム） */
     .buttons {
-    display: flex;
-    flex-direction: column; /* ← 1行につき1つ（縦並び） */
-    gap: 1rem;
-
-    align-items: flex-start; /* ← ボタンは左揃え */
-    width: fit-content;      /* ← ボタン群の幅を必要な分だけに */
-    margin: 0 auto;          /* ← ボタン群全体を中央に配置 */
+      display: flex;
+      flex-direction: row;
+      gap: 3rem;
+      align-items: flex-start;
+      width: fit-content;
+      margin: 0 auto;
     }
-  
-    .center-button {
-     display: block;       /* ボタンをブロック扱いにする */
-     margin: 1rem auto 0 auto;  /* ← 自然な幅のまま中央へ */
-     text-align: center;   /* ボタン内の文字も中央 */
-     justify-content: center;  /* ← ボタンを中央に置く */
-     align-self: center;
-     margin-top: 30px;  /* ← ここを好きなだけ増やせる */
-    }
-    
 
-
-    a.button {
+    /* 通常ボタン */
+    .button {
+      display: block;
+      margin-bottom: 10px;
       padding: 10px 20px;
-      background-color: #222; /* 目立たない背景色 */
+      background-color: #222;
       color: rgba(130, 140, 243, 0.801);
       text-decoration: none;
       border-radius: 5px;
       transition: background-color 0.3s;
     }
 
+    /* ホバー */
     a.button:hover {
-      background-color: #444; /* 少し明るいグレー */
+      background-color: #444;
     }
+
+    /* 中央ボタン（幅は固定しない） */
+    .center-button {
+      display: block;
+      margin: 30px auto 0 auto;
+      text-align: center;
+      width: auto;   /* ← ここが重要！ */
+    }
+
+    /* このボタンだけ文字幅に合わせる */
+    .small-button {
+      display: inline-block;  /* ← block を上書き */
+      width: auto;            /* ← これで文字幅にフィット */
+      padding: 10px 20px;
+    }
+
+    /* カラムごとに縦並びにする */
+    .left-column,
+    .right-column {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    }
+
+    /* footer */
+    footer {
+      font-size: 0.85em;
+      color: rgba(130, 140, 243, 0.801);
+      position: absolute;
+      bottom: 0.5em;
+      width: 100%;
+      text-align: center;
+      margin-bottom: 2em;
+      text-align: center;
+      margin-top: 40px;
+    }
+
   </style>
 </head>
 <body>
-  <h1>Sound of Planes<sup>®</sup>Archived Records</h1>
+
+  <h1>Autumn Archives</h1>
   <p></p>
   <div class="buttons">
-    <a href="Katase Higashihama.html" class="button">Katase Higashihama</a>
-    <a href="Enoshima Shrine – Hetsunomiya.html" class="button">Enoshima Shrine – Hetsunomiya</a>
-    <a href="Enoshima Shrine – Okutsunomiya.html" class="button">Enoshima Shrine – Okutsunomiya</a>
+     <!-- 左カラム -->
+  <div class="left-column">
+    <a href="Toyokawa Inari Tokyo Betsuin.html" class="button">Toyokawa Inari Tokyo Betsuin</a>
+    <a href="Koami Shrine.html" class="button">Koami Shrine</a>
+    <a href="Tsukiji Hongwanji.html" class="button">Tsukiji Hongwanji</a>
     <a href="Ryugu Shrine and The Bell of the Dragon’s Love.html" class="button">Ryugu Shrine and The Bell of the Dragon’s Love</a>
+    </div>
+    <!-- 右カラム -->
+  <div class="right-column">
     <a href="Enoshima Iwaya Caves – First Cave.html" class="button">Enoshima Iwaya Caves – First Cave</a>
     <a href="Enoshima Iwaya Caves – Second Cave.html" class="button">Enoshima Iwaya Caves – Second Cave</a>
     <a href="Enoshima Shrine – Nakatsunomiya.html" class="button">Enoshima Shrine – Nakatsunomiya</a>
+  </div>
+
+</div> <!-- ★ここで右カラムを閉じる！ -->
+
     
-    
-    <div style="flex-basis:100%; height: 30px;"></div>
-    <a href="../../records.html" class="button center-button">Back to Yearly Records</a>
+    <!-- ★ここからはカラムの外なので中央寄せが効く -->
+    <div style="height: 60px;"></div>
+
+    <a href="../2026.html" class="button center-button small-button">2026 Archives</a>
+
+    <footer>© 2026 Sound of Planes<sup>®</sup></footer>
+
 
     
   </div>
