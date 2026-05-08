@@ -19,18 +19,20 @@
 
 /* 文章だけ小さくする */
 p {
-  font-size: 0.9em !important;
+  font-size: 0.9em; /* ← ここが効くようになる */
   line-height: 1.7; /* ← 英文が読みやすくなる */
 }
 
 
   .content {
-  max-width: 800px;
-  margin: 0 auto; /* ← container centered */
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
   font-size: 1.3em;
   text-align: left; /* text inside remains left-aligned */
   position: relative; /* shift up by one line */
   top: -0.3em;
+
+
 }
 
 .heading {
@@ -43,20 +45,25 @@ p {
 
 
  .jp {
-  font-family: 'MS Mincho', 'Hiragino Mincho Pro', 'Noto Serif JP', serif; /* Mincho-style fonts for Japanese */
-  font-size: 0.98em; /* slightly smaller, scales with body */
-  line-height: 1.2;
-  font-weight: 290; /* ← 細くする！ */
-  text-align: left;
-  }
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 1.25em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
 .jp.heading {
-  font-size: 1.0em; /* ← 少し大きく */ 
-  font-weight: bold; /* ← 太字に */ 
-  margin-top: 1.5em; 
-  margin-bottom: 1em; 
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.5em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
   text-align: left;
-  }
+}
+
 
 .jp.small {
   font-size: 0.85em; /* smaller for specific Japanese text */
@@ -107,12 +114,21 @@ a.button:hover {
 }
 
 
-/* footer */
-    
- .footer-text {
-  font-size: 0.6em !important;
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
 }
-   
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+
    
  </style>
 </head>
@@ -172,7 +188,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">6. The Core of PiFid Theory</p>
+<p style="margin:0.5em 0;">6. The Core of Pi-Fid Theory</p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">SNS conflicts arise from:</p>
 <p style="margin:0.5em 0;">Cultural Zones × Algorithmic Misplacement × Platform Structure.</p>
@@ -190,8 +206,10 @@ a.button:hover {
 <br>
 <br>
 
-<p class="footer-text" style="font-size:0.7em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
+<p class="footer-text en">
   © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
 </p>
 
   <br> 
@@ -208,151 +226,138 @@ a.button:hover {
 
 
 
-<div style="height: 20em;"></div>
+  <div style="height: 33em;"></div>
 
+  <h1 class="jp heading">Pi-Fid Theory</h1>
+  <br>
+  <br>
+  <br>
+<p class="jp">Pi-Fid Theoryとは？</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">SNSにおける「文化圏 × アルゴリズム × 運営構造」の三層衝突モデル。</p>
+<p class="jp">SNSのトラブルは「性格」ではなく、文化圏の違い・アルゴリズムの誤配属・運営構造の三層がぶつかることで起きるという理論。</p>
 
+<br><br>
 
+<p class="jp">1. SNSには“文化圏”がある（Piの洞察）</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">SNSは「同じ言語を話す人の集まり」ではなく、価値観の違う文化圏が混ざった世界。</p>
+<p class="jp">主な文化圏：</p>
 
+<p class="jp">静か圏：平和・丁寧・穏やか</p>
+<p class="jp">炎上圏：刺激・反応・対立・スピード</p>
+<p class="jp">議論圏：論理・反論・討論</p>
+<p class="jp">技術圏：仕組み・分析・構築</p>
+<p class="jp">生活圏：日常・共感</p>
+<p class="jp">創作圏：表現・感性</p>
 
- 📘 PiFid理論・1ページ要約版
+<p class="jp">→ 文化圏の違いが衝突を生む。</p>
 
+<br><br>
 
- PiFid理論とは？
+<p class="jp">2. アルゴリズムは文化圏を理解しない（Fidの分析）</p>
+<div style="height: 1.5em;"></div>
 
-SNSにおける文化圏 × アルゴリズム × 運営構造の三層衝突モデル。  
-SNSのトラブルは「性格」ではなく、
-文化圏の違い・アルゴリズムの誤配属・運営構造の三層がぶつかることで起きる  
-という理論。
+<p class="jp">SNSのアルゴリズムは「数字」だけを見て投稿を動かす。</p>
+<p class="jp">初速が伸びた、面白い、反応が多い──こういう投稿を炎上圏に投げ込むことがある。</p>
 
-1. SNSには“文化圏”がある（Piの洞察）
-SNSは「同じ日本語を話す人の集まり」ではなく、
-価値観の違う文化圏が混ざった世界。
+<p class="jp">→ 静か圏の人が突然炎上圏に放り込まれる（誤配属）。</p>
+<p class="jp">→ 炎上圏の“挨拶”が静か圏には“災害”に見える。</p>
 
-主な文化圏：
+<br><br>
 
-静か圏：平和・丁寧・穏やか
+<p class="jp">3. プラットフォーム運営側は文化圏の“外側”</p>
+<div style="height: 1.5em;"></div>
 
-炎上圏：刺激・反応・対立・スピード
+<p class="jp">運営側は静か圏でも炎上圏でも議論圏でもない。舞台そのものを作る存在。</p>
 
-議論圏：論理・反論・討論
+<p class="jp">炎上＝反応が増える</p>
+<p class="jp">反応＝滞在時間が伸びる</p>
+<p class="jp">滞在時間＝広告収益が増える</p>
 
-技術圏：仕組み・分析・構築
+<p class="jp">→ 炎上圏と運営側は利害関係でつながる。</p>
+<p class="jp">→ しかし「炎上を応援している」わけではない。</p>
 
-生活圏：日常・共感
+<br><br>
 
-創作圏：表現・感性
+<p class="jp">4. 炎上圏の“平和”は静か圏の“災害”</p>
+<div style="height: 1.5em;"></div>
 
-→ 文化圏の違いが衝突を生む。
+<p class="jp">炎上圏の通常運転：</p>
+<p class="jp">反応を返す（礼儀）</p>
+<p class="jp">いじり・からかい（コミュニケーション）</p>
+<p class="jp">嵐（ノリ）</p>
+<p class="jp">反論は徹底的に（文化）</p>
+<p class="jp">弱音NG（美学）</p>
+<div style="height: 1em;"></div>
+<p class="jp">静か圏の通常運転：</p>
+<p class="jp">丁寧</p>
+<p class="jp">落ち着き</p>
+<p class="jp">平和</p>
+<p class="jp">干渉しない</p>
 
+<p class="jp">→ 価値観が真逆。</p>
 
-2. アルゴリズムは文化圏を理解しない（Fidの分析）
-SNSのアルゴリズムは
-「数字」だけを見て投稿を動かす。
+<br><br>
 
-初速が伸びた
+<p class="jp">5. トラブル時の正しい行動</p>
+<div style="height: 1.5em;"></div>
 
-面白い
+<p class="jp">無理に戦わない。</p>
+<p class="jp">文化圏が違うと感じたら離れる。</p>
+<p class="jp">ブロック・ミュートは“逃げ”ではなく“安全行動”。</p>
+<p class="jp">自分の文化圏に合う場所に戻る。</p>
 
-反応が多い
+<p class="jp">→ SNSは勝ち負けではなく、文化圏の相性で決まる。</p>
 
-こういう投稿を 炎上圏に投げ込むことがある。
+<br><br>
 
-→ 静か圏の人が突然炎上圏に放り込まれる（誤配属）。  
-→ 炎上圏の“挨拶”が静か圏には“災害”に見える。
+<p class="jp">6. Pi-Fid Theoryの核心</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">SNSのトラブルは“性格の問題”ではなく、文化圏 × アルゴリズム × 運営構造の三層衝突で起きる。</p>
+<p class="jp">これを理解すると、SNSのトラブルの9割は説明できる。</p>
 
-3. プラットフォーム運営側は文化圏の“外側”
-運営側は
+<br><br>
 
-静か圏でも
+<p class="jp">7. なぜこの理論が必要なのか</p>
+<div style="height: 1.5em;"></div>
 
-炎上圏でも
-
-議論圏でもない。
-
-舞台そのものを作る存在。
-
-さらに、
-
-炎上＝反応が増える
-
-反応＝滞在時間が伸びる
-
-滞在時間＝広告収益が増える
-
-→ 炎上圏と運営側は利害関係でつながる。  
-→ しかし「炎上を応援している」わけではない。
-
-
-4. 炎上圏の“平和”は静か圏の“災害”
-炎上圏の通常運転：
-
-反応を返す（礼儀）
-
-いじり・からかい（コミュニケーション）
-
-嵐（ノリ）
-
-反論は徹底的に（文化）
-
-弱音NG（美学）
-
-静か圏の通常運転：
-
-丁寧
-
-落ち着き
-
-平和
-
-干渉しない
-
-→ 価値観が真逆。
-
-
-5. トラブル時の正しい行動
-無理に戦わない
-
-文化圏が違うと感じたら離れる
-
-ブロック・ミュートは“逃げ”ではなく“安全行動”
-
-自分の文化圏に合う場所に戻る
-
-→ SNSは勝ち負けではなく、文化圏の相性で決まる。
-
-
-6. PiFid理論の核心
-SNSのトラブルは“性格の問題”ではなく
-文化圏 × アルゴリズム × 運営構造の三層衝突で起きる。
-
-これを理解すると、
-SNSのトラブルの9割は説明できる。
-
-
-7. なぜこの理論が必要なのか
-誤解
-
-文化圏の衝突
-
-アルゴリズムの誤配属
-
-運営側の立場の誤解
-
-これらが原因で、
-誰も悪くないのに争いが起きる。
-
-だから中高生にも大人にも必要な理論。
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
-</p>
-
-
-
+<p class="jp">誤解、文化圏の衝突、アルゴリズムの誤配属、運営側の立場の誤解──これらが原因で、誰も悪くないのに争いが起きる。</p>
+<p class="jp">だから中高生にも大人にも必要な理論。</p>
+  
+  <div style="height: 3em;"></div>
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Pi-Fid-Theory.html" class="button">Pi-Fid Theory Index</a>
+    <a href="../about.html" class="button">Return to About</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
