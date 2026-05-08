@@ -1,342 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
+
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
+
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
+
+
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
+
+
+}
+
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 1.25em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
+
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.5em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
+
+
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
 
-📘 Chapter 2 — Algorithmic Misplacement (PiFid Theory, Chapter 2)
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
 
+a.button:hover {
+  background-color: #444;
+}
 
-SNS algorithms do not understand cultural zones.
-They do not see values, tone, or intention.
-They see only numbers.
 
-Early engagement
+/* footer */    
 
-Reaction counts
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
 
-Watch time
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
 
-Click‑through rates
+   
+ </style>
+</head>
+<body>
+<div class="content">
+  <h1 class="heading">Chapter 2 — Algorithmic Misplacement</h1>
+  <br><br><br>
 
-Spread velocity
+  <p style="margin:0.5em 0;">SNS algorithms do not understand cultural zones.</p>
+  <p style="margin:0.5em 0;">They do not see values, tone, or intention. They see only numbers.</p>
 
-Based on these numbers alone,
-the algorithm decides where a post should be shown.
+  <p style="margin:0.5em 0;">Early engagement</p>
+  <p style="margin:0.5em 0;">Reaction counts</p>
+  <p style="margin:0.5em 0;">Watch time</p>
+  <p style="margin:0.5em 0;">Click‑through rates</p>
+  <p style="margin:0.5em 0;">Spread velocity</p>
 
-As a result,
-the cultural compatibility of a post is ignored,
-and misplacement occurs.
+  <p style="margin:0.5em 0;">Based on these numbers alone, the algorithm decides where a post should be shown.</p>
+  <p style="margin:0.5em 0;">As a result, the cultural compatibility of a post is ignored, and misplacement occurs.</p>
 
+  <div style="height: 3em;"></div>
 
-1. Algorithms Do Not Recognize Cultural Zones
-Even a gentle, Quiet‑Zone post can be misread by the algorithm.
+  <p style="margin:0.5em 0;">1. Algorithms Do Not Recognize Cultural Zones</p>
+  <div style="height: 0.2em;"></div>
 
-If it gets a small spike in engagement:
+  <p style="margin:0.5em 0;">Even a gentle, Quiet‑Zone post can be misread by the algorithm.</p>
+  <p style="margin:0.5em 0;">If it gets a small spike in engagement:</p>
 
-“This post performs well”
+  <p style="margin:0.5em 0;">“This post performs well”</p>
+  <p style="margin:0.5em 0;">“Let’s push it further”</p>
 
-“Let’s push it further”
+  <p style="margin:0.5em 0;">The algorithm may throw it into the Flame Zone, without understanding the cultural mismatch.</p>
+  <p style="margin:0.5em 0;">Thus, posts and audiences are often paired incorrectly.</p>
 
-The algorithm may throw it into the Flame Zone,
-without understanding the cultural mismatch.
+  <div style="height: 3em;"></div>
 
-Thus,
-posts and audiences are often paired incorrectly.
+  <p style="margin:0.5em 0;">2. Typical Patterns of Misplacement</p>
+  <div style="height: 0.2em;"></div>
 
+  <p style="margin:0.5em 0;"><strong>Example 1: Quiet Zone → Flame Zone</strong></p>
 
-2. Typical Patterns of Misplacement
-Example 1: Quiet Zone → Flame Zone
-Quiet‑Zone posts are meant for:
+  <p style="margin:0.5em 0;">Quiet‑Zone posts are meant for calm reactions, soft engagement, appreciation, small insights, and slow, peaceful interaction.</p>
 
-Calm reactions
+  <p style="margin:0.5em 0;">But if someone quote‑tweets it, or if engagement briefly spikes, the algorithm interprets it as:</p>
 
-Soft engagement
+  <p style="margin:0.5em 0;">“High‑reaction content. Expand reach.”</p>
 
-Appreciation
+  <p style="margin:0.5em 0;">And sends it into the Flame Zone.</p>
 
-Small insights
+  <p style="margin:0.5em 0;">The result: teasing, strong reactions, argumentative replies, group “storms,” high‑energy commentary.</p>
+  <p style="margin:0.5em 0;">To a Quiet‑Zone user, this feels like a disaster.</p>
 
-Slow, peaceful interaction
+  <br>
 
-But if someone quote‑tweets it,
-or if engagement briefly spikes,
-the algorithm interprets it as:
+  <p style="margin:0.5em 0;"><strong>Example 2: Life Zone → Debate Zone</strong></p>
 
-“High‑reaction content. Expand reach.”
+  <p style="margin:0.5em 0;">A Life‑Zone post that simply wants empathy may land in the Debate Zone.</p>
+  <p style="margin:0.5em 0;">Then it receives:</p>
 
-And sends it into the Flame Zone.
+  <p style="margin:0.5em 0;">“What’s your evidence?”</p>
+  <p style="margin:0.5em 0;">“This is logically inconsistent.”</p>
+  <p style="margin:0.5em 0;">“Provide data.”</p>
 
-The result:
+  <p style="margin:0.5em 0;">To the Life Zone, this feels like attack, but in the Debate Zone, it is normal conversation.</p>
 
-Teasing
+  <br>
 
-Strong reactions
+  <p style="margin:0.5em 0;"><strong>Example 3: Creative Zone → Tech Zone</strong></p>
 
-Argumentative replies
+  <p style="margin:0.5em 0;">A Creative‑Zone post meant to share a feeling or worldbuilding may be delivered to the Tech Zone.</p>
+  <p style="margin:0.5em 0;">Then it receives:</p>
 
-Group “storms”
+  <p style="margin:0.5em 0;">“What’s the spec?”</p>
+  <p style="margin:0.5em 0;">“This setting is inconsistent.”</p>
+  <p style="margin:0.5em 0;">“This structure is inefficient.”</p>
 
-High‑energy commentary
+  <p style="margin:0.5em 0;">To the Creative Zone, this feels cold, but to the Tech Zone, it is simply analysis.</p>
 
-To a Quiet‑Zone user,
-this feels like a disaster.
+  <div style="height: 3em;"></div>
 
-Example 2: Life Zone → Debate Zone
-A Life‑Zone post that simply wants empathy
-may land in the Debate Zone.
+  <p style="margin:0.5em 0;">3. Misplacement Is No One’s Fault</p>
+  <div style="height: 0.2em;"></div>
 
-Then it receives:
+  <p style="margin:0.5em 0;">Not the poster’s fault.</p>
+  <p style="margin:0.5em 0;">Not the audience’s fault.</p>
+  <p style="margin:0.5em 0;">Not a personality issue.</p>
 
-“What’s your evidence?”
+  <p style="margin:0.5em 0;">It is simply that the algorithm does not understand culture.</p>
+  <p style="margin:0.5em 0;">Misplacement is structural, not personal.</p>
 
-“This is logically inconsistent.”
+  <div style="height: 3em;"></div>
 
-“Provide data.”
+  <p style="margin:0.5em 0;">4. What Misplacement Causes</p>
+  <div style="height: 0.2em;"></div>
 
-To the Life Zone, this feels like attack,
-but in the Debate Zone, it is normal conversation.
+  <p style="margin:0.5em 0;">Misunderstandings</p>
+  <p style="margin:0.5em 0;">Feeling attacked</p>
+  <p style="margin:0.5em 0;">Value clashes</p>
+  <p style="margin:0.5em 0;">Sudden flame‑ups</p>
+  <p style="margin:0.5em 0;">Emotional exhaustion</p>
+  <p style="margin:0.5em 0;">SNS fatigue</p>
+  <p style="margin:0.5em 0;">Forced cultural‑zone shifts</p>
 
-Example 3: Creative Zone → Tech Zone
-A Creative‑Zone post meant to share a feeling or worldbuilding
-may be delivered to the Tech Zone.
+  <p style="margin:0.5em 0;">When a Quiet‑Zone user is thrown into the Flame Zone, it is natural to feel that “SNS is scary.”</p>
+  <p style="margin:0.5em 0;">It is not weakness. It is cultural mismatch stress.</p>
 
-Then it receives:
+  <div style="height: 3em;"></div>
 
-“What’s the spec?”
+  <p style="margin:0.5em 0;">5. Chapter 2 Summary</p>
+  <div style="height: 0.2em;"></div>
 
-“This setting is inconsistent.”
+  <p style="margin:0.5em 0;">Algorithms do not understand cultural zones.</p>
+  <p style="margin:0.5em 0;">They move posts based on numbers alone.</p>
+  <p style="margin:0.5em 0;">Misplacement occurs frequently.</p>
+  <p style="margin:0.5em 0;">Misplacement is no one’s fault.</p>
+  <p style="margin:0.5em 0;">Cultural mismatches create conflict.</p>
 
-“This structure is inefficient.”
+  <p style="margin:0.5em 0;">The second pillar of Pi‑Fid Theory™ is: “Algorithms do not understand culture.”</p>
 
-To the Creative Zone, this feels cold,
-but to the Tech Zone, it is simply analysis.
+  <div style="height: 4em;"></div>
+</div>
 
 
-3. Misplacement Is No One’s Fault
-Not the poster’s fault
 
-Not the audience’s fault
+<div style="height: 3em;"></div>
+<br>
+<br>
+<br>
 
-Not a personality issue
-
-It is simply that
-the algorithm does not understand culture.
-
-Misplacement is structural, not personal.
-
-
-4. What Misplacement Causes
-Misunderstandings
-
-Feeling attacked
-
-Value clashes
-
-Sudden flame‑ups
-
-Emotional exhaustion
-
-SNS fatigue
-
-Forced cultural‑zone shifts
-
-When a Quiet‑Zone user is thrown into the Flame Zone,
-it is natural to feel that “SNS is scary.”
-
-It is not weakness.
-It is cultural mismatch stress.
-
-
-5. Chapter 2 Summary
-Algorithms do not understand cultural zones
-
-They move posts based on numbers alone
-
-Misplacement occurs frequently
-
-Misplacement is no one’s fault
-
-Cultural mismatches create conflict
-
-The second pillar of PiFid Theory is:
-“Algorithms do not understand culture.”
-
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
 </p>
 
+  <br> 
 
-
-
-
-
-
-📘 Chapter 2 — アルゴリズムの誤配属（PiFid理論・第2章）
-
-
-SNSのアルゴリズムは、
-人の価値観や文化圏を理解しない。
-
-見ているのはただ一つ──
-「数字」だけ。
-
-反応数
-
-初速
-
-滞在時間
-
-クリック率
-
-拡散率
-
-これらの数字をもとに、
-投稿をどの文化圏に届けるかを決めている。
-
-その結果、
-文化圏と投稿の相性が無視される。
-
-
-1. アルゴリズムは“文化圏”を知らない
-静か圏の人が丁寧に書いた投稿でも、
-もし初速が少し伸びれば、
-
-「反応が取れる投稿だ」と判断され
-
-炎上圏に投げ込まれることがある
-
-アルゴリズムは、
-その投稿が「静か圏向け」かどうかを判断できない。
-
-だから、
-文化圏と投稿のミスマッチが起きる。
-
-
-2. 誤配属の典型例
-例1：静か圏 → 炎上圏に転送される
-静か圏の投稿は本来、
-
-丁寧
-
-落ち着き
-
-感謝
-
-日常
-
-小さな気づき
-
-こういう“静かな反応”が合う。
-
-しかし、
-たまたま誰かが引用RTしたり、
-一瞬だけ反応が増えたりすると──
-
-アルゴリズムはこう判断する：
-
-「この投稿は反応が取れる。もっと広げよう」
-
-そして炎上圏に投げ込む。
-
-結果：
-
-いじり
-
-からかい
-
-強い反応
-
-論破
-
-ノリの嵐
-
-静か圏の人にとっては“災害”のように感じる。
-
-例2：生活圏 → 議論圏に転送される
-生活圏の「共感してほしいだけ」の投稿が、
-議論圏に届くとこうなる：
-
-「その根拠は？」
-
-「論理的に矛盾している」
-
-「データは？」
-
-生活圏の人には“攻撃”に見えるが、
-議論圏では普通の会話。
-
-例3：創作圏 → 技術圏に転送される
-創作圏の「世界観を楽しんでほしい」投稿が、
-技術圏に届くとこうなる：
-
-「仕様は？」
-
-「設定が破綻している」
-
-「この構造は非効率」
-
-創作圏の人には“冷たい”と感じるが、
-技術圏では普通の分析。
-
-
-3. 誤配属は“誰のせいでもない”
-投稿者のせいではない
-
-受け手のせいでもない
-
-性格の問題でもない
-
-ただ、
-アルゴリズムが文化圏を理解していないだけ。
-
-だから衝突が起きる。
-
-
-4. 誤配属が起きると何が起きるか
-誤解
-
-攻撃に見える反応
-
-価値観の衝突
-
-予期しない炎上
-
-心理的ダメージ
-
-SNS疲れ
-
-アカウント放置
-
-文化圏の移動（強制的）
-
-静か圏の人が炎上圏に投げ込まれると、
-「SNSは怖い」と感じるのは当然。
-
-それは性格の弱さではなく、
-文化圏のミスマッチによるストレス。
-
-
-5. 第2章のまとめ
-アルゴリズムは文化圏を理解しない
-
-数字だけを見て投稿を動かす
-
-その結果、誤配属が起きる
-
-誤配属は“誰のせいでもない”
-
-文化圏のミスマッチが衝突を生む
-
-PiFid理論の第二の柱は、
-「アルゴリズムは文化圏を知らない」 という事実。
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+  <a href="../about.html" class="button">Return to About</a>
+</div>
+
+
+
+  <div style="height: 33em;"></div>
+
+<h1 class="jp heading">第2章 — アルゴリズムの誤配属</h1>
+<br>
+<br>
+<br>
+
+<p class="jp">SNSのアルゴリズムは、人の価値観や文化圏を理解しません。</p>
+<p class="jp">見ているのはただ一つ──「数字」だけです。</p>
+
+<p class="jp">反応数</p>
+<p class="jp">初速</p>
+<p class="jp">滞在時間</p>
+<p class="jp">クリック率</p>
+<p class="jp">拡散率</p>
+
+<p class="jp">これらの数字をもとに、投稿をどの文化圏に届けるかを決めています。</p>
+<p class="jp">その結果、文化圏と投稿の相性が無視されます。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">1. アルゴリズムは“文化圏”を知らない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">静か圏の人が丁寧に書いた投稿でも、もし初速が少し伸びれば、</p>
+<p class="jp">「反応が取れる投稿だ」と判断され、炎上圏に投げ込まれることがあります。</p>
+
+<p class="jp">アルゴリズムは、その投稿が「静か圏向け」かどうかを判断できません。</p>
+<p class="jp">だから、文化圏と投稿のミスマッチが起きます。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">2. 誤配属の典型例</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp"><strong>例1：静か圏 → 炎上圏に転送される</strong></p>
+
+<p class="jp">静か圏の投稿は本来、丁寧・落ち着き・感謝・日常・小さな気づき──こうした“静かな反応”が合います。</p>
+
+<p class="jp">しかし、たまたま誰かが引用RTしたり、一瞬だけ反応が増えたりすると、アルゴリズムはこう判断します：</p>
+
+<p class="jp">「この投稿は反応が取れる。もっと広げよう」</p>
+
+<p class="jp">そして炎上圏に投げ込みます。</p>
+
+<p class="jp">結果：</p>
+<p class="jp">いじり・からかい・強い反応・論破・ノリの嵐。</p>
+<p class="jp">静か圏の人にとっては“災害”のように感じます。</p>
+
+<br>
+
+<p class="jp"><strong>例2：生活圏 → 議論圏に転送される</strong></p>
+
+<p class="jp">生活圏の「共感してほしいだけ」の投稿が議論圏に届くと、</p>
+<p class="jp">「その根拠は？」「論理的に矛盾している」「データは？」</p>
+<p class="jp">──こうした反応が返ってきます。</p>
+
+<p class="jp">生活圏の人には“攻撃”に見えますが、議論圏では普通の会話です。</p>
+
+<br>
+
+<p class="jp"><strong>例3：創作圏 → 技術圏に転送される</strong></p>
+
+<p class="jp">創作圏の「世界観を楽しんでほしい」投稿が技術圏に届くと、</p>
+<p class="jp">「仕様は？」「設定が破綻している」「この構造は非効率」</p>
+<p class="jp">──こうした反応が返ってきます。</p>
+
+<p class="jp">創作圏の人には“冷たい”と感じますが、技術圏では普通の分析です。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">3. 誤配属は“誰のせいでもない”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">投稿者のせいではありません。</p>
+<p class="jp">受け手のせいでもありません。</p>
+<p class="jp">性格の問題でもありません。</p>
+
+<p class="jp">ただ、アルゴリズムが文化圏を理解していないだけです。</p>
+<p class="jp">だから衝突が起きます。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">4. 誤配属が起きると何が起きるか</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">誤解</p>
+<p class="jp">攻撃に見える反応</p>
+<p class="jp">価値観の衝突</p>
+<p class="jp">予期しない炎上</p>
+<p class="jp">心理的ダメージ</p>
+<p class="jp">SNS疲れ</p>
+<p class="jp">アカウント放置</p>
+<p class="jp">文化圏の移動（強制的）</p>
+
+<p class="jp">静か圏の人が炎上圏に投げ込まれると、「SNSは怖い」と感じるのは当然です。</p>
+<p class="jp">それは性格の弱さではなく、文化圏のミスマッチによるストレスです。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">5. 第2章のまとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">アルゴリズムは文化圏を理解しない</p>
+<p class="jp">数字だけを見て投稿を動かす</p>
+<p class="jp">その結果、誤配属が起きる</p>
+<p class="jp">誤配属は“誰のせいでもない”</p>
+<p class="jp">文化圏のミスマッチが衝突を生む</p>
+
+<p class="jp">Pi‑Fid Theory™の第二の柱は、「アルゴリズムは文化圏を知らない」という事実。</p>
+ 
+  <div style="height: 3em;"></div>
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+    <a href="../about.html" class="button">Return to About</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
