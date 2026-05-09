@@ -1,248 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition (Summary, English Version)
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
 
-
-What Is the PiFid Theory?
-The PiFid Theory explains SNS trouble through three overlapping layers:
-
-Cultural Zones
-
-Algorithmic Misplacement
-
-Platform Structure
-
-Conflicts on SNS are not caused by personality.
-They arise from structural mismatches.
-
-
-1. Multiple Cultural Zones Exist on SNS
-SNS is not a single culture.
-Different cultural zones coexist at the same time.
-
-Main cultural zones:
-
-Quiet Zone
-
-Flame Zone
-
-Debate Zone
-
-Tech Zone
-
-Life Zone
-
-Creative Zone
-
-Differences between these zones create misunderstandings and conflict.
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
-2. Algorithms Do Not Understand Cultural Zones
-Algorithms only see numbers, such as:
-
-Reaction speed
-
-Engagement
-
-Spread
-
-Because of this,
-a Quiet‑Zone post may be pushed into the Flame Zone,
-causing cultural misplacement.
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
 
-3. Platform Operators Stand Outside All Cultural Zones
-Operators are not inside any cultural zone.
+}
 
-Their priorities are:
-
-Terms of service
-
-Legal compliance
-
-Stable operation
-
-Revenue
-
-Safety standards
-
-Cultural clashes are rarely recognized as “problems.”
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-4. The Flame Zone’s “Normal” Is the Quiet Zone’s “Disaster”
-Values differ across zones.
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-Flame Zone’s “courtesy” = fast reactions
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
-Quiet Zone’s “courtesy” = calm distance
 
-The same words can carry different meanings,
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
+
+
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+<h1 class="heading">Pi‑Fid Theory™ — Textbook Edition (Summary)</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+The Pi‑Fid Theory™ explains SNS trouble through three overlapping layers:
+Cultural Zones, Algorithmic Misplacement, and Platform Structure.
+Conflicts on SNS are not caused by personality — they arise from structural mismatches.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. Multiple Cultural Zones Exist on SNS.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
+SNS is not a single culture. Different cultural zones coexist at the same time.
+These differences create misunderstandings and conflict.
+</p>
+
+<p style="margin:0.5em 0;">Main cultural zones:</p>
+<p style="margin:0.5em 0;">Quiet Zone</p>
+<p style="margin:0.5em 0;">Flame Zone</p>
+<p style="margin:0.5em 0;">Debate Zone</p>
+<p style="margin:0.5em 0;">Tech Zone</p>
+<p style="margin:0.5em 0;">Life Zone</p>
+<p style="margin:0.5em 0;">Creative Zone</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. Algorithms Do Not Understand Cultural Zones.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Algorithms only see numbers, such as:</p>
+<p style="margin:0.5em 0;">Reaction speed.</p>
+<p style="margin:0.5em 0;">Engagement.</p>
+<p style="margin:0.5em 0;">Spread.</p>
+
+<p style="margin:0.5em 0;">
+Because of this, a Quiet‑Zone post may be pushed into the Flame Zone,
+causing cultural misplacement and unexpected conflict.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. Platform Operators Stand Outside All Cultural Zones.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Operators prioritize:</p>
+<p style="margin:0.5em 0;">Terms of service.</p>
+<p style="margin:0.5em 0;">Legal compliance.</p>
+<p style="margin:0.5em 0;">Stable operation.</p>
+<p style="margin:0.5em 0;">Revenue.</p>
+<p style="margin:0.5em 0;">Safety standards.</p>
+
+<p style="margin:0.5em 0;">
+They do not recognize cultural clashes as “problems,”
+so many conflicts remain unresolved.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. The Flame Zone’s “Normal” Is the Quiet Zone’s “Disaster.”</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
+Values differ across zones. The same words can carry different meanings,
 making misunderstandings easy.
+</p>
 
+<p style="margin:0.5em 0;">Flame Zone’s “courtesy” = fast reactions.</p>
+<p style="margin:0.5em 0;">Quiet Zone’s “courtesy” = calm distance.</p>
 
-5. Correct Actions During Trouble
-Do not force yourself to fight
+<div style="height: 3em;"></div>
 
-Leave when you sense a different cultural zone
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. Correct Actions During Trouble.</p>
+<div style="height: 0.2em;"></div>
 
-Block/mute are safety tools
+<p style="margin:0.5em 0;">Do not force yourself to fight.</p>
+<p style="margin:0.5em 0;">Leave when you sense a different cultural zone.</p>
+<p style="margin:0.5em 0;">Block/mute are safety tools.</p>
+<p style="margin:0.5em 0;">Return to your own cultural zone.</p>
 
-Return to your own cultural zone
+<p style="margin:0.5em 0;">
+SNS is not about winning or losing — it is about cultural compatibility.
+</p>
 
-SNS is not about winning or losing.
-It is about cultural compatibility.
+<div style="height: 3em;"></div>
 
+<!-- Section 6 -->
+<p style="margin:0.5em 0;">6. The Core of the Pi‑Fid Theory™.</p>
+<div style="height: 0.2em;"></div>
 
-6. The Core of the PiFid Theory
+<p style="margin:0.5em 0;">
 SNS trouble occurs when:
-
-Cultural Zones × Algorithm × Platform Structure  
-overlap.
-
-This is not a personality issue.
-It is a structural issue.
-
-
-7. Why This Theory Is Necessary
-SNS multiplies misunderstandings
-
-Cultural differences mean no one is wrong
-
-Algorithms amplify conflict
-
-Operators do not see cultural problems
-
-The PiFid Theory helps people
-read SNS more clearly and protect themselves.
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<p style="margin:0.5em 0;">Cultural Zones × Algorithm × Platform Structure</p>
+
+<p style="margin:0.5em 0;">
+overlap. This is not a personality issue — it is a structural issue.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 7 -->
+<p style="margin:0.5em 0;">7. Why This Theory Is Necessary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">SNS multiplies misunderstandings.</p>
+<p style="margin:0.5em 0;">Cultural differences mean no one is wrong.</p>
+<p style="margin:0.5em 0;">Algorithms amplify conflict.</p>
+<p style="margin:0.5em 0;">Operators do not see cultural problems.</p>
+
+<p style="margin:0.5em 0;">
+The Pi‑Fid Theory™ helps people read SNS more clearly and protect themselves.
+</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
 
+<div class="content">
+<h1 class="jp heading">Pi‑Fid Theory™ — 教科書版（概要）</h1>
+<br><br><br>
 
-
-📘 PiFid理論・教科書版（サマリー）
-
-
-PiFid理論とは何か
-PiFid理論は、SNSで起こるトラブルを
-「文化圏 × アルゴリズム × プラットフォーム構造」  
+<p class="jp">
+Pi‑Fid Theory™ は、SNSで起こるトラブルを
+「文化圏 × アルゴリズム × プラットフォーム構造」
 の三層で説明する理論である。
-
-SNSの衝突は、性格の問題ではなく、
-構造的なズレ によって発生する。
-
-
-1. SNSには複数の「文化圏」が存在する
-SNSは一つの文化ではなく、
-異なる価値観を持つ文化圏が同時に存在している。
-
-主な文化圏：
-
-静か圏
-
-炎上圏
-
-議論圏
-
-技術圏
-
-生活圏
-
-創作圏
-
-文化圏の違いが、誤解や衝突を生む。
-
-
-2. アルゴリズムは文化圏を理解しない
-アルゴリズムは「数字」だけを見る。
-
-反応速度
-
-エンゲージメント
-
-拡散量
-
-そのため、
-静か圏の投稿が炎上圏に投げ込まれるなど、
-文化的に不適切な場所へ誤配属 が起きる。
-
-
-3. プラットフォーム運営は文化圏の外側にいる
-運営は文化圏の内部にいない。
-
-彼らの関心は：
-
-利用規約
-
-法律
-
-安定運用
-
-収益
-
-安全基準
-
-文化的な衝突は「問題」として認識されにくい。
-
-
-4. 炎上圏の“普通”は静か圏の“災害”
-文化圏によって価値観が異なる。
-
-炎上圏の「礼儀」＝反応の速さ
-
-静か圏の「礼儀」＝落ち着いた距離感
-
-同じ言葉でも意味が変わるため、
-誤解が生まれやすい。
-
-
-5. トラブル時の正しい行動
-無理に戦わない
-
-文化圏が違うと感じたら離れる
-
-ブロック・ミュートは安全行動
-
-自分の文化圏に戻る
-
-SNSは「勝ち負け」ではなく、
-文化的な相性 がすべて。
-
-
-6. PiFid理論の核心
-SNSのトラブルは、
-文化圏 × アルゴリズム × 運営構造  
-の三層が重なって起きる。
-
-これは性格の問題ではなく、
-構造の問題 である。
-
-
-7. なぜこの理論が必要なのか
-誤解が連鎖しやすい構造
-
-文化圏の違いで誰も悪くない
-
-アルゴリズムが衝突を増幅
-
-運営は文化的問題を認識しない
-
-SNSを「読める」ようにするために、
-この理論が必要となる。
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+SNSの衝突は性格の問題ではなく、構造的なズレによって発生する。
 </p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p class="jp">1. SNSには複数の「文化圏」が存在する</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+SNSは一つの文化ではなく、異なる価値観を持つ文化圏が同時に存在している。
+文化圏の違いが、誤解や衝突を生む。
+</p>
+
+<p class="jp">主な文化圏：</p>
+<p class="jp">静か圏</p>
+<p class="jp">炎上圏</p>
+<p class="jp">議論圏</p>
+<p class="jp">技術圏</p>
+<p class="jp">生活圏</p>
+<p class="jp">創作圏</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p class="jp">2. アルゴリズムは文化圏を理解しない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">アルゴリズムが見ているのは「数字」だけである。</p>
+
+<p class="jp">反応速度</p>
+<p class="jp">エンゲージメント</p>
+<p class="jp">拡散量</p>
+
+<p class="jp">
+そのため、静か圏の投稿が炎上圏に投げ込まれるなど、
+文化的に不適切な場所への誤配属が起きる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. プラットフォーム運営は文化圏の外側にいる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">運営の関心は：</p>
+
+<p class="jp">利用規約</p>
+<p class="jp">法律</p>
+<p class="jp">安定運用</p>
+<p class="jp">収益</p>
+<p class="jp">安全基準</p>
+
+<p class="jp">
+文化的な衝突は「問題」として認識されにくく、
+多くのトラブルは解決されないまま残る。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. 炎上圏の“普通”は静か圏の“災害”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+文化圏によって価値観が異なるため、
+同じ言葉でも意味が変わり、誤解が生まれやすい。
+</p>
+
+<p class="jp">炎上圏の「礼儀」＝反応の速さ</p>
+<p class="jp">静か圏の「礼儀」＝落ち着いた距離感</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. トラブル時の正しい行動</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">無理に戦わない。</p>
+<p class="jp">文化圏が違うと感じたら離れる。</p>
+<p class="jp">ブロック・ミュートは安全行動。</p>
+<p class="jp">自分の文化圏に戻る。</p>
+
+<p class="jp">
+SNSは「勝ち負け」ではなく、文化的な相性がすべてである。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 6 -->
+<p class="jp">6. Pi‑Fid Theory™ の核心</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+SNSのトラブルは、
+文化圏 × アルゴリズム × 運営構造
+の三層が重なって起きる。
+</p>
+
+<p class="jp">
+これは性格の問題ではなく、構造の問題である。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 7 -->
+<p class="jp">7. なぜこの理論が必要なのか</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">誤解が連鎖しやすい構造。</p>
+<p class="jp">文化圏の違いで誰も悪くない。</p>
+<p class="jp">アルゴリズムが衝突を増幅する。</p>
+<p class="jp">運営は文化的問題を認識しない。</p>
+
+<p class="jp">
+SNSを「読める」ようにするために、
+Pi‑Fid Theory™ が必要となる。
+</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
+
