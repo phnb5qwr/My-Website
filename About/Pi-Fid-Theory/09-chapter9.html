@@ -1,268 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 Chapter 9 — Moving Between Cultural Zones and Adapting (PiFid Theory, Chapter 9)
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
 
-
-Cultural zones on SNS are not fixed.
-People naturally move between them depending on their purpose, mood, or environment.
-
-Tech Zone at work
-
-Creative Zone in hobbies
-
-Life Zone in daily conversation
-
-Quiet Zone on SNS
-
-This shifting is normal.
-But algorithms can also forcefully move someone into a different cultural zone,
-creating stress and confusion.
-
-Understanding cultural movement helps reduce SNS fatigue.
-
-
-1. Voluntary Movement Between Cultural Zones
-People choose cultural zones based on what they want at the moment.
-
-Want calm → Quiet Zone
-
-Want to share art → Creative Zone
-
-Want information → Tech Zone
-
-Want connection → Life Zone
-
-Want discussion → Debate Zone
-
-A cultural zone is like a “place to sit.”
-Choosing the right seat makes SNS peaceful.
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
-2. Forced Movement Through Algorithmic Misplacement
-Sometimes the algorithm throws a user into a zone they never intended.
-
-Examples:
-
-Quiet Zone → Flame Zone
-
-Life Zone → Debate Zone
-
-Creative Zone → Tech Zone
-
-This is not the user’s fault.
-It is simply that the algorithm does not understand cultural compatibility.
-
-Forced movement is one of the biggest causes of SNS stress.
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
 
-3. When You Move Zones, the Meaning of Words Changes
-The same words can mean different things depending on the zone.
+}
 
-“Politeness” → Distance
-
-“Playful tone” → Attack
-
-“Counterargument” → Negation
-
-“Analysis” → Coldness
-
-Cultural movement requires translation,
-but SNS does not provide it automatically.
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-4. You Do Not Need to Adapt — You Can Return
-SNS often pressures people to adapt:
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 1.25em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-“Match the tone”
-
-“Respond quickly”
-
-“Argue back”
-
-“Explain yourself”
-
-But PiFid Theory says the opposite:
-
-You do not need to adapt to a harmful zone.
-You can simply return to your own.
-
-Quiet Zone users → return to quiet spaces
-
-Creative Zone users → return to expressive spaces
-
-Life Zone users → return to empathetic spaces
-
-Returning is not weakness.
-It is self‑protection.
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.5em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-5. Moving Zones Is Not a Failure
-Changing zones is not running away.
-It is not losing.
-It is not immaturity.
-
-It is simply:
-
-Choosing safety
-
-Choosing comfort
-
-Choosing compatibility
-
-SNS is wide.
-You are allowed to choose where you stand.
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
 
-6. Chapter 9 Summary
-Cultural zones shift depending on context
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
 
-Algorithms can force unwanted movement
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
 
-Word meanings change across zones
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
 
-You do not need to adapt to harmful zones
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
 
-Returning to your own zone is the safest choice
-
-PiFid Theory teaches that
-cultural movement is natural, and self‑protection is valid.
-
+a.button:hover {
+  background-color: #444;
+}
 
 
+/* footer */    
 
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+<h1 class="heading">Chapter 9 — Moving Between Cultural Zones and Adapting</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">Cultural zones on SNS are not fixed. People naturally move between them depending on their purpose, mood, or environment.</p>
+
+<p style="margin:0.5em 0;">Tech Zone at work.</p>
+<p style="margin:0.5em 0;">Creative Zone in hobbies.</p>
+<p style="margin:0.5em 0;">Life Zone in daily conversation.</p>
+<p style="margin:0.5em 0;">Quiet Zone on SNS.</p>
+
+<p style="margin:0.5em 0;">This shifting is normal. But algorithms can also forcefully move someone into a different cultural zone, creating stress and confusion.</p>
+
+<p style="margin:0.5em 0;">Understanding cultural movement helps reduce SNS fatigue.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">1. Voluntary Movement Between Cultural Zones.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">People choose cultural zones based on what they want at the moment.</p>
+
+<p style="margin:0.5em 0;">Want calm → Quiet Zone.</p>
+<p style="margin:0.5em 0;">Want to share art → Creative Zone.</p>
+<p style="margin:0.5em 0;">Want information → Tech Zone.</p>
+<p style="margin:0.5em 0;">Want connection → Life Zone.</p>
+<p style="margin:0.5em 0;">Want discussion → Debate Zone.</p>
+
+<p style="margin:0.5em 0;">A cultural zone is like a “place to sit.” Choosing the right seat makes SNS peaceful.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">2. Forced Movement Through Algorithmic Misplacement.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Sometimes the algorithm throws a user into a zone they never intended.</p>
+
+<p style="margin:0.5em 0;">Quiet Zone → Flame Zone.</p>
+<p style="margin:0.5em 0;">Life Zone → Debate Zone.</p>
+<p style="margin:0.5em 0;">Creative Zone → Tech Zone.</p>
+
+<p style="margin:0.5em 0;">This is not the user’s fault. It is simply that the algorithm does not understand cultural compatibility.</p>
+
+<p style="margin:0.5em 0;">Forced movement is one of the biggest causes of SNS stress.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">3. When You Move Zones, the Meaning of Words Changes.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">The same words can mean different things depending on the zone.</p>
+
+<p style="margin:0.5em 0;">“Politeness” → Distance.</p>
+<p style="margin:0.5em 0;">“Playful tone” → Attack.</p>
+<p style="margin:0.5em 0;">“Counterargument” → Negation.</p>
+<p style="margin:0.5em 0;">“Analysis” → Coldness.</p>
+
+<p style="margin:0.5em 0;">Cultural movement requires translation, but SNS does not provide it automatically.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">4. You Do Not Need to Adapt — You Can Return.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">SNS often pressures people to adapt:</p>
+
+<p style="margin:0.5em 0;">“Match the tone.”</p>
+<p style="margin:0.5em 0;">“Respond quickly.”</p>
+<p style="margin:0.5em 0;">“Argue back.”</p>
+<p style="margin:0.5em 0;">“Explain yourself.”</p>
+
+<p style="margin:0.5em 0;">But the Pi‑Fid Theory™ says the opposite:</p>
+
+<p style="margin:0.5em 0;">You do not need to adapt to a harmful zone. You can simply return to your own.</p>
+
+<p style="margin:0.5em 0;">Quiet Zone users → return to quiet spaces.</p>
+<p style="margin:0.5em 0;">Creative Zone users → return to expressive spaces.</p>
+<p style="margin:0.5em 0;">Life Zone users → return to empathetic spaces.</p>
+
+<p style="margin:0.5em 0;">Returning is not weakness. It is self‑protection.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">5. Moving Zones Is Not a Failure.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Changing zones is not running away. It is not losing. It is not immaturity.</p>
+
+<p style="margin:0.5em 0;">It is simply:</p>
+
+<p style="margin:0.5em 0;">Choosing safety.</p>
+<p style="margin:0.5em 0;">Choosing comfort.</p>
+<p style="margin:0.5em 0;">Choosing compatibility.</p>
+
+<p style="margin:0.5em 0;">SNS is wide. You are allowed to choose where you stand.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">6. Chapter 9 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Cultural zones shift depending on context.</p>
+<p style="margin:0.5em 0;">Algorithms can force unwanted movement.</p>
+<p style="margin:0.5em 0;">Word meanings change across zones.</p>
+<p style="margin:0.5em 0;">You do not need to adapt to harmful zones.</p>
+<p style="margin:0.5em 0;">Returning to your own zone is the safest choice.</p>
+
+<p style="margin:0.5em 0;">The Pi‑Fid Theory™ teaches that cultural movement is natural, and self‑protection is valid.</p>
+
+  <div style="height: 7em;"></div>
+  </div>
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
 </p>
 
+  <br> 
 
-
-
-
-
-
-
-📘 Chapter 9 — 文化圏の移動と適応（PiFid理論・第9章）
-SNSの文化圏は固定されたものではなく、
-人は状況や目的によって文化圏を移動する。
-
-仕事では技術圏
-
-趣味では創作圏
-
-日常では生活圏
-
-SNSでは静か圏
-
-こうした“文化圏の切り替え”は自然なこと。
-
-しかし、
-アルゴリズムの誤配属によって
-意図しない文化圏に放り込まれる こともある。
-
-PiFid理論では、
-文化圏の移動と適応を理解することで、
-SNSでのストレスを大幅に減らせると考える。
-
-1. 自発的な文化圏の移動
-人は自分の目的に合わせて文化圏を選ぶ。
-
-静かに過ごしたい → 静か圏
-
-作品を見てほしい → 創作圏
-
-情報交換したい → 技術圏
-
-誰かと話したい → 生活圏
-
-議論したい → 議論圏
-
-文化圏は“居場所”のようなもの。
-自分に合う場所を選ぶことで、SNSは穏やかになる。
-
-2. 誤配属による“強制移動”
-SNSでは、
-アルゴリズムが文化圏を理解しないため、
-意図しない文化圏に投げ込まれることがある。
-
-静か圏 → 炎上圏
-
-生活圏 → 議論圏
-
-創作圏 → 技術圏
-
-これが SNS疲れの大きな原因。
-
-強制移動は、
-本人の性格や行動とは関係なく起きる。
-
-3. 文化圏が変わると“言葉の意味”が変わる
-文化圏が変わると、
-同じ言葉でも意味が変わる。
-
-「丁寧」 → 距離
-
-「ノリ」 → 攻撃
-
-「反論」 → 否定
-
-「分析」 → 冷たい
-
-文化圏の移動は、
-言葉の翻訳が必要になる。
-
-4. 適応ではなく“戻る”という選択
-SNSでは、
-無理に適応する必要はない。
-
-炎上圏に合わせる
-
-議論圏に合わせる
-
-技術圏に合わせる
-
-こうした“無理な適応”は疲れを生む。
-
-PiFid理論では、
-自分の文化圏に戻ること を最優先とする。
-
-静か圏の人は静か圏へ
-
-創作圏の人は創作圏へ
-
-生活圏の人は生活圏へ
-
-戻るだけで、SNSは驚くほど穏やかになる。
-
-5. 文化圏の移動は“悪いこと”ではない
-文化圏を移動することは、
-逃げでも弱さでもなく、
-自分の安全と心の平和を守る行動。
-
-SNSは広い。
-文化圏も多い。
-
-だから、
-自分に合う場所を選ぶことが大切。
-
-6. 第9章のまとめ
-文化圏は固定ではなく、状況で変わる
-
-誤配属による強制移動がストレスを生む
-
-文化圏が変わると“言葉の意味”も変わる
-
-無理に適応する必要はない
-
-自分の文化圏に戻ることが最も安全
-
-PiFid理論の応用編として、
-文化圏の移動を理解することは、
-SNSで自分を守るための重要な視点。
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+  <a href="../about.html" class="button">Return to About</a>
+</div>
+
+
+
+  <div style="height: 33em;"></div>
+
+<h1 class="jp heading">第9章 — 文化圏の移動と適応</h1>
+<br><br><br>
+
+<p class="jp">SNSの文化圏は固定されたものではなく、人は状況や目的によって文化圏を移動します。</p>
+
+<p class="jp">仕事では技術圏。</p>
+<p class="jp">趣味では創作圏。</p>
+<p class="jp">日常では生活圏。</p>
+<p class="jp">SNSでは静か圏。</p>
+
+<p class="jp">こうした“文化圏の切り替え”は自然なことです。</p>
+
+<p class="jp">しかし、アルゴリズムの誤配属によって意図しない文化圏に放り込まれることもあります。</p>
+
+<p class="jp">Pi‑Fid Theory™ では、文化圏の移動と適応を理解することで、SNSでのストレスを大幅に減らせると考えます。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">1. 自発的な文化圏の移動</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">人は自分の目的に合わせて文化圏を選びます。</p>
+
+<p class="jp">静かに過ごしたい → 静か圏。</p>
+<p class="jp">作品を見てほしい → 創作圏。</p>
+<p class="jp">情報交換したい → 技術圏。</p>
+<p class="jp">誰かと話したい → 生活圏。</p>
+<p class="jp">議論したい → 議論圏。</p>
+
+<p class="jp">文化圏は“居場所”のようなものです。自分に合う場所を選ぶことで、SNSは穏やかになります。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">2. 誤配属による“強制移動”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSでは、アルゴリズムが文化圏を理解しないため、意図しない文化圏に投げ込まれることがあります。</p>
+
+<p class="jp">静か圏 → 炎上圏。</p>
+<p class="jp">生活圏 → 議論圏。</p>
+<p class="jp">創作圏 → 技術圏。</p>
+
+<p class="jp">これがSNS疲れの大きな原因です。</p>
+<p class="jp">強制移動は、本人の性格や行動とは関係なく起きます。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">3. 文化圏が変わると“言葉の意味”が変わる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文化圏が変わると、同じ言葉でも意味が変わります。</p>
+
+<p class="jp">「丁寧」 → 距離。</p>
+<p class="jp">「ノリ」 → 攻撃。</p>
+<p class="jp">「反論」 → 否定。</p>
+<p class="jp">「分析」 → 冷たい。</p>
+
+<p class="jp">文化圏の移動には“翻訳”が必要ですが、SNSはそれを自動で提供しません。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">4. 適応ではなく“戻る”という選択</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSでは、無理に適応する必要はありません。</p>
+
+<p class="jp">炎上圏に合わせる。</p>
+<p class="jp">議論圏に合わせる。</p>
+<p class="jp">技術圏に合わせる。</p>
+
+<p class="jp">こうした“無理な適応”は疲れを生みます。</p>
+
+<p class="jp">Pi‑Fid Theory™ では、自分の文化圏に戻ることを最優先とします。</p>
+
+<p class="jp">静か圏の人は静か圏へ。</p>
+<p class="jp">創作圏の人は創作圏へ。</p>
+<p class="jp">生活圏の人は生活圏へ。</p>
+
+<p class="jp">戻るだけで、SNSは驚くほど穏やかになります。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">5. 文化圏の移動は“悪いこと”ではない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文化圏を移動することは、逃げでも弱さでもなく、自分の安全と心の平和を守る行動です。</p>
+
+<p class="jp">SNSは広く、文化圏も多様です。</p>
+<p class="jp">だから、自分に合う場所を選ぶことが大切です。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">6. 第9章のまとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文化圏は固定ではなく、状況で変わる。</p>
+<p class="jp">誤配属による強制移動がストレスを生む。</p>
+<p class="jp">文化圏が変わると“言葉の意味”も変わる。</p>
+<p class="jp">無理に適応する必要はない。</p>
+<p class="jp">自分の文化圏に戻ることが最も安全。</p>
+
+<p class="jp">Pi‑Fid Theory™ の応用編として、文化圏の移動を理解することは、SNSで自分を守るための重要な視点です。</p>
+
+
+ <div style="height: 7em;"></div>
+  </div>
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+    <a href="../about.html" class="button">Return to About</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>

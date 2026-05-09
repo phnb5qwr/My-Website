@@ -1,266 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 Chapter 5 — Correct Actions During Trouble (PiFid Theory, Chapter 5)
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
 
-
-When cultural zones collide on SNS,
-many people believe they must either “fight” or “endure.”
-
-But in PiFid Theory,
-the safest and most rational action is not to fight at all.
-
-SNS is a place where cultural zones mix,
-algorithms misplace posts,
-and platform operators stand outside the cultural structure.
-
-Therefore,
-protecting yourself comes first.
-
-
-1. Do Not Force Yourself to Fight
-When cultural zones differ,
-no amount of politeness or explanation will translate correctly.
-
-Quiet‑Zone politeness looks like “distance” in the Flame Zone
-
-Flame‑Zone energy looks like “attack” in the Quiet Zone
-
-Debate‑Zone counterarguments look like “negation” in the Life Zone
-
-This is not about personality.
-It is simply different cultural rules.
-
-So there is no need to fight.
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
-2. If You Sense a Different Cultural Zone, Step Away
-On SNS,
-“leaving” is often the most rational and safest action.
-
-If you feel:
-
-Different values
-
-Misaligned tone
-
-Overly strong reactions
-
-Uncomfortable speed
-
-A vague sense of danger
-
-Then it is completely fine to step away.
-
-A cultural mismatch is no one’s fault.
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
 
-3. Block and Mute Are Not “Running Away” — They Are Safety Tools
-On SNS,
-blocking or muting is not avoidance.
-It is self‑protection.
+}
 
-Examples:
-
-Quiet‑Zone users distancing themselves from the Flame Zone
-
-Life‑Zone users stepping away from the Debate Zone
-
-Creative‑Zone users avoiding Tech‑Zone analysis
-
-No one needs to force themselves into a zone that harms them.
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-4. Return to Your Own Cultural Zone
-SNS is wide.
-There are many cultural zones.
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 1.25em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-The most important thing is to return to the place where you feel safe.
-
-Quiet Zone → calm people
-
-Creative Zone → people who enjoy expression
-
-Life Zone → people who value empathy
-
-Just returning to your own zone
-makes SNS dramatically more peaceful.
-
-
-5. It’s About Compatibility, Not Winning
-SNS trouble is not about winning or losing.
-It is about cultural compatibility.
-
-Wrong zone
-
-Algorithmic misplacement
-
-Platform structure
-
-These create conflict, not personality flaws.
-
-You do not need to win.
-You only need to return to your zone.
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.5em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-6. Chapter 5 Summary
-Do not force yourself to fight
-
-Leave mismatched cultural zones
-
-Block/mute are safety actions
-
-Return to your own cultural zone
-
-SNS trouble is about compatibility, not strength
-
-PiFid Theory teaches that
-protecting yourself is cultural adjustment, not escape.
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
 
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
 
 
+/* footer */    
 
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
 
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+<h1 class="heading">Chapter 5 — Correct Actions During Trouble</h1>
+<br><br><br>
 
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+<p style="margin:0.5em 0;">When cultural zones collide on SNS, many people believe they must either “fight” or “endure.”</p>
+<p style="margin:0.5em 0;">But in PiFid Theory™, the safest and most rational action is not to fight at all.</p>
+
+<p style="margin:0.5em 0;">SNS is a place where cultural zones mix, algorithms misplace posts, and platform operators stand outside the cultural structure.</p>
+<p style="margin:0.5em 0;">Therefore, protecting yourself comes first.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">1. Do Not Force Yourself to Fight.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">When cultural zones differ, no amount of politeness or explanation will translate correctly.</p>
+
+<p style="margin:0.5em 0;">Quiet‑Zone politeness looks like “distance” in the Flame Zone.</p>
+<p style="margin:0.5em 0;">Flame‑Zone energy looks like “attack” in the Quiet Zone.</p>
+<p style="margin:0.5em 0;">Debate‑Zone counterarguments look like “negation” in the Life Zone.</p>
+
+<p style="margin:0.5em 0;">This is not about personality. It is simply different cultural rules.</p>
+<p style="margin:0.5em 0;">So there is no need to fight.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">2. If You Sense a Different Cultural Zone, Step Away.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">On SNS, “leaving” is often the most rational and safest action.</p>
+
+<p style="margin:0.5em 0;">If you feel:</p>
+
+<p style="margin:0.5em 0;">Different values.</p>
+<p style="margin:0.5em 0;">Misaligned tone.</p>
+<p style="margin:0.5em 0;">Overly strong reactions.</p>
+<p style="margin:0.5em 0;">Uncomfortable speed.</p>
+<p style="margin:0.5em 0;">A vague sense of danger.</p>
+
+<p style="margin:0.5em 0;">Then it is completely fine to step away.</p>
+<p style="margin:0.5em 0;">A cultural mismatch is no one’s fault.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">3. Block and Mute Are Not “Running Away” — They Are Safety Tools.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">On SNS, blocking or muting is not avoidance. It is self‑protection.</p>
+
+<p style="margin:0.5em 0;">Examples:</p>
+
+<p style="margin:0.5em 0;">Quiet‑Zone users distancing themselves from the Flame Zone.</p>
+<p style="margin:0.5em 0;">Life‑Zone users stepping away from the Debate Zone.</p>
+<p style="margin:0.5em 0;">Creative‑Zone users avoiding Tech‑Zone analysis.</p>
+
+<p style="margin:0.5em 0;">No one needs to force themselves into a zone that harms them.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">4. Return to Your Own Cultural Zone.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">SNS is wide. There are many cultural zones.</p>
+<p style="margin:0.5em 0;">The most important thing is to return to the place where you feel safe.</p>
+
+<p style="margin:0.5em 0;">Quiet Zone → calm people.</p>
+<p style="margin:0.5em 0;">Creative Zone → people who enjoy expression.</p>
+<p style="margin:0.5em 0;">Life Zone → people who value empathy.</p>
+
+<p style="margin:0.5em 0;">Just returning to your own zone makes SNS dramatically more peaceful.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">5. It’s About Compatibility, Not Winning.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">SNS trouble is not about winning or losing. It is about cultural compatibility.</p>
+
+<p style="margin:0.5em 0;">Wrong zone.</p>
+<p style="margin:0.5em 0;">Algorithmic misplacement.</p>
+<p style="margin:0.5em 0;">Platform structure.</p>
+
+<p style="margin:0.5em 0;">These create conflict, not personality flaws.</p>
+
+<p style="margin:0.5em 0;">You do not need to win. You only need to return to your zone.</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.5em 0;">6. Chapter 5 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Do not force yourself to fight.</p>
+<p style="margin:0.5em 0;">Leave mismatched cultural zones.</p>
+<p style="margin:0.5em 0;">Block/mute are safety actions.</p>
+<p style="margin:0.5em 0;">Return to your own cultural zone.</p>
+<p style="margin:0.5em 0;">SNS trouble is about compatibility, not strength.</p>
+
+<p style="margin:0.5em 0;">PiFid Theory™ teaches that protecting yourself is cultural adjustment, not escape.</p>
+
+  <div style="height: 7em;"></div>
+  </div>
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
 </p>
 
+  <br> 
 
-
-
-
-
-
-📘 Chapter 5 — トラブル時の正しい行動（PiFid理論・第5章）
-
-
-SNSで文化圏の衝突が起きたとき、
-多くの人は「戦うか」「我慢するか」の二択だと思い込む。
-
-しかし PiFid 理論では、
-“戦わないこと” が最も合理的で安全な行動 として位置づけられる。
-
-SNSは現実世界とは違い、
-文化圏が混ざり、アルゴリズムが誤配属を起こし、
-運営は文化圏の外側にいる。
-
-だからこそ、
-自分を守る行動が最優先 になる。
-
-
-1. 無理に戦わない
-文化圏が違う相手とは、
-どれだけ丁寧に説明しても、
-どれだけ誠実に向き合っても、
-価値観が翻訳されない。
-
-静か圏の丁寧さは、炎上圏には「距離」に見える
-
-炎上圏のノリは、静か圏には「攻撃」に見える
-
-議論圏の反論は、生活圏には「否定」に見える
-
-これは性格の問題ではなく、
-文化圏のルールが違うだけ。
-
-だから、
-戦う必要はない。
-
-
-2. 違う文化圏だと感じたら離れる
-SNSでは、
-「合わない相手から離れる」ことが
-最も合理的で、最も安全な行動。
-
-価値観が違う
-
-会話が噛み合わない
-
-反応が強すぎる
-
-ノリが合わない
-
-なんとなく不安
-
-こう感じたら、
-離れていい。
-
-文化圏が違うだけで、
-誰も悪くない。
-
-
-3. ブロック・ミュートは“逃げ”ではなく“安全行動”
-SNSでは、
-ブロックやミュートは「逃げ」ではなく、
-自分の文化圏を守るための安全行動。
-
-静か圏の人が炎上圏から距離を取る
-
-生活圏の人が議論圏から離れる
-
-創作圏の人が技術圏の分析から距離を置く
-
-これは自然なこと。
-
-文化圏が違う相手と無理に関わる必要はない。
-
-
-4. 自分の文化圏に戻る
-SNSは広い。
-文化圏も多い。
-
-だから、
-自分が安心できる場所に戻ることが最優先。
-
-静か圏なら、静かな人たちの中へ
-
-創作圏なら、作品を楽しむ人たちの中へ
-
-生活圏なら、共感を大切にする人たちの中へ
-
-文化圏が合う場所に戻るだけで、
-SNSは驚くほど穏やかになる。
-
-
-5. “勝ち負け”ではなく“相性”で決まる
-SNSのトラブルは、
-勝ち負けではなく、
-文化圏の相性 で決まる。
-
-合わない文化圏に巻き込まれた
-
-アルゴリズムが誤配属した
-
-運営は文化圏の外側にいる
-
-だから、
-戦う必要はない。
-
-ただ、
-自分の文化圏に戻ればいい。
-
-
-6. 第5章のまとめ
-無理に戦わない
-
-合わない文化圏からは離れる
-
-ブロック・ミュートは安全行動
-
-自分の文化圏に戻ることが最優先
-
-SNSのトラブルは“相性”で決まる
-
-PiFid理論の実践部分は、
-「自分を守ることは、逃げではなく文化圏の調整」  
-という考え方に基づいている。
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+  <a href="../about.html" class="button">Return to About</a>
+</div>
+
+
+
+  <div style="height: 33em;"></div>
+
+<h1 class="jp heading">第5章 — トラブル時の正しい行動</h1>
+<br><br><br>
+
+<p class="jp">SNSで文化圏の衝突が起きたとき、多くの人は「戦うか」「我慢するか」の二択だと思い込みます。</p>
+<p class="jp">しかし PiFid 理論では、“戦わないこと” が最も合理的で安全な行動として位置づけられます。</p>
+
+<p class="jp">SNSは現実世界とは違い、文化圏が混ざり、アルゴリズムが誤配属を起こし、運営は文化圏の外側にいます。</p>
+<p class="jp">だからこそ、自分を守る行動が最優先になります。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">1. 無理に戦わない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文化圏が違う相手とは、どれだけ丁寧に説明しても、どれだけ誠実に向き合っても、価値観が翻訳されません。</p>
+
+<p class="jp">静か圏の丁寧さは、炎上圏には「距離」に見えます。</p>
+<p class="jp">炎上圏のノリは、静か圏には「攻撃」に見えます。</p>
+<p class="jp">議論圏の反論は、生活圏には「否定」に見えます。</p>
+
+<p class="jp">これは性格の問題ではなく、文化圏のルールが違うだけです。</p>
+<p class="jp">だから、戦う必要はありません。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">2. 違う文化圏だと感じたら離れる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSでは、「合わない相手から離れる」ことが最も合理的で、最も安全な行動です。</p>
+
+<p class="jp">価値観が違う。</p>
+<p class="jp">会話が噛み合わない。</p>
+<p class="jp">反応が強すぎる。</p>
+<p class="jp">ノリが合わない。</p>
+<p class="jp">なんとなく不安。</p>
+
+<p class="jp">こう感じたら、離れていいのです。</p>
+<p class="jp">文化圏が違うだけで、誰も悪くありません。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">3. ブロック・ミュートは“逃げ”ではなく“安全行動”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSでは、ブロックやミュートは「逃げ」ではなく、自分の文化圏を守るための安全行動です。</p>
+
+<p class="jp">静か圏の人が炎上圏から距離を取る。</p>
+<p class="jp">生活圏の人が議論圏から離れる。</p>
+<p class="jp">創作圏の人が技術圏の分析から距離を置く。</p>
+
+<p class="jp">これは自然なことです。</p>
+<p class="jp">文化圏が違う相手と無理に関わる必要はありません。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">4. 自分の文化圏に戻る</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSは広く、文化圏も多様です。</p>
+<p class="jp">だから、自分が安心できる場所に戻ることが最優先です。</p>
+
+<p class="jp">静か圏なら、静かな人たちの中へ。</p>
+<p class="jp">創作圏なら、作品を楽しむ人たちの中へ。</p>
+<p class="jp">生活圏なら、共感を大切にする人たちの中へ。</p>
+
+<p class="jp">文化圏が合う場所に戻るだけで、SNSは驚くほど穏やかになります。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">5. “勝ち負け”ではなく“相性”で決まる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSのトラブルは、勝ち負けではなく、文化圏の相性で決まります。</p>
+
+<p class="jp">合わない文化圏に巻き込まれた。</p>
+<p class="jp">アルゴリズムが誤配属した。</p>
+<p class="jp">運営は文化圏の外側にいる。</p>
+
+<p class="jp">だから、戦う必要はありません。</p>
+<p class="jp">ただ、自分の文化圏に戻ればいいのです。</p>
+
+<br><br>
+<div style="height: 2em;"></div>
+
+<p class="jp">6. 第5章のまとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">無理に戦わない。</p>
+<p class="jp">合わない文化圏からは離れる。</p>
+<p class="jp">ブロック・ミュートは安全行動。</p>
+<p class="jp">自分の文化圏に戻ることが最優先。</p>
+<p class="jp">SNSのトラブルは“相性”で決まる。</p>
+
+<p class="jp">PiFid Theory™の実践部分は、「自分を守ることは、逃げではなく文化圏の調整」という考え方に基づいています。</p>
+
+ <div style="height: 7em;"></div>
+  </div>
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+    <a href="../about.html" class="button">Return to About</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
