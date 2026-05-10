@@ -1,227 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
+
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
-Chapter 4 — Platform Operators Stand Outside All Cultural Zones (English Version)
+}
+
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-1. Operators Focus on Rules, Not Cultural Differences
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-Platform operators manage:
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
-Safety
 
-System stability
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
-Legal compliance
 
-Rule enforcement
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
 
-They do not judge cultural misunderstandings.
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+
+<h1 class="heading">Chapter 4 — Platform Operators Stand Outside All Cultural Zones</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+Platform operators focus on structural responsibilities, not cultural differences.  
+Pi‑Fid Theory™ explains that operators stand outside all cultural zones,  
+which is why many cultural conflicts remain unresolved.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. Operators Focus on Rules, Not Cultural Differences.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Platform operators manage:</p>
+
+<p style="margin:0.5em 0;">Safety</p>
+<p style="margin:0.5em 0;">System stability</p>
+<p style="margin:0.5em 0;">Legal compliance</p>
+<p style="margin:0.5em 0;">Rule enforcement</p>
+
+<p style="margin:0.5em 0;">
+They do not judge cultural misunderstandings.  
 Their role is structural, not cultural.
+</p>
 
+<div style="height: 3em;"></div>
 
-2. Operators Cannot Take Sides in Cultural Conflicts
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. Operators Cannot Take Sides in Cultural Conflicts.</p>
+<div style="height: 0.2em;"></div>
 
-When two cultural zones clash,
-operators cannot say which side is “correct.”
+<p style="margin:0.5em 0;">
+When two cultural zones clash,  
+operators cannot decide which side is “correct.”
+</p>
 
-For example:
+<p style="margin:0.5em 0;">Quiet Zone vs. Flame Zone</p>
+<p style="margin:0.5em 0;">Debate Zone vs. Life Zone</p>
+<p style="margin:0.5em 0;">Creative Zone vs. Tech Zone</p>
 
-Quiet Zone vs. Flame Zone
+<p style="margin:0.5em 0;">
+These are differences in values,  
+not violations of rules.  
+Therefore, operators remain neutral.
+</p>
 
-Debate Zone vs. Life Zone
+<div style="height: 3em;"></div>
 
-Creative Zone vs. Tech Zone
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. Many Problems Are “Unresolved” Because They Are Not Rule Violations.</p>
+<div style="height: 0.2em;"></div>
 
-These are differences in values,
-not violations of rules.
-
-So operators remain neutral.
-
-
-3. Many Problems Are “Unresolved” Because They Are Not Rule Violations
-
+<p style="margin:0.5em 0;">
 People often feel:
+</p>
 
-“Why didn’t the platform help me?”
+<p style="margin:0.5em 0;">“Why didn’t the platform help me?”</p>
+<p style="margin:0.5em 0;">“Why wasn’t this fixed?”</p>
+<p style="margin:0.5em 0;">“Why did they ignore the situation?”</p>
 
-“Why wasn’t this fixed?”
-
-“Why did they ignore the situation?”
-
-But most cultural conflicts do not break any rules.
-They are misunderstandings, not misconduct.
-
+<p style="margin:0.5em 0;">
+But most cultural conflicts do not break any rules.  
+They are misunderstandings, not misconduct.  
 Therefore, operators cannot intervene.
+</p>
 
+<div style="height: 3em;"></div>
 
-4. Operators See SNS From a Bird’s‑Eye View
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. Operators See SNS From a Bird’s‑Eye View.</p>
+<div style="height: 0.2em;"></div>
 
-Operators look at SNS as a whole:
+<p style="margin:0.5em 0;">
+Operators observe SNS from a structural perspective, focusing on:
+</p>
 
-Traffic
+<p style="margin:0.5em 0;">Traffic</p>
+<p style="margin:0.5em 0;">Safety metrics</p>
+<p style="margin:0.5em 0;">System load</p>
+<p style="margin:0.5em 0;">Policy compliance</p>
 
-Safety metrics
-
-System load
-
-Policy compliance
-
-They do not see the emotional details of each cultural zone.
+<p style="margin:0.5em 0;">
+They do not see the emotional details of each cultural zone.  
 This distance creates a gap between users and operators.
+</p>
 
+<div style="height: 3em;"></div>
 
-5. Understanding the Operator’s Position Reduces Frustration
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. Understanding the Operator’s Position Reduces Frustration.</p>
+<div style="height: 0.2em;"></div>
 
-When you understand that operators stand outside all zones,
+<p style="margin:0.5em 0;">
+When you understand that operators stand outside all zones,  
 you stop expecting them to solve cultural problems.
+</p>
 
-You begin to see:
+<p style="margin:0.5em 0;">You begin to see:</p>
 
-“This wasn’t something the platform could fix.”
+<p style="margin:0.5em 0;">“This wasn’t something the platform could fix.”</p>
+<p style="margin:0.5em 0;">“This was a cultural mismatch, not a rule issue.”</p>
+<p style="margin:0.5em 0;">“The operator’s role is different from the user’s expectations.”</p>
 
-“This was a cultural mismatch, not a rule issue.”
-
-“The operator’s role is different from the user’s expectations.”
-
+<p style="margin:0.5em 0;">
 This perspective helps you navigate SNS more calmly.
-
-
-
-Chapter 4 Summary
-
-Operators focus on rules and safety, not culture
-
-They cannot take sides in cultural conflicts
-
-Many issues remain unresolved because they are not rule violations
-
-Operators view SNS from a structural, distant perspective
-
-Understanding this reduces frustration and confusion
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p style="margin:0.5em 0;">Chapter 4 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Operators focus on rules and safety, not culture.</p>
+<p style="margin:0.5em 0;">They cannot take sides in cultural conflicts.</p>
+<p style="margin:0.5em 0;">Many issues remain unresolved because they are not rule violations.</p>
+<p style="margin:0.5em 0;">Operators view SNS from a structural, distant perspective.</p>
+<p style="margin:0.5em 0;">Understanding this reduces frustration and confusion.</p>
+
+<div style="height: 7em;"></div>
+
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
 
+<div class="content">
+<h1 class="jp heading">第4章 — プラットフォーム運営はすべての文化圏の“外側”にいる</h1>
+<br><br><br>
 
+<p class="jp">
+プラットフォーム運営が重視しているのは“文化”ではなく“構造”。  
+Pi‑Fid Theory™ では、運営はすべての文化圏の外側に立ち、  
+文化的な衝突には介入できない立場にあると説明する。
+</p>
 
-📘 PiFid理論・教科書版
+<div style="height: 3em;"></div>
 
+<!-- Section 1 -->
+<p class="jp">1. 運営が重視しているのは“文化”ではなく“規則”である</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">プラットフォーム運営が管理しているのは：</p>
 
-第4章 — プラットフォーム運営はすべての文化圏の“外側”にいる（日本語版）
+<p class="jp">安全性</p>
+<p class="jp">システムの安定</p>
+<p class="jp">法律遵守</p>
+<p class="jp">規約違反の取り締まり</p>
 
-
-1. 運営が重視しているのは“文化”ではなく“規則”である
-
-プラットフォーム運営が管理しているのは、
-
-安全性
-
-システムの安定
-
-法律遵守
-
-規約違反の取り締まり
-
-といった“構造的な部分”。
-
-文化的な誤解や価値観の違いは判断しない。
+<p class="jp">
+といった“構造的な部分”である。  
+文化的な誤解や価値観の違いは判断しない。  
 運営の役割は文化ではなく、ルールにある。
-
-
-2. 文化圏同士の衝突に、運営は“どちらが正しい”とは言えない
-
-たとえば、
-
-静か圏 vs 炎上圏
-
-議論圏 vs 生活圏
-
-創作圏 vs 技術圏
-
-こうした衝突は、
-価値観の違いであって、規約違反ではない。
-
-だから運営は どちらの味方にもつけない。
-
-
-3. 多くの問題が“解決されないまま”なのは、規約違反ではないから
-
-ユーザーはよくこう感じる。
-
-「なんで運営は助けてくれないの？」
-
-「どうして放置されるの？」
-
-「なぜ対応してくれないの？」
-
-でも、文化的な衝突のほとんどは
-規約違反ではなく“誤解”。
-
-だから運営は介入できない。
-
-
-4. 運営はSNS全体を“俯瞰”して見ている
-
-運営が見ているのはSNS全体の動き。
-
-トラフィック
-
-安全指標
-
-システム負荷
-
-ポリシー遵守
-
-個々の文化圏の感情的なやり取りまでは見ていない。
-この“距離感”が、ユーザーとのギャップを生む。
-
-
-5. 運営の立場を理解すると、期待しすぎなくなる
-
-運営が文化圏の外側にいると理解すると、
-「運営が文化の問題を解決してくれるはず」という期待が薄れる。
-
-そしてこう思えるようになる。
-
-「これは運営が解決できる問題じゃなかった」
-
-「これは文化圏のズレであって、ルールの問題ではない」
-
-「運営の役割は私の期待とは違う場所にある」
-
-この視点があると、SNSをより静かに使える。
-
-
-
-第4章まとめ
-
-運営は文化ではなくルールと安全を重視する
-
-文化圏の衝突に“正しい側”は存在しない
-
-多くの問題が解決されないのは規約違反ではないから
-
-運営はSNS全体を俯瞰して見ている
-
-立場を理解すると、混乱や期待のズレが減る
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p class="jp">2. 文化圏同士の衝突に、運営は“どちらが正しい”とは言えない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+たとえば：
+</p>
+
+<p class="jp">静か圏 vs 炎上圏</p>
+<p class="jp">議論圏 vs 生活圏</p>
+<p class="jp">創作圏 vs 技術圏</p>
+
+<p class="jp">
+こうした衝突は価値観の違いであって、規約違反ではない。  
+だから運営はどちらの味方にもつけない。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. 多くの問題が“解決されないまま”なのは、規約違反ではないから</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">ユーザーはよくこう感じる。</p>
+
+<p class="jp">「なんで運営は助けてくれないの？」</p>
+<p class="jp">「どうして放置されるの？」</p>
+<p class="jp">「なぜ対応してくれないの？」</p>
+
+<p class="jp">
+しかし文化的な衝突のほとんどは規約違反ではなく“誤解”。  
+だから運営は介入できない。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. 運営はSNS全体を“俯瞰”して見ている</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">運営が見ているのはSNS全体の動き。</p>
+
+<p class="jp">トラフィック</p>
+<p class="jp">安全指標</p>
+<p class="jp">システム負荷</p>
+<p class="jp">ポリシー遵守</p>
+
+<p class="jp">
+個々の文化圏の感情的なやり取りまでは見ていない。  
+この“距離感”が、ユーザーとのギャップを生む。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. 運営の立場を理解すると、期待しすぎなくなる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+運営が文化圏の外側にいると理解すると、  
+「運営が文化の問題を解決してくれるはず」という期待が薄れる。
+</p>
+
+<p class="jp">「これは運営が解決できる問題じゃなかった」</p>
+<p class="jp">「これは文化圏のズレであって、ルールの問題ではない」</p>
+<p class="jp">「運営の役割は私の期待とは違う場所にある」</p>
+
+<p class="jp">
+この視点があると、SNSをより静かに使える。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p class="jp">第4章まとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">運営は文化ではなくルールと安全を重視する。</p>
+<p class="jp">文化圏の衝突に“正しい側”は存在しない。</p>
+<p class="jp">多くの問題が解決されないのは規約違反ではないから。</p>
+<p class="jp">運営はSNS全体を俯瞰して見ている。</p>
+<p class="jp">立場を理解すると、混乱や期待のズレが減る。</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
+

@@ -1,271 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
+
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
-Chapter 5 — Why People Feel “It’s My Fault” on SNS (English Version)
+}
+
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-1. Structural Problems Feel Personal Because They Happen Inside the Mind
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-Conflicts on SNS are caused by:
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
-Cultural mismatches
 
-Algorithmic misplacement
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
-Operator neutrality
 
-But people experience these events internally,
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+
+<h1 class="heading">Chapter 5 — Why People Feel “It’s My Fault” on SNS</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+SNS conflicts are structural, but people experience them internally.  
+Pi‑Fid Theory™ explains why structural issues feel personal  
+and why users often blame themselves even when they did nothing wrong.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. Structural Problems Feel Personal Because They Happen Inside the Mind.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Conflicts on SNS are caused by:</p>
+
+<p style="margin:0.5em 0;">Cultural mismatches</p>
+<p style="margin:0.5em 0;">Algorithmic misplacement</p>
+<p style="margin:0.5em 0;">Operator neutrality</p>
+
+<p style="margin:0.5em 0;">
+But people experience these events internally,  
 so they feel personal even when they are not.
+</p>
 
+<div style="height: 3em;"></div>
 
-2. SNS Removes Context, Making Misunderstandings Look Like Personal Attacks
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. SNS Removes Context, Making Misunderstandings Look Like Personal Attacks.</p>
+<div style="height: 0.2em;"></div>
 
-SNS lacks:
+<p style="margin:0.5em 0;">SNS lacks:</p>
 
-Tone
+<p style="margin:0.5em 0;">Tone</p>
+<p style="margin:0.5em 0;">Facial expressions</p>
+<p style="margin:0.5em 0;">Timing</p>
+<p style="margin:0.5em 0;">Shared background</p>
 
-Facial expressions
-
-Timing
-
-Shared background
-
-Without these, even neutral messages can feel sharp.
+<p style="margin:0.5em 0;">
+Without these, even neutral messages can feel sharp.  
 This makes structural issues appear as personal criticism.
+</p>
 
+<div style="height: 3em;"></div>
 
-3. Cultural Zones Interpret the Same Words Differently
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. Cultural Zones Interpret the Same Words Differently.</p>
+<div style="height: 0.2em;"></div>
 
-A phrase that is normal in one zone
+<p style="margin:0.5em 0;">
+A phrase that is normal in one zone  
 may feel aggressive or insensitive in another.
+</p>
 
-Examples:
+<p style="margin:0.5em 0;">Examples:</p>
 
-“Why?”
-→ Debate Zone: a normal question
-→ Quiet Zone: pressure
-→ Flame Zone: challenge
+<p style="margin:0.5em 0;">“Why?”</p>
+<p style="margin:0.5em 0;">→ Debate Zone: a normal question</p>
+<p style="margin:0.5em 0;">→ Quiet Zone: pressure</p>
+<p style="margin:0.5em 0;">→ Flame Zone: challenge</p>
 
+<p style="margin:0.5em 0;">
 People often blame themselves, thinking:
+</p>
 
-“Was it my fault…?”
+<p style="margin:0.5em 0;">“Was it my fault…?”</p>
+<p style="margin:0.5em 0;">“Was my wording strange?”</p>
+<p style="margin:0.5em 0;">“Should I have been more careful?”</p>
 
-“Was my wording strange?”
-
-“Should I have been more careful?”
-
-But the real cause is cultural interpretation,
+<p style="margin:0.5em 0;">
+But the real cause is cultural interpretation,  
 not personal failure.
+</p>
 
+<div style="height: 3em;"></div>
 
-4. Algorithms Amplify Extreme Reactions, Not Balanced Ones
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. Algorithms Amplify Extreme Reactions, Not Balanced Ones.</p>
+<div style="height: 0.2em;"></div>
 
-Calm responses spread slowly.
+<p style="margin:0.5em 0;">
+Calm responses spread slowly.  
 Strong reactions spread quickly.
+</p>
 
-Because of this:
+<p style="margin:0.5em 0;">Because of this:</p>
 
-Negative comments appear more visible
+<p style="margin:0.5em 0;">Negative comments appear more visible</p>
+<p style="margin:0.5em 0;">Balanced voices are buried</p>
+<p style="margin:0.5em 0;">Emotional reactions dominate the feed</p>
 
-Balanced voices are buried
-
-Emotional reactions dominate the feed
-
-This creates the illusion that
-“everyone is angry,”
+<p style="margin:0.5em 0;">
+This creates the illusion that “everyone is angry,”  
 even when it is only one cultural zone.
+</p>
 
+<div style="height: 3em;"></div>
 
-5. People Assume They Caused the Reaction, Even When They Didn’t
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. People Assume They Caused the Reaction, Even When They Didn’t.</p>
+<div style="height: 0.2em;"></div>
 
-When unexpected reactions appear, people think they caused them.
+<p style="margin:0.5em 0;">
+When unexpected reactions appear, people think they caused them.  
 But in many cases, the reaction came from a different cultural zone  
 that was never the intended audience.
+</p>
 
-It was not a personal mistake—
+<p style="margin:0.5em 0;">
+It was not a personal mistake—  
 it was a structural mismatch.
+</p>
 
+<div style="height: 3em;"></div>
 
-6. Understanding the Structure Helps Protect Your Inner Space
+<!-- Section 6 -->
+<p style="margin:0.5em 0;">6. Understanding the Structure Helps Protect Your Inner Space.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 Once you see the structure, you can say:
+</p>
 
-“This wasn’t about me.”
+<p style="margin:0.5em 0;">“This wasn’t about me.”</p>
+<p style="margin:0.5em 0;">“This was a cultural mismatch.”</p>
+<p style="margin:0.5em 0;">“The algorithm moved my post.”</p>
+<p style="margin:0.5em 0;">“The operator couldn’t intervene.”</p>
 
-“This was a cultural mismatch.”
-
-“The algorithm moved my post.”
-
-“The operator couldn’t intervene.”
-
-This understanding reduces unnecessary self‑blame
+<p style="margin:0.5em 0;">
+This understanding reduces unnecessary self‑blame  
 and restores emotional calm.
-
-
-
-Chapter 5 Summary
-
-Structural issues feel personal because they happen internally
-
-Missing context makes misunderstandings look like attacks
-
-Cultural zones interpret the same words differently
-
-Algorithms amplify extreme reactions
-
-People blame themselves for reactions caused by structural mismatches
-
-Understanding the structure protects emotional well‑being
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p style="margin:0.5em 0;">Chapter 5 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Structural issues feel personal because they happen internally.</p>
+<p style="margin:0.5em 0;">Missing context makes misunderstandings look like attacks.</p>
+<p style="margin:0.5em 0;">Cultural zones interpret the same words differently.</p>
+<p style="margin:0.5em 0;">Algorithms amplify extreme reactions.</p>
+<p style="margin:0.5em 0;">People blame themselves for structural mismatches.</p>
+<p style="margin:0.5em 0;">Understanding the structure protects emotional well‑being.</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
 
+<div class="content">
+<h1 class="jp heading">第5章 — なぜ人はSNSで「自分のせいだ」と感じてしまうのか</h1>
+<br><br><br>
 
+<p class="jp">
+SNSで起きる多くの衝突は“構造”が原因である。  
+しかし、人はそれを心の中で受け止めるため、  
+構造の問題が“個人的な失敗”のように感じられてしまう。  
+Pi‑Fid Theory™ は、この心理的な錯覚の仕組みを説明する。
+</p>
 
-📘 PiFid理論・教科書版
+<div style="height: 3em;"></div>
 
+<!-- Section 1 -->
+<p class="jp">1. 構造の問題なのに、心の中で“個人的なこと”として起きる</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">SNSのトラブルは、次のような構造が原因である。</p>
 
-第5章 — なぜ人はSNSで「自分のせいだ」と感じてしまうのか（日本語版）
+<p class="jp">文化圏のズレ</p>
+<p class="jp">アルゴリズムの誤配属</p>
+<p class="jp">運営の中立性</p>
 
-
-1. 構造の問題なのに、心の中で“個人的なこと”として起きる
-
-SNSのトラブルは、
-
-文化圏のズレ
-
-アルゴリズムの誤配属
-
-運営の中立性
-
-といった“構造”が原因。
-
-でも、出来事はすべて 自分の心の中で起きる ため、
+<p class="jp">
+しかし出来事はすべて“自分の心の中”で起きるため、  
 個人的な問題のように感じてしまう。
-
-
-2. SNSには文脈がないため、誤解が“攻撃”に見える
-
-SNSには、
-
-声のトーン
-
-表情
-
-間
-
-共有された背景
-
-が存在しない。
-
-そのため、ただの中立的な言葉でも鋭く感じられ、
-構造的な問題が“個人への批判”に見えてしまう。
-
-
-3. 文化圏が違うと、同じ言葉でも意味が変わる
-
-ある文化圏では普通の言葉が、
-別の文化圏では攻撃や圧力に感じられる。
-
-例：
-
-「Why?（なんで？）」
-→ 議論圏：普通の質問
-→ 静か圏：圧力
-→ 炎上圏：挑発
-
-その結果、人はこう思ってしまう。
-
-「Was it my fault…?」
-
-「Was my wording strange?」
-
-「Should I have been more careful?」
-
-でも本当の原因は、
-文化的な解釈の違い であって、個人の失敗ではない。
-
-
-4. アルゴリズムは“極端な反応”を増幅する
-
-落ち着いた反応は広がりにくい。
-強い反応は一気に広がる。
-
-そのため、
-
-ネガティブなコメントが目立つ
-
-バランスの取れた声が埋もれる
-
-感情的な反応がタイムラインを支配する
-
-結果として、
-「みんな怒ってる」ように見えるが、
-実際は 一部の文化圏だけ のことも多い。
-
-
-5. 人は“自分が原因だ”と思い込みやすい
-
-予想外の反応が来ると、人は自分を責めてしまう。
-
-でも多くの場合、
-その反応は 別の文化圏 から来たもので、
-あなたに向けられたものではない。
-
-それは個人のミスではなく、
-構造のズレ。
-
-
-6. 構造を理解すると、心のスペースが守られる
-
-構造が見えるようになると、こう言えるようになる。
-
-「これは私の問題じゃない」
-
-「文化圏のズレだったんだ」
-
-「アルゴリズムが運んだだけ」
-
-「運営が介入できる問題じゃなかった」
-
-この理解が、
-不必要な自己否定を減らし、心を静かに保ってくれる。
-
-
-
-第5章まとめ
-
-構造の問題は心の中で“個人的”に感じられる
-
-文脈の欠如が誤解を攻撃に見せる
-
-文化圏ごとに言葉の意味が変わる
-
-アルゴリズムは極端な反応を増幅する
-
-多くの自己責任感は構造のズレから生まれる
-
-構造を理解すると心が守られる
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p class="jp">2. SNSには文脈がないため、誤解が“攻撃”に見える</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSには次のものが存在しない。</p>
+
+<p class="jp">声のトーン</p>
+<p class="jp">表情</p>
+<p class="jp">間</p>
+<p class="jp">共有された背景</p>
+
+<p class="jp">
+そのため、ただの中立的な言葉でも鋭く感じられ、  
+構造的な問題が“個人への批判”に見えてしまう。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. 文化圏が違うと、同じ言葉でも意味が変わる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+ある文化圏では普通の言葉が、  
+別の文化圏では攻撃や圧力に感じられる。
+</p>
+
+<p class="jp">例：</p>
+<p class="jp">「Why?（なんで？）」</p>
+<p class="jp">→ 議論圏：普通の質問</p>
+<p class="jp">→ 静か圏：圧力</p>
+<p class="jp">→ 炎上圏：挑発</p>
+
+<p class="jp">その結果、人はこう思ってしまう。</p>
+
+<p class="jp">「私が悪かったのかな…？」</p>
+<p class="jp">「言い方が変だったのかな？」</p>
+<p class="jp">「もっと気をつけるべきだった？」</p>
+
+<p class="jp">
+しかし本当の原因は文化的な解釈の違いであり、  
+個人の失敗ではない。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. アルゴリズムは“極端な反応”を増幅する</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+落ち着いた反応は広がりにくく、  
+強い反応は一気に広がる。
+</p>
+
+<p class="jp">そのため：</p>
+
+<p class="jp">ネガティブなコメントが目立つ</p>
+<p class="jp">バランスの取れた声が埋もれる</p>
+<p class="jp">感情的な反応がタイムラインを支配する</p>
+
+<p class="jp">
+結果として「みんな怒っている」ように見えるが、  
+実際は“一部の文化圏だけ”のことも多い。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. 人は“自分が原因だ”と思い込みやすい</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+予想外の反応が来ると、人は自分を責めてしまう。  
+しかし多くの場合、その反応は“別の文化圏”から来たもので、  
+あなたに向けられたものではない。
+</p>
+
+<p class="jp">
+それは個人のミスではなく、構造のズレである。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 6 -->
+<p class="jp">6. 構造を理解すると、心のスペースが守られる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">構造が見えるようになると、こう言えるようになる。</p>
+
+<p class="jp">「これは私の問題じゃない」</p>
+<p class="jp">「文化圏のズレだったんだ」</p>
+<p class="jp">「アルゴリズムが運んだだけ」</p>
+<p class="jp">「運営が介入できる問題じゃなかった」</p>
+
+<p class="jp">
+この理解が、不必要な自己否定を減らし、  
+心を静かに保ってくれる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p class="jp">第5章まとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">構造の問題は心の中で“個人的”に感じられる。</p>
+<p class="jp">文脈の欠如が誤解を攻撃に見せる。</p>
+<p class="jp">文化圏ごとに言葉の意味が変わる。</p>
+<p class="jp">アルゴリズムは極端な反応を増幅する。</p>
+<p class="jp">多くの自己責任感は構造のズレから生まれる。</p>
+<p class="jp">構造を理解すると心が守られる。</p>
+
+<div style="height: 7em;"></div>
+
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
 

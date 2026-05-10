@@ -1,217 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
+
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
-Chapter 3 — Algorithms Do Not Understand Cultural Zones (English Version)
+
+}
+
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-1. Algorithms Only See Numbers, Not Culture
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
+
+
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+
+<h1 class="heading">Chapter 3 — Algorithms Do Not Understand Cultural Zones</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+Algorithms operate based on numerical signals, not cultural awareness.  
+Pi‑Fid Theory™ explains that this limitation causes posts to be moved into zones  
+where they do not culturally belong, creating accidental conflict.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. Algorithms Only See Numbers, Not Culture.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
 Algorithms measure:
+</p>
 
-Speed
+<p style="margin:0.5em 0;">Speed</p>
+<p style="margin:0.5em 0;">Engagement</p>
+<p style="margin:0.5em 0;">Spread</p>
 
-Engagement
-
-Spread
-
-They do not understand values, tone, or cultural compatibility.
+<p style="margin:0.5em 0;">
+They do not understand values, tone, or cultural compatibility.  
 Because of this, posts are often moved into places where they do not belong.
+</p>
 
+<div style="height: 3em;"></div>
 
-2. Misplacement Happens Even When No One Intended It
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. Misplacement Happens Even When No One Intended It.</p>
+<div style="height: 0.2em;"></div>
 
-A calm, quiet post may suddenly appear in a fast‑paced zone.
+<p style="margin:0.5em 0;">
+A calm, quiet post may suddenly appear in a fast‑paced zone.  
 A technical explanation may be pushed into a casual daily‑life zone.
+</p>
 
-No one chooses this.
+<p style="margin:0.5em 0;">
+No one chooses this.  
 The algorithm simply reacts to numbers.
+</p>
 
+<p style="margin:0.5em 0;">
 This creates accidental cultural collisions.
+</p>
 
+<div style="height: 3em;"></div>
 
-3. “Unexpected Reactions” Are Often Algorithmic, Not Personal
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. “Unexpected Reactions” Are Often Algorithmic, Not Personal.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 People often think:
+</p>
 
-“なぜ急に攻撃されたの？”
+<p style="margin:0.5em 0;">“Why was I suddenly attacked?”</p>
+<p style="margin:0.5em 0;">“Why did unfamiliar people appear?”</p>
+<p style="margin:0.5em 0;">“Why did this turn into conflict?”</p>
 
-“どうしてこんな人たちが来たの？”
-
-“なんで炎上したの？”
-
-But in many cases,
-the cause is not the content itself—
+<p style="margin:0.5em 0;">
+But in many cases,  
+the cause is not the content itself—  
 it is algorithmic misplacement.
+</p>
 
+<p style="margin:0.5em 0;">
 The post was shown to a zone with different values.
+</p>
 
+<div style="height: 3em;"></div>
 
-4. Algorithms Amplify the Most Reactive Zones
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. Algorithms Amplify the Most Reactive Zones.</p>
+<div style="height: 0.2em;"></div>
 
-Zones with fast reactions (like the Flame Zone)
+<p style="margin:0.5em 0;">
+Zones with fast reactions (like the Flame Zone)  
 tend to be amplified because they generate numbers.
+</p>
 
-This means:
+<p style="margin:0.5em 0;">This means:</p>
 
-Calm posts may be overwhelmed
+<p style="margin:0.5em 0;">Calm posts may be overwhelmed</p>
+<p style="margin:0.5em 0;">Nuanced discussions may be drowned out</p>
+<p style="margin:0.5em 0;">Misunderstandings spread faster than explanations</p>
 
-Nuanced discussions may be drowned out
-
-Misunderstandings spread faster than explanations
-
+<p style="margin:0.5em 0;">
 The structure favors speed over compatibility.
+</p>
 
+<div style="height: 3em;"></div>
 
-5. Understanding Algorithmic Behavior Reduces Self‑Blame
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. Understanding Algorithmic Behavior Reduces Self‑Blame.</p>
+<div style="height: 0.2em;"></div>
 
-When you know the algorithm does not understand culture,
+<p style="margin:0.5em 0;">
+When you know the algorithm does not understand culture,  
 you stop blaming yourself for reactions that were never meant for you.
+</p>
 
-You begin to see:
+<p style="margin:0.5em 0;">You begin to see:</p>
 
-“This wasn’t my fault.”
+<p style="margin:0.5em 0;">“This wasn’t my fault.”</p>
+<p style="margin:0.5em 0;">“This was a mismatch of zones.”</p>
+<p style="margin:0.5em 0;">“The algorithm moved my post to the wrong place.”</p>
 
-“This was a mismatch of zones.”
-
-“The algorithm moved my post to the wrong place.”
-
+<p style="margin:0.5em 0;">
 This perspective protects your mental space.
-
-
-
-Chapter 3 Summary
-
-Algorithms measure numbers, not culture
-
-Posts are often moved into incompatible zones
-
-Many conflicts are accidental, not personal
-
-Fast‑reaction zones are amplified
-
-Understanding this reduces confusion and self‑blame
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p style="margin:0.5em 0;">Chapter 3 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Algorithms measure numbers, not culture.</p>
+<p style="margin:0.5em 0;">Posts are often moved into incompatible zones.</p>
+<p style="margin:0.5em 0;">Many conflicts are accidental, not personal.</p>
+<p style="margin:0.5em 0;">Fast‑reaction zones are amplified.</p>
+<p style="margin:0.5em 0;">Understanding this reduces confusion and self‑blame.</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
 
+<div class="content">
+<h1 class="jp heading">第3章 — アルゴリズムは文化圏を理解しない</h1>
+<br><br><br>
 
+<p class="jp">
+SNSのアルゴリズムは“文化”ではなく“数字”だけを見て動く。  
+Pi‑Fid Theory™ では、この構造的な限界が、  
+投稿が本来の文化圏とは異なる場所に移動してしまう原因であり、  
+多くの衝突を生むと説明する。
+</p>
 
-📘 PiFid理論・教科書版
+<div style="height: 3em;"></div>
 
+<!-- Section 1 -->
+<p class="jp">1. アルゴリズムが見ているのは“数字”であって文化ではない</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">アルゴリズムが判断材料にしているのは：</p>
 
-第3章 — アルゴリズムは文化圏を理解しない（日本語版）
+<p class="jp">反応の速さ</p>
+<p class="jp">エンゲージメント</p>
+<p class="jp">拡散量</p>
 
-
-1. アルゴリズムが見ているのは“数字”であって文化ではない
-
-アルゴリズムが判断材料にしているのは、
-
-反応の速さ
-
-エンゲージメント
-
-拡散量
-
-といった“数字”だけ。
-
-価値観、文脈、トーン、文化的な相性は理解していない。
+<p class="jp">
+といった“数字”だけである。  
+価値観、文脈、トーン、文化的な相性は理解していない。  
 そのため、投稿が本来の文化圏とは違う場所に移動してしまう。
-
-
-2. 誰も意図していなくても“誤配属”は起きる
-
-静かな投稿が、突然スピード重視の文化圏に流れ込むことがある。
-専門的な説明が、日常系の文化圏に押し出されることもある。
-
-これは誰かのせいではなく、
-アルゴリズムが数字だけを見て動かした結果。
-
-こうして 意図しない文化衝突 が起きる。
-
-
-3. “予想外の反応”の多くは、個人ではなくアルゴリズムの問題
-
-人はよくこう思う。
-
-「なんで急に攻撃されたの？」
-
-「どうして知らない人たちが来たの？」
-
-「なんで炎上したの？」
-
-でも実際には、
-内容そのものではなく、
-アルゴリズムの誤配属 が原因であることが多い。
-
-投稿が“価値観の違う文化圏”に表示されてしまっただけ。
-
-
-4. アルゴリズムは“反応の速い文化圏”を増幅する
-
-反応が速い文化圏（例：炎上圏）は、
-数字が大きくなりやすいため、アルゴリズムに増幅されやすい。
-
-その結果：
-
-静かな投稿は押し流される
-
-繊細な議論はかき消される
-
-誤解の方が説明より速く広がる
-
-構造として、
-相性よりも“速さ”が優先される仕組み になっている。
-
-
-5. アルゴリズムの性質を理解すると、自分を責めなくてよくなる
-
-アルゴリズムが文化を理解していないと知ると、
-自分を責める必要がなくなる。
-
-「私のせいじゃなかった」
-
-「文化圏のズレだったんだ」
-
-「アルゴリズムが違う場所に運んだだけ」
-
-こうした視点が、
-あなたの心のスペースを守ってくれる。
-
-
-
-第3章まとめ
-
-アルゴリズムは数字だけを見て文化を理解しない
-
-投稿はしばしば不適切な文化圏に移動する
-
-多くの衝突は“個人”ではなく“構造”の問題
-
-反応の速い文化圏が増幅されやすい
-
-理解すると混乱や自己否定が減る
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
 
+<!-- Section 2 -->
+<p class="jp">2. 誰も意図していなくても“誤配属”は起きる</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">
+静かな投稿が、突然スピード重視の文化圏に流れ込むことがある。  
+専門的な説明が、日常系の文化圏に押し出されることもある。
+</p>
+
+<p class="jp">
+これは誰かのせいではなく、  
+アルゴリズムが数字だけを見て動かした結果である。
+</p>
+
+<p class="jp">
+こうして、意図しない文化衝突が起きる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. “予想外の反応”の多くは、個人ではなくアルゴリズムの問題</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">人はよくこう思う。</p>
+
+<p class="jp">「なんで急に攻撃されたの？」</p>
+<p class="jp">「どうして知らない人たちが来たの？」</p>
+<p class="jp">「なんで炎上したの？」</p>
+
+<p class="jp">
+しかし実際には、内容そのものではなく、  
+アルゴリズムの誤配属が原因であることが多い。
+</p>
+
+<p class="jp">
+投稿が“価値観の違う文化圏”に表示されてしまっただけである。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. アルゴリズムは“反応の速い文化圏”を増幅する</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+反応が速い文化圏（例：炎上圏）は、  
+数字が大きくなりやすいため、アルゴリズムに増幅されやすい。
+</p>
+
+<p class="jp">その結果：</p>
+
+<p class="jp">静かな投稿は押し流される</p>
+<p class="jp">繊細な議論はかき消される</p>
+<p class="jp">誤解の方が説明より速く広がる</p>
+
+<p class="jp">
+構造として、相性よりも“速さ”が優先される仕組みになっている。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. アルゴリズムの性質を理解すると、自分を責めなくてよくなる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+アルゴリズムが文化を理解していないと知ると、  
+自分を責める必要がなくなる。
+</p>
+
+<p class="jp">「私のせいじゃなかった」</p>
+<p class="jp">「文化圏のズレだったんだ」</p>
+<p class="jp">「アルゴリズムが違う場所に運んだだけ」</p>
+
+<p class="jp">
+こうした視点が、あなたの心のスペースを守ってくれる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p class="jp">第3章まとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">アルゴリズムは数字だけを見て文化を理解しない。</p>
+<p class="jp">投稿はしばしば不適切な文化圏に移動する。</p>
+<p class="jp">多くの衝突は“個人”ではなく“構造”の問題である。</p>
+<p class="jp">反応の速い文化圏が増幅されやすい。</p>
+<p class="jp">理解すると混乱や自己否定が減る。</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
 

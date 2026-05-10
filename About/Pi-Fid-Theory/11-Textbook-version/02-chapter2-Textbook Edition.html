@@ -1,212 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
 
-
-
-Chapter 2 — Multiple Cultural Zones Exist on SNS (English Version)
-
-
-1. SNS Is Not One Culture, but Many Overlapping Zones
-
-SNS is not a place where everyone shares the same values.
-In reality, several cultural zones coexist,
-each with its own rules and sense of “normal.”
-
-These differences create misunderstandings and conflict.
-
-
-2. Examples of Major Cultural Zones
-
-Several cultural zones commonly appear on SNS:
-
-Quiet Zone — values calm distance
-
-Flame Zone — values speed and intensity
-
-Debate Zone — values logic and counterarguments
-
-Tech Zone — values accuracy and expertise
-
-Life Zone — values empathy and daily sharing
-
-Creative Zone — values expression and originality
-
-No zone is superior.
-They are simply different.
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
-3. Cultural Differences Create Invisible Friction
-
-When cultural zones differ,
-the same words can carry different meanings.
-
-Example:
-
-“Are you okay?”
-→ Quiet Zone: kindness
-→ Debate Zone: topic shift
-→ Flame Zone: may be misread as provocation
-
-These invisible differences cause friction without anyone noticing.
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
 
-4. People Do Not Choose Their Zone; They Belong Naturally
+}
 
-People naturally belong to certain zones based on their personality and environment.
-
-Quiet people gravitate to the Quiet Zone
-
-Fast responders gravitate to the Flame Zone
-
-Logical thinkers gravitate to the Debate Zone
-
-This is not about personality flaws.
-It is about cultural belonging.
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-5. Understanding Zones Makes SNS Easier to Read
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-Once you understand cultural zones, SNS becomes clearer.
-
-You begin to see:
-
-Why you feel tired
-
-Why misunderstandings happen
-
-Why conversations don’t align
-
-Why some reactions feel sudden or harsh
-
-These are structural issues, not personal failures.
-
-
-
-Chapter 2 Summary
-
-Multiple cultural zones coexist on SNS
-
-Each zone has different values and norms
-
-Differences create invisible friction
-
-People naturally belong to certain zones
-
-Understanding zones makes SNS easier to navigate
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
 
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
+
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+
+<h1 class="heading">Chapter 2 — Multiple Cultural Zones Exist on SNS</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+SNS is not a single unified culture.  
+Pi‑Fid Theory™ explains that several cultural zones overlap,  
+each with its own expectations, values, and communication style.
+These invisible differences shape most misunderstandings online.
 </p>
 
+<div style="height: 3em;"></div>
 
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. SNS Is Not One Culture, but Many Overlapping Zones.</p>
+<div style="height: 0.2em;"></div>
 
-
-
-
-
-📘 PiFid理論・教科書版
-
-
-
-第2章 — SNSには複数の文化圏が存在する（日本語版）
-
-
-1. SNSは一つの文化ではなく、複数の文化圏が重なっている
-
-SNSは「みんなが同じ価値観で話している場所」ではない。
-実際には、いくつもの文化圏が同時に存在し、
-それぞれが独自のルールや“普通”を持っている。
-
-この違いが、誤解や衝突の原因になる。
-
-
-2. 主な文化圏の例
-
-SNSには、次のような文化圏がよく見られる。
-
-静か圏：落ち着いた距離感を大切にする
-
-炎上圏：反応の速さや勢いを重視する
-
-議論圏：論理や反証を重視する
-
-技術圏：正確さや専門性を重視する
-
-生活圏：共感や日常の共有を重視する
-
-創作圏：表現や独自性を重視する
-
-どの文化圏が優れているわけでもなく、
-ただ価値観が違うだけ。
-
-
-3. 文化圏の違いは“見えない摩擦”を生む
-
-文化圏が違うと、同じ言葉でも意味が変わる。
-
-例：
-
-「大丈夫？」
-→ 静か圏：優しさ
-→ 議論圏：話題の転換
-→ 炎上圏：挑発と誤解されることもある
-
-このように、
-文化圏の違いは、気づかないまま摩擦を生む。
-
-
-4. 文化圏は“選ぶもの”ではなく“自然に属しているもの”
-
-人は、自分の性質や生活環境によって、
-自然と特定の文化圏に属している。
-
-静かな人は静か圏へ
-
-反応が速い人は炎上圏へ
-
-論理的な人は議論圏へ
-
-これは性格の問題ではなく、
-文化的な居場所 の問題。
-
-
-5. 文化圏を理解すると、SNSが読みやすくなる
-
-文化圏を知ると、SNSの見え方が変わる。
-
-なぜ疲れるのか
-
-なぜ誤解されたのか
-
-なぜ話が噛み合わないのか
-
-なぜ突然攻撃されたように感じるのか
-
-これらが「構造の問題」として理解できるようになる。
-
-
-
-第2章まとめ
-
-SNSには複数の文化圏が同時に存在する
-
-文化圏ごとに価値観や“普通”が異なる
-
-違いが見えない摩擦を生む
-
-人は自然に自分の文化圏に属している
-
-文化圏を理解するとSNSが読みやすくなる
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+<p style="margin:0.5em 0;">
+Although SNS looks like one shared space,  
+users actually come from different cultural zones.  
+Each zone has its own sense of “normal,”  
+and these differences create friction without anyone noticing.
 </p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. Examples of Major Cultural Zones.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Quiet Zone — values calm distance.</p>
+<p style="margin:0.5em 0;">Flame Zone — values speed and intensity.</p>
+<p style="margin:0.5em 0;">Debate Zone — values logic and counterarguments.</p>
+<p style="margin:0.5em 0;">Tech Zone — values accuracy and expertise.</p>
+<p style="margin:0.5em 0;">Life Zone — values empathy and daily sharing.</p>
+<p style="margin:0.5em 0;">Creative Zone — values expression and originality.</p>
+
+<p style="margin:0.5em 0;">
+No zone is superior.  
+They are simply different cultural ecosystems.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. Cultural Differences Create Invisible Friction.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
+The same words can carry different meanings depending on the zone.  
+This creates misunderstandings that feel personal,  
+even though the cause is structural.
+</p>
+
+<p style="margin:0.5em 0;">Example:</p>
+<p style="margin:0.5em 0;">“Are you okay?”</p>
+<p style="margin:0.5em 0;">→ Quiet Zone: kindness</p>
+<p style="margin:0.5em 0;">→ Debate Zone: topic shift</p>
+<p style="margin:0.5em 0;">→ Flame Zone: possible provocation</p>
+
+<p style="margin:0.5em 0;">
+These mismatches create friction without anyone intending harm.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. People Do Not Choose Their Zone; They Belong Naturally.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
+People gravitate toward zones that match their personality and environment.  
+This is not about flaws or superiority—  
+it is simply cultural belonging.
+</p>
+
+<p style="margin:0.5em 0;">Quiet people → Quiet Zone</p>
+<p style="margin:0.5em 0;">Fast responders → Flame Zone</p>
+<p style="margin:0.5em 0;">Logical thinkers → Debate Zone</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. Understanding Zones Makes SNS Easier to Navigate.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">
+Once you understand cultural zones,  
+SNS becomes easier to read and less emotionally draining.
+You begin to see why misunderstandings happen  
+and why certain conversations feel exhausting.
+</p>
+
+<p style="margin:0.5em 0;">
+These issues are structural, not personal.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p style="margin:0.5em 0;">Chapter 2 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">Multiple cultural zones coexist on SNS.</p>
+<p style="margin:0.5em 0;">Each zone has different values and norms.</p>
+<p style="margin:0.5em 0;">Differences create invisible friction.</p>
+<p style="margin:0.5em 0;">People naturally belong to certain zones.</p>
+<p style="margin:0.5em 0;">Understanding zones makes SNS easier to navigate.</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
+
+
+
+  <div style="height: 33em;"></div>
+
+<div class="content">
+<h1 class="jp heading">第2章 — SNSには複数の文化圏が存在する</h1>
+<br><br><br>
+
+<p class="jp">
+SNSは一つの文化で動いているわけではない。  
+Pi‑Fid Theory™ では、SNSには複数の文化圏が同時に存在し、  
+それぞれが異なる価値観や“普通”を持っていると説明する。  
+この違いが、誤解や衝突の根本原因となる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p class="jp">1. SNSは一つの文化ではなく、複数の文化圏が重なっている</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+SNSは「みんなが同じ前提で話している場所」ではない。  
+実際には、複数の文化圏が重なり合い、  
+それぞれが独自のルールや期待を持っている。  
+この構造が、見えない摩擦を生む。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 2 -->
+<p class="jp">2. 主な文化圏の例</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">静か圏：落ち着きと距離感を重視する</p>
+<p class="jp">炎上圏：スピードと勢いを重視する</p>
+<p class="jp">議論圏：論理と反証を重視する</p>
+<p class="jp">技術圏：正確さと専門性を重視する</p>
+<p class="jp">生活圏：共感と日常の共有を重視する</p>
+<p class="jp">創作圏：表現と独自性を重視する</p>
+
+<p class="jp">
+どの文化圏が優れているわけでもなく、  
+ただ価値観が異なるだけである。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. 文化圏の違いは“見えない摩擦”を生む</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+文化圏が異なると、同じ言葉でも意味が変わる。  
+そのため、本人に悪意がなくても誤解が生まれる。
+</p>
+
+<p class="jp">例：</p>
+<p class="jp">「大丈夫？」</p>
+<p class="jp">→ 静か圏：優しさの表現</p>
+<p class="jp">→ 議論圏：話題の転換</p>
+<p class="jp">→ 炎上圏：挑発と受け取られることもある</p>
+
+<p class="jp">
+このような“文化的ズレ”が、気づかない摩擦を生む。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. 文化圏は“選ぶもの”ではなく“自然に属するもの”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+人は、自分の性質や生活環境によって、  
+自然と特定の文化圏に属する。  
+これは性格の問題ではなく、文化的な居場所の問題である。
+</p>
+
+<p class="jp">静かな人 → 静か圏</p>
+<p class="jp">反応が速い人 → 炎上圏</p>
+<p class="jp">論理的な人 → 議論圏</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. 文化圏を理解すると、SNSが読みやすくなる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+文化圏を理解すると、SNSの見え方が大きく変わる。  
+なぜ疲れるのか、なぜ誤解されたのか、  
+なぜ話が噛み合わないのかが“構造の問題”として理解できるようになる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p class="jp">第2章まとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSには複数の文化圏が同時に存在する。</p>
+<p class="jp">文化圏ごとに価値観や“普通”が異なる。</p>
+<p class="jp">違いが見えない摩擦を生む。</p>
+<p class="jp">人は自然に自分の文化圏に属している。</p>
+<p class="jp">文化圏を理解するとSNSが読みやすくなる。</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
+

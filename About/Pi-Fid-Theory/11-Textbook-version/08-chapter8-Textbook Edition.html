@@ -1,351 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
+
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
 
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
-Chapter 8 — Why Distance Collapses So Easily on SNS (English Version)
+}
+
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-1. SNS Removes the Natural Boundaries That Exist in Offline Life
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-In offline life, distance is shaped by:
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
-Tone
 
-Physical space
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
-Timing
 
-Social context
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
 
-Shared environment
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
 
-SNS removes all of these.
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
+
+
+/* footer */    
+
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
+
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+
+<h1 class="heading">Chapter 8 — Why Distance Collapses So Easily on SNS</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+SNS collapses the natural boundaries that protect emotional space.  
+Pi‑Fid Theory™ explains why distance becomes unstable online  
+and how structural factors make interactions feel too close or too sharp.
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 1 -->
+<p style="margin:0.5em 0;">1. SNS Removes the Natural Boundaries That Exist in Offline Life.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">In offline life, distance is shaped by:</p>
+
+<p style="margin:0.5em 0;">Tone</p>
+<p style="margin:0.5em 0;">Physical space</p>
+<p style="margin:0.5em 0;">Timing</p>
+<p style="margin:0.5em 0;">Social context</p>
+<p style="margin:0.5em 0;">Shared environment</p>
+
+<p style="margin:0.5em 0;">
+SNS removes all of these.  
 Without natural boundaries, people drift too close or too far without noticing.
+</p>
 
+<div style="height: 3em;"></div>
 
-2. People From Different Cultural Zones Stand at Different “Default Distances”
+<!-- Section 2 -->
+<p style="margin:0.5em 0;">2. People From Different Cultural Zones Stand at Different “Default Distances.”</p>
+<div style="height: 0.2em;"></div>
 
-Each cultural zone has its own sense of appropriate distance:
+<p style="margin:0.5em 0;">Each cultural zone has its own sense of appropriate distance:</p>
 
-Quiet Zone → wide, gentle distance
+<p style="margin:0.5em 0;">Quiet Zone → wide, gentle distance</p>
+<p style="margin:0.5em 0;">Debate Zone → close, direct distance</p>
+<p style="margin:0.5em 0;">Flame Zone → aggressive, zero distance</p>
+<p style="margin:0.5em 0;">Life Zone → warm, casual distance</p>
 
-Debate Zone → close, direct distance
-
-Flame Zone → aggressive, zero distance
-
-Life Zone → warm, casual distance
-
-When these distances collide,
-one person may feel “too close,”
+<p style="margin:0.5em 0;">
+When these distances collide,  
+one person may feel “too close,”  
 while another feels “too distant.”
+</p>
 
+<div style="height: 3em;"></div>
 
-3. Text Alone Cannot Signal Intent or Softness
+<!-- Section 3 -->
+<p style="margin:0.5em 0;">3. Text Alone Cannot Signal Intent or Softness.</p>
+<div style="height: 0.2em;"></div>
 
-In text-only communication:
+<p style="margin:0.5em 0;">In text-only communication:</p>
 
-Softness disappears
+<p style="margin:0.5em 0;">Softness disappears</p>
+<p style="margin:0.5em 0;">Nuance disappears</p>
+<p style="margin:0.5em 0;">Hesitation disappears</p>
+<p style="margin:0.5em 0;">Emotional cushioning disappears</p>
 
-Nuance disappears
-
-Hesitation disappears
-
-Emotional cushioning disappears
-
-A sentence meant as gentle can look blunt.
-A neutral question can look confrontational.
+<p style="margin:0.5em 0;">
+A sentence meant as gentle can look blunt.  
+A neutral question can look confrontational.  
 Distance collapses because tone cannot hold the space open.
+</p>
 
+<div style="height: 3em;"></div>
 
-4. Algorithms Push People Into Unchosen Proximity
+<!-- Section 4 -->
+<p style="margin:0.5em 0;">4. Algorithms Push People Into Unchosen Proximity.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 Algorithms often place strangers into sudden closeness:
+</p>
 
-Your post appears in their feed
+<p style="margin:0.5em 0;">Your post appears in their feed</p>
+<p style="margin:0.5em 0;">Their reaction appears in your notifications</p>
+<p style="margin:0.5em 0;">Their values enter your space without invitation</p>
 
-Their reaction appears in your notifications
-
-Their values enter your space without invitation
-
-This creates forced proximity,
+<p style="margin:0.5em 0;">
+This creates forced proximity,  
 a closeness you never chose.
+</p>
 
+<div style="height: 3em;"></div>
 
-5. Lack of Shared Context Makes People Assume the Worst
+<!-- Section 5 -->
+<p style="margin:0.5em 0;">5. Lack of Shared Context Makes People Assume the Worst.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 When context is missing, the mind fills the gap with:
+</p>
 
-Worry
+<p style="margin:0.5em 0;">Worry</p>
+<p style="margin:0.5em 0;">Doubt</p>
+<p style="margin:0.5em 0;">Self‑protection</p>
+<p style="margin:0.5em 0;">Over‑interpretation</p>
 
-Doubt
-
-Self‑protection
-
-Over‑interpretation
-
-Without shared background,
-even small comments can feel intrusive or hostile.
-
+<p style="margin:0.5em 0;">
+Without shared background,  
+even small comments can feel intrusive or hostile.  
 Distance collapses because the mind cannot anchor the interaction.
+</p>
 
+<div style="height: 3em;"></div>
 
-6. People Respond From Their Own Zone, Not Yours
+<!-- Section 6 -->
+<p style="margin:0.5em 0;">6. People Respond From Their Own Zone, Not Yours.</p>
+<div style="height: 0.2em;"></div>
 
-A person from a fast‑reaction zone may reply instantly.
+<p style="margin:0.5em 0;">
+A person from a fast‑reaction zone may reply instantly.  
 A person from a quiet zone may take hours or days.
+</p>
 
-But SNS shows both behaviors in the same space,
-making it look like:
+<p style="margin:0.5em 0;">
+But SNS shows both behaviors in the same space, making it look like:
+</p>
 
-“They’re ignoring me.”
+<p style="margin:0.5em 0;">“They’re ignoring me.”</p>
+<p style="margin:0.5em 0;">“They’re too intense.”</p>
+<p style="margin:0.5em 0;">“They’re too slow.”</p>
+<p style="margin:0.5em 0;">“They’re too aggressive.”</p>
 
-“They’re too intense.”
-
-“They’re too slow.”
-
-“They’re too aggressive.”
-
+<p style="margin:0.5em 0;">
 Distance collapses because zones overlap without boundaries.
+</p>
 
+<div style="height: 3em;"></div>
 
-7. Collapsed Distance Creates Emotional Overload
+<!-- Section 7 -->
+<p style="margin:0.5em 0;">7. Collapsed Distance Creates Emotional Overload.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 When distance collapses:
+</p>
 
-Reactions feel too close
+<p style="margin:0.5em 0;">Reactions feel too close</p>
+<p style="margin:0.5em 0;">Criticism feels personal</p>
+<p style="margin:0.5em 0;">Misunderstandings feel sharp</p>
+<p style="margin:0.5em 0;">Expectations feel heavy</p>
 
-Criticism feels personal
-
-Misunderstandings feel sharp
-
-Expectations feel heavy
-
-This overload is not a personality flaw.
+<p style="margin:0.5em 0;">
+This overload is not a personality flaw.  
 It is a structural effect of boundary loss.
+</p>
 
+<div style="height: 3em;"></div>
 
-8. Understanding Distance Helps You Rebuild It Intentionally
+<!-- Section 8 -->
+<p style="margin:0.5em 0;">8. Understanding Distance Helps You Rebuild It Intentionally.</p>
+<div style="height: 0.2em;"></div>
 
+<p style="margin:0.5em 0;">
 Once you see the mechanism, you can choose:
+</p>
 
-When to step back
+<p style="margin:0.5em 0;">When to step back</p>
+<p style="margin:0.5em 0;">When to stay silent</p>
+<p style="margin:0.5em 0;">When to slow down</p>
+<p style="margin:0.5em 0;">When to protect your space</p>
 
-When to stay silent
-
-When to slow down
-
-When to protect your space
-
-Distance becomes something you create,
+<p style="margin:0.5em 0;">
+Distance becomes something you create,  
 not something you lose.
-
-
-
-Chapter 8 Summary
-
-SNS removes natural boundaries found in offline life
-
-Cultural zones have different default distances
-
-Text cannot hold tone or softness
-
-Algorithms create forced proximity
-
-Missing context leads to over‑interpretation
-
-People respond from their own zone, not yours
-
-Collapsed distance causes emotional overload
-
-Understanding the mechanism helps you rebuild healthy distance
-
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
 
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p style="margin:0.5em 0;">Chapter 8 Summary.</p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.5em 0;">SNS removes natural boundaries found in offline life.</p>
+<p style="margin:0.5em 0;">Cultural zones have different default distances.</p>
+<p style="margin:0.5em 0;">Text cannot hold tone or softness.</p>
+<p style="margin:0.5em 0;">Algorithms create forced proximity.</p>
+<p style="margin:0.5em 0;">Missing context leads to over‑interpretation.</p>
+<p style="margin:0.5em 0;">People respond from their own zone, not yours.</p>
+<p style="margin:0.5em 0;">Collapsed distance causes emotional overload.</p>
+<p style="margin:0.5em 0;">Understanding the mechanism helps rebuild healthy distance.</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
 
+<div class="content">
+<h1 class="jp heading">第8章 — SNSではなぜ“距離感”がこんなにも崩れやすいのか</h1>
+<br><br><br>
 
+<p class="jp">
+SNSは、現実世界に存在する“自然な距離の仕組み”を取り払ってしまう。  
+Pi‑Fid Theory™ は、なぜオンラインでは距離が崩れやすく、  
+人間関係が急に近く感じたり、急に遠く感じたりするのかを説明する。
+</p>
 
-📘 PiFid理論・教科書版
+<div style="height: 3em;"></div>
 
+<!-- Section 1 -->
+<p class="jp">1. SNSは、オフラインにある“自然な境界”を取り払ってしまう</p>
+<div style="height: 1.5em;"></div>
 
+<p class="jp">現実世界では、距離感は次のような要素で保たれている。</p>
 
-第8章 — SNSではなぜ“距離感”がこんなにも崩れやすいのか（日本語版）
+<p class="jp">声のトーン</p>
+<p class="jp">物理的な距離</p>
+<p class="jp">タイミング</p>
+<p class="jp">社会的な文脈</p>
+<p class="jp">共有された環境</p>
 
+<p class="jp">
+SNSにはこれらが存在しない。  
+境界が消えると、人は気づかないうちに  
+“近づきすぎたり”“遠ざかりすぎたり”してしまう。
+</p>
 
-1. SNSは、オフラインにある“自然な境界”を取り払ってしまう
+<div style="height: 3em;"></div>
 
-現実世界では、距離感は次のような要素で保たれている。
+<!-- Section 2 -->
+<p class="jp">2. 文化圏ごとに“デフォルトの距離感”が違う</p>
+<div style="height: 1.5em;"></div>
 
-声のトーン
+<p class="jp">文化圏には、それぞれ固有の距離感がある。</p>
 
-物理的な距離
+<p class="jp">静か圏 → ゆったりとした広い距離</p>
+<p class="jp">議論圏 → 近くて直接的な距離</p>
+<p class="jp">炎上圏 → 攻撃的でゼロ距離</p>
+<p class="jp">生活圏 → 温かくカジュアルな距離</p>
 
-タイミング
-
-社会的な文脈
-
-共有された環境
-
-SNSにはこれらが存在しない。
-境界が消えると、人は気づかないうちに“近づきすぎたり”“遠ざかりすぎたり”してしまう。
-
-
-2. 文化圏ごとに“デフォルトの距離感”が違う
-
-文化圏には、それぞれ固有の距離感がある。
-
-静か圏 → ゆったりとした広い距離
-
-議論圏 → 近くて直接的な距離
-
-炎上圏 → 攻撃的でゼロ距離
-
-生活圏 → 温かくカジュアルな距離
-
-この距離感がぶつかると、
-ある人には「近すぎる」、
+<p class="jp">
+この距離感がぶつかると、  
+ある人には「近すぎる」、  
 別の人には「遠すぎる」と感じられる。
-
-
-3. 文字だけでは“意図”も“柔らかさ”も伝わらない
-
-文字だけのコミュニケーションでは、
-
-柔らかさが消える
-
-ニュアンスが消える
-
-ためらいが消える
-
-感情のクッションが消える
-
-優しいつもりの文がぶっきらぼうに見えたり、
-中立的な質問が挑発に見えたりする。
-
-距離感が崩れるのは、
-トーンが空間を支えられないから。
-
-
-4. アルゴリズムが“望んでいない近さ”を強制する
-
-アルゴリズムは、見知らぬ人同士を突然近づけてしまう。
-
-あなたの投稿が相手のフィードに出る
-
-相手の反応があなたの通知に届く
-
-相手の価値観があなたの空間に入り込む
-
-これは “強制的な近さ” であり、
-あなたが選んだ距離ではない。
-
-
-5. 文脈が共有されないと、人は“最悪の可能性”を補完してしまう
-
-文脈が欠けると、心はその穴を次のもので埋めようとする。
-
-不安
-
-疑い
-
-自己防衛
-
-過剰な読み取り
-
-背景が共有されていないため、
-小さなコメントでも侵入的・敵対的に感じられる。
-
-距離感が崩れるのは、
-心が“拠り所”を失うから。
-
-
-6. 人は“自分の文化圏”から反応するので、ズレが生まれる
-
-反応の速い文化圏の人はすぐ返事をする。
-静か圏の人は数時間〜数日かけて返す。
-
-しかしSNSでは両者が同じ空間に並ぶため、
-
-「無視されてる？」
-
-「強すぎる…」
-
-「遅すぎる…」
-
-「圧がある…」
-
-と感じやすくなる。
-
-距離感が崩れるのは、
-文化圏が境界なく重なってしまう から。
-
-
-7. 距離が崩れると、感情の負荷が一気に増える
-
-距離が近すぎると、
-
-反応が刺さる
-
-批判が個人的に感じられる
-
-誤解が鋭くなる
-
-期待が重くなる
-
-これは性格の問題ではなく、
-境界が失われた構造の結果。
-
-
-8. 距離の仕組みを理解すると、自分で“距離を作り直せる”
-
-構造が見えると、次の選択ができるようになる。
-
-一歩引くタイミング
-
-あえて沈黙する選択
-
-反応を遅くする選択
-
-自分の空間を守る選択
-
-距離は“奪われるもの”ではなく、
-自分で作り直せるものになる。
-
-
-
-第8章まとめ
-
-SNSはオフラインの自然な境界を取り払う
-
-文化圏ごとに距離感が違う
-
-文字だけではトーンが支えられない
-
-アルゴリズムが望まない近さを生む
-
-文脈の欠如が過剰な読み取りを生む
-
-人は自分の文化圏から反応する
-
-距離の崩壊は感情の負荷を増やす
-
-仕組みを理解すると、距離を作り直せる
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
 </p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 3 -->
+<p class="jp">3. 文字だけでは“意図”も“柔らかさ”も伝わらない</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文字だけのコミュニケーションでは、</p>
+
+<p class="jp">柔らかさが消える</p>
+<p class="jp">ニュアンスが消える</p>
+<p class="jp">ためらいが消える</p>
+<p class="jp">感情のクッションが消える</p>
+
+<p class="jp">
+優しいつもりの文がぶっきらぼうに見えたり、  
+中立的な質問が挑発に見えたりする。  
+距離感が崩れるのは、トーンが空間を支えられないから。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 4 -->
+<p class="jp">4. アルゴリズムが“望んでいない近さ”を強制する</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">アルゴリズムは、見知らぬ人同士を突然近づけてしまう。</p>
+
+<p class="jp">あなたの投稿が相手のフィードに出る</p>
+<p class="jp">相手の反応があなたの通知に届く</p>
+<p class="jp">相手の価値観があなたの空間に入り込む</p>
+
+<p class="jp">
+これは “強制的な近さ” であり、  
+あなたが選んだ距離ではない。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 5 -->
+<p class="jp">5. 文脈が共有されないと、人は“最悪の可能性”を補完してしまう</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">文脈が欠けると、心はその穴を次のもので埋めようとする。</p>
+
+<p class="jp">不安</p>
+<p class="jp">疑い</p>
+<p class="jp">自己防衛</p>
+<p class="jp">過剰な読み取り</p>
+
+<p class="jp">
+背景が共有されていないため、  
+小さなコメントでも侵入的・敵対的に感じられる。  
+距離感が崩れるのは、心が“拠り所”を失うから。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 6 -->
+<p class="jp">6. 人は“自分の文化圏”から反応するので、ズレが生まれる</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">
+反応の速い文化圏の人はすぐ返事をする。  
+静か圏の人は数時間〜数日かけて返す。
+</p>
+
+<p class="jp">
+しかしSNSでは両者が同じ空間に並ぶため、
+</p>
+
+<p class="jp">「無視されてる？」</p>
+<p class="jp">「強すぎる…」</p>
+<p class="jp">「遅すぎる…」</p>
+<p class="jp">「圧がある…」</p>
+
+<p class="jp">
+と感じやすくなる。  
+距離感が崩れるのは、文化圏が境界なく重なってしまうから。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 7 -->
+<p class="jp">7. 距離が崩れると、感情の負荷が一気に増える</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">距離が近すぎると、</p>
+
+<p class="jp">反応が刺さる</p>
+<p class="jp">批判が個人的に感じられる</p>
+<p class="jp">誤解が鋭くなる</p>
+<p class="jp">期待が重くなる</p>
+
+<p class="jp">
+これは性格の問題ではなく、  
+境界が失われた構造の結果。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Section 8 -->
+<p class="jp">8. 距離の仕組みを理解すると、自分で“距離を作り直せる”</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">構造が見えると、次の選択ができるようになる。</p>
+
+<p class="jp">一歩引くタイミング</p>
+<p class="jp">あえて沈黙する選択</p>
+<p class="jp">反応を遅くする選択</p>
+<p class="jp">自分の空間を守る選択</p>
+
+<p class="jp">
+距離は“奪われるもの”ではなく、  
+自分で作り直せるものになる。
+</p>
+
+<div style="height: 3em;"></div>
+
+<!-- Summary -->
+<p class="jp">第8章まとめ</p>
+<div style="height: 1.5em;"></div>
+
+<p class="jp">SNSはオフラインの自然な境界を取り払う。</p>
+<p class="jp">文化圏ごとに距離感が違う。</p>
+<p class="jp">文字だけではトーンが支えられない。</p>
+<p class="jp">アルゴリズムが望まない近さを生む。</p>
+<p class="jp">文脈の欠如が過剰な読み取りを生む。</p>
+<p class="jp">人は自分の文化圏から反応する。</p>
+<p class="jp">距離の崩壊は感情の負荷を増やす。</p>
+<p class="jp">仕組みを理解すると、距離を作り直せる。</p>
+
+<div style="height: 7em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
 
