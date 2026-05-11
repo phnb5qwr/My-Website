@@ -1,292 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sound of Planes®</title>
+  <style>
+    body {
 
-📘 PiFid Theory – Textbook Edition
+  background-color: black;
+  color: rgba(130, 140, 243, 0.801);
+  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-weight: normal !important;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 40px;
+  height: auto;
+  text-align: center;
+}
 
+/* 文章だけ小さくする */
+p {
+  font-size: 0.9em; /* ← ここが効くようになる */
+  line-height: 1.7; /* ← 英文が読みやすくなる */
+}
 
+  .content {
+  max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-size: 1.3em;
+  text-align: left; /* text inside remains left-aligned */
+  position: relative; /* shift up by one line */
+  top: -0.3em;
 
-Chapter 11 — Diagram Pages (English Version)
+}
 
-
-Visual Maps of the PiFid Structural Model
-
-Diagram 1 — The Four Cultural Zones
-
-
-                ┌──────────────────────────┐
-                │        Quiet Zone         │
-                │  - slow pace              │
-                │  - soft tone              │
-                │  - wide distance          │
-                └──────────────────────────┘
-
-   ┌──────────────────────────┐      ┌──────────────────────────┐
-   │       Life Zone          │      │       Debate Zone         │
-   │ - warm, casual           │      │ - direct, logical         │
-   │ - everyday rhythm        │      │ - close distance          │
-   └──────────────────────────┘      └──────────────────────────┘
-
-                ┌──────────────────────────┐
-                │       Flame Zone         │
-                │ - reactive               │
-                │ - zero distance          │
-                │ - emotional intensity    │
-                └──────────────────────────┘
-
-
-Diagram 2 — The Three Structural Layers of SNS
-
-┌──────────────────────────────────────────────┐
-│                Operational Layer              │
-│  - rules, safety, neutrality                  │
-│  - cannot solve cultural conflicts            │
-└──────────────────────────────────────────────┘
-                 ▲
-                 │
-┌──────────────────────────────────────────────┐
-│                Algorithmic Layer              │
-│  - distribution without cultural awareness    │
-│  - accidental exposure                        │
-└──────────────────────────────────────────────┘
-                 ▲
-                 │
-┌──────────────────────────────────────────────┐
-│                  Cultural Layer               │
-│  - values, tone, pace, distance               │
-│  - misunderstandings originate here           │
-└──────────────────────────────────────────────┘
+.heading {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-Diagram 3 — How Mismatches Accumulate Into Fatigue
+ .jp {
+  max-width: 720px; /* ← 日本語ブロックを中央に寄せる */
+  margin: 0 auto;   /* ← 中央寄せ */
+  font-family: "Verdana", sans-serif, "Noto Sans JP";
+  font-size: 0.9em;   /* ← ここが決定打！ */
+  line-height: 1.6;
+  font-weight: 290;
+  text-align: left; /* ← 文章は左寄せのまま */
+}
 
-Cultural mismatch → small emotional trace
-          +
-Algorithmic exposure → unpredictability
-          +
-Lack of resolution → mental looping
-          +
-Collapsed distance → emotional overload
-───────────────────────────────────────────────
-= SNS Fatigue (structural, not personal)
-
-
-Diagram 4 — Boundary Erosion and Rebuilding
-
-[Boundary Erosion]
-- constant alertness
-- unpredictable reactions
-- overexposure
-- tone ambiguity
-
-                ↓
-
-[Symptoms]
-- shrinking self
-- overthinking
-- emotional exhaustion
-- loss of clarity
-
-                ↓
-
-[Rebuilding Boundaries]
-- slow pace
-- curated inputs
-- selective engagement
-- emotional boundaries
-- intentional silence
+.jp.heading {
+  max-width: 720px; /* ← 見出しも中央に寄せる */
+  margin: 0 auto;
+  font-size: 1.1em; /* ← 見出しはさらに大きく */
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+}
 
 
-Diagram 5 — Safe Inner Space Model
-
-                ┌──────────────────────────────┐
-                │      Safe Inner Space        │
-                │  - clarity                   │
-                │  - emotional rhythm          │
-                │  - calm presence             │
-                └──────────────────────────────┘
-                         ▲
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-  Slowness         Curated Inputs     Boundaries
-  - slow pace      - limit exposure   - choose timing
-  - slow reading   - reduce noise     - protect energy
-  - slow posting   - match rhythm     - define space
+.jp.small {
+  font-size: 0.85em; /* smaller for specific Japanese text */
+}
 
 
-Diagram 6 — How to Navigate SNS Without Losing Yourself
+  .brand {
+  display: block;
+  font-weight: normal; 
+  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
+  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
+  text-align: left;
+  line-height: 0.5; /* tighter line spacing under the brand */
+  margin-bottom: 0; /* 念のため */  
+}
 
-           ┌───────────────┐
-           │  Observe       │
-           │  (without absorbing) 
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │  Interpret     │
-           │  (with context)
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │  Choose        │
-           │  (engage or not)
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │  Respond       │
-           │  (slowly, calmly)
-           └───────────────┘
+  /* ensure the following description sits slightly closer */
+  .brand + em {
+    display: block;
+    font-size: 1em; 
+    line-height: 0.5 !important;
+    margin-top: -0.2em;
+  }
+.content h1 {
+  font-size: 1.15em; /* ← ここで見出しを大きく！ */
+  margin-top: 1.5em; /* または 20px など */
+  margin-bottom: 1em;
+}
+
+    /* ボタンのデザイン */
+a.button {
+  padding: 10px 20px;
+  background-color: #222;
+  color: rgba(130, 140, 243, 0.801);
+  text-decoration: none;
+  border-radius: 7px; /* ← ここだけでOK */
+  transition: background-color 0.3s;
+}
+
+/* ボタン同士の間隔 */
+.button {
+  display: inline-block;
+  margin: 0 15px; /* ← 左右に15pxの余白をつける */
+}
+
+a.button:hover {
+  background-color: #444;
+}
 
 
+/* footer */    
 
+.footer-text.en {
+  font-size: 0.6em; /* ← 英語だけ少し小さくする */
+}
 
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+.footer-text {
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
+  font-size: 0.7em;
+  color: rgba(130, 140, 243, 0.801);
+  text-align: left;
+}
+  
+ </style>
+</head>
+<body>
+<div class="content">
+<h1 class="heading">Chapter 11 — Diagram Pages</h1>
+<br><br><br>
+
+<p style="margin:0.5em 0;">
+Visual Maps of the Pi‑Fid Theory™ Structural Model
 </p>
 
+<div style="height: 3em;"></div>
+
+<p><strong>Diagram 1 — The Four Cultural Zones</strong></p>
+<div style="height: 0.2em;"></div>
+
+<div style="border:1px solid #ccc; padding:1em; margin:1.5em 0;">
+<strong>Quiet Zone</strong><br>
+<span style="font-size:0.9em;">
+• slow pace<br>
+• soft tone<br>
+• wide distance
+</span>
+</div>
+
+<div style="display:flex; gap:1em; margin:1.5em 0; flex-wrap:wrap;">
+
+<div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px;">
+<strong>Life Zone</strong><br>
+<span style="font-size:0.9em;">
+• warm, casual<br>
+• everyday rhythm
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1em; flex:1; min-width:200px;">
+<strong>Debate Zone</strong><br>
+<span style="font-size:0.9em;">
+• direct, logical<br>
+• close distance
+</span>
+</div>
+
+</div>
+
+<div style="border:1px solid #ccc; padding:1em; margin:1.5em 0;">
+<strong>Flame Zone</strong><br>
+<span style="font-size:0.9em;">
+• reactive<br>
+• zero distance<br>
+• emotional intensity
+</span>
+</div>
+
+<p></p><div style="height: 4em;"></div></p>
+
+<!-- Diagram 2 -->
+<p style="margin:0.5em 0;"><strong>Diagram 2 — The Three Structural Layers of SNS</strong></p>
+<div style="height: 0.2em;"></div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Operational Layer</strong><br>
+<span style="font-size:0.9em;">
+• rules, safety, neutrality<br>
+• cannot solve cultural conflicts
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">▲</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Algorithmic Layer</strong><br>
+<span style="font-size:0.9em;">
+• distribution without cultural awareness<br>
+• accidental exposure
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">▲</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Cultural Layer</strong><br>
+<span style="font-size:0.9em;">
+• values, tone, pace, distance<br>
+• misunderstandings originate here
+</span>
+</div>
+
+<p><div style="height: 4em;"></div></p>
+
+<!-- Diagram 3 -->
+<p style="margin:0.5em 0;"><strong>Diagram 3 — How Mismatches Accumulate Into Fatigue</strong></p>
+<div style="height: 0.2em;"></div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Cultural mismatch</strong><br>
+<span style="font-size:0.9em;">
+• small emotional trace
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">＋</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Algorithmic exposure</strong><br>
+<span style="font-size:0.9em;">
+• unpredictability
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">＋</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Lack of resolution</strong><br>
+<span style="font-size:0.9em;">
+• mental looping
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">＋</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<strong>Collapsed distance</strong><br>
+<span style="font-size:0.9em;">
+• emotional overload
+</span>
+</div>
+
+<hr style="margin:2em 0;">
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+  <strong style="color:#444;">SNS Fatigue</strong><br>
+  <span style="font-size:0.9em; color:#666;">
+  • structural, not personal
+  </span>
+</div>
+
+<p><div style="height: 4em;"></div></p>
+
+<!-- Diagram 4 -->
+<p style="margin:0.5em 0;"><strong>Diagram 4 — Boundary Erosion and Rebuilding</strong></p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+  Boundary Erosion
+</p>
+<div style="border:1px solid #ccc; padding:1.2em; margin:0 0 1.5em 0;">
+  <span style="font-size:0.9em;">
+    • constant alertness<br>
+    • unpredictable reactions<br>
+    • overexposure<br>
+    • tone ambiguity
+  </span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">↓</div>
+
+<p style="margin:1.2em 0 0.3em 0; font-weight:bold;">
+  Symptoms
+</p>
+<div style="border:1px solid #ccc; padding:1.2em; margin:0 0 1.5em 0;">
+  <span style="font-size:0.9em;">
+    • shrinking self<br>
+    • overthinking<br>
+    • emotional exhaustion<br>
+    • loss of clarity
+  </span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">↓</div>
+
+<p style="margin:1.2em 0 0.3em 0; font-weight:bold;">
+  Rebuilding Boundaries
+</p>
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em; color: rgba(150, 160, 250, 0.82);">
+• slow pace<br>
+• curated inputs<br>
+• selective engagement<br>
+• emotional boundaries<br>
+• intentional silence
+</span>
+</div>
+
+<p><div style="height: 4em;"></div></p>
+
+<!-- Diagram 5 -->
+<p style="margin:0.5em 0;"><strong>Diagram 5 — Safe Inner Space Model</strong></p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Safe Inner Space
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• clarity<br>
+• emotional rhythm<br>
+• calm presence
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">▲</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Supports
+</p>
+
+<div style="display:flex; gap:1em; flex-wrap:wrap; margin:1em 0;">
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• slow pace<br>
+• slow reading<br>
+• slow posting
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• limit exposure<br>
+• reduce noise<br>
+• match rhythm
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• choose timing<br>
+• protect energy<br>
+• define space
+</span>
+</div>
+
+</div> <!-- flex の終わり -->
+
+<div style="height: 4em;"></div>
+<div style="margin: 2.5em 0;"></div>
+
+<!-- Diagram 6 -->
+
+<p style="margin:0.5em 0;"><strong>Diagram 6 — How to Navigate SNS Without Losing Yourself</strong></p>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Observe
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• without absorbing
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Interpret
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• with context
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Choose
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• engage or not
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+Respond
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• slowly, calmly
+</span>
+</div>
+
+<div style="height: 4em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+<p class="footer-text en">
+  © 2026 Pi. Pi‑Fid Theory™.
+</p>
+</p>
+</p>
+
+  <br> 
+
+</p>
+</div> 
+
+<p><div style="height: 4em;"></div></p>
+
+<div style="text-align: center;">
+  <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+</div>
 
 
 
+  <div style="height: 33em;"></div>
+
+<div class="content">
+
+<h1 class="heading">第11章 — 図解ページ（日本語版）</h1>
+<br><br><br>
+
+<p class="jp">
+Pi‑Fid Theory™モデルを視覚的に理解するための図解ページ。  
+SNSにおける文化圏、境界線、内的空間、そして安全な関わり方を  
+“構造として” つかむためのマップをまとめている。
+</p>
+
+<div style="height: 3em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図1 — 4つの文化圏（Cultural Zones）</strong>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>静か圏</strong><br>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• ゆっくりしたペース<br>
+• 柔らかいトーン<br>
+• 広い距離感
+</span>
+</div>
+
+<div style="display:flex; gap:1em; flex-wrap:wrap; margin:1em 0;">
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• 温かくカジュアル<br>
+• 日常のリズム
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• 直接的・論理的<br>
+• 近い距離感
+</span>
+</div>
+
+</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+炎上圏
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 反応が速い<br>
+• ゼロ距離<br>
+• 感情の強さ
+</span>
+</div>
+
+<div style="height: 4em;"></div>
 
 
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図2 — SNSの“三層構造”</strong>
+<div style="height: 0.2em;"></div>
 
-📘 PiFid理論・教科書版
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>運営層（Operational）</strong>
+</p>
 
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• ルール、安全、中立性<br>
+• 文化衝突は解決できない
+</span>
+</div>
 
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">▲</div>
 
-第11章 — 図解ページ（日本語版）
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>アルゴリズム層</strong>
+</p>
 
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 文化を理解せず投稿を配布<br>
+• 意図しない露出が起きる
+</span>
+</div>
 
-PiFid構造モデルの視覚マップ
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">▲</div>
 
-図1 — 4つの文化圏（Cultural Zones）
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>文化層（Cultural）</strong>
+</p>
 
-                ┌──────────────────────────┐
-                │        静か圏            │
-                │  - ゆっくりしたペース     │
-                │  - 柔らかいトーン         │
-                │  - 広い距離感             │
-                └──────────────────────────┘
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 価値観、トーン、ペース、距離感<br>
+• 誤解の多くはここで発生
+</span>
+</div>
 
-   ┌──────────────────────────┐      ┌──────────────────────────┐
-   │        生活圏            │      │        議論圏            │
-   │ - 温かくカジュアル       │      │ - 直接的・論理的         │
-   │ - 日常のリズム           │      │ - 近い距離感             │
-   └──────────────────────────┘      └──────────────────────────┘
-
-                ┌──────────────────────────┐
-                │        炎上圏            │
-                │ - 反応が速い             │
-                │ - ゼロ距離               │
-                │ - 感情の強さ             │
-                └──────────────────────────┘
-
-
-図2 — SNSの“三層構造”
-
-┌──────────────────────────────────────────────┐
-│                運営層（Operational）          │
-│  - ルール、安全、中立性                      │
-│  - 文化衝突は解決できない                    │
-└──────────────────────────────────────────────┘
-                 ▲
-                 │
-┌──────────────────────────────────────────────┐
-│                アルゴリズム層                │
-│  - 文化を理解せず投稿を配布                  │
-│  - 意図しない露出が起きる                    │
-└──────────────────────────────────────────────┘
-                 ▲
-                 │
-┌──────────────────────────────────────────────┐
-│                  文化層（Cultural）           │
-│  - 価値観、トーン、ペース、距離感            │
-│  - 誤解の多くはここで発生                    │
-└──────────────────────────────────────────────┘
+<div style="height: 4em;"></div>
 
 
-図3 — “ズレ”が疲労へと積み重なるプロセス
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図3 — “ズレ”が疲労へと積み重なるプロセス</strong>
+<div style="height: 0.2em;"></div>
 
-文化のズレ → 小さな感情の痕跡
-          +
-アルゴリズム露出 → 予測不能さ
-          +
-解決の欠如 → 心のループ
-          +
-距離の崩壊 → 感情の過負荷
-────────────────────────────────
+<div style="border:1px solid #ccc; padding:1.2em; margin:1.5em 0;">
+<span style="font-size:0.9em;">
+文化のズレ → 小さな感情の痕跡<br>
+＋ アルゴリズム露出 → 予測不能さ<br>
+＋ 解決の欠如 → 心のループ<br>
+＋ 距離の崩壊 → 感情の過負荷<br><br>
 ＝ SNS疲労（個人ではなく構造の問題）
+</span>
+</div>
+
+<div style="height: 4em;"></div>
 
 
-図4 — 境界線の摩耗と再構築
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図4 — 境界線の摩耗と再構築</strong>
+<div style="height: 0.2em;"></div>
 
-【境界線の摩耗】
-- 常時警戒
-- 予測不能な反応
-- 過剰な露出
-- トーンの曖昧さ
-
-                ↓
-
-【症状】
-- 自分の縮小
-- 過剰な考え込み
-- 感情的疲労
-- 明瞭さの喪失
-
-                ↓
-
-【境界線の再構築】
-- ゆっくりしたペース
-- 受信の調整
-- 選択的な関わり
-- 感情の境界線
-- 意図的な沈黙
-
-
-図5 — “安全な内的空間”モデル
-
-                ┌──────────────────────────────┐
-                │        安全な内的空間         │
-                │  - 明瞭さ                     │
-                │  - 感情のリズム               │
-                │  - 静かな存在感               │
-                └──────────────────────────────┘
-                         ▲
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-   ゆっくりさ        受信の調整         境界線
-   - スローペース    - 露出を減らす     - タイミングを選ぶ
-   - ゆっくり読む    - ノイズを減らす   - エネルギーを守る
-   - ゆっくり投稿    - リズムを合わせる - 空間を定義する
-
-
-図6 — “自分を失わずにSNSを歩く”ための流れ
-
-           ┌───────────────┐
-           │   観察する      │
-           │ (吸収しすぎない) 
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │   解釈する      │
-           │ (文脈とともに)
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │   選択する      │
-           │ (関わるかどうか)
-           └───────────────┘
-                    ↓
-           ┌───────────────┐
-           │   返信する      │
-           │ (ゆっくり・静かに)
-           └───────────────┘
-
-
-
-
-<p style="font-size:0.75em; color: rgba(130, 140, 243, 0.801); text-align:left; margin-top:0;">
-  © 2026 Pi. All rights reserved.<br>
-  Sound of Planes<sup>®</sup> / PiFid Theory<sup>®</sup>
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>境界線の摩耗</strong>
 </p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:0 0 1.5em 0;">
+<span style="font-size:0.9em;">
+• 常時警戒<br>
+• 予測不能な反応<br>
+• 過剰な露出<br>
+• トーンの曖昧さ
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">↓</div>
+
+<p style="margin:1.2em 0 0.3em 0; font-weight:bold;">
+<strong>症状</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:0 0 1.5em 0;">
+<span style="font-size:0.9em;">
+• 自分の縮小<br>
+• 過剰な考え込み<br>
+• 感情的疲労<br>
+• 明瞭さの喪失
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.4em; margin:0.5em 0;">↓</div>
+
+<p style="margin:1.2em 0 0.3em 0; font-weight:bold;">
+<strong>境界線の再構築</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• ゆっくりしたペース<br>
+• 受信の調整<br>
+• 選択的な関わり<br>
+• 感情の境界線<br>
+• 意図的な沈黙
+</span>
+</div>
+
+<div style="height: 4em;"></div>
+
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図5 — “安全な内的空間”モデル</strong>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>安全な内的空間</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 明瞭さ<br>
+• 感情のリズム<br>
+• 静かな存在感
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">▲</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>支える3つの要素</strong>
+</p>
+
+<div style="display:flex; gap:1em; flex-wrap:wrap; margin:1em 0;">
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• スローペース<br>
+• ゆっくり読む<br>
+• ゆっくり投稿
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• 露出を減らす<br>
+• ノイズを減らす<br>
+• リズムを合わせる
+</span>
+</div>
+
+<div style="border:1px solid #ccc; padding:1.2em; flex:1; min-width:200px;">
+<span style="font-size:0.9em;">
+• タイミングを選ぶ<br>
+• エネルギーを守る<br>
+• 空間を定義する
+</span>
+</div>
+
+</div>
+
+<div style="height: 4em;"></div>
+
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;"></p>
+<strong>図6 — “自分を失わずにSNSを歩く”ための流れ</strong>
+<div style="height: 0.2em;"></div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>観察する</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 吸収しすぎない
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>解釈する</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 文脈とともに
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>選択する</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• 関わるかどうか
+</span>
+</div>
+
+<div style="text-align:center; font-size:1.3em; margin:0.5em 0;">↓</div>
+
+<p style="margin:0.8em 0 0.3em 0; font-weight:bold;">
+<strong>返信する</strong>
+</p>
+
+<div style="border:1px solid #ccc; padding:1.2em; margin:1em 0;">
+<span style="font-size:0.9em;">
+• ゆっくり・静かに
+</span>
+</div>
+
+<div style="height: 4em;"></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+
+  <p class="footer-text">
+  © 2026 Pi. Pi‑Fid Theory™.
+  </p>
+
+  <br> 
+
+  </p>
+  </div> 
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Textbook-version-index.html" class="button">Return to Textbook Version</a>
+  <a href="../Pi-Fid-Theory.html" class="button">Back to Pi‑Fid Theory™</a>
+  </div>
+  </div>
+
+  <br> 
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+
+  </div>
+
+  </body>
+  </html>
 
