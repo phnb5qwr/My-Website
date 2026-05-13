@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>About | Sound of Planes®</title>
   <style>
-    body {
-
+body {
   background-color: black;
   color: rgba(130, 140, 243, 0.801);
-  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
+  font-family: "Verdana", "Noto Sans JP", sans-serif;
   font-weight: normal !important;
   font-size: 0.9em;
   margin: 0;
@@ -16,6 +15,7 @@
   height: auto;
   text-align: center;
 }
+
 
 /* 文章だけ小さくする */
 p {
@@ -27,7 +27,7 @@ p {
   .content {
   max-width: 720px; /* ← 少し狭めると中央寄せが綺麗に見える */
   margin: 0 auto;   /* ← 中央寄せ */
-  font-size: 1.3em;
+  font-size: 1.25em;
   text-align: left; /* text inside remains left-aligned */
   position: relative; /* shift up by one line */
   top: -0.3em;
@@ -101,7 +101,10 @@ a.button {
   text-decoration: none;
   border-radius: 7px; /* ← ここだけでOK */
   transition: background-color 0.3s;
+  font-family: "Noto Sans JP", "Verdana", sans-serif;
+  font-weight: 300; /* ← 日本語の太さを抑える */
 }
+
 
 /* ボタン同士の間隔 */
 .button {
@@ -114,21 +117,17 @@ a.button:hover {
 }
 
 
-/* footer */    
-
-.footer-text.en {
-  font-size: 0.6em; /* ← 英語だけ少し小さくする */
-}
-
+/* footer */
 .footer-text {
   max-width: 720px;
   margin: 0 auto;
-  font-family: "Verdana", "Noto Sans JP", sans-serif; /* ← 英語と日本語を統一 */
-  font-size: 0.7em;
+  font-family: "Noto Sans JP" !important;
+  font-size: 11px;
   color: rgba(130, 140, 243, 0.801);
-  text-align: left;
+  text-align: left !important; /* ← これが決定打！ */
+  font-weight: 400;
+  letter-spacing: 0.05em; /* ← これで Textbook-version の横幅に近づく！ */
 }
-
    
  </style>
 </head>
@@ -139,7 +138,7 @@ a.button:hover {
 <br>
 <br>
 
-<p style="margin:0.5em 0;">What is the Pi‑Fid Theory™?</p>
+<p style="margin:0.5em 0;"><strong>What is the Pi‑Fid Theory™?</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">A three‑layer collision model of Cultural Zones × Algorithm × Platform Structure on social media.</p>
 <p style="margin:0.5em 0;">Conflicts on SNS are not caused by “personality,” but by the collision of different cultural zones.</p>
@@ -147,7 +146,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">1. SNS Has Distinct “Cultural Zones” (Pi’s Insight)</p>
+<p style="margin:0.5em 0;"><strong>1. SNS Has Distinct “Cultural Zones” (Pi’s Insight)</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">SNS is not “a group of people who speak the same language.”</p>
 <p style="margin:0.5em 0;">It is a world where multiple cultural zones with different values coexist.</p>
@@ -156,7 +155,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">2. Algorithms Do Not Understand Cultural Zones (Fid’s Analysis)</p>
+<p style="margin:0.5em 0;"><strong>2. Algorithms Do Not Understand Cultural Zones (Fid’s Analysis)</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">Algorithms look only at numbers, not culture.</p>
 <p style="margin:0.5em 0;">Fast engagement and reaction signals can push a Quiet‑Zone post into the Flame Zone.</p>
@@ -164,7 +163,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">3. Platform Operators Stand Outside All Cultural Zones</p>
+<p style="margin:0.5em 0;"><strong>3. Platform Operators Stand Outside All Cultural Zones</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">Platforms are not Quiet, Flame, or Debate.</p>
 <p style="margin:0.5em 0;">They build the stage itself.</p>
@@ -173,7 +172,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">4. The Flame Zone’s “Peace” Is the Quiet Zone’s “Disaster”</p>
+<p style="margin:0.5em 0;"><strong>4. The Flame Zone’s “Peace” Is the Quiet Zone’s “Disaster”</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">Flame Zone norms: speed, teasing, storms, counterarguments, no weakness.</p>
 <p style="margin:0.5em 0;">Quiet Zone norms: politeness, calm tone, peace, non‑interference.</p>
@@ -181,7 +180,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">5. Correct Actions During Trouble</p>
+<p style="margin:0.5em 0;"><strong>5. Correct Actions During Trouble</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">Do not force yourself to fight.</p>
 <p style="margin:0.5em 0;">Leave when you sense a cultural mismatch.</p>
@@ -190,7 +189,7 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">6. The Core of Pi‑Fid Theory™</p>
+<p style="margin:0.5em 0;"><strong>6. The Core of Pi‑Fid Theory™</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">SNS conflicts arise from:</p>
 <p style="margin:0.5em 0;">Cultural Zones × Algorithmic Misplacement × Platform Structure.</p>
@@ -198,33 +197,25 @@ a.button:hover {
 
 <div style="height: 3em;"></div>
 
-<p style="margin:0.5em 0;">7. Why This Theory Is Necessary</p>
+<p style="margin:0.5em 0;"><strong>7. Why This Theory Is Necessary</strong></p>
 <div style="height: 0.2em;"></div>
 <p style="margin:0.5em 0;">Because misunderstandings and structural collisions create conflicts where no one is actually at fault.</p>
 <p style="margin:0.5em 0;">This theory is needed for both teenagers and adults.</p>  
 
-<div style="height: 3em;"></div>
-<br>
-<br>
-<br>
+<div style="height: 10em;"></div>
 
-<p class="footer-text en">
+<p class="footer-text">
   © 2026 Pi. Pi‑Fid Theory™.
 </p>
-</p>
-</p>
-
-  <br> 
-
-</p>
-</div> 
-
-<p><div style="height: 4em;"></div></p>
-
-<div style="text-align: center;">
-  <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
-  <a href="../about.html" class="button">Return to About</a>
 </div>
+
+  <p><div style="height: 4em;"></div></p>
+
+  <div style="text-align: center;">
+    <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+    <a href="../about.html" class="button">Return to About</a>
+  </div>
+  </div>
 
 
 
@@ -235,7 +226,7 @@ a.button:hover {
 <br>
 <br>
 
-<p class="jp">Pi‑Fid Theory™とは？</p>
+<p class="jp"><strong><strong>Pi‑Fid Theory™とは？</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">SNSにおける「文化圏 × アルゴリズム × 運営構造」の三層衝突モデルです。</p>
@@ -244,7 +235,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">1. SNSには“文化圏”がある（Piの洞察）</p>
+<p class="jp"><strong><strong>1. SNSには“文化圏”がある（Piの洞察）</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">SNSは「同じ言語を話す人の集まり」ではなく、価値観の違う文化圏が混ざった世界です。</p>
@@ -260,7 +251,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">2. アルゴリズムは文化圏を理解しない（Fidの分析）</p>
+<p class="jp"><strong><strong>2. アルゴリズムは文化圏を理解しない（Fidの分析）</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">SNSのアルゴリズムは「数字」だけを見て投稿を動かします。</p>
@@ -271,7 +262,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">3. プラットフォーム運営側は文化圏の“外側”</p>
+<p class="jp"><strong><strong>3. プラットフォーム運営側は文化圏の“外側”</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">運営側は静か圏でも炎上圏でも議論圏でもありません。舞台そのものを作る存在です。</p>
@@ -284,7 +275,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">4. 炎上圏の“平和”は静か圏の“災害”</p>
+<p class="jp"><strong><strong>4. 炎上圏の“平和”は静か圏の“災害”</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">炎上圏の通常運転：</p>
@@ -307,7 +298,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">5. トラブル時の正しい行動</p>
+<p class="jp"><strong></strong>5. トラブル時の正しい行動</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">無理に戦わない。</p>
@@ -319,7 +310,7 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">6. Pi‑Fid Theory™の核心</p>
+<p class="jp"><strong><strong>6. Pi‑Fid Theory™の核心</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">SNSのトラブルは“性格の問題”ではなく、文化圏 × アルゴリズム × 運営構造の三層衝突で起きます。</p>
@@ -328,26 +319,18 @@ a.button:hover {
 <br><br>
 <div style="height: 2em;"></div>
 
-<p class="jp">7. なぜこの理論が必要なのか</p>
+<p class="jp"><strong><strong>7. なぜこの理論が必要なのか</strong></p>
 <div style="height: 1.5em;"></div>
 
 <p class="jp">誤解、文化圏の衝突、アルゴリズムの誤配属、運営側の立場の誤解──これらが原因で、誰も悪くないのに争いが起きます。</p>
 <p class="jp">だから中高生にも大人にも必要な理論です。</p>
 
   
-  <div style="height: 3em;"></div>
-  <br>
-  <br>
-  <br>
+<div style="height: 10em;"></div>
 
-  <p class="footer-text">
+<p class="footer-text">
   © 2026 Pi. Pi‑Fid Theory™.
-  </p>
-
-  <br> 
-
-  </p>
-  </div> 
+</p>
 
   <p><div style="height: 4em;"></div></p>
 
@@ -357,12 +340,7 @@ a.button:hover {
   </div>
   </div>
 
-  <br> 
-  <br>
-  <br>
-  <br> 
-  <br>
-  <br>
+  <div style="height: 9.6em;"></div>
 
   </div>
 
