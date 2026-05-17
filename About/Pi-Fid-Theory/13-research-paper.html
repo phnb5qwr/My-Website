@@ -4,115 +4,108 @@
   <meta charset="UTF-8">
   <title>About | Sound of Planes®</title>
   <style>
+
+/* ============================
+   Pi‑Fid Theory™ — Research Version CSS
+   ============================ */
+
+/* 全体 */
 body {
   background-color: black;
-  color: rgba(130, 140, 243, 0.801);
+  color: rgba(130, 140, 243, 0.82);
   font-family: "Verdana", "Noto Sans JP", sans-serif;
-  font-weight: normal !important;
+  font-weight: normal;
   font-size: 1em;
   margin: 0;
   padding: 40px;
-  height: auto;
   text-align: left;
-  letter-spacing: 0.01em; /* ← 全体をほんの少しだけ整える */
+  letter-spacing: 0.01em;
 }
 
-/* 文章 */
+/* 本文（論文は静かで均一） */
 p {
   font-size: 1em;
-  line-height: 1.68; /* ← ほんの少しだけ伸ばして静かに */
+  line-height: 1.60; /* ← Adultより少し詰めて論文らしく */
+  margin: 0;
 }
 
-/* 英語・日本語共通の本文ブロック */
+/* コンテンツ幅（論文は狭めで読みやすく） */
 .content {
-  max-width: 720px;
+  max-width: 680px;
   margin: 0 auto;
-  font-size: 1em; /* ← 1.22 → 1.20 にして落ち着かせる */
+  font-size: 1.00em;
   text-align: left;
-  position: relative;
-  top: -0.15em;
 }
 
-/* 見出し（さらに静かに） */
+/* 見出し（論文は強調しすぎない） */
 .heading {
-  font-size: 1.26em;   /* ← さらに静かに縮めた */
+  font-size: 1.22em;
   font-weight: 600;
-  margin-top: 1.35em;
-  margin-bottom: 0.85em;
-  text-align: left;
+  margin-top: 1.2em;
+  margin-bottom: 0;
   letter-spacing: 0.01em;
 }
 
-/* 英語版のサブタイトル */
+/* サブタイトル（h2）は太字にしない */
 .sub {
-  font-size: 1.06em !important;
-  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.05em;
   font-weight: 400;
   letter-spacing: 0.03em;
-}
-
-/* 日本語本文 */
-.jp {
-  max-width: 720px;
-  margin: 0 auto;
-  font-family: "Verdana", "Noto Sans JP", sans-serif;
-  font-size: 1.06em !important; /* ← さらに静かに */
-  line-height: 1.63; /* ← 英語より少し詰めて自然に */
-  font-weight: 300;
-  text-align: left;
-  letter-spacing: 0.01em;
-}
-
-/* 日本語見出し（静かめ） */
-.jp.heading {
-  font-size: 1.26em !important;
-  font-weight: 600;
-  margin-top: 1.35em;
-  margin-bottom: 0.85em;
-}
-
-/* 小さめ日本語 */
-.jp.small {
-  font-size: 0.85em;
-}
-
-/* ブランド表記 */
-.brand {
-  display: block;
-  font-weight: normal;
-  font-size: 1.08em;
-  letter-spacing: 0.03em;
-  text-align: left;
-  line-height: 0.5;
   margin-bottom: 0;
 }
 
-.brand + em {
-  display: block;
-  font-size: 1em;
-  line-height: 0.5 !important;
-  margin-top: -0.2em;
+/* 日本語本文（論文は静かで均一） */
+.jp {
+  font-family: "Noto Sans JP", "Verdana", sans-serif;
+  font-size: 1.00em;
+  line-height: 1.63;
+  font-weight: 300;
+  letter-spacing: 0.01em;
 }
 
-/* 余白クラス（統一） */
-.spacer-xxs { height: 0.1em; }
-.spacer-xs  { height: 0.2em; }
-.spacer-s   { height: 1em; }
-.spacer-m   { height: 1.5em; }
-.spacer-l   { height: 4em; }
-.spacer-2   { height: 6em; }
-.spacer-xl  { height: 5.5em; }
-.spacer-x2 { height: 8em; }
-.spacer-x3 { height: 9.6em; }
-.spacer-x4 { height: 10em; }
-.spacer-x5 { height: 12em; }
-.spacer-huge { height: 20em; }
+/* 日本語見出し（英語と視覚バランスを揃える） */
+h1.heading.jp {
+  font-size: 1.08em;
+  font-weight: 700;
+  margin-top: 1.4em;
+  margin-bottom: 0;
+}
 
+h2.heading.jp {
+  font-size: 1.05em;
+  font-weight: 700;
+  margin-top: 1.3em;
+  margin-bottom: 0;
+}
+
+h3.heading.jp {
+  font-size: 1.03em;
+  font-weight: 700;
+  margin-top: 1.2em;
+  margin-bottom: 0;
+}
+
+h4.heading.jp {
+  font-size: 1.00em;
+  font-weight: 700;
+  margin-top: 1.1em;
+  margin-bottom: 0;
+}
+
+/* ===== Spacer Units (Unified Across All Pi‑Fid Files) ===== */
+.spacer-xxs { height: 0.35rem; }
+.spacer-s   { height: 0.9rem; }
+.spacer-m   { height: 1.6rem; }
+.spacer-l   { height: 2.4rem; }
+.spacer-xl  { height: 3.6rem; }
+.spacer-huge { height: 6rem; }
+
+/* ボタン */
 /* ボタン */
 a.button {
   padding: 10px 20px;
   background-color: #222;
-  color: rgba(130, 140, 243, 0.801);
+  color: rgba(130, 140, 243, 0.82);
   text-decoration: none;
   border-radius: 7px;
   transition: background-color 0.3s;
@@ -125,18 +118,25 @@ a.button {
   margin: 0 15px;
 }
 
+/* ボタンの上下に余白を追加（新規） */
+.button-row {
+  margin-top: 2.0rem;     /* ← ほんの少し上を広げる */
+  margin-bottom: 2.8rem;  /* ← 下を少し広げて呼吸を作る */
+}
+
+
 a.button:hover {
   background-color: #444;
 }
 
 /* footer */
 .footer-text {
-  max-width: 720px;
-  margin: 0 auto;
-  font-family: "Noto Sans JP" !important;
+  max-width: 680px;
+  margin: 2.2rem auto 1.6rem auto;  /* ← 上下に余白を追加 */
+  font-family: "Noto Sans JP";
   font-size: 11px;
-  color: rgba(130, 140, 243, 0.801);
-  text-align: left !important;
+  color: rgba(130, 140, 243, 0.82);
+  text-align: left;
   font-weight: 400;
   letter-spacing: 0.05em;
 }
@@ -271,13 +271,9 @@ a.button:hover {
 
 <div class="spacer-x4"></div>
 
-<p class="footer-text">
-  © 2026 Pi. Pi‑Fid Theory™.
-</p>
+<p class="footer-text">© 2026 Pi. Pi‑Fid Theory™.</p>
 
-<div class="spacer-2"></div>
-
-<div style="text-align: center;">
+<div class="button-row" style="text-align:center;">
   <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
   <a href="../about.html" class="button">Return to About</a>
 </div>
@@ -286,21 +282,22 @@ a.button:hover {
 
 
 
+
 <div class="content">
 
 <h1 class="heading jp">Pi‑Fid Theory™ — 研究論文（日本語版）</h1>
 <div class="spacer-xl"></div>
 
-<h2 class="heading jp">SNSにおける文化圏・アルゴリズム配布・境界線の摩耗に関する構造的分析</h2>
+<h2 class="sub jp">SNSにおける文化圏・アルゴリズム配布・境界線の摩耗に関する構造的分析</h2>
 <div class="spacer-l"></div>
 
 <h3 class="heading jp">要旨（Abstract）</h3>
 <div class="spacer-m"></div>
 
 <p class="jp">SNSにおいて頻繁に発生する混乱・感情的疲労・対人摩擦を説明するための構造モデルとして Pi‑Fid Theory™ を提案する。本理論は、これらの現象が個人の心理的特性によって生じるのではなく、文化的規範・アルゴリズム配布・運営ルールという三つの独立した層の相互作用によって生じると主張する。</p>
+<div class="spacer-s"></div>
 
 <p class="jp">概念的分析を通じて、本論文はこれらの層の不一致が誤解・強制的近接・境界線の摩耗といった予測可能なパターンを生み出すことを示す。Pi‑Fid Theory™ は、ユーザーの疲労を「個人の失敗」ではなく「構造的帰結」として理解する枠組みを提供し、より健全なデジタル関与の基盤を提示する。</p>
-
 <div class="spacer-l"></div>
 
 
@@ -308,6 +305,7 @@ a.button:hover {
 <div class="spacer-m"></div>
 
 <p class="jp">SNSは現代の主要なコミュニケーション基盤となったが、多くのユーザーが混乱・疲労・対人緊張を経験している。従来の説明は、これらを個人の敏感さ、コミュニケーション能力の不足、あるいは感情的反応性に帰属させる傾向がある。</p>
+<div class="spacer-s"></div>
 
 <p class="jp">しかし、こうした説明はオンライン環境の構造的性質を見落としている。本論文は Pi‑Fid Theory™ を提示し、SNSにおける混乱を構造的現象として再定義する。本理論は、文化層・アルゴリズム層・運営層という三つの層が相互作用することで、誤解が不可避となる条件が生まれることを示す。</p>
 
@@ -320,7 +318,7 @@ a.button:hover {
 <h4 class="heading jp">2.1 文化圏（Cultural Zones）</h4>
 
 <p class="jp">ユーザーはそれぞれ、トーン・ペース・距離感・価値観によって形成された「文化圏」からコミュニケーションを行う。本論文では四つの主要文化圏を定義する。</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">静か圏：ゆっくりしたペース、柔らかいトーン、広い距離感</p>
 <p class="jp">議論圏：直接的なトーン、速いペース、近い距離感</p>
@@ -343,43 +341,46 @@ a.button:hover {
 <p class="jp">プラットフォームの運営ルールは安全性とシステム安定性に焦点を置く。文化的摩擦を扱うことはできず、欠けた文脈を回復することもできない。</p>
 <div class="spacer-l"></div>
 
+
 <h3 class="heading jp">3. 方法（Methods）</h3>
 <div class="spacer-m"></div>
 
 <p class="jp">本論文は実証研究ではなく、構造分析を用いる。方法は以下の通りである。</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">層の分解：文化・アルゴリズム・運営の三層を分離して分析</p>
 <p class="jp">相互作用のマッピング：層同士が衝突するポイントを特定</p>
 <p class="jp">ズレのモデル化：小さな誤解がどのように蓄積するかを追跡</p>
 <p class="jp">境界線分析：構造的圧力がユーザーの境界線をどう摩耗させるかを検討</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">この方法により、個人の心理特性に依存しない理論的説明が可能となる。</p>
 <div class="spacer-l"></div>
+
 
 <h3 class="heading jp">4. 結果（Findings）</h3>
 <div class="spacer-m"></div>
 
 <h4 class="heading jp">4.1 構造的ズレは予測可能である</h4>
-
+<div class="spacer-s"></div>
 
 <p class="jp">文化圏が境界なく重なると、トーンの曖昧さ、ペースの違い、距離感の不一致、価値観の衝突といった誤解が生じる。これらは個人的問題ではなく、構造的必然である。</p>
 <div class="spacer-m"></div>
 
 <h4 class="heading jp">4.2 アルゴリズム配布は文化摩擦を増幅する</h4>
+<div class="spacer-s"></div>
 
 <p class="jp">アルゴリズムは文化的適合性を考慮しないため、予測不能性・感情的緊張・解釈の不確実性が増加する。強制的近接は文化的ズレを強める。</p>
 <div class="spacer-m"></div>
 
-
 <h4 class="heading jp">4.3 解決の欠如は認知ループを生む</h4>
+<div class="spacer-s"></div>
 
 <p class="jp">SNSの多くのやり取りは決着がつかないまま終わるため、ユーザーは心の再生（mental replay）、欠けた文脈の再構築、長期的な感情活性化を経験し、疲労が蓄積する。</p>
 <div class="spacer-m"></div>
 
-
 <h4 class="heading jp">4.4 境界線の摩耗は構造的結果である</h4>
+<div class="spacer-s"></div>
 
 <p class="jp">通知・露出・曖昧なトーンは境界線を徐々に削り、過敏化・過剰解釈・感情的過負荷・内的空間の縮小を引き起こす。これは個人の弱さではなく、構造的圧力の結果である。</p>
 <div class="spacer-l"></div>
@@ -387,44 +388,40 @@ a.button:hover {
 
 
 <h3 class="heading jp">5. 考察（Discussion）</h3>
-
 <div class="spacer-m"></div>
 
 <p class="jp">Pi‑Fid Theory™ は、SNS疲労を「個人の問題」ではなく層の相互作用による予測可能な結果として再定義する。この視点は以下の示唆を持つ。</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">デザインへの示唆：文化圏認識や強制的近接の軽減が可能</p>
 <p class="jp">ユーザーへの示唆：ペース調整・露出管理・境界線再構築が有効</p>
 <p class="jp">研究への示唆：文化圏間の相互作用やアルゴリズムのズレの実証研究が可能</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">また本理論は、オンラインの感情的困難を心理的問題として扱う従来の見方を批判し、構造が感情を形づくるという視点を提示する。</p>
 <div class="spacer-l"></div>
+
 
 
 <h3 class="heading jp">6. 結論（Conclusion）</h3>
 <div class="spacer-m"></div>
 
 <p class="jp">Pi‑Fid Theory™ は、SNSにおける混乱・疲労・境界線の摩耗を説明するための構造的枠組みを提供する。文化圏・アルゴリズム配布・運営中立性という三層を特定することで、誤解がなぜ頻発し、なぜユーザーが自分を責めてしまうのかを明らかにする。</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p class="jp">これらの構造を理解することで、人々は明瞭さを取り戻し、境界線を再構築し、より意図的で健全なデジタル関与が可能になる。Pi‑Fid Theory™ は、オンライン空間を静かに読み解くための概念的基盤である。</p>
 
 <div class="spacer-x4"></div>
 
+<p class="footer-text">© 2026 Pi. Pi‑Fid Theory™.</p>
 
-<p class="footer-text">
-  © 2026 Pi. Pi‑Fid Theory™.
-</p>
+<div class="button-row" style="text-align:center;">
+  <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
+  <a href="../about.html" class="button">Return to About</a>
+</div>
 
-<div class="spacer-2"></div>
+<div class="spacer-huge"></div>
 
-  <div style="text-align: center;">
-    <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
-    <a href="../about.html" class="button">Return to About</a>
-  </div>
-
-<div class="spacer-x3"></div>
 
   </body>
   </html>
