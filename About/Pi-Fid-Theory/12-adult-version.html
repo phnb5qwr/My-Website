@@ -4,100 +4,107 @@
   <meta charset="UTF-8">
   <title>About | Sound of Planes®</title>
   <style>
+
+/* ============================
+   Pi‑Fid Theory™ — Adult Version CSS
+   ============================ */
+
+/* 全体 */
 body {
   background-color: black;
-  color: rgba(130, 140, 243, 0.801);
+  color: rgba(130, 140, 243, 0.82);
   font-family: "Verdana", "Noto Sans JP", sans-serif;
-  font-weight: normal !important;
-  font-size: 1.0em;
+  font-weight: normal;
+  font-size: 1em;
   margin: 0;
   padding: 40px;
-  height: auto;
   text-align: left;
   letter-spacing: 0.01em;
 }
 
+/* 本文（Adultは読みやすさ優先） */
 p {
-  font-size: 1em;
-  line-height: 1.72;
+  font-size: 1.06em;
+  line-height: 1.70; /* ← Adult版は少し広めで柔らかい */
+  margin: 0;
 }
 
+/* コンテンツ幅（Adultは広めで読みやすい） */
 .content {
   max-width: 720px;
   margin: 0 auto;
   font-size: 1.06em;
   text-align: left;
-  position: relative;
-  top: -0.15em;
 }
 
+/* 見出し（Adultは少し強め） */
 .heading {
-  font-size: 1.26em;
-  font-weight: 600;
+  font-size: 1.28em;
+  font-weight: 650;
   margin-top: 1.35em;
-  margin-bottom: 0.85em;
-  text-align: left;
+  margin-bottom: 0;
   letter-spacing: 0.01em;
 }
 
+/* サブタイトル（h2）は太字にしない） */
 .sub {
-  font-size: 1.06em !important;
-  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.10em;
   font-weight: 400;
   letter-spacing: 0.03em;
-}
-
-.jp {
-  max-width: 720px;
-  margin: 0 auto;
-  font-family: "Verdana", "Noto Sans JP", sans-serif;
-  font-size: 1.00em !important;
-  line-height: 1.63;
-  font-weight: 300;
-  text-align: left;
-  letter-spacing: 0.01em;
-}
-
-.jp.heading {
-  font-size: 1.26em !important;
-  font-weight: 600;
-  margin-top: 1.35em;
-  margin-bottom: 0.85em;
-}
-
-.jp.small {
-  font-size: 0.85em;
-}
-
-.brand {
-  display: block;
-  font-weight: normal;
-  font-size: 1.08em;
-  letter-spacing: 0.03em;
-  text-align: left;
-  line-height: 0.5;
   margin-bottom: 0;
 }
 
-.brand + em {
-  display: block;
-  font-size: 1em;
-  line-height: 0.5 !important;
-  margin-top: -0.2em;
+/* 日本語本文（Adultは柔らかい読み心地） */
+.jp {
+  font-family: "Noto Sans JP", "Verdana", sans-serif;
+  font-size: 1.03em;
+  line-height: 1.72;
+  font-weight: 300;
+  letter-spacing: 0.01em;
 }
 
-.spacer-xxs { height: 0.35em; }
-.spacer-s   { height: 0.9em; }
-.spacer-m   { height: 1.8em; }
-.spacer-l   { height: 3.6em; }
-.spacer-xl  { height: 7.2em; }
-.spacer-huge { height: 14em; }
+/* 日本語見出し（Adultは少し強め） */
+h1.heading.jp {
+  font-size: 1.18em;
+  font-weight: 700;
+  margin-top: 1.45em;
+  margin-bottom: 0;
+}
 
+h2.heading.jp {
+  font-size: 1.12em;
+  font-weight: 700;
+  margin-top: 1.35em;
+  margin-bottom: 0;
+}
 
+h3.heading.jp {
+  font-size: 1.08em;
+  font-weight: 700;
+  margin-top: 1.25em;
+  margin-bottom: 0;
+}
+
+h4.heading.jp {
+  font-size: 1.04em;
+  font-weight: 700;
+  margin-top: 1.15em;
+  margin-bottom: 0;
+}
+
+/* ===== Spacer Units (Unified Across All Pi‑Fid Files) ===== */
+.spacer-xxs { height: 0.35rem; }
+.spacer-s   { height: 1.1rem; }   /* ← Adultは少し広め */
+.spacer-m   { height: 1.8rem; }
+.spacer-l   { height: 2.6rem; }
+.spacer-xl  { height: 3.8rem; }
+.spacer-huge { height: 6rem; }
+
+/* ボタン */
 a.button {
   padding: 10px 20px;
   background-color: #222;
-  color: rgba(130, 140, 243, 0.801);
+  color: rgba(130, 140, 243, 0.82);
   text-decoration: none;
   border-radius: 7px;
   transition: background-color 0.3s;
@@ -110,17 +117,24 @@ a.button {
   margin: 0 15px;
 }
 
+/* ボタンの上下に余白 */
+.button-row {
+  margin-top: 2.2rem;
+  margin-bottom: 3.0rem;
+}
+
 a.button:hover {
   background-color: #444;
 }
 
+/* footer */
 .footer-text {
   max-width: 720px;
-  margin: 0 auto;
-  font-family: "Noto Sans JP" !important;
+  margin: 2.4rem auto 1.8rem auto;
+  font-family: "Noto Sans JP";
   font-size: 11px;
-  color: rgba(130, 140, 243, 0.801);
-  text-align: left !important;
+  color: rgba(130, 140, 243, 0.82);
+  text-align: left;
   font-weight: 400;
   letter-spacing: 0.05em;
 }
@@ -139,10 +153,13 @@ a.button:hover {
 <div class="spacer-s"></div>
 
 <p>SNS is not chaotic because people are emotional. It is chaotic because the structure itself creates conditions where misunderstandings are inevitable.</p>
+<div class="spacer-s"></div>
 
 <p>The Pi‑Fid Theory™ begins with a simple premise: most confusion online is not personal — it is structural.</p>
+<div class="spacer-s"></div>
 
 <p>We live inside a system where cultural norms, algorithmic forces, and operational rules intersect without coordination.</p>
+<div class="spacer-s"></div>
 
 <p>Each layer behaves logically on its own, yet irrationally when combined. People interpret this irrationality as hostility, rejection, or failure, even though none of it originates from personal intention.</p>
 
@@ -150,25 +167,25 @@ a.button:hover {
 
 
 <h3 class="heading">Cultural Zones: Four Worlds Sharing One Space</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Every user carries a “cultural zone” shaped by tone, pace, distance, and values. These zones coexist in the same digital room, even though they were never designed to overlap.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>The Quiet Zone speaks softly and slowly.</p>
 <p>The Debate Zone values directness and speed.</p>
 <p>The Flame Zone reacts instantly with intensity.</p>
 <p>The Life Zone communicates casually and warmly.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Offline, these zones rarely collide. Online, they collide constantly.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>A gentle sentence can look cold.</p>
 <p>A neutral question can look confrontational.</p>
 <p>A fast reply can feel aggressive.</p>
 <p>A slow reply can feel dismissive.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>None of these reactions are personal. They are the natural friction of incompatible norms sharing a single, boundary‑less space.</p>
 
@@ -176,18 +193,18 @@ a.button:hover {
 
 
 <h3 class="heading">Algorithms: Distribution Without Understanding</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Algorithms do not understand culture. They do not understand tone, intention, or emotional context. They only understand patterns of engagement.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>A quiet post can be thrown into a reactive zone.</p>
 <p>A personal reflection can be delivered to strangers.</p>
 <p>A soft voice can be amplified into a loud room.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>This is not malice. It is mechanical indifference.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>The algorithm moves content without considering the emotional consequences for the sender or the receiver. It creates forced proximity — closeness that no one chose.</p>
 
@@ -195,11 +212,13 @@ a.button:hover {
 
 
 <h3 class="heading">Operational Rules: Neutrality Without Context</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Platform rules focus on safety, legality, and system stability. They do not address cultural friction. They cannot resolve misunderstandings. They cannot restore context.</p>
+<div class="spacer-s"></div>
 
 <p>When a conflict arises, the system remains silent. This silence is often misinterpreted as abandonment or unfairness, but it is simply the limit of what operational rules can do.</p>
+<div class="spacer-s"></div>
 
 <p>The structure is neutral, but neutrality is not the same as clarity.</p>
 
@@ -207,10 +226,10 @@ a.button:hover {
 
 
 <h3 class="heading">Accumulated Mismatches: How Fatigue Forms</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>People rarely burn out from a single event. Fatigue forms through the accumulation of small mismatches:</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>a tone misunderstood.</p>
 <p>a pace misaligned.</p>
@@ -218,10 +237,10 @@ a.button:hover {
 <p>a reaction unexpected.</p>
 <p>a context missing.</p>
 <p>a silence unexplained.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Each moment leaves a trace. Each trace adds weight. Eventually, the mind begins to shrink itself to avoid further friction.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>This shrinking is not weakness. It is a structural response to structural pressure.</p>
 
@@ -229,25 +248,25 @@ a.button:hover {
 
 
 <h3 class="heading">Boundary Collapse: The Quiet Erosion of Inner Space</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>SNS erodes boundaries in subtle ways.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Notifications create micro‑vigilance.</p>
 <p>Unpredictable exposure creates tension.</p>
 <p>Ambiguous tone creates doubt.</p>
 <p>Overlapping zones create confusion.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>When boundaries collapse, every reaction feels personal.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Criticism feels sharp.</p>
 <p>Silence feels heavy.</p>
 <p>Attention feels intrusive.</p>
 <p>Expectations feel overwhelming.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>The mind becomes crowded. The inner space becomes narrow.</p>
 
@@ -255,10 +274,10 @@ a.button:hover {
 
 
 <h3 class="heading">Rebuilding Boundaries: A Deliberate Act</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Boundaries do not rebuild themselves. They are reconstructed through small, intentional choices:</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>slowing the pace.</p>
 <p>limiting exposure.</p>
@@ -266,10 +285,10 @@ a.button:hover {
 <p>allowing silence.</p>
 <p>curating what you receive.</p>
 <p>defining your emotional distance.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>These choices are not avoidance. They are self‑regulation — the act of creating a stable inner environment in an unstable outer one.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>A boundary is not a wall. It is a definition of space.</p>
 
@@ -277,13 +296,13 @@ a.button:hover {
 
 
 <h3 class="heading">Safe Inner Space: Stability in an Unpredictable System</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Safety online is not achieved through control. You cannot control who sees your words or how they interpret them. But you can control the space you occupy.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>A safe inner space is built from:</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>clarity.</p>
 <p>predictability.</p>
@@ -291,10 +310,10 @@ a.button:hover {
 <p>intentional slowness.</p>
 <p>selective engagement.</p>
 <p>quiet observation.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>When this space is intact, you can participate without losing yourself. You can read without absorbing everything. You can respond without rushing. You can exist without shrinking.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Safety is not the absence of risk. It is the presence of inner stability.</p>
 
@@ -302,23 +321,25 @@ a.button:hover {
 
 
 <h3 class="heading">The Purpose of Pi‑Fid Theory™</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p>Pi‑Fid Theory™ is not a theory about emotion. It is a theory about structure.</p>
+<div class="spacer-s"></div>
 
 <p>It explains why confusion arises, why fatigue accumulates, why boundaries erode, and why people blame themselves for problems that are not theirs.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Its purpose is simple:</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>to restore clarity.</p>
 <p>to separate personal identity from systemic behavior.</p>
 <p>to give people a way to understand the environment.</p>
 <p>to help them rebuild the space they need to stay whole.</p>
-<div class="spacer-xxs"></div>
+<div class="spacer-s"></div>
 
 <p>Pi‑Fid Theory™ is a quiet theory. It does not accuse. It does not dramatize. It simply reveals the structure beneath the noise.</p>
+<div class="spacer-s"></div>
 
 <p>And once the structure is visible, the confusion begins to dissolve.</p>
 
@@ -330,7 +351,7 @@ a.button:hover {
 
 <div class="spacer-l"></div>
 
-<div style="text-align: center;">
+<div class="button-row" style="text-align: center;">
   <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
   <a href="../about.html" class="button">Return to About</a>
 </div>
@@ -362,7 +383,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">文化圏：ひとつの空間に重なる四つの世界</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">すべてのユーザーは、トーン・ペース・距離感・価値観によって形づくられた「文化圏」を背負っている。これらの文化圏は、本来交わらないはずのものが、同じデジタル空間に重なって存在している。</p>
 <div class="spacer-s"></div>
@@ -385,7 +406,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">アルゴリズム：理解なき配布</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">アルゴリズムは文化を理解しない。トーンも意図も文脈も理解しない。理解するのは「反応のパターン」だけ。</p>
 <div class="spacer-s"></div>
@@ -400,7 +421,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">運営ルール：文脈を扱えない中立性</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">プラットフォームのルールは、安全性・法的要件・システムの安定に焦点を置く。文化的摩擦は扱わない。誤解は解決できない。文脈は復元できない。</p>
 <div class="spacer-s"></div>
@@ -414,7 +435,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">ズレの蓄積：疲労が生まれる仕組み</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">人は一度の出来事で疲れ果てるわけではない。疲労は、小さなズレの積み重ねで生まれる。</p>
 <div class="spacer-s"></div>
@@ -436,7 +457,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">境界線の崩壊：内的空間の静かな侵食</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">SNSは境界線をゆっくりと削っていく。</p>
 <div class="spacer-s"></div>
@@ -462,7 +483,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">境界線の再構築：意図的な行為</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">境界線は自然には戻らない。小さな意図的な選択によって再構築される。</p>
 <div class="spacer-s"></div>
@@ -484,7 +505,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">安全な内的空間：予測不能な世界での安定</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">オンラインの安全は、コントロールでは得られない。誰が見るか、どう解釈されるかは選べない。しかし、自分がどんな空間に立つかは選べる。</p>
 <div class="spacer-s"></div>
@@ -509,7 +530,7 @@ a.button:hover {
 
 
 <h3 class="heading jp">Pi‑Fid Theory™ の目的</h3>
-<div class="spacer-s"></div>
+<div class="spacer-m"></div>
 
 <p class="jp">Pi‑Fid Theory™ は感情の理論ではない。構造の理論である。</p>
 <div class="spacer-s"></div>
@@ -531,8 +552,6 @@ a.button:hover {
 
 <p class="jp">構造が見えるようになったとき、混乱はゆっくりと溶けていく。</p>
 
-</div>
-
 <div class="spacer-xl"></div>
 
 <p class="footer-text">
@@ -541,7 +560,7 @@ a.button:hover {
 
 <div class="spacer-l"></div>
 
-<div style="text-align: center;">
+<div class="button-row" style="text-align: center;">
   <a href="Pi-Fid-Theory.html" class="button">Pi‑Fid Theory™ Index</a>
   <a href="../about.html" class="button">Return to About</a>
 </div>
