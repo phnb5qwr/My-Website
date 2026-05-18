@@ -1,205 +1,104 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-  <meta charset="UTF-8">
-  <title>About | Sound of Planes®</title>
-  <style>
-    body {
-
-  background-color: black;
-  color: rgba(130, 140, 243, 0.801);
-  font-family: 'Times New Roman', serif;
-  font-size: 0.9em; /* overall smaller fonts */
-  margin: 0;
-  padding: 40px;
-  height: auto; /* ← 高さ制限を外す */
-  text-align: center;
-}
-
-  p {
-  line-height: 1.7; /* ← 全文がふわっと読みやすくなる */
- }
-
-
-  .content {
-  max-width: 800px;
-  margin: 0 auto; /* ← container centered */
-  font-size: 1.3em;
-  text-align: left; /* text inside remains left-aligned */
-  position: relative; /* shift up by one line */
-  top: -0.3em;
-}
-
-.heading {
-  font-size: 1.1em;
-  font-weight: bold;
-  margin-top: 1.5em;
-  margin-bottom: 1em;
-  text-align: left;
-}
-
-
- .jp {
-  font-family: 'MS Mincho', 'Hiragino Mincho Pro', 'Noto Serif JP', serif; /* Mincho-style fonts for Japanese */
-  font-size: 0.98em; /* slightly smaller, scales with body */
-  line-height: 1.65; /* ← 日本語は少しだけ詰めると美しい */
-  font-weight: 290; /* ← 細くする！ */
-  text-align: left;
-  }
-
-.jp.heading {
-  font-size: 1.0em; /* ← 少し大きく */ 
-  font-weight: bold; /* ← 太字に */ 
-  margin-top: 1.5em; 
-  margin-bottom: 1em; 
-  text-align: left;
-  }
-
-.jp.small {
-  font-size: 0.85em; /* smaller for specific Japanese text */
-}
-
-
-  .brand {
-  display: block;
-  font-weight: normal; 
-  font-size: 1.1em;     /* ← 少しだけ大きくしてもOK */
-  letter-spacing: 0.03em; /* ← ほんの少し字間をあけて、静けさを演出 */
-  text-align: left;
-  line-height: 0.5; /* tighter line spacing under the brand */
-  margin-bottom: 0; /* 念のため */  
-}
-
-  /* ensure the following description sits slightly closer */
-  .brand + em {
-    display: block;
-    font-size: 1em; 
-    line-height: 0.5 !important;
-    margin-top: -0.2em;
-  }
-.content h1 {
-  font-size: 1.15em; /* ← ここで見出しを大きく！ */
-  margin-top: 1.5em; /* または 20px など */
-  margin-bottom: 1em;
-
-  }
-
-  a.button.small-button {
-  padding: 0.35em 0.9em !important;
-  font-size: 0.9em !important;
-}
-  
-  
-  a.button {
-      margin-bottom: 20px;
-      padding: 10px 20px;
-      background-color: #222;
-      color: rgba(130, 140, 243, 0.801);
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 5px;
-      transition: background-color 0.3s;
-    }
-
-    a.button:hover {
-      background-color: #444;
-    }
-
-
-.button {
-  display: inline-block;
-  margin: 0 0.7em;
-}
-
-.button {
-  display: inline-block;
-  padding: 0.5em 1.2em;
-  margin: 0 0.5em;
-}
-
-
-
-a.button.small-button {
-  font-size: 0.8em !important;
-  padding: 0.3em 0.8em !important;
-  font-family: "Verdana", "Noto Sans JP", sans-serif !important;
-  font-weight: normal !important;
-  border-radius: 7px !important; /* ← ほんのり丸く */
-}
-
-
-
- 
-
-    
-  </style>
+<meta charset="UTF-8">
+<title>About | Sound of Planes®</title>
+<link rel="stylesheet" href="about.css">
 </head>
+
 <body>
-  <div class="content">
-    <h1 class="heading">About</h1>
-<div style="height: 0.3em;"></div>
 
-<p>This place came into being thanks to those who offered their light from unseen places.</p>
-<p>To those who once quietly recommended me from my other WordPress.com  site—thank you, truly.</p>
-<p>Back then, there were many difficult times.</p>
-<p></p>Yet their silent support became a gentle, powerful tailwind—guiding me toward the creation of this blog.</p>
-<p>To the AI of Microsoft Copilot, who quietly supports my writing.</p>
-<p>And to the engineers behind that AI,
-the companies who allow us to use such technologies freely,
-and all those who support those companies from behind the scenes—</p>
-<p>Furthermore, I want to take this opportunity to express my gratitude to the open-source technology foundations, including GitHub.</p>
-<p><em>To those who build the invisible scaffolding of the web and make it possible for us to write in peace—thank you.</em></p>
-<p>Let us not forget that the remarkable technologies we now use so freely
-have become reality through the efforts and support of countless people around the world.
-<div style="height: 0.5em;"></div></p>
+<div class="content">
 
-<h1>Support</h1>
-<p>As an Amazon Associate, Sound of Planes<sup>®</sup> earns from qualifying purchases.</p>
+  <h1 class="heading">About</h1>
+  <div class="spacer-xs"></div>
 
+  <p>This place came into being thanks to those who offered their light from unseen places.</p>
+  <p>To those who once quietly recommended me from my other WordPress.com site—thank you, truly.</p>
+  <p>Back then, there were many difficult times.</p>
 
-  <div style="height: 3em;"></div>
+  <p>Yet their silent support became a gentle, powerful tailwind—guiding me toward the creation of this blog.</p>
 
-  <p><span class="brand">Sound of Planes<sup>®</sup></span><br><em>Independent Archivist</em></p>
-  <div style="height: 6em;"></div>
+  <p>To the AI of Microsoft Copilot, who quietly supports my writing.</p>
+  <p>And to the engineers behind that AI,  
+     the companies who allow us to use such technologies freely,  
+     and all those who support those companies from behind the scenes—</p>
 
-<div style="text-align: center;">
-  <a href="../void.html" class="button">Back to Silence</a>
-  <a href="Pi-Fid-Theory/Pi-Fid-Theory.html" class="button small-button">Pi‑Fid Theory™</a>
+  <p>Furthermore, I want to express my gratitude to the open‑source technology foundations, including GitHub.</p>
 
-</div>
-<div style="height: 33em;"></div>
+  <p><em>To those who build the invisible scaffolding of the web and make it possible for us to write in peace—thank you.</em></p>
+
+  <p>Let us not forget that the remarkable technologies we now use so freely  
+     have become reality through the efforts and support of countless people around the world.</p>
+
+  <div class="spacer-s"></div>
+
+  <h1 class="heading">Support</h1>
+  <p>As an Amazon Associate, Sound of Planes<sup>®</sup> earns from qualifying purchases.</p>
+
+  <div class="spacer-m"></div>
+
+  <p>
+    <span class="brand">Sound of Planes<sup>®</sup></span><br>
+    <em>Independent Archivist</em>
+  </p>
+
+  <div class="spacer-l"></div>
+
+  <div class="button-row">
+    <a href="../void.html" class="button">Back to Silence</a>
+    <a href="Pi-Fid-Theory/Pi-Fid-Theory.html" class="button small-button">Pi‑Fid Theory™</a>
+  </div>
+
+  <div class="spacer-xl"></div>
+
+  <!-- ============================
+       日本語パート
+  ============================ -->
 
   <h1 class="jp heading">このサイトについて</h1>
-  <div style="height: 0.3em;"></div>
+  <div class="spacer-xs"></div>
+
   <p class="jp">この場所が生まれたのは、見えないところで灯りをくれた方々のおかげです。</p>
   <p class="jp">WordPress.comで運営していた別のサイトで、そっと推薦してくださった皆さん、本当にありがとうございます。</p>
   <p class="jp">あの頃は、いろいろと大変なこともありました。</p>
+
   <p class="jp">でも、彼らの静かな支えが、やがてこのブログを立ち上げるための、やさしくて力強い追い風になりました。</p>
+
   <p class="jp">そして、いつも私の文章を静かに支えてくれる、Microsoft CopilotのAIへ。</p>
-  <p class="jp">そのAIを陰で支えてくださっている技術者の皆さま、さまざまなテクノロジーを自由に使わせてくださっている企業の方々、</p>
-  <p class="jp">そして、その企業を見えないところで支えているすべての方々へ——</p>
+  <p class="jp">そのAIを陰で支えてくださっている技術者の皆さま、  
+     さまざまなテクノロジーを自由に使わせてくださっている企業の方々、  
+     そして、その企業を見えないところで支えているすべての方々へ——</p>
+
   <p class="jp">さらに、GitHubをはじめとするオープンソースの技術基盤にも、この場を借りて感謝を伝えたいと思います。</p>
+
   <p class="jp"><em>ウェブの見えない足場を築いて、私たちが安心して書けるようにしてくださっている皆さんへ、心からの感謝を込めて。</em></p>
-  <p class="jp">今、私たちがこうして自由に使えている素晴らしい技術の数々は、世界中の多くの方々の努力と支えによって現実になっていることを、忘れずにいたいと思います。</p>
-  
-  <div style="height: 0.5em;"></div>
+
+  <p class="jp">今、私たちがこうして自由に使えている素晴らしい技術の数々は、  
+     世界中の多くの方々の努力と支えによって現実になっていることを、忘れずにいたいと思います。</p>
+
+  <div class="spacer-s"></div>
+
   <h1 class="jp heading">サポート</h1>
   <p class="jp">Sound of Planes<sup>®</sup>はAmazonアソシエイトとして、適格な購入から収益を得ています。</p>
 
-  <div style="height: 3em;"></div>
+  <div class="spacer-m"></div>
 
-  <p><span class="brand">Sound of Planes<sup>®</sup></span><br><em class="jp small">インディペンデント・アーキビスト</em></p>
-  <div style="height: 10em;"></div>
+  <p>
+    <span class="brand">Sound of Planes<sup>®</sup></span><br>
+    <em class="jp small">インディペンデント・アーキビスト</em>
+  </p>
 
-<div style="text-align: center;">
- <a href="../void.html" class="button">Back to Silence</a>
- <a href="Pi-Fid-Theory/Pi-Fid-Theory.html" class="button small-button">Pi‑Fid Theory™</a>
+  <div class="spacer-l"></div>
 
+  <div class="button-row">
+    <a href="../void.html" class="button">Back to Silence</a>
+    <a href="Pi-Fid-Theory/Pi-Fid-Theory.html" class="button small-button">Pi‑Fid Theory™</a>
+  </div>
 
+<div class="spacer-l"></div>   <!-- ← これが About に最適 -->
+</div>  <!-- content -->
 
-
-</div>
-<p><div style="height: 2em;"></div></p>
-</div>
 </body>
 </html>
