@@ -145,3 +145,9 @@ a.button:hover {
   text-align: left;
   letter-spacing: 0.05em;
 }
+
+.footer-dummy {
+  margin: 0;
+  padding-bottom: 1em;   /* 通常の <p> の margin-bottom と同じ量 */
+}
+
