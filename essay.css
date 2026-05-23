@@ -20,7 +20,6 @@ body {
   font-size: 1.25em;
   text-align: left;
   position: relative;
-  top: -0.2em;
 }
 
 /* ===========================
@@ -35,6 +34,9 @@ body {
   margin-top: 1.5em;
   margin-bottom: 1em;
   text-align: left;
+
+  /* ⭐ 数字が沈まない魔法の1行 */
+  font-variant-numeric: lining-nums;
 }
 
 /* ===========================
@@ -57,7 +59,7 @@ body {
   font-family: 'MS Mincho', 'Hiragino Mincho Pro', 'Noto Serif JP', serif;
   font-size: 0.98em;
   line-height: 1.35;
-  font-weight: 290;
+  font-weight: 300;
   margin: 0.5em 0;
   text-align: left;
 }
@@ -86,14 +88,14 @@ body {
   font-size: 1.1em;
   letter-spacing: 0.03em;
   text-align: left;
-  line-height: 0.5;
+  line-height: 0.8;
   margin-bottom: 0;
 }
 
 .brand + em {
   display: block;
   font-size: 1em;
-  line-height: 0.5 !important;
+  line-height: 0.8 !important;
   margin-top: -0.2em;
 }
 
@@ -116,7 +118,7 @@ body {
 =========================== */
 
 a.button {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Georgia, "EB Garamond", serif;
   font-size: 0.9em;
   letter-spacing: 0.03em;
   padding: 10px 20px;
@@ -128,7 +130,6 @@ a.button {
   transition: background-color 0.3s;
   margin: 5px;
 }
-
 
 a.button:hover {
   background-color: #444;
