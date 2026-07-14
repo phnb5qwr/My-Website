@@ -166,11 +166,18 @@ footer,
    Responsive
 =========================== */
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   body {
     padding: 20px;
   }
   .content {
-    font-size: 1.15em;
+    font-size: 1.18em;
+    line-height: 1.7;
+  }
+  .jp {
+    font-size: 1.02em;
+  }
+  .en {
+    font-size: 1.03em;
   }
 }
