@@ -17,6 +17,7 @@
       justify-content: center;   /* ← 中央寄せに戻す */
       align-items: center;
       text-align: center;
+      max-width: 100%;   /* ← 正しい位置はここ */
     }
 
     h1 {
@@ -46,6 +47,29 @@
     a:hover {
       background-color: #444;
     }
+
+
+    @media screen and (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2em;     /* ← スマホで大きく見える */
+  }
+
+  h2 {
+    font-size: 1.4em;   /* ← 呼吸が深くなる */
+    margin-bottom: 2em;
+  }
+
+  a {
+    font-size: 1.2em;   /* ← ボタンが小さくならない */
+    padding: 12px 24px;
+  }
+}
+
+
   </style>
 </head>
 <body>
