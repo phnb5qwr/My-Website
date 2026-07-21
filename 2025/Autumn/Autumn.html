@@ -32,15 +32,12 @@
     margin-bottom: 2em;
   }
 
-  /* ボタン群（左右カラム） */
-  .buttons {
-    display: flex;
-    flex-direction: row;
-    gap: 3rem;
-    align-items: flex-start;
-    width: fit-content;
-    margin: 0 auto;
-    margin-top: 1.5em;         /* ← 呼吸を深く */
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+  margin-top: 1.5em;
   }
 
   /* 通常ボタン */
@@ -55,6 +52,11 @@
     transition: background-color 0.3s;
     font-weight: normal;       /* ← 静かに */
   }
+
+  .wide {
+  width: 110px;   /* ← Yasukuni Shrine と同じ幅にする */
+  text-align: center;
+}
 
   .button:hover {
     background-color: #444;
@@ -84,32 +86,22 @@
     margin-bottom: 1.5em;
   }
 
+  .wrapper {
+  margin-bottom: 40px; /* ← 今の “いい感じの余白” をここで作る */
+ }
+
   </style>
 </head>
 <body>
 
   <h1>Autumn Archives</h1>
 
-  <div class="buttons">
+<div class="buttons">
+  <a href="Yasukuni-Shrine.html" class="button wide">Yasukuni Shrine</a>
+  <a href="zojoji.html" class="button wide">Zojoji</a>
+</div>
 
-    <!-- 左カラム -->
-    <div class="left-column">
-      <a href="Katase Higashihama.html" class="button">Katase Higashihama</a>
-      <a href="Enoshima Shrine – Hetsunomiya.html" class="button">Enoshima Shrine – Hetsunomiya</a>
-      <a href="Enoshima Shrine – Okutsunomiya.html" class="button">Enoshima Shrine – Okutsunomiya</a>
-      <a href="Ryugu Shrine and The Bell of the Dragon's Love.html" class="button">Ryugu Shrine and The Bell of the Dragon's Love</a>
-    </div>
-
-    <!-- 右カラム -->
-    <div class="right-column">
-      <a href="Enoshima Iwaya Caves – First Cave.html" class="button">Enoshima Iwaya Caves – First Cave</a>
-      <a href="Enoshima Iwaya Caves – Second Cave.html" class="button">Enoshima Iwaya Caves – Second Cave</a>
-      <a href="Enoshima Shrine – Nakatsunomiya.html" class="button">Enoshima Shrine – Nakatsunomiya</a>
-    </div>
-
-  </div>
-
-  <a href="../2025.html" class="button center-button">2025 Archives</a>
+<a href="../2025.html" class="button center-button">2025 Archives</a>
 
   <footer>© 2026 Sound of Planes<sup>®</sup></footer>
 
