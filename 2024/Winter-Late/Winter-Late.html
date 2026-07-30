@@ -13,6 +13,25 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .buttons {
+    flex-direction: column;   /* ← 左右カラムを縦並びに */
+    gap: 2rem;                /* ← 呼吸を深く */
+    margin-top: 2em;
+  }
+
+  .left-column,
+  .right-column {
+    align-items: center;      /* ← ボタンを中央寄せ */
+  }
+
+  .button {
+    width: 100%;              /* ← スマホで読みやすく */
+    box-sizing: border-box;
+  }
+}
+
+
   body {
     background-color: black;
     color: white;
