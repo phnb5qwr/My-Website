@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>void record</title>
   <style>
+ 
+ @media screen and (min-width: 601px) {
+  body {
+    min-height: 100vh;   /* ← PCだけ中央寄せを維持する */
+  }
+}
 
   body {
     background-color: black;
@@ -12,7 +20,6 @@
     margin: 0;
     padding: 0;
 
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;   /* ← 中央寄せで静かに */
