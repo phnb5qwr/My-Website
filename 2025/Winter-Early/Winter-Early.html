@@ -2,8 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>void record</title>
   <style>
+
+  /* PC用 */
+  @media screen and (min-width: 601px) {
+    body {
+      min-height: 100vh;   /* ← PCだけ中央寄せを維持する */
+    }
+  }
 
   body {
     background-color: black;
@@ -12,7 +20,6 @@
     margin: 0;
     padding: 0;
 
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;   /* ← 中央寄せで静かに */
@@ -20,6 +27,7 @@
     text-align: center;
   }
 
+  
   h1 {
     font-size: 1.4em;          /* ← 控えめで上品に */
     margin-bottom: 0.3em;
@@ -55,6 +63,26 @@
     transition: background-color 0.3s;
     font-weight: normal;       /* ← 静かに */
   }
+
+  /* スマホ用（最後に置く） */
+@media screen and (max-width: 600px) {
+  .buttons {
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2em;
+  }
+
+  .left-column,
+  .right-column {
+    align-items: center;
+  }
+
+  .button {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
 
   .button:hover {
     background-color: #444;
