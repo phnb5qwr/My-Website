@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>void record</title>
   <style>
     body {
@@ -38,6 +39,8 @@
       align-items: center;
       flex-wrap: wrap;
       margin-top: 1.5em;         /* ← 呼吸を深く */
+      padding: 0 1rem;   /* ← スマホで左右に余白を追加 */
+
     }
 
     a.button {
@@ -48,6 +51,13 @@
       border-radius: 5px;
       transition: background-color 0.3s;
       font-weight: normal;       /* ← 静かに */
+    }
+
+    /* ← ここに追加するだけでスマホが綺麗になる */
+    a.button {
+      display: inline-block;
+      min-width: 120px;
+      text-align: center;
     }
 
     a.button:hover {
