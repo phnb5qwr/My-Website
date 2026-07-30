@@ -9,6 +9,13 @@
 
   <style>
 
+  /* PC用 */
+  @media screen and (min-width: 601px) {
+    body {
+      min-height: 100vh;
+    }
+  }
+
   body {
     background-color: black;
     color: white;
@@ -16,7 +23,6 @@
     margin: 0;
     padding: 0;
 
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;   /* ← 中央寄せで静かに */
