@@ -180,4 +180,14 @@ footer,
   .en {
     font-size: 1.03em;
   }
+
+  /* ← ボタンはこの中に入れる（重要） */
+  a.button {
+    display: block;
+    width: 200px;        /* ← 2つのボタンが必ず揃う */
+    margin: 0 auto 1rem auto;
+    padding: 10px 20px;
+    text-align: center;
+    box-sizing: border-box;
+  }
 }
