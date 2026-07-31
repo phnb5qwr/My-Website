@@ -55,6 +55,26 @@
     font-weight: normal;
   }
 
+  /* スマホ用 */
+  @media screen and (max-width: 600px) {
+    .buttons {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .left-column,
+    .right-column {
+      align-items: center;
+    }
+
+    .button {
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+
   .button:hover {
     background-color: #444;
   }
@@ -79,25 +99,6 @@
     text-align: center;
     margin-top: 3em;
     margin-bottom: 1.5em;
-  }
-
-  /* スマホ用 */
-  @media screen and (max-width: 600px) {
-    .buttons {
-      flex-direction: column;
-      gap: 2rem;
-      margin-top: 2em;
-    }
-
-    .left-column,
-    .right-column {
-      align-items: center;
-    }
-
-    .button {
-      width: 100%;
-      box-sizing: border-box;
-    }
   }
 
   </style>
