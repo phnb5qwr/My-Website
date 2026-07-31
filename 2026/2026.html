@@ -16,7 +16,6 @@
     }
   }
 
-
   body {
     background-color: black;
     color: white;
@@ -63,7 +62,14 @@
     font-weight: normal;       /* ← 静かに */
   }
 
-    @media screen and (max-width: 600px) {
+  /* ← ここに追加するだけでスマホが綺麗になる */
+  a.button {
+    display: inline-block;
+    min-width: 120px;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 600px) {
     .buttons {
       flex-direction: column;
       align-items: center;   /* ← 中央寄せ */
