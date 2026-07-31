@@ -78,9 +78,11 @@
       align-items: center;   /* ← 中央寄せ */
       padding: 0;            /* ← 右寄りの原因を消す */
       gap: 1rem;
+      width: 100%;   /* ← これが決定打 */
     }
 
     a.button {
+      display: block;        /* ← これが本当に必要だった！ */
       margin-left: auto;
       margin-right: auto;   /* ← これで中央に固定される */
       width: auto;          /* ← サイズはそのまま */
