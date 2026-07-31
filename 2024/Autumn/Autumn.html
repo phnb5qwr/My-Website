@@ -93,37 +93,39 @@
 @media screen and (max-width: 600px) {
 
   .buttons {
-    flex-direction: column;   /* ← 横並びを縦並びにする */
-    gap: 1.5rem;              /* ← 呼吸を深く */
+    flex-direction: column;
+    gap: 1.5rem;
     margin-top: 2em;
+    padding: 0 1rem;
   }
 
   .button {
-    font-size: 1.2em;         /* ← ボタンの文字を大きく */
-    padding: 14px 24px;       /* ← スマホで押しやすく */
-    width: 100%;              /* ← ボタンを横幅いっぱいに */
+    width: 100%;
+    min-width: 120px;
+    padding: 10px 20px;   /* ← 標準に戻す */
+    font-size: 1em;       /* ← 標準に戻す */
     box-sizing: border-box;
   }
 
   .left-column,
   .right-column {
-    width: 100%;              /* ← カラムをスマホ幅に */
-    align-items: center;      /* ← ボタンを中央寄せ */
+    width: 100%;
+    align-items: center;
   }
 
   .center-button {
-    font-size: 1.2em;
-    padding: 14px 24px;
+    padding: 10px 20px;   /* ← 標準 */
+    font-size: 1em;       /* ← 標準 */
     margin-top: 2.5em;
   }
 
   h1 {
-    font-size: 1.8em;         /* ← タイトルをスマホで大きく */
+    font-size: 1.4em;     /* ← 標準に戻す */
   }
 
   footer {
-    font-size: 1em;           /* ← 読みやすく */
-    margin-top: 4em;
+    font-size: 0.85em;    /* ← 標準 */
+    margin-top: 3em;
   }
 }
 
