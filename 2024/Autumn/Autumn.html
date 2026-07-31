@@ -67,11 +67,14 @@
       flex-direction: column;
       gap: 2rem;
       margin-top: 2em;
+      width: 100%;        /* ← これが決定的 */
+      padding: 0 1rem;    /* ← 静けさの余白 */
     }
 
     .left-column,
     .right-column {
       align-items: center;
+      width: 100%;        /* ← カラムも中央寄せ */
     }
 
     .button {
