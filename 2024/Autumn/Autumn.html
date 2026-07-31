@@ -67,21 +67,35 @@
       flex-direction: column;
       gap: 2rem;
       margin-top: 2em;
-      width: 100%;        /* ← これが決定的 */
-      padding: 0 1rem;    /* ← 静けさの余白 */
+      width: 100%;
+      padding: 0 1rem;
+      align-items: center;   /* ← これが決定的 */
     }
 
     .left-column,
     .right-column {
       align-items: center;
-      width: 100%;        /* ← カラムも中央寄せ */
+      width: 100%;
     }
 
     .button {
-      width: 100%;
+      width: auto;          /* ← 横に広がらない */
+      min-width: 120px;
+      padding: 10px 20px;
+      font-size: 1em;
       box-sizing: border-box;
+      margin-left: auto;    /* ← 中央寄せ */
+      margin-right: auto;   /* ← 中央寄せ */
+    }
+
+    .center-button {
+      width: auto;
+      padding: 10px 20px;
+      font-size: 1em;
+      margin-top: 2.5em;
     }
   }
+
 
   .button:hover {
     background-color: #444;
