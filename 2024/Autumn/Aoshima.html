@@ -8,20 +8,21 @@
     <style>
   
   @media screen and (max-width: 600px) {
-  .button {
-    display: inline-block;     /* ← 文字幅に合わせて自然に縮む */
-    width: auto;               /* ← 文字の長さ＋paddingだけの幅になる */
-    padding: 10px 20px;
-    font-size: 1em;
-    text-align: center;
-    box-sizing: border-box;
-    margin: 0 auto 1rem auto;
-    max-width: 200px;          /* ← 長い方の文字幅に合わせて揃える */
-  }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 1em;
+      text-align: center;
+      box-sizing: border-box;
+      margin: 0 auto 1rem auto;
 
-  .content div {
-    text-align: center;
-  }
+      width: max-content;   /* ← 文字幅＋paddingだけの自然な幅 */
+      max-width: 200px;     /* ← 長い方の文字幅に揃える上限 */
+    }
+
+    .content div {
+      text-align: center;
+    }
   }
 
 </style>
