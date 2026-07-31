@@ -56,25 +56,30 @@
   }
 
 /* スマホ用：6つのボタンを最長タイトルに揃える */
-  @media screen and (max-width: 600px) {
-    .buttons {
-      flex-direction: column;
-      gap: 2rem;
-      margin-top: 2em;
-      align-items: center;
-    }
-
-    .left-column,
-    .right-column {
-      align-items: center;
-    }
-
-    .button {
-      min-width: 280px;   /* ← 最長タイトルに合わせた幅 */
-      text-align: center;
-      box-sizing: border-box;
-    }
+@media screen and (max-width: 600px) {
+  .buttons {
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2em;
+    align-items: center;
   }
+
+  .left-column,
+  .right-column {
+    align-items: center;
+  }
+
+  .button {
+    min-width: 280px;   /* ← 6つのボタンを最長タイトルに揃える */
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .center-button {
+    min-width: auto;    /* ← ここが決定的！中央ボタンだけ小さく戻る */
+    width: auto;
+  }
+}
 
   .button:hover {
     background-color: #444;
