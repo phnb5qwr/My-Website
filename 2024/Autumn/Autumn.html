@@ -55,12 +55,13 @@
     font-weight: normal;
   }
 
-  /* スマホ用 */
+/* スマホ用：6つのボタンを最長タイトルに揃える */
   @media screen and (max-width: 600px) {
     .buttons {
       flex-direction: column;
       gap: 2rem;
       margin-top: 2em;
+      align-items: center;
     }
 
     .left-column,
@@ -69,11 +70,11 @@
     }
 
     .button {
-      width: 100%;
+      min-width: 280px;   /* ← 最長タイトルに合わせた幅 */
+      text-align: center;
       box-sizing: border-box;
     }
   }
-
 
   .button:hover {
     background-color: #444;

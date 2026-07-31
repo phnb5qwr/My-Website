@@ -70,18 +70,19 @@
   }
 
   @media screen and (max-width: 600px) {
-  .buttons {
-    flex-direction: column;
-    align-items: stretch;
-    padding: 0;        /* ← これが決定的 */
+    .buttons {
+      flex-direction: column;
+      align-items: center;   /* ← 中央寄せ */
+      padding: 0;            /* ← 右寄りの原因を消す */
+      gap: 1rem;
+    }
+
+    a.button {
+      width: auto;           /* ← ボタンのサイズはそのまま */
+      min-width: 120px;
+      text-align: center;
+    }
   }
-
-  a.button {
-    width: 100%;
-  }
-}
-
-
   a.button:hover {
     background-color: #444;
   }
