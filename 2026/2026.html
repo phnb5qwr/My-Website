@@ -15,6 +15,7 @@
     /* PC用 */
   @media screen and (min-width: 601px) {
     body {
+      height: auto;        /* ← これが決定打 */
       min-height: 100vh;
     }
   }
@@ -67,7 +68,6 @@
 
   /* ← ここに追加するだけでスマホが綺麗になる */
   a.button {
-    display: inline-block;
     min-width: 120px;
     text-align: center;
   }
