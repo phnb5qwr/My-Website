@@ -141,16 +141,20 @@ a.button:hover {
 
   /* 本文の読みやすさ */
   .content {
-    font-size: 1.18em;
+    font-size: 1.10em;   /* ← 全体を少しだけ下げる（前回と同じ視覚感） */
     line-height: 1.7;
   }
 
-  /* 日本語・英語の微調整 */
-  .jp { font-size: 1.02em; }
-  .en { font-size: 1.03em; }
+  p {
+    font-size: 0.90em;   /* ← スマホ時だけ本文を小さくする */
+  }
+    .jp {
+    font-size: 0.90em;   /* ← 日本語も同じく */
+  }
 
   /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
   a.button {
+    font-size: 0.85em;   /* ← スマホ時だけ小さくする */
     display: block;
     width: 200px;
     margin: 0 auto 1rem auto;
