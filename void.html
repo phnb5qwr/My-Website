@@ -2,8 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The voices of the void</title>
   <style>
+       @media screen and (min-width: 601px) {
+    body {
+      min-height: 100vh;   /* ← PCだけ中央寄せを維持する */
+    }
+  }
+
     body {
       background-color: black;
       color: white;
@@ -48,6 +55,33 @@
       transition: background-color 0.3s;
       font-weight: normal;       /* ← 静かに */
     }
+
+    @media screen and (max-width: 600px) {
+
+    .buttons {
+      flex-direction: column;
+      gap: 1.5rem;
+      margin-top: 2em;
+      padding: 0 1rem;
+    }
+
+    a.button {
+      width: 100%;
+      min-width: 120px;
+      padding: 10px 20px;
+      font-size: 1em;   /* ← 標準に戻す */
+      box-sizing: border-box;
+    }
+
+    h1 {
+      font-size: 1.4em; /* ← 拡大しない */
+    }
+
+    footer {
+      font-size: 0.85em; /* ← 標準 */
+      margin-top: 3em;
+    }
+  }
 
     a.button:hover {
       background-color: #444;
