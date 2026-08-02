@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Textbook-version</title>
   <style>
 
@@ -84,6 +85,44 @@
     text-align: center;
     margin-top: 4em;
     margin-bottom: 2em;
+  }
+
+     /* スマホ用（600px以下） */
+    @media screen and (max-width: 600px) {
+
+    body {
+      height: auto;
+      padding-top: 2em;
+    }
+
+    .chapter-container {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+     p, .jp {
+    font-size: 0.90em;
+    }
+
+    .left-column,
+    .right-column {
+      width: 100%;
+      align-items: center;
+    }
+
+     a.button {
+    width: 200px;
+    max-width: 200px;
+    font-size: 0.85em;
+    }
+
+    .button-row {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      align-items: center;
+    }
   }
 
   </style>
