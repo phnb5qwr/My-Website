@@ -127,3 +127,41 @@ a.button:hover {
   text-align: left;
   letter-spacing: 0.05em;
 }
+
+/* ===========================
+   Responsive
+=========================== */
+
+@media screen and (max-width: 600px) {
+
+  /* 全体の余白 */
+  body {
+    padding: 20px;
+  }
+
+  /* 本文の読みやすさ */
+  .content {
+    font-size: 1.18em;
+    line-height: 1.7;
+  }
+
+  /* 日本語・英語の微調整 */
+  .jp { font-size: 1.02em; }
+  .en { font-size: 1.03em; }
+
+  /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
+  a.button {
+    display: block;
+    width: 200px;
+    margin: 0 auto 1rem auto;
+    padding: 10px 20px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  /* ⭐ ボタン行の上下余白をスマホ用に最適化 */
+  .button-row {
+    margin-top: 1.6rem;
+    margin-bottom: 2.2rem;
+  }
+}
