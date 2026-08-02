@@ -126,10 +126,10 @@ a.button {
   margin: 0 15px;
 }
 
-.button-row {
-  margin-top: 2.6rem;
-  margin-bottom: 3.4rem;
+.button-row a.button:last-child {
+  margin-bottom: 0;
 }
+
 
 a.button:hover {
   background-color: #444;
@@ -151,3 +151,41 @@ a.button:hover {
   padding-bottom: 1em;   /* 通常の <p> の margin-bottom と同じ量 */
 }
 
+@media screen and (max-width: 600px) {
+
+  /* 全体の余白 */
+  body {
+    padding: 20px;
+  }
+
+  /* 本文の読みやすさ */
+  .content {
+    font-size: 1.10em;   /* ← 全体を少しだけ下げる（前回と同じ視覚感） */
+    line-height: 1.7;
+  }
+
+  p {
+    font-size: 0.90em;   /* ← スマホ時だけ本文を小さくする */
+  }
+    .jp {
+    font-size: 0.90em;   /* ← 日本語も同じく */
+  }
+
+  /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
+  a.button {
+    font-size: 0.85em;   /* ← スマホ時だけ小さくする */
+    display: block;
+    width: 200px;
+    margin: 0 auto 1rem auto;
+    padding: 10px 20px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  /* ⭐ ボタン行の上下余白をスマホ用に最適化 */
+  .button-row {
+    margin-top: 1.6rem;
+    margin-bottom: 2.2rem;
+  }
+
+  }
