@@ -124,6 +124,15 @@
       gap: 1rem;
       align-items: center;
     }
+
+    .button-row a.button {
+      margin-bottom: 1rem;   /* ← ボタン同士の間に確実に余白を作る */
+    }
+
+    .button-row a.button:last-child {
+      margin-bottom: 0;      /* ← 最後のボタンだけ余白を消す */
+    }
+
   }
 
   </style>
