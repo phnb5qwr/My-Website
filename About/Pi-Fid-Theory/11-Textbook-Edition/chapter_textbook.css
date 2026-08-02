@@ -188,4 +188,13 @@ a.button:hover {
     margin-bottom: 2.2rem;
   }
 
+  .button-row a.button {
+    margin-bottom: 1rem;
+  }
+
+  .button-row a.button:last-child {
+    margin-bottom: 0;
+  }
+
+
   }
