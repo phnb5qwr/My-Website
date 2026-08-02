@@ -2,9 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>void record</title>
   <style>
-  
+
+    /* PC用 */
+  @media screen and (min-width: 601px) {
+    body {
+      min-height: 100vh;
+    }
+  }
 
   /* 全体の基本設定（フォントもここで統一） */
 body {
@@ -81,7 +88,26 @@ body {
       gap: 10px; /* ボタン同士の間隔 */
     }
 
+    @media screen and (max-width: 600px) {
 
+    .chapter-container {
+      flex-direction: column;   /* ← 左右カラムを縦並びに */
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .left-column,
+    .right-column {
+      width: 100%;              /* ← スマホ幅いっぱい */
+      align-items: center;      /* ← ボタンを中央寄せ */
+    }
+
+    .chapter-btn {
+      width: 180px;        /* ← PCと同じ幅に固定 */
+      max-width: 180px;    /* ← 念のため */
+      box-sizing: border-box;
+    }
+  }
 
     h1.theory-title {
     font-family: "Verdana", "Noto Sans JP", sans-serif;
