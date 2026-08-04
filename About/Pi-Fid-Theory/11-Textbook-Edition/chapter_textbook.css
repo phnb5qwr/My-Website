@@ -26,40 +26,40 @@ body {
 
 /* 英語 h1 */
 .heading {
-  font-size: 1.34em;
+  font-size: 1.30em;
   font-weight: 700;
-  margin-top: 1.8em;
-  margin-bottom: 0.4em;
-  letter-spacing: 0.03em;
+  margin-top: 1.4em;
+  margin-bottom: 0;
+  letter-spacing: 0.02em;
 }
 
 /* 日本語 h1（英語と完全一致） */
 h1.heading.jp {
-  font-size: 1.34em;
+  font-size: 1.30em;
   font-weight: 700;
-  margin-top: 1.8em;
-  margin-bottom: 0.4em;
-  letter-spacing: 0.03em;
+  margin-top: 1.4em;
+  margin-bottom: 0;
+  letter-spacing: 0.02em;
 }
 
 /* h2（章の導入） */
 .sub {
-  font-size: 1.18em;
+  font-size: 1.14em;
   font-weight: 600;
-  margin-top: 1.4em;
-  margin-bottom: 0.4em;
+  margin-bottom: 0;
   letter-spacing: 0.03em;
 }
 
-/* h3（セクションタイトル） */
+/* h3（各セクションタイトル） */
 h3.heading,
 h3.heading.jp {
-  font-size: 1.22em;
+  font-size: 1.18em;
   font-weight: 700;
-  margin-top: 1.6em;
-  margin-bottom: 0.3em;
-  letter-spacing: 0.02em;
+  margin-top: 1.35em;
+  margin-bottom: 0;
+  letter-spacing: 0.015em;
 }
+
 
 /* ===== 本文 ===== */
 
