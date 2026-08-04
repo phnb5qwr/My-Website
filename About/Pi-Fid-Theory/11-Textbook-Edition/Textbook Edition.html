@@ -102,11 +102,18 @@
     }
     
     a.button.chapter-btn {
-      width: 250px !important;
-      max-width: 250px !important;
+      width: 260px !important;
+      max-width: 260px !important;
       box-sizing: border-box;
       margin: 0.4em auto;
       white-space: nowrap;   /* ← 基本は折り返し禁止 */
+      padding: 8px 18px;  /* 少し薄くするならここを調整 */  
+    }
+
+    /* 下２つだけ → 250px に戻す */
+    a.button.nav-btn {
+      width: 240px !important;
+      max-width: 240px !important;
     }
 
     /* 長いタイトルだけ折り返し許可 */
@@ -165,8 +172,8 @@
 
   <!-- 下のナビ -->
   <div class="button-row">
-    <a href="../Pi-Fid-Theory.html" class="button chapter-btn">Return to Pi‑Fid Theory™</a>
-    <a href="../../../void.html" class="button">Back to Silence</a>
+    <a href="../Pi-Fid-Theory.html" class="button chapter-btn nav-btn">Return to Pi‑Fid Theory™</a>
+    <a href="../../../void.html" class="button chapter-btn nav-btn">Back to Silence</a>
   </div>
 
   <footer>© 2026 Pi. Pi-Fid Theory™.</footer>
