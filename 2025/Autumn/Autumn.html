@@ -4,12 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Autumn Archives</title>
-  <style> 
- @media screen and (min-width: 601px) {
-  body {
-    min-height: 100vh;   /* ← PCだけ中央寄せを維持する */
+
+  <style>
+
+  /* PC用 */
+  @media screen and (min-width: 601px) {
+    body {
+      min-height: 100vh;
+    }
   }
-}
 
   body {
     background-color: black;
@@ -20,130 +23,98 @@
 
     display: flex;
     flex-direction: column;
-    justify-content: center;   /* ← 中央寄せで静かに */
+    justify-content: center;
     align-items: center;
     text-align: center;
   }
 
   h1 {
-    font-size: 1.4em;          /* ← 控えめで上品に */
+    font-size: 1.4em;          /* ← Spring と同じ */
     margin-bottom: 0.3em;
     color: rgba(130, 140, 243, 0.801);
     font-weight: normal;
   }
 
-  p {
-    color: #8b8bef;
-    margin-bottom: 2em;
+  /* ボタン群（縦並び） */
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    margin-top: 1.5em;
   }
 
-.buttons {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 1.2rem;
-  margin-top: 1.5em;
-  }
-
-  /* 通常ボタン */
+  /* 通常ボタン（Spring と同じサイズ） */
   .button {
     display: block;
-    margin-bottom: 10px;
     padding: 10px 20px;
     background-color: #222;
     color: rgba(130, 140, 243, 0.801);
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
-    font-weight: normal;       /* ← 静かに */
+    font-weight: normal;
+    width: auto;               /* ← 文字幅に合わせる */
+    margin: 0 auto;            /* ← 中央寄せ */
   }
-
-  .wide {
-  width: 110px;   /* ← Yasukuni Shrine と同じ幅にする */
-  text-align: center;
-}
 
   .button:hover {
     background-color: #444;
   }
 
-  /* カラムごとに縦並び */
-  .left-column,
-  .right-column {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+  /* 中央ボタン（2025 Archives） */
+  .center-button {
+    margin-top: 2.5em;
+    width: auto;               /* ← 横長を防ぐ */
+    padding: 10px 20px;
   }
 
-  /* 中央ボタン（幅は固定しない） */
-  .center-button {
-    display: block;
-    margin: 40px auto 0 auto;
-    text-align: center;
-    width: auto;
+  /* スマホ用（巨大化を完全に止める） */
+  @media screen and (max-width: 600px) {
+
+    .buttons {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .button {
+      width: auto;             /* ← 100% を消す！ */
+      font-size: 1em;          /* ← Spring と同じ小さめ */
+      padding: 10px 20px;      /* ← Spring と同じ */
+    }
+
+    .center-button {
+      width: auto;
+      font-size: 1em;
+      padding: 10px 20px;
+    }
+
+    h1 {
+      font-size: 1.4em;        /* ← Spring と同じ */
+    }
   }
 
   footer {
     font-size: 0.85em;
     color: rgba(130, 140, 243, 0.801);
     text-align: center;
-    margin-top: 3em;           /* ← absolute を外して自然に下へ */
+    margin-top: 3em;
     margin-bottom: 1.5em;
   }
 
-  @media screen and (max-width: 600px) {
-
-  .buttons {
-    flex-direction: column;   /* ← 横並びを縦並びにする */
-    gap: 1.5rem;              /* ← 呼吸を深く */
-    margin-top: 2em;
-  }
-
-  .button {
-    font-size: 1.2em;         /* ← ボタンの文字を大きく */
-    padding: 14px 24px;       /* ← スマホで押しやすく */
-    width: 100%;              /* ← ボタンを横幅いっぱいに */
-    box-sizing: border-box;
-  }
-
-  .left-column,
-  .right-column {
-    width: 100%;              /* ← カラムをスマホ幅に */
-    align-items: center;      /* ← ボタンを中央寄せ */
-  }
-
-  .center-button {
-    font-size: 1.2em;
-    padding: 14px 24px;
-    margin-top: 2.5em;
-  }
-
-  h1 {
-    font-size: 1.8em;         /* ← タイトルをスマホで大きく */
-  }
-
-  footer {
-    font-size: 1em;           /* ← 読みやすく */
-    margin-top: 4em;
-  }
-}
-
-  .wrapper {
-  margin-bottom: 40px; /* ← 今の “いい感じの余白” をここで作る */
- }
-
   </style>
 </head>
+
 <body>
 
   <h1>Autumn Archives</h1>
 
-<div class="buttons">
-  <a href="Yasukuni-Shrine.html" class="button wide">Yasukuni Shrine</a>
-  <a href="zojoji.html" class="button wide">Zojoji</a>
-</div>
+  <div class="buttons">
+    <a href="Yasukuni-Shrine.html" class="button">Yasukuni Shrine</a>
+    <a href="zojoji.html" class="button">Zojoji</a>
+  </div>
 
-<a href="../2025.html" class="button center-button">2025 Archives</a>
+  <a href="../2025.html" class="button center-button">2025 Archives</a>
 
   <footer>© 2026 Sound of Planes<sup>®</sup></footer>
 
