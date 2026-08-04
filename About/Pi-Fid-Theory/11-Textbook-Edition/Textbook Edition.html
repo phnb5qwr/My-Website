@@ -100,22 +100,27 @@
       gap: 1.5rem;
       margin-top: 2em;
     }
-
-    a.button {
-      width: 180px;          /* Pi‑Fid‑Theory と同じ幅 */
-      max-width: 180px;
-      box-sizing: border-box;
-      white-space: nowrap;   /* 折り返し防止 → 高さが揃う */
-    }
     
+    a.button.chapter-btn {
+      width: 180px !important;
+      max-width: 180px !important;
+      box-sizing: border-box;
+      margin: 0.4em auto;
+      white-space: nowrap;   /* ← 基本は折り返し禁止 */
+    }
+
+    /* 長いタイトルだけ折り返し許可 */
+    a.button.long-title {
+      white-space: normal !important;
+      line-height: 1.3;
+    }
+    /* PC用の width:250px を上書きするために !important が必要 */
+
+
     .left-column,
     .right-column {
       width: 100%;
       align-items: center;
-    }
-
-    .chapter-btn {
-      margin: 0.4em auto;   /* ← これだけにする */
     }
     
     .button-row {
@@ -137,7 +142,7 @@
 
     <!-- 左カラム -->
     <div class="left-column">
-      <a href="00-textbook-summary.html" class="button">Textbook-Summary</a>
+      <a href="00-textbook-summary.html" class="button chapter-btn">Textbook-Summary</a>
       <a href="01-chapter1-Textbook Edition.html" class="button chapter-btn">Textbook Edition-chapter1</a>
       <a href="02-chapter2-Textbook Edition.html" class="button chapter-btn">Textbook Edition-chapter2</a>
       <a href="03-chapter3-Textbook Edition.html" class="button chapter-btn">Textbook Edition-chapter3</a>
