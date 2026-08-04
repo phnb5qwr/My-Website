@@ -188,4 +188,12 @@ a.button:hover {
     margin-bottom: 2.2rem;
   }
 
+  .divider {
+    border-top: 1px solid rgba(130,140,243,0.35);
+    width: 100%;
+    overflow: hidden;
+    white-space: normal;
+    margin: 1.4em 0;
+  }
+
   }
