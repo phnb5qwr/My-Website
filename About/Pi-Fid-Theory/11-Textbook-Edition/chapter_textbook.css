@@ -130,6 +130,15 @@ a.button {
   margin-bottom: 0;
 }
 
+/* ===== Divider ===== */
+.appendix {
+  overflow-x: hidden;
+}
+
+.appendix * {
+  max-width: 100%;
+  box-sizing: border-box;
+}
 
 a.button:hover {
   background-color: #444;
