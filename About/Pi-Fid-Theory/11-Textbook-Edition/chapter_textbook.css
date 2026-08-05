@@ -195,16 +195,16 @@ a.button:hover {
   }
 
   /* ★ スマホの下ボタン（英語・日本語）を完全一致させる */
-  .jp + .button-row a.button {
-      font-size: 0.85em !important;      /* ← これが最重要（はみ出し防止 & 完全一致） */
-      width: 250px !important;            /* ← Textbook Edition と同じ幅 */
-      max-width: 250px !important;
-      white-space: nowrap !important;     /* ← 2行防止 */
-      padding: 10px 20px !important;      /* ← 高さも完全一致 */
-      margin: 0.8rem auto !important;     /* ← 上下の間隔を広げる（最重要） */
-      display: block !important;          /* ← 縦積みの間隔を安定させる */
-      box-sizing: border-box !important;
-  }
+.button-row a.button {
+    font-size: 0.85em !important;
+    width: 250px !important;
+    max-width: 250px !important;
+    white-space: nowrap !important;
+    padding: 10px 20px !important;
+    margin: 1.2rem auto !important;   /* ← 上下の間隔が広がる */
+    display: block !important;
+    box-sizing: border-box !important;
+}
 
   .divider {
     border-top: 1px solid rgba(130,140,243,0.35);
