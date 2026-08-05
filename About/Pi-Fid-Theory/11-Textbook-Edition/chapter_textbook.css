@@ -121,10 +121,10 @@ a.button {
   font-weight: 300;
 
   font-size: 0.85em;
-  display: block;
-  width: 180px;              /* ← Pi-Fid-Theory と同じ幅に統一 */
-  max-width: 180px;          /* ← 折り返し防止（最重要） */
-  margin: 1rem auto;         /* ← 上下の余白を広げて静けさを出す */
+  display: inline-block;   /* ← これだけでPCは横並びになる */
+  width: 250px;              
+  max-width: 250px;          /* ← 折り返し防止（最重要） */
+  margin: 0 15px !important;   /* ← これが最重要（間隔が広がる） */
   padding: 10px 18px;
   text-align: center;
   box-sizing: border-box;
@@ -196,7 +196,7 @@ a.button:hover {
 
   /* スマホ時の下ボタンを Textbook Edition と完全一致させる */
     .jp + .button-row a.button {
-      font-size: 0.85em !important;
+      font-size: 0.6em !important;
       width: 250px !important;
       max-width: 250px !important;
       white-space: nowrap !important;
@@ -213,5 +213,5 @@ a.button:hover {
     white-space: normal;
     margin: 1.4em 0;
   }
-
+  
   }
