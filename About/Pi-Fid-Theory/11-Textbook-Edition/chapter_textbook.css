@@ -174,37 +174,37 @@ a.button:hover {
 
   /* 本文の読みやすさ */
   .content {
-    font-size: 1.10em;   /* ← 全体を少しだけ下げる（前回と同じ視覚感） */
+    font-size: 1.10em;
     line-height: 1.7;
   }
 
   p {
-    font-size: 0.88em;   /* ← スマホ時だけ本文を小さくする */
+    font-size: 0.88em;
   }
 
-    .jp {
-    font-size: 0.85em;   /* ← 日本語も同じく */
+  .jp {
+    font-size: 0.85em;
   }
 
-    h1.heading.jp {
+  h1.heading.jp {
     font-size: 1.18em;
   }
 
-    h3.heading.jp {
+  h3.heading.jp {
     font-size: 1.08em;
   }
 
-  /* スマホ時の下ボタンを Textbook Edition と完全一致させる */
-    .jp + .button-row a.button {
-      font-size: 0.6em !important;
-      width: 250px !important;
+  /* ★ スマホの下ボタン（英語・日本語）を完全一致させる */
+  .button-row a.button {
+      font-size: 1em !important;          /* ← 英語と日本語を完全一致 */
+      width: 250px !important;            /* ← Textbook Edition と同じ幅 */
       max-width: 250px !important;
-      white-space: nowrap !important;
-      padding: 10px 20px !important;
-      margin: 1rem auto !important;
-      display: block !important;   /* ← これが最重要（上書き） */
+      white-space: nowrap !important;     /* ← 2行防止 */
+      padding: 10px 20px !important;      /* ← 高さも完全一致 */
+      margin: 0.8rem auto !important;     /* ← 上下の間隔を広げる（最重要） */
+      display: block !important;          /* ← 縦積みの間隔を安定させる */
       box-sizing: border-box !important;
-    }
+  }
 
   .divider {
     border-top: 1px solid rgba(130,140,243,0.35);
@@ -213,5 +213,6 @@ a.button:hover {
     white-space: normal;
     margin: 1.4em 0;
   }
-  
-  }
+
+}
+
