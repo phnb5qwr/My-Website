@@ -210,24 +210,10 @@ a.button:hover {
     display: block;
     width: auto;              /* ← 固定幅解除 */
     max-width: 260px;         /* ← 上と同じ最大幅 */
-    margin: 0.15em auto;
+    margin: 0.6em auto !important;
     padding: 10px 18px;
     text-align: center;
     box-sizing: border-box;
-  }
-
-  a.button.nav-btn {
-    font-size: 0.9em !important;
-    padding: 10px 20px !important;
-    margin: 0 15px !important;
-    width: auto !important;
-    max-width: none !important;
-    white-space: nowrap !important;
-  }
-
-  a.button.nav-btn.long-title {
-    white-space: normal !important;
-    line-height: 1.3;
   }
 
   /* ⭐ ボタン行の上下余白をスマホ用に最適化 */
