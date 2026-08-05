@@ -194,15 +194,16 @@ a.button:hover {
     font-size: 1.08em;
   }
 
-  /* 日本語パートの下ボタンを英語ボタンと完全一致させる */
   /* スマホ時の下ボタンを Textbook Edition と完全一致させる */
-    .button-row a.button {
+      .button-row a.button {
         font-size: 1em !important;
         width: 250px !important;
         max-width: 250px !important;
         white-space: nowrap !important;
         padding: 10px 20px !important;
         margin: 1rem auto !important;
+        display: block !important;   /* ← これが最重要（上書き） */
+        box-sizing: border-box !important;
     }
 
   .divider {
