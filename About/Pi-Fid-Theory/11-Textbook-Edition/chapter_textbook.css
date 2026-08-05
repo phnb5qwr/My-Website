@@ -196,7 +196,7 @@ a.button:hover {
 
   /* ★ スマホの下ボタン（英語・日本語）を完全一致させる */
   .button-row a.button {
-      font-size: 1em !important;          /* ← 英語と日本語を完全一致 */
+      font-size: 0.85em !important;      /* ← これが最重要（はみ出し防止 & 完全一致） */
       width: 250px !important;            /* ← Textbook Edition と同じ幅 */
       max-width: 250px !important;
       white-space: nowrap !important;     /* ← 2行防止 */
