@@ -152,6 +152,15 @@ a.button:hover {
     font-size: 0.85em;   /* ← 日本語も同じく */
   }
 
+    h1.heading.jp {
+    font-size: 1.18em;
+  }
+
+    h3.heading.jp {
+    font-size: 1.08em;
+  }
+
+
   /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
   a.button {
     font-size: 0.85em;   /* ← スマホ時だけ小さくする */
