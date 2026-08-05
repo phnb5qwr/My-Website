@@ -109,7 +109,7 @@ p {
   font-size: 1.02em;
 }
 
-/* ===== ボタン ===== */
+/* ===== ボタン（Textbook Edition と統一） ===== */
 a.button {
   padding: 10px 22px;
   background-color: #222;
@@ -119,6 +119,13 @@ a.button {
   transition: background-color 0.3s;
   font-family: "Noto Sans JP", "Verdana", sans-serif;
   font-weight: 300;
+
+  /* ★ 追加：Textbook Edition と同じ静けさのフォントサイズ */
+  font-size: 0.9em;  
+  width: auto;              /* ★ 固定幅を解除 */
+  max-width: 260px;         /* ★ 長いタイトルに合わせる */
+  display: inline-block;
+  text-align: center;
 }
 
 .button {
@@ -182,11 +189,12 @@ a.button:hover {
 
   /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
   a.button {
-    font-size: 0.85em;   /* ← スマホ時だけ小さくする */
+    font-size: 0.85em;        /* ← スマホは少し小さめでOK */
     display: block;
-    width: 200px;
-    margin: 0 auto 1rem auto;
-    padding: 10px 20px;
+    width: auto;              /* ← 固定幅解除 */
+    max-width: 260px;         /* ← 上と同じ最大幅 */
+    margin: 0.15em auto;
+    padding: 10px 18px;
     text-align: center;
     box-sizing: border-box;
   }
