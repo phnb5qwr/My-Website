@@ -195,14 +195,15 @@ a.button:hover {
   }
 
   /* 日本語パートの下ボタンを英語ボタンと完全一致させる */
-  .jp + .button-row a.button {
-    font-size: 1em !important;        /* 英語と同じ大きさに揃える */
-    width: 180px !important;          /* 英語ボタンと同じ幅 */
-    max-width: 180px !important;      /* 折り返し防止（最重要） */
-    white-space: nowrap !important;   /* 2行になるのを防ぐ */
-    padding: 10px 20px !important;    /* 英語ボタンと同じ高さ */
-    margin: 1rem auto !important;     /* 上下の余白も英語と揃える */
-  }
+  /* スマホ時の下ボタンを Textbook Edition と完全一致させる */
+    .button-row a.button {
+        font-size: 1em !important;
+        width: 250px !important;
+        max-width: 250px !important;
+        white-space: nowrap !important;
+        padding: 10px 20px !important;
+        margin: 1rem auto !important;
+    }
 
   .divider {
     border-top: 1px solid rgba(130,140,243,0.35);
