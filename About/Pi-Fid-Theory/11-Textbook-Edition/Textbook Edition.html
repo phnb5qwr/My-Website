@@ -16,9 +16,9 @@
 
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* ← 教科書らしく上から流れる */
+    justify-content: flex-start; /* ← ここを center から戻す */
     align-items: center;
-    padding-top: 6em;            /* ← 上すぎ問題を解決する最適値 */
+    padding-top: 8em;            /* ← 6em → 8em にして“少し下げる” */
   }
 
   h1.theory-title {
@@ -63,6 +63,14 @@
     font-family: "Verdana", "Noto Sans JP", sans-serif !important;
     font-size: 1em;
     font-weight: normal;
+  }
+
+  a.button.nav-btn {
+    font-size: 0.9em !important;   /* ← Pi‑Fid‑Theory と同じ“少し小さめ” */
+    padding: 10px 18px !important;
+    margin: 0.15em auto;
+    width: auto !important;        /* ← 固定幅を解除 */
+    max-width: 260px !important;   /* ← 上のボタンと同じ最大幅に揃える */
   }
 
   /* hover は静かに背景色だけ変える */
@@ -113,10 +121,11 @@
 
   /* 下2つだけ → 250px のまま */
     a.button.nav-btn {
-      width: 240px !important;
-      max-width: 240px !important;
+      font-size: 0.9em !important;
       padding: 10px 18px !important;   /* ← 高さは揃える */
       margin: 0.15em auto;
+      width: auto !important;
+      max-width: 260px !important;
     }
 
   /* 長いタイトルだけ折り返し許可 */
@@ -138,6 +147,7 @@
     flex-direction: column;
     gap: 0.6rem;
     align-items: center;
+    margin-top: 60px;
   }
   }
 
