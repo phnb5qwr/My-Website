@@ -203,6 +203,10 @@ a.button:hover {
     font-size: 1.05em !important;
   }
 
+  a.button {
+    font-size: 14px;  /* em じゃなく px で固定したい場合 */
+  }
+
   a.button.chapter-btn {
     font-size: 0.85em !important;   /* ← これも固定（はみ出し防止） */
   }
