@@ -100,6 +100,7 @@ a.button {
   border-radius: 7px;
   transition: background-color 0.3s;
   font-family: "Noto Sans JP", "Verdana", sans-serif;
+  font-size: 0.95em;   /* ← これが一番自然 */
   font-weight: 300;
 }
 
@@ -152,18 +153,24 @@ a.button:hover {
     font-size: 0.85em;   /* ← 日本語も同じく */
   }
 
+    /* ★ スマホでは見出しをPCより少し小さめにする */
+    h1.heading,
     h1.heading.jp {
-    font-size: 1.18em;
-  }
+      font-size: 1.12em !important;
+    }
 
+    h2.sub {
+      font-size: 1.00em !important;
+    }
+
+    h3.heading,
     h3.heading.jp {
-    font-size: 1.08em;
-  }
-
+      font-size: 1.05em !important;
+    }
 
   /* ⭐ すべてのボタンを縦並びにする（2か所でも美しく揃う） */
   a.button {
-    font-size: 0.85em;   /* ← スマホ時だけ小さくする */
+    font-size: 14px !important;
     display: block;
     width: 200px;
     margin: 0 auto 1rem auto;
