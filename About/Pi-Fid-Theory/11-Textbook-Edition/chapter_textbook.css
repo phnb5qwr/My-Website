@@ -137,8 +137,8 @@ a.button {
 }
 
 a.button.nav-btn {
-  width: 220px !important;        /* ← 220pxのまま */
-  max-width: 220px !important;
+  width: 200px !important;        /* ← 220pxのまま */
+  max-width: 200px !important;
   font-size: 0.88em !important;   /* ← 上より少し小さめ */
   padding: 10px 18px !important;
   margin: 0.15em auto !important;
@@ -216,6 +216,10 @@ a.button:hover {
   h3.heading,
   h3.heading.jp {
     font-size: 1.05em !important;
+  }
+
+  a.button.chapter-btn {
+    font-size: 0.85em !important;   /* ← これも固定（はみ出し防止） */
   }
 
     /* nav-btn のスマホ差分だけ */
