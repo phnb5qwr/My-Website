@@ -66,14 +66,15 @@
   }
 
   a.button.nav-btn {
-    font-size: 0.9em !important;   /* ← Pi‑Fid‑Theory と同じ“少し小さめ” */
-    padding: 10px 18px !important;
-    margin: 0.15em auto;
-    width: auto !important;        /* ← 固定幅を解除 */
-    max-width: 260px !important;   /* ← 上のボタンと同じ最大幅に揃える */
+      width: 200px !important;        /* ← これで完全に揃う */
+      max-width: 200px !important;
+      font-size: 0.88em !important;   /* ← 上より少し小さめ */
+      padding: 10px 18px !important;
+      margin: 0.15em auto !important;
+      text-align: center;
   }
 
-  /* hover は静かに背景色だけ変える */
+/* hover は静かに背景色だけ変える */
   a.button:hover {
     background-color: #444;
   }
@@ -119,14 +120,15 @@
       white-space: nowrap;
     }
 
-  /* 下2つだけ → 250px のまま */
+  /* 下2つだけ → 200px のまま */
     a.button.nav-btn {
-      font-size: 0.9em !important;
-      padding: 10px 18px !important;   /* ← 高さは揃える */
-      margin: 0.15em auto;
-      width: auto !important;
-      max-width: 260px !important;
-    }
+      width: 200px !important;
+      max-width: 200px !important;
+      font-size: 0.88em !important;
+      padding: 10px 18px !important;
+      margin: 0.15em auto !important;
+      white-space: nowrap !important;
+  }
 
   /* 長いタイトルだけ折り返し許可 */
     a.button.long-title {
@@ -185,7 +187,7 @@
 
   <!-- 下のナビ -->
   <div class="button-row">
-    <a href="../Pi-Fid-Theory.html" class="button chapter-btn nav-btn long-title">Return to Pi‑Fid Theory™</a>
+    <a href="../Pi-Fid-Theory.html" class="button chapter-btn nav-btn">Return to Pi‑Fid Theory™</a>
     <a href="../../../void.html" class="button chapter-btn nav-btn">Back to Silence</a>
   </div>
 

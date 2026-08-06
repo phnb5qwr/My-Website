@@ -130,10 +130,27 @@ a.button {
   box-sizing: border-box;
   }
 
+  
 .button {
   display: inline-block;
   margin: 0 15px;
 }
+
+a.button.nav-btn {
+  width: 200px !important;        /* ← 250pxのまま */
+  max-width: 200px !important;
+  font-size: 0.88em !important;   /* ← 上より少し小さめ */
+  padding: 10px 18px !important;
+  margin: 0.15em auto !important;
+  text-align: center;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;   /* ← 左右中央に配置 */
+  gap: 40px;                 /* ← 今の間隔を維持 */
+  margin-top: 40px;
+  }
 
 /* ===== Divider ===== */
 .appendix {
@@ -186,25 +203,39 @@ a.button:hover {
     font-size: 0.85em;
   }
 
+  /* ★ スマホでは見出しをPCより少し小さめにする */
+  h1.heading,
   h1.heading.jp {
-    font-size: 1.18em;
+    font-size: 1.12em !important;
   }
 
+  h2.sub {
+    font-size: 1.00em !important;
+  }
+
+  h3.heading,
   h3.heading.jp {
-    font-size: 1.08em;
+    font-size: 1.05em !important;
   }
 
-  /* ★ スマホの下ボタン（英語・日本語）を完全一致させる */
-.button-row a.button {
-    font-size: 0.85em !important;
-    width: 250px !important;
-    max-width: 250px !important;
+    /* nav-btn のスマホ差分だけ */
+  a.button.nav-btn {
+    width: 200px !important;
+    max-width: 200px !important;
+    font-size: 0.88em !important;
+    padding: 10px 18px !important;
+    margin: 0.15em auto !important;
     white-space: nowrap !important;
-    padding: 10px 20px !important;
-    margin: 1.2rem auto !important;   /* ← 上下の間隔が広がる */
-    display: block !important;
-    box-sizing: border-box !important;
-}
+  }
+
+  /* スマホは縦並びのまま */
+  .button-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    align-items: center;
+    margin-top: 60px;
+  }
 
   .divider {
     border-top: 1px solid rgba(130,140,243,0.35);
