@@ -120,7 +120,7 @@ a.button {
   font-family: "Noto Sans JP", "Verdana", sans-serif;
   font-weight: 300;
 
-  font-size: 0.9em;
+  font-size: 0.85em;
   display: inline-block;   /* ← これだけでPCは横並びになる */
   width: 250px;              
   max-width: 250px;          /* ← 折り返し防止（最重要） */
