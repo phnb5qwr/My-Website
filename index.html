@@ -27,6 +27,10 @@
       max-width: 100%;   /* ← 正しい位置はここ */
     }
 
+    .wrapper {
+      text-align: center;
+    }
+
     h1 {
       font-size: 1.6em;          /* ← 控えめで上品 */
       margin-bottom: 0.2em;
@@ -57,26 +61,19 @@
 
 
     @media screen and (max-width: 600px) {
-  body {
+    .wrapper {
       transform: scale(0.8);
-      transform-origin: top center;
-
-      width: 125%;        /* ← 1 / 0.8 の補正 */
-      margin-left: -14%;   /* ← -12.5% を少しだけ強める */
-
-      margin-top: 10%;    /* ← 上すぎる問題を解決して中央へ */
-      padding: 20px;
-     }  
+      transform-origin: center center; /* ← 完全に中央のまま縮小される */
     }
+  }
 
   </style>
 </head>
 <body>
-
-  <h1>Sound of Planes<sup>®</sup></h1>
-  <h2>A gateway to the realm of void</h2>
-
-  <a href="void.html">Enter</a>
-
+  <div class="wrapper">
+    <h1>Sound of Planes<sup>®</sup></h1>
+    <h2>A gateway to the realm of void</h2>
+    <a href="void.html">Enter</a>
+  </div>
 </body>
 </html>
