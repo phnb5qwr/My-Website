@@ -58,14 +58,16 @@
 
     @media screen and (max-width: 600px) {
   body {
-    transform: scale(0.7);
-    transform-origin: top center;
+      transform: scale(0.8);
+      transform-origin: top center;
 
-    width: 142.9%;      /* ← 1 / 0.7 の補正 */
-    margin-left: -21.4%;/* ← 左右のズレを中央に戻す */
+      width: 125%;        /* ← 1 / 0.8 の補正 */
+      margin-left: -12.5%;/* ← 左右のズレを中央に戻す */
 
-    padding: 20px;
-  }  }
+      margin-top: 10%;    /* ← 上すぎる問題を解決して中央へ */
+      padding: 20px;
+     }  
+    }
 
   </style>
 </head>
