@@ -58,24 +58,11 @@
 
     @media screen and (max-width: 600px) {
   body {
-    padding: 20px;
+    transform: scale(0.6);
+    transform-origin: top center;
+    width: 166.6%;   /* ← 1 / 0.6 の補正値 */
+    padding: 20px;  }
   }
-
-  h1 {
-    font-size: 2em;     /* ← スマホで大きく見える */
-  }
-
-  h2 {
-    font-size: 1.4em;   /* ← 呼吸が深くなる */
-    margin-bottom: 2em;
-  }
-
-  a {
-    font-size: 1.2em;   /* ← ボタンが小さくならない */
-    padding: 12px 24px;
-  }
-}
-
 
   </style>
 </head>
