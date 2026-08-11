@@ -1,3 +1,5 @@
-.hidden {
-  display: none;
-}
+.hidden-spring { display: none; }
+.hidden-summer { display: none; }
+.hidden-autumn { display: none; }
+.hidden-winter { display: none; }
+
