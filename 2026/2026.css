@@ -3,3 +3,10 @@
 .hidden-autumn { display: none; }
 .hidden-winter { display: none; }
 
+@media screen and (max-width: 600px) {
+
+  .hidden-spring { display:none; }
+  .hidden-summer { display:none; }
+  .hidden-autumn { display:none; }
+  .hidden-winter { display:none; }
+}
