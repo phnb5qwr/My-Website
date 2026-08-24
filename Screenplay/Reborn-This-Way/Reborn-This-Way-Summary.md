@@ -227,6 +227,36 @@ Ward_Shadow_A (the only person the protagonist opens up to)
 Ward_Shadow_B (quiet shadow)
 Ward_Shadow_C (fragile shadow)
 
+🌙 Bottom Narration 
+There are many things I cannot speak about from this place.
+Here, speaking felt utterly meaningless.
+My voice reached no one,
+and time itself seemed to stretch on forever—
+That feeling is all that remains.
+
+🔥 Bottom Visual Structure 
+Subjective camera — a vision that is breaking apart  
+The frame loses focus, light bleeds, and the world appears through a faint, washed‑out haze.
+
+Patients appear as “shadows” in certain moments  
+Their faces and performances remain visible,
+but in the protagonist’s fractured perception,
+their outlines waver like silhouettes caught between worlds.
+A boundary between reality and the afterlife  
+White light, drifting figures, and a sense that the room is suspended outside ordinary time.
+
+Sound where words lose meaning  
+Voices echo from far away, fragmented and unintelligible,
+while the protagonist’s own voice feels close yet unheard.
+A silence that resembles prayer  
+Not terror—
+but a stillness so deep it feels like the world has stopped breathing.
+
+A gradual convergence of light leading into the five minutes of “Rebirth”  
+Vision stabilizes, light narrows, and the protagonist’s awareness returns,
+guiding the film into its final quiet resurrection.
+
+
 🌟 J｜Boss (Man of Light / Power)
 Codename: Boss_Power
 
@@ -490,6 +520,20 @@ Tech_Shadow_D
 Ward_Shadow_A（主人公が心を開ける相手）
 Ward_Shadow_B（静かな影）
 Ward_Shadow_C（壊れやすい影）
+
+●底のナレーション（決定稿）
+ここでの出来事は、多くは言えない。 
+言葉を話すことが、まるで意味を持たなくなる場所だった。 
+自分の声が誰にも届かないまま、 時間だけが永遠に続いていくような── 
+そんな感覚だけが残っている。
+
+●底の映像構造（決定稿）
+•	主観映像（視界が壊れる）
+•	患者は影として“見える瞬間”がある
+•	現実とあの世の境界
+•	言葉が意味を持たない音響
+•	祈りのような静寂
+•	再生の5分へつながる光の収束
 
 🌟 J｜上司（光の側の男）
 コードネーム：Boss_Power
