@@ -62,6 +62,77 @@ Old_Lead_A ← chosen
 Old_Lead_B
 Old_Lead_C
 
+🌙 C2｜Silent Companions (Spiritual Friends)
+Codename: Silent_Friends
+
+●Role
+They gather in the old protagonist’s home,
+existing as “spiritual witnesses of the Silent Zone.”
+
+Their voices are soft
+Their movements are slow
+They appear like shadows
+They know the protagonist’s lifelong suffering
+Yet they say nothing
+They simply stay close in silence
+
+After they leave,
+the protagonist discovers his wife’s death.
+This becomes the quietest loss right before the “Rebirth 5 min.”
+
+●Casting
+Silent_Friend_A  
+(Old age of Ward_Shadow_A)
+Silent_Friend_B  
+(Old age of Pure_Friend)
+Silent_Friend_C  
+(Old age of Ethics_Shadow)
+Silent_Friend_D  
+(Old_Lead himself)
+
+🌙 C3｜Grandchildren (Voices of the Future)
+Codename: Future_Voices
+
+●Role
+They never appear on screen
+Only the sound of them playing outside is heard
+No visual presence at all
+They exist purely as “living traces”
+They symbolize the light in the protagonist’s life
+Yet there is distance between them
+They function as spiritual echoes of the future
+
+●Effect
+The old-age Silent Zone becomes a borderland between reality and the spirit world
+Every character except the protagonist becomes a “presence” rather than a person
+The world is portrayed as an extension of the protagonist’s inner life
+
+🌙 C4｜Old Wife (Invisible Light)
+Codename: Silent_Wife
+
+●Role
+She is in the house during the old-age sequence,
+yet she never appears
+
+She speaks no lines
+Only her presence is felt
+In the final moment, only her back is shown
+as she sits at her desk
+She quietly passes away while writing the unfinished book
+“The Best Husband”
+
+The protagonist does not cry.
+There is only silence.
+Her presence becomes absolute.
+
+Her existence overlaps with Voice_Female,
+the “voice of light.”
+
+●Effect
+The theme of “salvation through an unseen presence” is completed
+The Rebirth 5 min becomes mythically quiet
+The voice of Voice_Female becomes the spiritual core of the film
+
 🔥 D｜AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
 
@@ -212,6 +283,71 @@ Shadow_Police
 Old_Lead_A ←決定
 Old_Lead_B
 Old_Lead_C
+
+🌙 C2｜Silent Companions（霊的友人たち） 
+Codename: Silent_Friends
+
+●Role
+老年期の主人公の家に集まり、
+“静圏の霊的証人” として存在する。
+
+声は小さく
+動きはゆっくり
+影のように存在する
+主人公の人生の地獄を知っている
+しかし何も言わない
+ただ静かに寄り添う
+
+彼らが帰った後に、奥さんの死が発見される
+“Rebirth 5 min” の前に訪れる最も静かな喪失
+
+●Casting
+Silent_Friend_A 
+（Ward_Shadow_A の老年期）
+Silent_Friend_B  
+（Pure_Friend の老年期）
+Silent_Friend_C 
+（Ethics_Shadow の老年期）
+Silent_Friend_D 
+（主人公）
+
+🌙 C3｜Grandchildren（声だけの未来） 
+Codename: Future_Voices
+
+●Role
+姿は映らない
+
+外で遊ぶ声だけが聞こえる
+画面には一切登場しない
+“生命の気配”として存在
+主人公の人生の光の象徴
+しかし距離がある
+霊的な「未来の気配」として機能する
+
+●Effect
+老年期の静圏が“現実と霊界の境界”になる
+主人公以外の存在がすべて“気配”になる
+世界が主人公の内面の延長として描かれる
+
+🌙 C4｜Old Wife（姿を現さない光） 
+Codename: Silent_Wife
+
+●Role
+老年期の家にいるが姿は見えない
+声も出さない
+気配だけが存在する
+最後の最後に、机に向かった 後ろ姿だけ が映る
+未完成の本「The Best Husband」を書きながら静かに息を引き取る
+
+主人公は泣かない
+静けさだけがある
+彼女の存在が最大化される
+Voice_Female の“光の声”と重なる
+
+●Effect
+“見えない存在の救い”という映画のテーマが完成
+Rebirth 5 min が神話レベルの静けさになる
+声だけの主人公（Voice_Female）の声が映画の魂として響く
 
 🔥 D｜AI設計者・技術者の狂気（冷静な破壊者）
 コードネーム：Tech_Shadow
