@@ -110,46 +110,58 @@ The world is portrayed as an extension of the protagonist’s inner life
 🌙 C4｜Old Wife (Invisible Light)
 Codename: Silent_Wife
 
-●Role
-She is in the house during the old-age sequence,
-yet she never appears
+●Role (existing)
+She is present in the old protagonist’s home,
+yet she never appears on screen.
 
-She speaks no lines
-Only her presence is felt
+She speaks no lines.
+Only her presence is felt.
 In the final moment, only her back is shown
-as she sits at her desk
+as she sits at her desk.
 She quietly passes away while writing the unfinished book
-“The Best Husband”
+“The Best Husband.”
 
 The protagonist does not cry.
 There is only silence.
 Her presence becomes absolute.
-
 Her existence overlaps with Voice_Female,
 the “voice of light.”
 
-●Effect
-The theme of “salvation through an unseen presence” is completed
-The Rebirth 5 min becomes mythically quiet
-The voice of Voice_Female becomes the spiritual core of the film
+Silent_Wife is an elderly woman with white hair.
+Her nationality and facial features are unknown.
+Because only her back is shown,
+the audience cannot determine who she truly is.
 
-🌙 C5｜Final Silent Rebirth Scene（新規追加）
+On the right side of her desk,
+both a PC and handwritten manuscript pages are placed.
+The handwritten pages resemble
+a “prototype craft” for the book’s cover design—
+a near‑finished experiment.
+
+The PC represents modernity.
+The handwritten pages represent spirituality
+and the “unfinished love” embodied in the book.
+By placing both side by side,
+modernity × spirituality × unfinished love  
+coexist in a single frame.
+
+🌙 C5｜Final Silent Rebirth Scene
 Codename: Rebirth_Closing
 
 ●Role
 The old protagonist enters the quiet room.
-On the desk lies the unfinished manuscript written by Silent_Wife.
+On the desk lies the unfinished manuscript.
 
 He gently picks up the book and opens it.
-As he reads,
-the wife’s voice begins to narrate the contents of the book,
-even though she never appears in the film except for her final back‑shot.
-
-Her voice is soft, spiritual, fading like light disappearing into dusk.
+As he begins to read,
+Silent_Wife’s voice starts narrating the contents,
+even though she appears only as a back‑shot in the entire film.
+Her voice is soft, spiritual,
+fading like evening light disappearing into dusk.
 Gradually, her voice fades out completely.
 
 In the silence,
-the protagonist speaks a single confession:
+the protagonist speaks a quiet confession:
 
 “I thought she never knew my secret.
 But she sensed everything… and wrote it here.
@@ -157,17 +169,29 @@ I believed I understood her completely.
 But I understood almost nothing.”
 
 He closes the book.
-On the cover, the title is revealed:
+On the cover, the title appears:
 “The Best Husband.”
 The film ends in total silence.
 
 ●Effect
-The “salvation through an unseen presence” becomes complete
-Silent_Wife and Voice_Female merge into one spiritual continuum
-The protagonist’s lifelong suffering is quietly absolved
-The Rebirth 5 min becomes mythic, sacred, and transcendent
-The world closes with silence instead of music
-The audience experiences a final emotional release without tears or spectacle
+The salvation through an unseen presence becomes complete.
+
+Silent_Wife and Voice_Female merge
+into a single spiritual continuum.
+The protagonist’s lifelong suffering
+is quietly absolved.
+The Rebirth 5 minutes become mythic, sacred, transcendent.
+
+The world closes not with music,
+but with silence.
+On their way home,
+the audience finds themselves saying:
+“I wonder… did he cry alone in that room afterward?”
+
+This final moment leaves space for imagination—
+not the man’s strength,
+but the man’s vulnerability,
+quietly unfolding in the hearts of the viewers.
 
 🔥 D｜AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
@@ -365,62 +389,71 @@ Codename: Future_Voices
 主人公以外の存在がすべて“気配”になる
 世界が主人公の内面の延長として描かれる
 
-🌙 C4｜Old Wife（姿を現さない光） 
+🌙 C4｜Old Wife（姿を現さない光）
 Codename: Silent_Wife
 
-●Role
+●役割（既存）
 老年期の家にいるが姿は見えない
+
 声も出さない
 気配だけが存在する
 最後の最後に、机に向かった 後ろ姿だけ が映る
-未完成の本「The Best Husband」を書きながら静かに息を引き取る
 
+未完成の本「The Best Husband」を書きながら静かに息を引き取る
 主人公は泣かない
 静けさだけがある
 彼女の存在が最大化される
 Voice_Female の“光の声”と重なる
 
-●Effect
-“見えない存在の救い”という映画のテーマが完成
-Rebirth 5 min が神話レベルの静けさになる
-声だけの主人公（Voice_Female）の声が映画の魂として響く
+Silent_Wife は高齢の女性で、白髪。
+国籍も顔立ちも分からない。
+後ろ姿だけのため、誰なのか観客は判断できない。
+机の右横には PC と手書き原稿が両方置かれている。
+手書き原稿は「表紙デザインの実験クラフト」のような状態。
+PCは現代性、手書き原稿は霊性と“未完成の本”の象徴。
 
-🌙 C5｜最終静圏・再生のシーン（新規追加）
+この二つが並ぶことで、
+現代 × 霊性 × 未完成の愛 が同時に成立する。
+
+🌙 C5｜Final Silent Rebirth Scene（新規追加）
 Codename: Rebirth_Closing
 
-●Role（役割）
-老年期の主人公は、静まり返った部屋へ入っていく。
-机の上には、Silent_Wife が書き残した 未完成の原稿が置かれている。
+●Role
+老年期の主人公は静まり返った部屋に入り、
+机の上の 未完成の原稿 をそっと手に取る。
 
-主人公はその本をそっと手に取り、ページを開く。
-読み始めると──
-妻の声が、本の内容を語り始める。  
-彼女は映画の中で最後の後ろ姿以外、決して姿を見せないにもかかわらず。
-
-その声は柔らかく、霊的で、
-まるで夕暮れの光がゆっくり消えていくように、
-静かにフェードアウトしていく。
-
+ページを開くと、
+Silent_Wife の声が本の内容を語り始める。  
+彼女は映画全体で後ろ姿しか映らないにもかかわらず。
+声は柔らかく、霊的で、
+夕暮れの光が消えていくようにフェードアウトしていく。
 完全な静寂が訪れたとき、
-主人公はひとり、ぽつりと告白する。
+主人公はぽつりと告白する。
+
 「彼女は、僕の秘密を知らないと思っていた。
 でも、彼女はすべてを察していて、この本に書いていた。
 僕は彼女を理解していたつもりだったけど、
 実際には、ほとんど理解していなかった。」
 
 主人公は本を閉じる。
-表紙には、静かにタイトルが現れる。
+表紙には静かにタイトルが現れる。
 “The Best Husband”
-映画は、完全な静寂の中で終わる。
+映画は完全な静寂で終わる。
 
-●Effect（効果）
-“見えない存在による救い” が完全に成立する
+●Effect
+“見えない存在による救い”が完成
 
-Silent_Wife と Voice_Female が 霊的な一本の光の流れとして重なる
-主人公の人生の苦しみが、静かに、穏やかに赦される
-Rebirth の5分が、神話的で、聖なる、超越的な静けさになる
-音楽ではなく 沈黙で世界が閉じる
-観客は涙ではなく、静かな解放としてラストを体験する
+Silent_Wife と Voice_Female が霊的に重なる
+主人公の人生の苦しみが静かに赦される
+Rebirth の5分が神話的で、聖なる静けさになる
+音楽ではなく沈黙で世界が閉じる
+
+観客は帰り道で
+「あの主人公、あの後ひとりで泣いたんじゃないかな…」  
+と話す余白が残る
+
+男の“強さ”ではなく、
+男の“弱さ”を観客の心の中で想像させるラスト
 
 🔥 D｜AI設計者・技術者の狂気（冷静な破壊者）
 コードネーム：Tech_Shadow
