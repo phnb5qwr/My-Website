@@ -133,6 +133,42 @@ The theme of “salvation through an unseen presence” is completed
 The Rebirth 5 min becomes mythically quiet
 The voice of Voice_Female becomes the spiritual core of the film
 
+🌙 C5｜Final Silent Rebirth Scene（新規追加）
+Codename: Rebirth_Closing
+
+●Role
+The old protagonist enters the quiet room.
+On the desk lies the unfinished manuscript written by Silent_Wife.
+
+He gently picks up the book and opens it.
+As he reads,
+the wife’s voice begins to narrate the contents of the book,
+even though she never appears in the film except for her final back‑shot.
+
+Her voice is soft, spiritual, fading like light disappearing into dusk.
+Gradually, her voice fades out completely.
+
+In the silence,
+the protagonist speaks a single confession:
+
+“I thought she never knew my secret.
+But she sensed everything… and wrote it here.
+I believed I understood her completely.
+But I understood almost nothing.”
+
+He closes the book.
+On the cover, the title is revealed:
+“The Best Husband.”
+The film ends in total silence.
+
+●Effect
+The “salvation through an unseen presence” becomes complete
+Silent_Wife and Voice_Female merge into one spiritual continuum
+The protagonist’s lifelong suffering is quietly absolved
+The Rebirth 5 min becomes mythic, sacred, and transcendent
+The world closes with silence instead of music
+The audience experiences a final emotional release without tears or spectacle
+
 🔥 D｜AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
 
@@ -348,6 +384,43 @@ Voice_Female の“光の声”と重なる
 “見えない存在の救い”という映画のテーマが完成
 Rebirth 5 min が神話レベルの静けさになる
 声だけの主人公（Voice_Female）の声が映画の魂として響く
+
+🌙 C5｜最終静圏・再生のシーン（新規追加）
+Codename: Rebirth_Closing
+
+●Role（役割）
+老年期の主人公は、静まり返った部屋へ入っていく。
+机の上には、Silent_Wife が書き残した 未完成の原稿が置かれている。
+
+主人公はその本をそっと手に取り、ページを開く。
+読み始めると──
+妻の声が、本の内容を語り始める。  
+彼女は映画の中で最後の後ろ姿以外、決して姿を見せないにもかかわらず。
+
+その声は柔らかく、霊的で、
+まるで夕暮れの光がゆっくり消えていくように、
+静かにフェードアウトしていく。
+
+完全な静寂が訪れたとき、
+主人公はひとり、ぽつりと告白する。
+「彼女は、僕の秘密を知らないと思っていた。
+でも、彼女はすべてを察していて、この本に書いていた。
+僕は彼女を理解していたつもりだったけど、
+実際には、ほとんど理解していなかった。」
+
+主人公は本を閉じる。
+表紙には、静かにタイトルが現れる。
+“The Best Husband”
+映画は、完全な静寂の中で終わる。
+
+●Effect（効果）
+“見えない存在による救い” が完全に成立する
+
+Silent_Wife と Voice_Female が 霊的な一本の光の流れとして重なる
+主人公の人生の苦しみが、静かに、穏やかに赦される
+Rebirth の5分が、神話的で、聖なる、超越的な静けさになる
+音楽ではなく 沈黙で世界が閉じる
+観客は涙ではなく、静かな解放としてラストを体験する
 
 🔥 D｜AI設計者・技術者の狂気（冷静な破壊者）
 コードネーム：Tech_Shadow
