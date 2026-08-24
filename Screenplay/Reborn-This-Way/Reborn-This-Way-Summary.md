@@ -193,6 +193,10 @@ not the man’s strength,
 but the man’s vulnerability,
 quietly unfolding in the hearts of the viewers.
 
+Ending theme decided through intuition before listening.
+Selected a track that aligns with the film’s silent rebirth and spiritual tone.
+
+
 🔥 D｜AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
 
@@ -454,6 +458,9 @@ Rebirth の5分が神話的で、聖なる静けさになる
 
 男の“強さ”ではなく、
 男の“弱さ”を観客の心の中で想像させるラスト
+
+「エンディングテーマは、音楽を聴く前の直感で決定した。
+映画の“静かな再生”と“霊的なトーン”に合う曲を選択した。」
 
 🔥 D｜AI設計者・技術者の狂気（冷静な破壊者）
 コードネーム：Tech_Shadow
