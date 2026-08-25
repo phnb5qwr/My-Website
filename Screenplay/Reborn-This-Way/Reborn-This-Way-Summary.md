@@ -24,6 +24,39 @@ Young_Lead_C
 Young_Lead_D
 Young_Lead_E
 
+🔥 A1｜Workplace Enforcer (Pressure of the Flame-Zone)
+Codename: PRESSURE-LORD
+Role (Abstracted for Git Safety)
+
+Mid‑level manager
+Overseer of a chaotic department
+
+Constantly radiates anger due to delayed deadlines
+Resents the protagonist after the internal whistleblowing
+Collapsing under criticism from subcontractors
+Still forced to keep the workflow moving
+Blames the protagonist: “This is your fault.”
+Functions as the workplace version of a “mad conductor”
+Symbolizes the pressure layer of the Flame‑Zone
+
+Character Essence
+Uses pressure as a weapon
+Controls others through air, not voice
+Core of the protagonist’s workplace hell
+Destroys the beauty of the Quiet‑Zone
+The atmosphere becomes heavy when he appears
+Embodies structural violence in corporate form
+
+🔥 A2｜Early Office Era (Multinational IT × Quiet-Zone Reality)
+Codename: GLASS-ENGINEER
+Role
+
+Quiet engineer working beside the protagonist
+Naturally fits into a multinational IT environment
+Appears only in a brief casual conversation
+Functions as a fragment of past happiness
+Highlights the beauty of the Quiet‑Zone in contrast to the Flame‑Zone
+
 🔥 B｜Middle Age (The Core of Hell)
 Codename: Middle_Lead
 
@@ -216,8 +249,38 @@ Codename: Female_Lead ← chosen
 🔥 G｜Dark Goddesses (Double Romance Fraud)
 Codename: Dark_Goddess_A & Dark_Goddess_B ← chosen
 
+🔥 G2｜Romance Scam Enforcement Unit (Shadow of Violence)
+Codename: IRON-HAND
+Role
+Violence operative behind Dark_Goddess_A & Dark_Goddess_B
+Appears briefly when threatening the protagonist
+Executes SILENT-DOMINUS’ orders without emotion
+Represents the real-world danger of the organization
+Quiet × Pressure × Tangible menace
+
+🔥 G3｜Romance Scam Kingpin (Master of Structural Violence)
+Codename: SILENT-DOMINUS
+Role
+Don of an international scam syndicate
+Controls through silence, not rage
+Kills through structure, not physical force
+Absolute ruler behind Dark_Goddess_A & Dark_Goddess_B
+Destroys the protagonist’s life remotely
+One word mobilizes the entire organization
+Core of the film’s deepest darkness layer
+
 🌌 H｜Outer Shadow (Police / Pursuer)
 Codename: Shadow_Police ← chosen
+
+🔥 H2｜Investigator Hunting the Crime Syndicate (Outer Hell)
+Codename: ASH-TRACKER
+Role
+Colleague of Shadow_Police
+Pursues a dangerous criminal network
+Targeted for assassination
+Threatened repeatedly
+Holds a quiet form of madness
+Reinforces the protagonist’s outer-layer hell
 
 🌙 I｜Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
@@ -338,6 +401,41 @@ Young_Lead_B
 Young_Lead_C
 Young_Lead_D
 Young_Lead_E
+
+🔥 A1｜職場の“圧”を象徴する幹部（炎上圏の圧力）
+コードネーム： PRESSURE-LORD
+役割（Gitに安全に置ける抽象化版）
+中間管理職
+
+荒れた部署の統括
+納期遅延で常に怒りの圧を放つ
+内部告発で主人公を恨む
+
+下請けからの批判殺到で精神崩壊寸前
+でも仕事は回さないといけない
+主人公に「お前のせいだ」と圧をかける
+
+“職場版・狂気の教師”として機能
+映画の 炎上圏の圧力層 を象徴する存在
+
+キャラの本質
+怒りの圧を武器にする
+声ではなく“空気”で支配する
+主人公の精神を削る“職場の地獄”の中心
+静圏の美しさを壊す存在
+彼が登場するだけで空気が重くなる
+構造暴力の“職場版”の象徴
+
+🔥 A2｜若い頃のオフィス（国籍混在 × IT × 静圏のリアリティ）
+＝静かな日常の象徴
+●俳優
+•	GLASS-ENGINEER ←（若い頃の同僚）
+●役割
+•	主人公の隣の席で働く静かなエンジニア
+•	国籍混在のIT企業に自然に馴染む
+•	主人公と軽く雑談するワンカットのみ
+•	“過去の幸せの断片”として機能
+•	炎上圏との対比で静圏の美しさを強調
 
 🔥 B｜中年期（地獄の中心）
 コードネーム：Middle_Lead
@@ -510,8 +608,40 @@ Tech_Shadow_D
 🔥 G｜闇の女神（ロマンス詐欺の二重破壊）
 コードネーム：Dark_Goddess_A & Dark_Goddess_B ←決定
 
+🔥 G2｜ロマンス詐欺組織の実行部隊（暴力の影）
+＝ IRON-HAND
+●役割
+•	Dark_Goddess_A & Dark_Goddess_Bの裏にいる暴力係
+•	主人公を脅すシーンで一瞬登場
+•	SILENT-DOMINUSの命令を淡々と実行
+•	組織の“現場の怖さ”を象徴
+•	静けさ × 圧 × 実在感
+
+🔥 G3｜ロマンス詐欺組織のトップ（構造暴力の支配者）
+＝ SILENT-DOMINUS
+●役割
+•	国際詐欺組織のドン
+•	感情を見せず、静けさで支配する悪
+•	暴力ではなく“構造”で人を殺すタイプ
+•	Dark_Goddess_A & Dark_Goddess_Bの背後にいる絶対的支配者
+•	主人公の人生を遠隔で破壊する存在
+•	一言だけで組織全体が動く
+•	映画の“闇の層”の中心
+
 🌌 H｜外側の影（警察・追跡者）
 コードネーム：Shadow_Police ←決定
+
+🔥 H2｜犯罪組織を追う調査官（外側の地獄）
+＝主人公の“外側の地獄”を象徴
+●俳優
+•	ASH-TRACKER 
+●役割
+•	Shadow_Policeの同僚
+•	危険な犯罪組織を追う
+•	命を狙われる
+•	脅される
+•	静圏の狂気を持つ
+•	主人公の外側の地獄を補強する存在
 
 🌙 I｜閉鎖病棟（底の入口）
 コードネーム：Ward_Shadow
@@ -520,6 +650,7 @@ Tech_Shadow_D
 Ward_Shadow_A（主人公が心を開ける相手）
 Ward_Shadow_B（静かな影）
 Ward_Shadow_C（壊れやすい影）
+Ward_Shadow_D（薬物中毒患者）
 
 ●底のナレーション
 ここでの出来事は、多くは言えない。 
