@@ -81,6 +81,122 @@ Cold_Tech_A
 Old_Lead (memory shadow)
 Shadow_Police
 
+🌟 Silent_Friend_A — Final Character Profile (English Version)
+Codename: Silent_Friend_A  
+The protagonist’s only ally — pure stillness × a man of quiet prayer
+
+● Role Overview
+Silent_Friend_A is the only person in the protagonist’s life who embodies pure goodness.
+Not faith, not ideology—
+just purity, stillness, and a quiet, unwavering sincerity.
+
+He is the one presence who makes the protagonist’s eventual rebirth believable.
+
+1. Workplace Colleague
+Works in the same department as the protagonist.
+
+The only person who understands the protagonist’s inner world
+amid the pressure from Boss_Power_A (Vice President) and Boss_Power_B (Direct Supervisor).
+Quiet, sincere, gentle—almost prayerful in the way he exists.
+He does not possess “religious faith”;
+he possesses pure stillness.
+
+2. Supports the Whistleblowing Decision
+When the protagonist decides to blow the whistle,
+Silent_Friend_A is the only one who doesn’t say “stop.”
+
+He doesn’t encourage recklessly either.
+He simply says:
+“If you believe it’s right… then you should do it.”
+This single sentence determines the protagonist’s entire life.
+
+3. Loses His Job Alongside the Protagonist
+The aftermath of the whistleblowing pulls him down as well.
+
+He never blames the protagonist.
+He only says:
+“I’ll be fine.”
+He finds another job.
+Distance grows between them.
+But he continues to think about the protagonist quietly, from afar.
+This is where his prayer‑like quality becomes clear.
+
+4. Reappears When the Protagonist Has Lost Everything
+At the end of the “Inferno Era,”
+when the protagonist has lost:
+
+his job
+his family
+his money
+his reputation
+his mental stability
+Silent_Friend_A is the only person who returns.
+This is the film’s quiet salvation.
+
+5. The Street Collapse Scene — The First Moment of Salvation
+After being discharged from the psychiatric ward,
+the protagonist enters a state resembling severe PTSD.
+
+Walking down a road,
+he suddenly collapses.
+
+His face—about one‑quarter of it—becomes covered in blood.
+People rush to help him,
+calling out, reaching toward him,
+trying to stop the bleeding.
+
+But the protagonist, dazed and dissociated,
+begins walking home with blood still running down his face,
+ignoring the voices around him.
+
+On that silent, staggering walk home,
+he encounters Silent_Friend_A.
+
+Silent_Friend_A does not panic.
+He does not shout.
+He simply approaches with quiet presence—
+the same stillness he carried years ago.
+
+This is the moment when the protagonist’s life
+begins to rise from the ashes,
+one small breath at a time.
+
+It is the first spark of rebirth.
+
+6. Helps the Protagonist Rebuild His Life
+When the protagonist later says,
+“I want to try again,”
+Silent_Friend_A responds softly:
+
+“You can do it.”
+He offers a small amount of financial support.
+Not a large sum—just enough to become “light.”
+He asks for nothing in return.
+He simply prays for the protagonist’s rebirth.
+
+7. His Presence Echoes in the Old Age Chapter
+In the protagonist’s old age,
+when he reads the unfinished book “The Best Husband,”  
+Silent_Friend_A’s existence quietly reinforces its meaning.
+
+He is the only man in the protagonist’s life
+who embodies pure, uncorrupted kindness.
+
+🌙 Impact on the Film
+1. A Quiet Salvation Within the Inferno
+Your film is 110 minutes of hell.
+Silent_Friend_A is the single point of light.
+
+2. Purity Without Madness
+His performance adds depth without chaos—
+only stillness.
+
+3. Makes the Rebirth Believable
+The “five‑minute rebirth” becomes real, not symbolic.
+
+4. Audience Will Cry
+Because he is the only pure kindness in the protagonist’s entire life.
+
 🌙 C｜Old Age (Symbol of Silence)
 Codename: Old_Lead
 
@@ -504,6 +620,137 @@ Cold_Tech_A
 Old_Lead (記憶としての影)
 Shadow_Police
 
+
+🌟 Silent_Friend_A — 最終キャラクタープロファイル（日本語版）
+コードネーム：Silent_Friend_A  
+主人公の唯一の味方 —— “静の純粋さ × 祈りの人”
+
+● 役割概要
+Silent_Friend_A は、主人公の人生でただ一人、
+純粋な善意そのものを体現する存在。
+
+信仰でも、思想でもない。
+ただ、静けさと純度、そして揺るぎない誠実さだけを持つ。
+
+主人公が最終的に“再生”へ向かうことができる理由は、
+この男が物語のどこかで必ず静かに寄り添っているから。
+
+1. 職場の同僚
+主人公と同じ部署で働いている。
+
+Boss_Power_A（副社長）と Boss_Power_B（直属上司）の圧力の中で、
+主人公の内面を唯一理解している人物。
+
+静かで、誠実で、祈るような存在感。
+“宗教的信仰”ではなく、
+純粋な静けさを持つ人。
+
+2. 内部告発を支える
+主人公が内部告発を決意したとき、
+Silent_Friend_A は 唯一「やめろ」と言わない。
+
+無責任に煽ることもしない。
+ただ静かにこう言う。
+
+「正しいと思うなら……やるべきだ。」
+
+この一言が、主人公の人生を決定づける。
+
+3. 主人公と共に職を失う
+内部告発の余波で、彼自身も巻き込まれて職を失う。
+
+それでも主人公を責めない。
+
+ただ静かに、
+「俺は大丈夫だよ。」
+と言うだけ。
+
+その後、別の仕事に就き、
+距離はできるが、
+心の中ではずっと主人公を気にかけている。
+ここで彼の “祈りのような質” が明確になる。
+
+4. 主人公がすべてを失ったときに再登場
+“炎上圏”の終盤、主人公が
+
+仕事
+家族
+お金
+名誉
+精神
+
+すべてを失ったとき、
+唯一戻ってくる男が Silent_Friend_A。
+
+これが映画の 静かな救い。
+
+5. 路上での崩れ落ちるシーン —— 最初の救いの瞬間
+閉鎖病棟を退院した主人公は、
+重症のPTSDのような状態に陥る。
+
+道路を歩いていると、
+突然その場で倒れ込む。
+
+顔の 1/4 が血まみれ になるほどの怪我。
+周囲の人々が助けようと駆け寄り、
+呼びかけ、手を伸ばし、
+血を止めようとする。
+
+しかし主人公は朦朧とし、
+解離したまま、
+血を流しながら帰宅しようと歩き始める。
+
+その静かで危うい帰り道で、
+彼は Silent_Friend_A と出会う。
+
+Silent_Friend_A は慌てない。
+叫ばない。
+ただ、昔と同じ静けさで近づく。
+
+この瞬間から、
+主人公の人生は灰の中からゆっくりと立ち上がり始める。
+
+再生の最初の火種。
+
+6. 主人公の再出発を支える
+主人公が
+「もう一度やり直したい」
+と言ったとき、
+Silent_Friend_A は静かに答える。
+
+「君ならできるよ。」
+
+少額の資金を渡す。
+大金ではない。
+しかし主人公にとっては“光”。
+見返りは求めない。
+ただ主人公の再生を祈るだけ。
+
+7. 老年期の章で静かに響く存在
+主人公が老年期に、
+未完成の本 「The Best Husband」 を読むとき、
+Silent_Friend_A の存在がその意味を静かに補強する。
+
+主人公の人生で、
+純粋で汚れなき善意を持つ唯一の男性。
+
+🌙 映画への影響
+1. 地獄の中の静かな救い
+110分の地獄の物語に、
+Silent_Friend_A は唯一の光をもたらす。
+
+2. 狂気ではなく純粋さ
+彼の演技は混乱を生まず、
+ただ深い静けさだけを残す。
+
+3. 再生の5分が“現実”になる
+象徴ではなく、
+本当に主人公が立ち直る理由になる。
+
+4. 観客が泣く
+主人公の人生で唯一の純粋な善意だから、
+ここで涙がこぼれる。
+
 🌙 C｜老年期（静の象徴）
 コードネーム：Old_Lead
 
@@ -545,6 +792,7 @@ Silent_Friend_C
 （Ethics_Shadow の老年期）
 Silent_Friend_D 
 （主人公）
+
 
 🌙 C3｜Grandchildren（声だけの未来） 
 Codename: Future_Voices
