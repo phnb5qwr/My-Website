@@ -194,7 +194,7 @@ fading like evening light disappearing into dusk.
 Gradually, her voice fades out completely.
 
 In the silence,
-the protagonist speaks a quiet confession:
+The protagonist quietly confesses his feelings through a brief narration.
 
 “I thought she never knew my secret.
 But she sensed everything… and wrote it here.
@@ -603,7 +603,7 @@ Silent_Wife の声が本の内容を語り始める。
 声は柔らかく、霊的で、
 夕暮れの光が消えていくようにフェードアウトしていく。
 完全な静寂が訪れたとき、
-主人公はぽつりと告白する。
+主人公はぽつりとナレーションにて心情を告白する。
 
 「彼女は、僕の秘密を知らないと思っていた。
 でも、彼女はすべてを察していて、この本に書いていた。
