@@ -332,19 +332,62 @@ Boss_Power_D
 🌙 K｜Judge (Peak of Structural Violence)
 Codename: Judge_Silent ← chosen
 
-🌟 L｜Future Partner (Voice of Light)
-Codename: Voice_Female ← final
+🌟 L | Voice‑Only Future Partner (The Voice of Light)
+Codename: Voice_Female — Final
 
-Role
-Her voice is found on a website before marriage
-Protagonist is misled by a phishing fake site
-Truth revealed through ward news
-Real site found during startup phase
-Communicates quietly via email
-No face, no appearance — only voice
-Writes an unfinished book “The Best Husband”
-Old_Lead realizes she always sensed him
-Supports the final 5 minutes of rebirth
+● Role
+The voice on the official website the protagonist discovers by chance in his youth, before marriage.
+
+She does not know that, in his middle age,
+the protagonist was continuously being lured to a phishing scam site.
+
+She does not know that he learned the truth
+while watching the news inside a psychiatric ward.
+
+During his startup years,
+the protagonist finally reaches her real official website.
+
+At that moment, he quietly contacts her by email.
+
+She never shows her face.
+
+She never shows her form.
+
+She exists only as a voice.
+
+She was writing an unfinished book, “The Best Husband,”  
+up until the final moments of her life.
+
+In his old age, the protagonist reads that book
+and realizes she had been sensing him all along.
+
+She becomes the “voice of light”  
+that supports the five‑minute rebirth sequence.
+
+🌟 L | Voice‑Only Future Partner (The Voice of Light)
+Codename: Voice_Female — Final
+
+● Role
+The voice on the official website the protagonist discovers by chance in his youth, before marriage.
+
+She does not know that, in his middle age,
+the protagonist was continuously being lured to a phishing scam site.
+She does not know that he learned the truth
+while watching the news inside a psychiatric ward.
+During his startup years,
+the protagonist finally reaches her real official website.
+At that moment, he quietly contacts her by email.
+
+She never shows her face.
+She never shows her form.
+She exists only as a voice.
+She was writing an unfinished book, “The Best Husband,”  
+up until the final moments of her life.
+
+In his old age, the protagonist reads that book
+and realizes she had been sensing him all along.
+She becomes the “voice of light”  
+that supports the five‑minute rebirth sequence.
 
 🌟 M｜Head of Ethics Department (Silent Madness × Structural Shadow)
 Codename: Ethics_Shadow ← final
@@ -726,12 +769,12 @@ Boss_Power_D
 コードネーム：Voice_Female ←最終決定
 
 ●役割
-主人公が結婚前に偶然見つける公式サイトの声
+青年期の主人公が結婚前に偶然見つける公式サイトの声
 
-フィッシング詐欺で偽サイトに誘導される
-閉鎖病棟でニュースを見て真実を知る
-起業の時に本物の公式サイトに辿り着く
-メールで静かにコンタクト
+中年期の主人公がフィッシング詐欺で偽サイトに誘導され続けていたことを知らない
+中年期の主人公が閉鎖病棟でニュースを見て真実を知ったこともしらない
+中年期の主人公が起業の時に、本物の公式サイトに辿り着く
+その時に主人公がメールで静かにコンタクトしてくる
 顔も姿も出ない
 声だけで存在する
 死ぬ間際まで書いていた未完成の本「The Best Husband」
