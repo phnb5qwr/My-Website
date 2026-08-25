@@ -440,10 +440,124 @@ guiding the film into its final quiet resurrection.
 Codename: Boss_Power
 
 Candidates
-Boss_Power_A
-Boss_Power_B
-Boss_Power_C
-Boss_Power_D
+Boss_Power_A — The Vice President (Corporate Authority)  
+Boss_Power_B — Personal Power / The First Wife’s Remarried Husband  
+Boss_Power_C — The Violence of Technology
+Boss_Power_D — The Shadow of Ethics
+Silent_Friend_C 　
+
+Codename: Silent_Friend_C  
+Head of Ethical Compliance — quiet madness × the shadow of structure
+
+● Role Overview
+Silent_Friend_C is not a villain.
+He is the structure itself.
+
+A gentle face carrying quiet doom.
+A man who speaks softly, yet represents the ethical machinery that crushes the protagonist.
+
+He embodies the “ethical shadow” of the corporation—
+a force that does not attack,
+does not shout,
+does not punish directly,
+but cannot save.
+
+His presence adds a layer of “still madness” to the film’s world.
+
+1. Position: Head of Ethical Compliance
+Senior manager above the protagonist.
+
+Oversees corporate ethics, internal audits, and compliance.
+Calm, polite, almost tender in his demeanor.
+His kindness is real—
+but powerless against the structure he represents.
+He is the man who says the truth softly,
+even when the truth hurts.
+
+2. Before the Whistleblowing — The First Warning
+The protagonist visits him for advice.
+
+Silent_Friend_C listens quietly, then says:
+“What you’re saying is correct.
+But correctness is not always protected.”
+This single line grabs the audience by the stomach.
+It is not a threat—
+it is a prophecy.
+
+3. After the Whistleblowing — The Ethical Consequence
+Silent_Friend_C does not blame him.
+
+He simply says:
+“You acted with courage.
+But courage often demands a price.”
+The audience feels the complexity:
+
+He is not an enemy.
+But he cannot help.
+He cannot intervene.
+He cannot save.
+He is the ethical wall the protagonist cannot climb.
+
+4. When the Protagonist Loses His Job
+Silent_Friend_C does not cry.
+He does not comfort.
+He does not justify.
+
+He simply watches quietly as the protagonist leaves.
+This is the “still madness” that deepens the film’s weight.
+
+5. The Company’s Collapse — Final Revelation
+Years later, the protagonist learns the truth:
+
+The company collapsed due to internal whistleblowing.
+All executives were protected by an early retirement program.
+Silent_Friend_C survived the collapse,
+but carries the quiet guilt of being part of the structure.
+
+He appears again in the final act—
+not triumphant,
+not broken,
+but human.
+
+He and the protagonist share a final, quiet reconciliation.
+No anger.
+No blame.
+Just two men who lived through the same structure
+and were shaped by it in different ways.
+
+6. Old Age Chapter — His Words Return as Light
+In the protagonist’s old age,
+while reading “The Best Husband,”  
+Silent_Friend_C’s voice returns as a memory:
+
+“Righteousness is often lonely.
+But beyond loneliness, there is light.”
+
+This line overlaps with the book’s final message,
+closing the film with quiet beauty.
+
+🌙 Impact on the Film
+1. Adds “Still Madness” to the Power Structure
+Boss_Power_A = corporate authority
+Boss_Power_B = personal power
+Boss_Power_C = technological violence
+Boss_Power_D = ethical shadow
+
+Silent_Friend_C stands among them,
+but his violence is structural, not personal.
+
+2. Makes the Ethical Layer of the Film Real
+He shows that ethics can be gentle,
+yet still destroy people.
+
+3. Deepens the Protagonist’s Tragedy
+He is kind—
+but powerless.
+This makes the protagonist’s suffering heavier.
+
+4. Makes the Ending Beautiful
+His final line in the old age chapter
+turns the protagonist’s life into a quiet, luminous arc.
 
 🌙 K｜Judge (Peak of Structural Violence)
 Codename: Judge_Silent ← chosen
@@ -1005,10 +1119,120 @@ Ward_Shadow_D（薬物中毒患者）
 コードネーム：Boss_Power
 
 ●候補
-Boss_Power_A
-Boss_Power_B
-Boss_Power_C
-Boss_Power_D
+Boss_Power_A（副社長）
+Boss_Power_B（権力/最初の奥さんの再婚相手）
+Boss_Power_C（技術の暴力）
+Boss_Power_D（倫理の影）
+Silent_Friend_C
+
+コードネーム：Silent_Friend_C  
+倫理監査部の長 —— 静かな狂気 × 構造の影
+
+● 役割概要
+Silent_Friend_C は“悪役”ではない。
+彼自身が構造そのものだ。
+
+優しい顔で静かに地獄を運ぶ男。
+声を荒げることも、攻撃することも、直接罰することもない。
+しかし——救うこともできない。
+企業の中に潜む 倫理の影 を体現し、
+物語に“静の狂気”という層を追加する存在。
+
+1. 役職：倫理監査部の長
+主人公より上の立場にいる幹部。
+
+企業倫理、内部監査、コンプライアンスを統括する。
+穏やかで、丁寧で、どこか優しさすら感じる佇まい。
+その優しさは本物だが、
+彼が背負う構造の前では無力。
+真実が痛みを伴う時でも、
+彼はそれを静かに告げる役割を持つ。
+
+2. 内部告発前 —— 最初の警告
+主人公が相談に訪れる。
+
+Silent_Friend_C は静かに耳を傾け、
+そしてこう告げる。
+「あなたの言っていることは正しい。
+しかし、正しさが必ず守られるとは限らない。」
+これは脅しではない。
+予言だ。
+観客の胃が静かに掴まれる瞬間。
+
+3. 内部告発後 —— 倫理的な帰結
+Silent_Friend_C は主人公を責めない。
+
+ただ静かに言う。
+「あなたは勇気を持った。
+だが、勇気には代償が伴うことがある。」
+観客は複雑な感情を抱く。
+敵ではない
+しかし助けてはくれない
+介入できない
+救えない
+彼は主人公が越えられない 倫理の壁 そのもの。
+
+4. 主人公が職を失う時
+Silent_Friend_C は泣かない。
+慰めない。
+正当化もしない。
+ただ静かに見送る。
+この“静の狂気”が映画の重さを一段階深くする。
+
+5. 会社崩壊 —— 最終的な真実
+数年後、主人公は真実を知る。
+
+会社は内部告発で崩壊した
+幹部たちは早期退職制度で守られた
+Silent_Friend_C もその制度で生き残った
+しかし彼は構造の一部であったことへの
+静かな罪悪感を抱えている
+彼は終盤で再び姿を見せる。
+
+勝者でもなく、
+敗者でもなく、
+ただの 人間として。
+
+主人公と彼は静かに和解する。
+怒りもない。
+責めもない。
+ただ、同じ構造を生き抜いた二人の静かな対話。
+
+6. 老年期 —— 言葉が光として戻る
+主人公が老年期に
+未完成の本 「The Best Husband」 を読むとき、
+Silent_Friend_C の声が回想として蘇る。
+
+「正しさは時に孤独だ。
+しかし、孤独の先には光がある。」
+
+この言葉が本のメッセージと重なり、
+映画は静かで美しい余韻を残して閉じる。
+
+🌙 映画への影響
+1. 権力構造に“静の狂気”を追加する
+Boss_Power_A = 企業権力
+Boss_Power_B = 個人的権力
+Boss_Power_C = 技術の暴力
+Boss_Power_D = 倫理の影
+
+Silent_Friend_C はその中に立ち、
+個人ではなく構造としての暴力を体現する。
+
+2. 倫理のレイヤーを現実にする
+倫理は優しく見えても、
+人を壊すことがある。
+
+Silent_Friend_C はその“優しい破壊”を象徴する。
+
+3. 主人公の悲劇を深める
+彼は優しい。
+しかし救えない。
+この矛盾が主人公の苦しみをより深くする。
+
+4. エンディングを美しくする
+老年期の回想で彼の言葉が光となり、
+主人公の人生が静かに弧を描いて閉じる。
 
 🌙 K｜裁判長（構造暴力の頂点）
 コードネーム：Judge_Silent ←決定
