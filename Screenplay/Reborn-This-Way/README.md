@@ -10,8 +10,9 @@ A psychological drama film project by Pi.
 ## Files
 - Reborn-This-Way-Summary.md
 - Reborn-This-Way-Structure.md
-- Reborn-This-Way-Characters.md
+- Reborn-This-Way-Cast.md
 - Chapter1.md
+- Chapter1-Continuation.md
 - Notes.md
 
 ## Copyright
