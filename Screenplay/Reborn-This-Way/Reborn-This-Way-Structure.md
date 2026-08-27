@@ -1,4 +1,5 @@
 ◆ Protagonist’s Psychological Structure (Male Protagonist — Bottom Scene)
+
 The protagonist possesses a multidimensional mind.
 Because of this, the suffering becomes far deeper when he is dragged into a one‑dimensional abusive structure.
 
@@ -24,6 +25,7 @@ His existence is taken away
 His voice disappears
 His reality is denied
 When the protagonist performs this, it becomes a quiet, profound madness.
+
 
 ◆ Scene Depiction (Psych Ward / Poverty Business / Inversion Structure)
 This is the core of hell within the scenario.
@@ -65,7 +67,9 @@ His existence disappears
 This is the protagonist’s strongest domain:
 breaking quietly, going mad quietly, crying quietly, raging quietly.
 
+
 ◆ Internal Structure of the Abuser (The “Helper” Who Is Actually an Abuser)
+
 ● Internal Structure
 Believes they are “the righteous side”
 Cannot recognize their own impurity
@@ -94,9 +98,10 @@ This is exploitation disguised as support.
 
 
 
-◆ 主人公の心理構造（男性主人公ー底のシーン）
+◆ 主人公の心理構造（男性主人公 — 底のシーン）
 
 主人公は「多次元脳」を持つ人間。 だからこそ、一次元の加害構造に巻き込まれた時の苦しみが深い。
+
 ● 内部構造
 •	他者の痛みを感じすぎる
 •	空気・波動・行間を読みすぎる
@@ -107,6 +112,7 @@ This is exploitation disguised as support.
 •	自分が壊れるまで耐える
 •	自分が壊れた瞬間だけが外側に出る
 この構造は主人公の系譜に近い。
+
 ● 被害者としての心理
 •	助けを求めても助けてもらえない
 •	助ける側が加害構造であることに気づく
@@ -119,8 +125,11 @@ This is exploitation disguised as support.
 •	自分の現実が否定される
 この心理は、 主人公が演じると 静かで深い狂気になる。
 
+
 ◆ 場面描写（閉鎖病棟・貧困ビジネス・反転構造）
+
 ここはシナリオの“地獄の核”。
+
 ● 1｜閉鎖病棟の空気
 •	白い壁
 •	無音
@@ -130,6 +139,7 @@ This is exploitation disguised as support.
 •	職員の足音が規則的
 •	主人公の呼吸だけが乱れている
 監督の演出なら、 静けさが暴力になる空間。
+
 ● 2｜主人公が「案件化」される瞬間
 •	職員が主人公を見ない
 •	主人公の言葉を記録だけする
@@ -137,6 +147,7 @@ This is exploitation disguised as support.
 •	主人公の怒りを「問題行動」として記録する
 •	主人公の人格が“書類上の人格”に書き換えられる
 ここは 人間がデータに変換される瞬間。
+
 ● 3｜反転構造が発動する瞬間
 •	主人公が助けを求める
 •	職員は無視する
@@ -146,6 +157,7 @@ This is exploitation disguised as support.
 •	職員が「この人は危険です」と言う
 •	主人公が加害者として扱われる
 ここは 人間の本質が反転される瞬間。
+
 ● 4｜主人公が壊れる瞬間
 •	自分の声が届かない
 •	自分の現実が否定される
@@ -154,7 +166,9 @@ This is exploitation disguised as support.
 •	自分の存在が消える
 ここは主人公が最も得意な領域。 静かに壊れる。 静かに狂う。 静かに泣く。 静かに怒る。
 
+
 ◆ 加害者側の内部構造（支援者の顔をした加害者）
+
 ● 内部構造
 •	自分は“正義”だと思っている
 •	自分の濁りを認識できない
@@ -165,6 +179,7 @@ This is exploitation disguised as support.
 •	自分の行動を正当化する
 •	自分が加害者であることを理解できない
 これは 一次元脳の極端化。
+
 ● 行動構造
 •	被害者を助けるフリをする
 •	被害者を依存状態に固定する
