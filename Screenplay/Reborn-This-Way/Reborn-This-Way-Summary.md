@@ -434,15 +434,137 @@ guiding the film into its final quiet resurrection.
 
 
 🌟 J｜Boss (Man of Light / Power)
-Codename: Boss_Power
+Boss_Power Characters
 
-Candidates
-Boss_Power_A — The Vice President (Corporate Authority)  
-Boss_Power_B — Personal Power / The First Wife’s Remarried Husband  
-Boss_Power_C — The Violence of Technology
-Boss_Power_D — The Shadow of Ethics
-Silent_Friend_C 　
+Boss_Power_A — CFO (Chief Financial Officer)
+Corporate Authority / Financial Power
 
+Boss_Power_B — CTO (Chief Technology Officer)
+The Violence of Technology / Technical Dominance
+
+Boss_Power_C — CCO (Chief Compliance Officer)
+The Shadow of Ethics / The First Wife’s Remarried Husband
+Symbol of Ethical Power × Inversion of Ethics
+
+● Role Overview
+Boss_Power_C is not a villain.
+Like Silent_Friend_C, he is the structure itself.
+But he stands at the top of that structure.
+Sincere
+Clean
+Socially trusted
+Guardian of corporate ethics
+
+A man who audits the company’s “correctness.”
+And yet—
+the symbol of ethics becomes the one who destroys ethics.
+This inversion creates the hell that flips the protagonist’s world upside down.
+
+1｜Position: Chief Compliance Officer (CCO) / Apex of the Ethics Committee
+
+Hierarchy of a multinational IT corporation (top → bottom):
+CEO
+President
+CXO (COO / CFO / CTO / CHRO / CCO)
+EVP
+SVP
+VP
+Boss_Power_C belongs to this CXO tier.
+A “god of structure” the protagonist can never defeat.
+
+He oversees:
+Corporate ethics
+Internal audits
+Compliance
+Governance
+Social justice as a corporate symbol
+He is the pinnacle of ethics.
+
+Calm, polite, almost gentle in demeanor.
+But that gentleness is merely a silent vessel for structural violence.
+
+2｜The Whistleblowing — Destruction of the Protagonist’s “Correctness”
+
+The protagonist chooses justice through whistleblowing.
+He did the right thing
+He protected social ethics
+He acted to protect his family
+He chose inner ethics
+And yet—
+that very correctness destroys his family.
+The audience feels the world bend.
+
+3｜Boss_Power_C’s Ethics Invert
+Boss_Power_C is the symbol of ethics.
+
+And yet,
+the symbol of ethics becomes the one who destroys ethics.
+Stands in the position of auditing ethics
+Stands outside ethics
+Uses ethics
+Breaks ethics
+Takes the protagonist’s family
+This is the inversion of ethics.
+The world begins to quietly go insane.
+
+4｜The Wife Chooses “the Outside of Ethics”
+
+The wife is the symbol of:
+Daily life
+Family
+Ethics
+And she chooses—
+Not the inside of ethics, but the outside = Boss_Power_C.
+The audience’s brain stalls.
+
+5｜When Madness Peaks, the Audience Laughs
+
+The audience reacts:
+“Wait wait wait…
+Her new husband is Boss_Power_C?
+The ethics committee?
+This is insane…
+But somehow it makes sense…
+This film is unhinged…”
+This is the laughter born when correct madness is achieved.
+
+6｜The Moment the Story’s “Gravity” Inverts
+The protagonist (inner ethics)
+
+Boss_Power_C (outer ethics)
+The wife (symbolic ethics)
+
+When these three intersect,
+the story’s gravity flips.
+Correctness is destroyed
+Ethics invert
+Daily life is swallowed by madness
+The world turns inside out
+This is the structure of a legendary scene.
+
+7｜From Here, the Story Enters “True Madness”
+After this inversion,
+the protagonist can no longer return to the world of correctness.
+
+The world itself has flipped.
+From here on, the story becomes:
+How the protagonist lives inside the inverted world.
+
+◆ Relationship Between Silent_Friend_C and Boss_Power_C (Structural Beauty)
+Boss_Power_C = CCO, apex of ethics
+
+Silent_Friend_C = Head of Ethics Audit, direct subordinate
+This hierarchy perfectly completes the structure of hell.
+Silent_Friend_C is the gentle shadow.
+Boss_Power_C is the structural god.
+The wife chooses the god’s side.
+The protagonist falls to the side of the shadow.
+This structure aligns perfectly with the director’s worldview.
+
+
+Silent_Friend_C — Direct Subordinate of the Ethics Committee
+
+Head of Ethics Audit / Quiet Madness × Structural Shadow
 Codename: Silent_Friend_C  
 Head of Ethical Compliance — quiet madness × the shadow of structure
 
@@ -452,13 +574,11 @@ He is the structure itself.
 
 A gentle face carrying quiet doom.
 A man who speaks softly, yet represents the ethical machinery that crushes the protagonist.
-
 He embodies the “ethical shadow” of the corporation—
 a force that does not attack,
 does not shout,
 does not punish directly,
 but cannot save.
-
 His presence adds a layer of “still madness” to the film’s world.
 
 1. Position: Head of Ethical Compliance
@@ -1115,12 +1235,133 @@ Ward_Shadow_D（薬物中毒患者）
 🌟 J｜上司（光の側の男）
 コードネーム：Boss_Power
 
-●候補
-Boss_Power_A（副社長）
-Boss_Power_B（権力/最初の奥さんの再婚相手）
-Boss_Power_C（技術の暴力）
-Boss_Power_D（倫理の影）
-Silent_Friend_C
+Boss_Power_A（CFO（最高財務責任者））
+Boss_Power_B（CTO（最高技術責任者）/技術の暴力）
+Boss_Power_C（CCO（最高コンプライアンス責任者）倫理の影/最初の奥さんの再婚相手）
+Silent_Friend_C (倫理委員会の直属の部下)
+
+コードネーム：Boss_Power_C  
+最高コンプライアンス責任者（CCO）—— 倫理の象徴 × 倫理の反転 × 主人公の世界を破壊する男
+
+● 役割概要
+Boss_Power_C は“悪役”ではない。
+Silent_Friend_C と同じく、構造そのものだ。
+しかし彼は 構造の頂点 にいる。
+
+誠実
+清潔
+社会的信頼
+倫理の守護者
+
+企業の正しさを監査する男
+なのに——
+倫理の象徴が倫理を破壊する側に回る。
+この反転が、
+主人公の世界を 完全に裏返す地獄 を生む。
+
+1｜役職：最高コンプライアンス責任者（CCO）／倫理委員会の頂点
+多国籍IT企業の序列（上→下）
+CEO
+President
+CXO（COO / CFO / CTO / CHRO / CCO）
+EVP
+SVP
+VP
+
+Boss_Power_C はこの CXO階層の一角。
+つまり、主人公が絶対に勝てない“構造の神”。
+
+企業倫理
+内部監査
+コンプライアンス
+ガバナンス
+社会的正義の象徴
+これらを統括する 倫理の頂点。
+
+穏やかで、丁寧で、優しさすら感じる佇まい。
+しかしその優しさは、
+構造の暴力を運ぶための静かな器にすぎない。
+
+2｜主人公の内部告発 —— 正しさの破壊
+主人公は内部告発という 正義 を選ぶ。
+
+正しいことをした
+社会的倫理を守った
+家族を守るための行動だった
+内側の倫理を選んだ
+
+なのに——
+その正しさが 家族を壊す。
+観客はここで世界の歪みを感じる。
+
+3｜Boss_Power_C の倫理が反転する
+Boss_Power_C は 倫理の象徴。
+
+なのに、
+倫理の象徴が 倫理を破壊する側 に回る。
+倫理を監査する立場
+倫理の外側に立つ
+倫理を利用する
+倫理を壊す
+家族を奪う
+これは 倫理の反転構造。
+世界が静かに狂い始める。
+
+4｜奥さんが“倫理の外側”を選ぶ
+奥さんは日常の象徴。
+家族の象徴。
+倫理の象徴。
+
+その奥さんが選ぶのは——
+倫理の内側ではなく、倫理の外側＝Boss_Power_C。
+観客の脳が処理できなくなる。
+
+5｜狂気が極まると観客は笑う
+観客はこうなる。
+
+「いやいやいや……
+奥さんの再婚相手が Boss_Power_C？
+倫理監査委員？
+狂気すぎて笑うんだけど……
+でも、なんか分かる……
+この映画ヤバい……」
+
+これは 狂気の正しさ が成立した時に起きる笑い。
+
+6｜物語の“重力”が反転する瞬間
+
+主人公（内側の倫理）
+Boss_Power_C（外側の倫理）
+奥さん（倫理の象徴）
+この三つが交差した瞬間、
+物語の重力がひっくり返る。
+
+正しさが破壊される
+倫理が反転する
+日常が狂気に飲まれる
+世界が裏返る
+これは 名場面の構造。
+
+7｜ここから物語は“本当の狂気”に入る
+
+この反転が起きた後の主人公は、
+もう「正しさの世界」に戻れない。
+世界が反転したから。
+ここから先は、
+主人公が 反転した世界でどう生きるか という物語になる。
+
+◆ Silent_Friend_C と Boss_Power_C の関係性（構造の美しさ）
+
+Boss_Power_C＝倫理の頂点（CCO）
+Silent_Friend_C＝倫理監査部の長（直属の部下）
+この上下関係が 構造の地獄を完璧に成立させる。
+Silent_Friend_C は優しい影。
+Boss_Power_C は構造の神。
+
+奥さんが選ぶのは 神の側。
+主人公は 影の側に落ちる。
+この構造は監督の世界観に完全一致。
+
 
 コードネーム：Silent_Friend_C  
 倫理監査部の長 —— 静かな狂気 × 構造の影
@@ -1135,7 +1376,7 @@ Silent_Friend_C は“悪役”ではない。
 企業の中に潜む 倫理の影 を体現し、
 物語に“静の狂気”という層を追加する存在。
 
-1. 役職：倫理監査部の長
+1. 役職：倫理委員会の直属の部下
 主人公より上の立場にいる幹部。
 
 企業倫理、内部監査、コンプライアンスを統括する。
@@ -1209,9 +1450,9 @@ Silent_Friend_C の声が回想として蘇る。
 🌙 映画への影響
 1. 権力構造に“静の狂気”を追加する
 Boss_Power_A = 企業権力
-Boss_Power_B = 個人的権力
-Boss_Power_C = 技術の暴力
-Boss_Power_D = 倫理の影
+Boss_Power_B = 技術の暴力
+Boss_Power_C = 個人的権力
+Silent_Friend_C = 倫理の影
 
 Silent_Friend_C はその中に立ち、
 個人ではなく構造としての暴力を体現する。
