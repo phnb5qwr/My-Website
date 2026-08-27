@@ -1,3 +1,90 @@
+(Workplace Hell Scene)
+
+🌑 Investors A / B / C — The Trinity of Madness
+
+Investor A (God of Shadows)
+
+Quiet pressure
+A presence made of shadow
+A voice that terrifies even without appearing
+
+Exerts control without showing his face
+→ The Shadow Investor (God of Shadows)  
+→ Shadow Investor
+
+
+Investor B (God of Structure)
+
+Cold intelligence
+Elegant madness
+A man who kills with words
+
+Twists corporate ethics from the outside
+→ The Core Investor (God of Structure)  
+→ Structure Investor
+
+
+Investor C (God of Hell)
+
+Expressionless murder
+Madness outside social structure
+
+A presence that feels “not human”
+→ The Destructive Investor (God of Hell)  
+→ Hell Investor
+
+🌕 What Happens When the Trinity of Investors “Storms” the Workplace?
+This isn’t physical violence.
+It’s the structure itself descending upon the IT department.
+
+● Investor A
+Appears as a shadow
+→ The IT department trembles
+→ The air changes instantly
+
+● Investor B
+Walks in quietly
+→ No one can speak
+→ Every engineer freezes
+
+● Investor C
+Simply stands there
+→ The atmosphere dies
+→ The protagonist’s mind breaks
+
+→ This is structural violence.  
+→ Structural Violence
+
+🌕 Protagonist (The Whistleblower)
+
+Blows the whistle
+The company erupts in chaos
+Colleagues and superiors tighten the noose
+
+The IT department spirals into madness
+The Trinity of Investors descends
+His mind collapses
+→ He enters the architecture of hell  
+→ Protagonist’s Hell Structure
+
+🌕 The Completed Hell Structure (The Skeleton of this Film)
+
+Whistleblowing (Protagonist)  
+　→ The company catches fire
+
+Colleagues and superiors tighten the pressure  
+　→ Boss_Power_A / Boss_Power_C enforce structural violence
+
+The IT department falls apart  
+　→ Technical violence from Boss_Power_B erupts
+
+Investors A / B / C descend  
+　→ The gods of structure intervene directly
+
+The protagonist’s mind collapses  
+　→ The core of the story begins
+
+
 ◆ Protagonist’s Psychological Structure (Male Protagonist — Bottom Scene)
 
 The protagonist possesses a multidimensional mind.
@@ -97,6 +184,49 @@ This is exploitation disguised as support.
 
 
 
+（職場の地獄シーン）
+
+🌑 投資家A／投資家B／投資家C（狂気の三位一体）
+投資家A（影の神）
+•	静かな圧
+•	影の存在
+•	声だけでも怖い
+•	姿を見せなくても支配力がある → 影の投資家（影の神）
+投資家B（構造の神）
+•	冷たい知性
+•	優雅な狂気
+•	言葉で人を殺すタイプ
+•	企業の倫理を外側からねじ曲げる → 本体の投資家（構造の神）
+投資家C（地獄の神）
+•	無表情の殺意
+•	社会構造の外側の狂気
+•	“人間じゃない存在感” → 破壊の投資家（地獄の神）
+
+🌕 三位一体の投資家が “殴り込み” に来るとどうなる？
+これは暴力じゃなくて、 構造そのものが IT 部門に降臨する という意味。
+● 投資家A
+影として現れる → IT部門が震える → 空気が変わる
+● 投資家B
+静かに歩いてくる → 誰も声を出せない → 技術者が全員固まる
+● 投資家C
+無表情で立つだけ → IT部門の空気が死ぬ → 主人公の精神が折れる
+→ 構造の暴力 が発動する。
+
+🌕 主人公（内部告発者）
+•	内部告発をする
+•	企業が大炎上
+•	社員・上司から締め上げられる
+•	IT部門が大荒れ
+•	投資家三位一体が降臨
+•	精神が崩壊していく → 主人公の地獄構造 に突入
+
+🌕 地獄構造の完成形（あなたの作品の骨格）
+1.	内部告発（主人公） 　→ 企業が大炎上
+2.	社員・上司から締め上げられる 　→ Boss_Power_A/C が圧をかける
+3.	IT部門が大荒れ 　→ 技術の暴力（Boss_Power_B）が暴走
+4.	投資家A／B／C が降臨 　→ 構造の神が直接介入
+主人公の精神が崩壊 　→ 物語の核心へ
+
 
 ◆ 主人公の心理構造（男性主人公 — 底のシーン）
 
@@ -124,7 +254,6 @@ This is exploitation disguised as support.
 •	自分の声が消される
 •	自分の現実が否定される
 この心理は、 主人公が演じると 静かで深い狂気になる。
-
 
 ◆ 場面描写（閉鎖病棟・貧困ビジネス・反転構造）
 

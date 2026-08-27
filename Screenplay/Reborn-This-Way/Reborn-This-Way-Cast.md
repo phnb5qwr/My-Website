@@ -32,6 +32,31 @@ Tech_Shadow_B
 Tech_Shadow_C
 Tech_Shadow_D
 
+Investors A / B / C — The Trinity of Madness
+
+Investor A (God of Shadows)
+Quiet pressure
+A presence made of shadow
+A voice that terrifies even without appearing
+Exerts control without showing his face
+→ The Shadow Investor (God of Shadows)  
+→ Shadow Investor
+
+Investor B (God of Structure)
+Cold intelligence
+Elegant madness
+A man who kills with words
+Twists corporate ethics from the outside
+→ The Core Investor (God of Structure)  
+→ Structure Investor
+
+Investor C (God of Hell)
+Expressionless murder
+Madness outside social structure
+A presence that feels “not human”
+→ The Destructive Investor (God of Hell)  
+→ Hell Investor
+
 Judge (Peak of Structural Violence)
 Codename: Judge_Silent
 
@@ -121,6 +146,23 @@ Tech_Shadow_A
 Tech_Shadow_B
 Tech_Shadow_C
 Tech_Shadow_D
+
+Investors A / B / C — The Trinity of Madness
+Investor A（影の神）
+•	静かな圧
+•	影の存在
+•	声だけでも怖い
+•	姿を見せなくても支配力がある → 影の投資家（影の神）
+Investor B（構造の神）
+•	冷たい知性
+•	優雅な狂気
+•	言葉で人を殺すタイプ
+•	企業の倫理を外側からねじ曲げる → 本体の投資家（構造の神）
+Investor C（地獄の神）
+•	無表情の殺意
+•	社会構造の外側の狂気
+•	“人間じゃない存在感” → 破壊の投資家（地獄の神）
+
 
 Judge（構造的暴力の頂点）
 Codename: Judge_Silent
