@@ -19,10 +19,7 @@ His fragile glow contrasts with the early happiness with Female_Lead
 
 Candidates (Codenames)
 Young_Lead_A (young protagonist) ← chosen
-Young_Lead_B
-Young_Lead_C
-Young_Lead_D
-Young_Lead_E
+
 
 🔥 A1｜Workplace Enforcer (Pressure of the Flame-Zone)
 Codename: PRESSURE-LORD
@@ -81,7 +78,7 @@ Cold_Tech_A
 Old_Lead (memory shadow)
 Shadow_Police
 
-🌟 Silent_Friend_A — Final Character Profile (English Version)
+🌟 Silent_Friend_A — Final Character Profile
 Codename: Silent_Friend_A  
 The protagonist’s only ally — pure stillness × a man of quiet prayer
 
@@ -560,10 +557,10 @@ His final line in the old age chapter
 turns the protagonist’s life into a quiet, luminous arc.
 
 🌙 K｜Judge (Peak of Structural Violence)
-Codename: Judge_Silent ← chosen
+Codename: Judge_Silent
 
 🌟 L | Voice‑Only Future Partner (The Voice of Light)
-Codename: Voice_Female — Final
+Codename: Voice_Female
 
 ● Role
 The voice on the official website the protagonist discovers by chance in his youth, before marriage.
