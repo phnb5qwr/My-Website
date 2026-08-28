@@ -690,6 +690,18 @@ This makes the protagonist’s suffering heavier.
 His final line in the old age chapter
 turns the protagonist’s life into a quiet, luminous arc.
 
+AI Designer / Technical Madness（Cold Intelligence）
+Codename: Tech_Shadow  
+Tech_Shadow_A — Symbol of the Outer World / Quiet Resentment Toward the Protagonist
+
+The collapse of the IT division
+Relentless pressure from investors
+The whistleblowing incident
+The silent violence of male hierarchy
+A quiet, simmering resentment
+A shadow that distorts the protagonist’s entire life
+
+
 🌙 K｜Judge (Peak of Structural Violence)
 Codename: Judge_Silent
 
@@ -1500,6 +1512,19 @@ Silent_Friend_C はその“優しい破壊”を象徴する。
 4. エンディングを美しくする
 老年期の回想で彼の言葉が光となり、
 主人公の人生が静かに弧を描いて閉じる。
+
+
+AI Designer / Technical Madness（冷たい知性）
+Codename: Tech_Shadow
+Tech_Shadow_A_（外界の象徴/主人公を恨む静の狂気）
+
+IT部門の炎上
+投資家の圧力
+内部告発
+男社会の沈黙
+静かな恨み
+主人公の人生を狂わせる影
+
 
 🌙 K｜裁判長（構造暴力の頂点）
 コードネーム：Judge_Silent ←決定

@@ -22,6 +22,10 @@ Boss_Power_B — Personal Power / The First Wife’s Remarried Husband
 Boss_Power_C — The Violence of Technology
 Boss_Power_D — The Shadow of Ethics (The Core of Hell)
 
+AI Designer / Technical Madness（Cold Intelligence）
+Codename: Tech_Shadow  
+Tech_Shadow_A — Symbol of the Outer World / Quiet Resentment Toward the Protagonist
+
 Workplace Enforcer (Pressure of the Flame-Zone)
 Codename: PRESSURE-LORD
 
@@ -32,7 +36,7 @@ Tech_Shadow_B
 Tech_Shadow_C
 Tech_Shadow_D
 
-Investors A / B / C — The Trinity of Madness
+Investors — The Trinity of Madness
 
 Investor A (God of Shadows)
 Quiet pressure
@@ -77,9 +81,9 @@ Codename: ASH-TRACKER
 
 Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
-Ward_Shadow_A (the only person the protagonist opens up to)
-Ward_Shadow_B (quiet shadow)
-Ward_Shadow_C (fragile shadow)
+Ward_Shadow_A — The Core of the Murky Realm / The Bottom of Madness / The Murky Insanity of Addiction
+Ward_Shadow_B — Fragile Quiet Madness / The Silent Shadow
+Ward_Shadow_C — The Saving Shadow / The Only Person the Protagonist Can Open Up To
 
 Modern Symbol (Outer World)
 Codename: Tech_Icon  
@@ -115,7 +119,7 @@ Codename: Silent_Wife
 
 ◆ キャスト
 
-Young_Lead_A（若き主人公）
+Young_Lead_A（若き主人公/壊れやすい静の影）
 
 Early Office Era（多国籍IT × 静圏リアリティ）
 Codename: GLASS-ENGINEER（眼鏡の技術者）
@@ -142,12 +146,9 @@ Codename: PRESSURE-LORD
 
 AI Designer / Technical Madness（冷たい知性）
 Codename: Tech_Shadow
-Tech_Shadow_A
-Tech_Shadow_B
-Tech_Shadow_C
-Tech_Shadow_D
+Tech_Shadow_A_（外界の象徴/主人公を恨む静の狂気）
 
-Investors A / B / C — The Trinity of Madness
+Investors — The Trinity of Madness
 Investor A（影の神）
 •	静かな圧
 •	影の存在
@@ -162,7 +163,6 @@ Investor C（地獄の神）
 •	無表情の殺意
 •	社会構造の外側の狂気
 •	“人間じゃない存在感” → 破壊の投資家（地獄の神）
-
 
 Judge（構造的暴力の頂点）
 Codename: Judge_Silent
@@ -184,10 +184,9 @@ Codename: ASH-TRACKER
 
 Psychiatric Ward（底への入口）
 Codename: Ward_Shadow
-Ward_Shadow_A（主人公が唯一心を開く人物）
-Ward_Shadow_B（静かな影）
-Ward_Shadow_C（壊れやすい影）
-Modern Symbol（外界の象徴）
+Ward_Shadow_A（濁圏の中心/狂気の底/麻薬中毒の濁の狂気）
+Ward_Shadow_B（壊れやすい静の狂気/静の影）
+Ward_Shadow_C（影圏の救い/主人公が唯一心を開く人物）
 
 Codename: Tech_Icon  
 CMで1秒だけ登場
