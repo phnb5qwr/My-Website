@@ -194,6 +194,20 @@ The “five‑minute rebirth” becomes real, not symbolic.
 4. Audience Will Cry
 Because he is the only pure kindness in the protagonist’s entire life.
 
+🎬 Protagonist’s Whistleblowing — Scenario Summary
+
+1.The protagonist writes an internal whistleblowing article.
+2.The article goes viral and is deleted after a wave of bot attacks.
+3.The protagonist begins investigating the structure of the algorithm.
+4.A human rights organization classifies the incident as “structural violence.”
+5.The platform conducts an internal investigation and identifies the attackers.
+6.The list of attackers is forwarded to government officials.
+7.Police discover links between the attackers and a romance fraud syndicate.
+8.Two members of the romance scam are arrested.
+9.It is revealed that the woman’s voice-only website was actually a phishing scam.
+10.The protagonist speaks about ethics in the final scene.
+
+
 🌙 C｜Old Age (Symbol of Silence)
 Codename: Old_Lead
 
@@ -981,6 +995,21 @@ Silent_Friend_A は唯一の光をもたらす。
 4. 観客が泣く
 主人公の人生で唯一の純粋な善意だから、
 ここで涙がこぼれる。
+
+
+主人公の告発 — シナリオサマリー
+
+1. 主人公が内部告発の記事を書く
+2. 炎上とbot攻撃で記事を削除
+3. アルゴリズム構造を調べ始める
+4. 人権団体が「構造的暴力」と判断
+5. プラットフォーム調査と攻撃者特定
+6. 政府関係者へリストが伝達
+7. 警察がロマンス詐欺組織との接点を発見
+8. ロマンス詐欺の2人が逮捕される
+9. 声だけの女性のサイトがフィッシング詐欺だったと判明
+10. 主人公が倫理を語る
+
 
 🌙 C｜老年期（静の象徴）
 コードネーム：Old_Lead

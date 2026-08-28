@@ -85,6 +85,127 @@ The protagonist’s mind collapses
 　→ The core of the story begins
 
 
+ Film Scenario Summary  
+ Digital Violence / Human Rights / Fraud Syndicate
+
+1. The Beginning of the Whistleblowing: The Protagonist’s Lone Stand
+The protagonist begins writing online about the corruption witnessed inside their workplace.
+- Misconduct within public institutions  
+- Cover-ups by major corporations  
+- Internal decay  
+- A structure where vulnerable people are discarded  
+
+The protagonist is an unprotected individual, yet chooses to speak out, believing in what is right.
+
+---
+
+2. The Eruption: Online Firestorm and Bot Attacks
+The whistleblowing article goes viral and instantly ignites a firestorm.  
+A wave of bot attacks crashes down on the protagonist.
+
+- Identical writing patterns  
+- Repeated time intervals  
+- Matching hashtags  
+- Synchronized reaction patterns  
+
+→ A clear structure of organized digital assault.
+
+Overwhelmed by fear, the protagonist deletes all articles.
+
+---
+
+3. Investigating the Algorithmic Structure
+Realizing the abnormal nature of the attack, the protagonist begins investigating the hidden architecture behind social platforms.
+
+- Bot network behavior  
+- Amplification of mob psychology  
+- Mechanisms that target vulnerable individuals  
+- Platform negligence  
+- The structural nature of digital violence  
+
+The protagonist realizes:  
+**“This is not a personal problem. It’s a systemic one.”**
+
+---
+
+4. Human Rights Organizations Step In: Recognition of Structural Violence
+International human rights organizations take notice of the situation and begin analyzing the case.
+
+ Human Rights Checklist (All items matched):
+- Collective assault on a vulnerable individual  
+- Extreme asymmetry: attackers are a group, victim is alone  
+- Public exposure under global visibility  
+- High likelihood of organized bot involvement  
+- Platform failure to protect the victim  
+- Severe psychological harm  
+
+→ Human rights organizations classify the incident as **“structural violence.”**
+
+---
+
+5. Platform Investigation and Identification of Attackers
+Human rights groups demand that the platform provide logs and conduct an internal investigation.
+
+- Bot network origins  
+- Behavioral patterns of attackers  
+- Connected communities  
+- IP correlations  
+- Time-pattern anomalies  
+
+→ A list of attackers is compiled.
+
+---
+
+6. The List Reaches Government Officials
+Human rights organizations determine that the case may involve public safety risks.  
+The list of attackers is forwarded to government authorities.
+
+Government agencies begin checking whether any internal personnel are involved.
+
+---
+
+7. Police Action: Discovery of Links to a Romance Fraud Syndicate
+During the investigation, authorities discover that part of the attacker group is connected to an international romance fraud syndicate.
+
+- Fake social media accounts  
+- Phishing sites  
+- Money laundering routes  
+- Cross-border fraud networks  
+
+Police begin monitoring the syndicate.
+
+---
+
+8. Arrest of the Two Romance Fraud Perpetrators
+The investigation progresses.  
+Two individuals involved in the romance scam—those the protagonist initially encountered—are arrested.
+
+Behind them lies a full-scale international fraud operation.  
+Its hideout and activities become headline news.
+
+---
+
+9. The Truth Behind the Phishing Scam: The Woman’s Voice
+Further investigation reveals that the “woman with only a voice” the protagonist first encountered was herself a victim.
+
+Her website was a phishing clone created by the fraud syndicate.
+- The real official site existed elsewhere  
+- The fake site was built for exploitation  
+- The woman was not a perpetrator, but a victim  
+
+Police announce this publicly in a news report.
+
+---
+
+10. The Quiet Ending: Ethics of the Silent Sphere
+In the final scene, the protagonist speaks softly:
+
+**“If I had stood where they stood,  
+I would not have chosen even a single step they took.”**
+
+A closing statement of the Silent Sphere’s ethics.
+
+
 ◆ Protagonist’s Psychological Structure (Male Protagonist — Bottom Scene)
 
 The protagonist possesses a multidimensional mind.
@@ -226,6 +347,105 @@ This is exploitation disguised as support.
 3.	IT部門が大荒れ 　→ 技術の暴力（Boss_Power_B）が暴走
 4.	投資家A／B／C が降臨 　→ 構造の神が直接介入
 主人公の精神が崩壊 　→ 物語の核心へ
+
+
+— Digital Violence / Human Rights / Fraud Syndicate —**
+
+1. 告発の始まり：主人公の孤独な内部告発
+主人公は、勤務先で見た不正の実態を
+一人でネットに書き始める。
+公的機関の不正
+大企業の隠蔽
+内部の腐敗
+弱者が切り捨てられる構造
+
+主人公は守りがない個人。
+それでも「正しさ」を信じて告発する。
+
+2. 炎上とbot攻撃：構造的な暴力の発火
+告発記事は瞬く間に炎上し、
+bot攻撃の嵐が主人公を襲う。
+同じ文体
+同じ時間帯
+同じハッシュタグ
+同じ反応パターン
+→ 組織的な攻撃の構造。
+
+主人公は恐怖に耐えられず、
+記事をすべて削除する。
+
+3. 主人公が「アルゴリズムの構造」を調べ始める
+攻撃の異常さに気づいた主人公は、
+SNSの裏側にある アルゴリズム設計の構造 を調べ始める。
+botネットの挙動
+群衆心理の増幅
+弱者を標的にする仕組み
+プラットフォームの対応不足
+デジタル暴力の構造
+
+主人公は「これは個人の問題ではない」と気づく。
+
+4. 人権団体が動く：構造的暴力の認定
+事態の重さに気づいた 国際人権団体 が、
+主人公のケースを分析する。
+
+人権団体のチェック項目（該当：全て）
+弱者への集団攻撃（典型的な人権侵害構造）
+攻撃者は集団、被害者は個人（非対称性）
+公共の場で晒される（世界が見ている）
+botの可能性（組織的攻撃）
+プラットフォーム側の対応不足
+精神的被害の深刻さ（重大な被害）
+→ 人権団体は「構造的な暴力」と判断する。
+
+5. プラットフォームへの調査と攻撃者の特定
+人権団体はプラットフォームに対し、
+ログ提出と内部調査 を要求。
+botネットの発信元
+攻撃者の行動パターン
+関連コミュニティ
+IPの一致
+時間帯の偏り
+→ 攻撃者のリストが作成される。
+
+6. 政府関係者へリストが伝達される
+人権団体は、
+「公共安全に関わる可能性がある」と判断し、
+政府関係者へリストを送る。
+
+政府は内部に関連者がいないか
+チェックを開始する。
+
+7. 警察が動く：詐欺組織との接点を発見
+調査の過程で、
+攻撃者の一部が ロマンス詐欺の背後組織 とつながっていることが判明。
+SNSでの偽アカウント
+フィッシングサイト
+マネーロンダリング
+国際詐欺ネットワーク
+警察は詐欺組織をマークし始める。
+
+8. ロマンス詐欺の2人が逮捕される
+調査が進み、
+主人公が最初に関わった ロマンス詐欺の2人 が逮捕される。
+彼らの背後には
+国際的な詐欺組織のアジトがあり、
+その実態がニュースになる。
+
+9. フィッシング詐欺の真相：声だけの女性のサイト
+警察はさらに調査を進め、
+主人公が最初に見ていた
+「声だけの女性のサイト」が
+フィッシング詐欺の被害に遭っていたことを突き止める。
+本物の公式サイトは別に存在
+偽物サイトは詐欺組織が作ったもの
+声の女性は被害者だった
+警察はニュースでこの事実を伝える。
+
+10. 主人公の静かな結末：静か圏の倫理
+主人公は最後にこう言う。
+「僕がその立場だったら、
+彼等の行動の1ミリも同じことをしなかった。」
 
 
 ◆ 主人公の心理構造（男性主人公 — 底のシーン）
