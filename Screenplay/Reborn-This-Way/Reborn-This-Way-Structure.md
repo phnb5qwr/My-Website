@@ -68,21 +68,32 @@ His mind collapses
 → Protagonist’s Hell Structure
 
 🌕 The Completed Hell Structure (The Skeleton of this Film)
-
-Whistleblowing (Protagonist)  
+1. Whistleblowing (Protagonist)  
 　→ The company catches fire
-
-Colleagues and superiors tighten the pressure  
+2. Colleagues and superiors tighten the pressure  
 　→ Boss_Power_A / Boss_Power_C enforce structural violence
-
-The IT department falls apart  
+3. The IT department falls apart  
 　→ Technical violence from Boss_Power_B erupts
-
-Investors A / B / C descend  
+4. Investors A / B / C descend  
 　→ The gods of structure intervene directly
 
 The protagonist’s mind collapses  
 　→ The core of the story begins
+
+If a man were working in this kind of workplace, the physiological and psychological impact would be severe.
+1. Hierarchy pressure leading to excessive gastric acid  
+The constant need to maintain status within the male hierarchy triggers chronic stress responses, causing the stomach to overproduce acid.
+2. Silent violence disrupting the autonomic nervous system  
+The unspoken rules, tension, and emotional suppression characteristic of this environment destabilize autonomic regulation, leading to irregular heartbeat, dizziness, and digestive issues.
+3. Jealousy and comparison elevating stress hormones  
+Continuous evaluation, competition, and envy among men increase cortisol levels, pushing the body into a perpetual fight‑or‑flight state.
+4. Boss_Power pressure causing sleep disorders  
+The oppressive authority structure creates anticipatory anxiety, making restorative sleep difficult and leading to chronic fatigue.
+5. Tech_Shadow surveillance inducing constant hyper‑vigilance  
+Being monitored—directly or indirectly—keeps the nervous system in a heightened alert mode, preventing relaxation and impairing cognitive function.
+
+Resulting conditions  
+These combined stressors commonly manifest as gastric ulcers, irritable bowel syndrome, and autonomic nervous system dysfunction, making the workplace physically and mentally unsustainable.
 
 
  Film Scenario Summary  
@@ -348,6 +359,17 @@ This is exploitation disguised as support.
 4.	投資家A／B／C が降臨 　→ 構造の神が直接介入
 主人公の精神が崩壊 　→ 物語の核心へ
 
+⭐ 男性がこの職場にいたらどうなるか
+ 構造で言うとこうなる：
+1. 序列のプレッシャーで胃酸過多
+2. 沈黙の暴力で自律神経が乱れる
+3. 嫉妬と比較でストレスホルモンが上昇
+4. Boss_Power の圧で睡眠障害
+5. Tech_Shadow の監視で常時緊張状態
+
+つまり、
+胃潰瘍・過敏性腸症候群・自律神経失調症  
+このあたりが普通に起きるレベル。
 
 — Digital Violence / Human Rights / Fraud Syndicate —**
 
