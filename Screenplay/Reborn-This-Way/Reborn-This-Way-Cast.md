@@ -5,7 +5,7 @@ Middle_Lead (Pilgrim of the Inferno)
 Old_Lead (The Quiet Witness)
 
 Early Office Era (Multinational IT × Quiet-Zone Reality)
-Codename: GLASS-ENGINEER
+Codename: Quiet_Engineer  
 
 Voice‑Only Future Partner (The Voice of Light)
 Codename: Voice_Female
@@ -125,7 +125,7 @@ Middle_Lead（中年期主人公/地獄を巡る巡礼者）
 Old_Lead（老年期主人公/静かなる証人）
 
 Early Office Era（多国籍IT × 静圏リアリティ）
-Codename: GLASS-ENGINEER（眼鏡の技術者）
+Codename: Quiet_Engineer  （静かな技術者）
 
 Voice‑Only Future Partner（声だけの未来の伴侶）
 Codename: Voice_Female（光の声）
