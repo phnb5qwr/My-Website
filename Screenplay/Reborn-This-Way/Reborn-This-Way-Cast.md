@@ -13,11 +13,13 @@ Codename: Silent_Friend_A
 The protagonist’s only ally — pure stillness × a man of quiet prayer
 
 Boss (Man of Light / Power)
-Codename: Boss_Power
-Boss_Power_A — The Vice President (Corporate Authority)  
-Boss_Power_B — Personal Power / The First Wife’s Remarried Husband  
-Boss_Power_C — The Violence of Technology
-Boss_Power_D — The Shadow of Ethics (The Core of Hell)
+Boss_Power_A — Chief Financial Officer (CFO)  
+Boss_Power_B — Chief Technology Officer (CTO) / Violence of Technology  
+Boss_Power_C — Chief Compliance Officer (CCO) / Shadow of Ethics / The man who marries the protagonist’s first wife  
+Silent_Friend_C — Direct subordinate of the Ethics Committee
+
+Codename: Boss_Power_C
+Chief Compliance Officer (CCO) — The embodiment of ethics × the inversion of ethics × the man who destroys the protagonist’s world
 
 AI Designer / Technical Madness（Cold Intelligence）
 Codename: Tech_Shadow  
@@ -130,10 +132,12 @@ Codename: Silent_Friend_A
 
 Boss（光と力の男）
 Codename: Boss_Power
-Boss_Power_A — 副社長（企業権力）
-Boss_Power_B — 個人的権力／最初の妻の再婚相手
-Boss_Power_C — テクノロジーの暴力
-Boss_Power_D — 倫理の影（地獄の核）
+Boss_Power_A（CFO（最高財務責任者））
+Boss_Power_B（CTO（最高技術責任者）/技術の暴力）
+Boss_Power_C（CCO（最高コンプライアンス責任者）倫理の影/最初の奥さんの再婚相手）
+Silent_Friend_C (倫理委員会の直属の部下)
+コードネーム：Boss_Power_C  
+最高コンプライアンス責任者（CCO）—— 倫理の象徴 × 倫理の反転 × 主人公の世界を破壊する男
 
 Workplace Enforcer（炎圏の圧力）
 Codename: PRESSURE-LORD

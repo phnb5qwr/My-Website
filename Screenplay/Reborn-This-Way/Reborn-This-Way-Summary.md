@@ -356,6 +356,15 @@ quietly unfolding in the hearts of the viewers.
 Ending theme decided through intuition before listening.
 Selected a track that aligns with the film’s silent rebirth and spiritual tone.
 
+🔥Boss (Man of Light / Power)
+Boss_Power_A — Chief Financial Officer (CFO)  
+Boss_Power_B — Chief Technology Officer (CTO) / Violence of Technology  
+Boss_Power_C — Chief Compliance Officer (CCO) / Shadow of Ethics / The man who marries the protagonist’s first wife  
+Silent_Friend_C — Direct subordinate of the Ethics Committee
+
+Codename: Boss_Power_C
+Chief Compliance Officer (CCO) — The embodiment of ethics × the inversion of ethics × the man who destroys the protagonist’s world
+
 
 🔥 D｜AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
