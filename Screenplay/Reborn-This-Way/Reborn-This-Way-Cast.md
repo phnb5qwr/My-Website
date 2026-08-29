@@ -1,6 +1,8 @@
 Cast
 
-Young_Lead_A (young protagonist)
+Young_Lead_A (Fragile Shadow of Youth)
+Middle_Lead (Pilgrim of the Inferno) 
+Old_Lead (The Quiet Witness)
 
 Early Office Era (Multinational IT × Quiet-Zone Reality)
 Codename: GLASS-ENGINEER
@@ -118,7 +120,9 @@ Codename: Silent_Wife
 
 ◆ キャスト
 
-Young_Lead_A（若き主人公/壊れやすい静の影）
+Young_Lead（若き主人公/壊れやすい静の影）
+Middle_Lead（中年主人公/地獄を巡る巡礼者）
+Old_Lead（老年期主人公/静かなる証人）
 
 Early Office Era（多国籍IT × 静圏リアリティ）
 Codename: GLASS-ENGINEER（眼鏡の技術者）
