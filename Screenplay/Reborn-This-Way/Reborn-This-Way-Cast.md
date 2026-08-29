@@ -12,9 +12,6 @@ Silent_Friend_A
 Codename: Silent_Friend_A  
 The protagonist’s only ally — pure stillness × a man of quiet prayer
 
-Symbol of Light (Young Wife)
-Codename: Female_Lead ← chosen
-
 Boss (Man of Light / Power)
 Codename: Boss_Power
 Boss_Power_A — The Vice President (Corporate Authority)  
@@ -130,9 +127,6 @@ Codename: Voice_Female（光の声）
 Silent_Friend_A
 Codename: Silent_Friend_A  
 主人公の唯一の味方 —— “純粋な静けさ × 静かな祈りの男”
-
-Symbol of Light（若き妻）
-Codename: Female_Lead（選択済）
 
 Boss（光と力の男）
 Codename: Boss_Power
