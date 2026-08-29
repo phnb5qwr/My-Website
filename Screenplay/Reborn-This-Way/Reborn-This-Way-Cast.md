@@ -121,7 +121,7 @@ Codename: Silent_Wife
 ◆ キャスト
 
 Young_Lead（若き主人公/壊れやすい静の影）
-Middle_Lead（中年主人公/地獄を巡る巡礼者）
+Middle_Lead（中年期主人公/地獄を巡る巡礼者）
 Old_Lead（老年期主人公/静かなる証人）
 
 Early Office Era（多国籍IT × 静圏リアリティ）
