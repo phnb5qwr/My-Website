@@ -6,6 +6,14 @@ INT. PROTAGONIST’S LIVING ROOM – LATE AFTERNOON
 The warm light of dusk fills the living room.
 Old friends — Silent_Friend_A and Silent_Friend_B — sit together, quietly reminiscing.
 
+Silent_Friend_A — Retrospective Scene
+“In the end… money and ethics never really align.
+Platforms prioritized whatever made them profit,
+and ethics simply vanished somewhere along the way.
+The number of victims kept growing, and by the time the government finally stepped in,
+algorithms that attacked anyone—it didn’t matter who—were already flooding the world.
+Of course users walked away… no one can stay in a place like that for long.”
+
 The doorbell rings.
 The elderly protagonist rises slowly and walks to the entrance.
 
@@ -151,6 +159,14 @@ Reborn This Way - Ending Scene
 INT. 主人公の家・リビングルーム – 夕方
 静かな夕暮れ。
 老年期の主人公の家のリビングに、昔の友人たち──Silent_Friend_A と Silent_Friend_B──が集まっている。
+
+Silent_Friend_A（回顧録シーン）
+「結局さ……お金と倫理って一致しないんだよ。
+プラットフォームは儲かる仕組みを優先して、
+その結果、倫理なんてどこかに消えた。
+被害者は増え続けて、政府がようやく規制に動いた頃には、
+“誰でもいいから攻撃する”みたいなアルゴリズムが世界中に溢れてた。
+そりゃユーザーは離れるよ……あんな場所、長くいられるわけない。」
 
 玄関のチャイムが鳴る。
 主人公がゆっくり立ち上がり、玄関へ向かう。
