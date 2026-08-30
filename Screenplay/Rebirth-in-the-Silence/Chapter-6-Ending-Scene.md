@@ -12,7 +12,11 @@ Platforms prioritized whatever made them profit,
 and ethics simply vanished somewhere along the way.
 The number of victims kept growing, and by the time the government finally stepped in,
 algorithms that attacked anyone—it didn’t matter who—were already flooding the world.
-Of course users walked away… no one can stay in a place like that for long.”
+Of course users walked away… no one can stay in a place like that for long.
+
+And there’s one thing I can say…
+in a world built on constant attacks, do you really want to entrust your entire life to that?
+That simple question—quiet, but undeniable—was always there inside us.”
 
 The doorbell rings.
 The elderly protagonist rises slowly and walks to the entrance.
@@ -161,12 +165,16 @@ INT. 主人公の家・リビングルーム – 夕方
 老年期の主人公の家のリビングに、昔の友人たち──Silent_Friend_A と Silent_Friend_B──が集まっている。
 
 Silent_Friend_A（回顧録シーン）
-「結局さ……お金と倫理って一致しないんだよ。
+「結局……お金と倫理って一致しないんだよ。
 プラットフォームは儲かる仕組みを優先して、
 その結果、倫理なんてどこかに消えた。
 被害者は増え続けて、政府がようやく規制に動いた頃には、
 “誰でもいいから攻撃する”みたいなアルゴリズムが世界中に溢れてた。
-そりゃユーザーは離れるよ……あんな場所、長くいられるわけない。」
+そりゃユーザーは離れるよ……あんな場所、長くいられるわけない。
+
+ただ一つ言えるのは……
+攻撃だらけのクオリティの中に、自分の一生を預けたいのか？
+っていう、あまりにもシンプルな問いが、僕らの中にはずっとあったんだよ。」
 
 玄関のチャイムが鳴る。
 主人公がゆっくり立ち上がり、玄関へ向かう。
