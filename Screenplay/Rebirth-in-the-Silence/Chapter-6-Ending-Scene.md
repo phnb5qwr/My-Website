@@ -6,6 +6,12 @@ INT. PROTAGONIST’S LIVING ROOM – LATE AFTERNOON
 The warm light of dusk fills the living room.
 Old friends — Silent_Friend_A and Silent_Friend_B — sit together, quietly reminiscing.
 
+Silent_Friend_B — Retrospective Scene
+“When a normal person is exposed to an abnormal system for too long, exhaustion is inevitable.
+Abnormal environments distort even the most stable minds.
+It wasn’t people who broke… it was the system itself.
+All that happened was the environment quietly pushing past the limits of what a human being can endure.”
+
 Silent_Friend_A — Retrospective Scene
 “In the end… money and ethics never really align.
 Platforms prioritized whatever made them profit,
@@ -163,6 +169,12 @@ Reborn This Way - Ending Scene
 INT. 主人公の家・リビングルーム – 夕方
 静かな夕暮れ。
 老年期の主人公の家のリビングに、昔の友人たち──Silent_Friend_A と Silent_Friend_B──が集まっている。
+
+Silent_Friend_B（回顧録シーン）
+「正常な人が異常な構造に長く触れれば、疲労するのは当然なんだ。
+異常な環境は、正常な人を狂わせる。
+壊れたのは人じゃなくて、環境の方でね。
+ただ……環境の強さが、人間の限界を静かに超えていっただけなんだよ。」
 
 Silent_Friend_A（回顧録シーン）
 「結局……お金と倫理って一致しないんだよ。
