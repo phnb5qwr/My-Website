@@ -1,3 +1,5 @@
+Rebirth in the Silence
+
 (Workplace Hell Scene)
 
 🌑 Investors A / B / C — The Trinity of Madness

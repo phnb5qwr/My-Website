@@ -1,4 +1,4 @@
-🎬 **『Reborn This Way』
+🎬 **『Rebirth in the Silence』
 完全版キャスト配置図 × ストーリー構造（決定稿）**
 
 🌙 ■ 映画構造（最終決定）

@@ -1,4 +1,4 @@
-# Reborn This Way
+# Rebirth in the Silence
 A psychological drama film project by Pi.
 
 ## Structure
@@ -8,9 +8,9 @@ A psychological drama film project by Pi.
 - Rebirth (5 min)
 
 ## Files
-- Reborn-This-Way-Summary.md
-- Reborn-This-Way-Structure.md
-- Reborn-This-Way-Cast.md
+- Rebirth in the Silence-Summary.md
+- Rebirth in the Silence-Structure.md
+- Rebirth in the Silence-Cast.md
 - Chapter1.md
 - Chapter1-Continuation.md
 - Notes.md

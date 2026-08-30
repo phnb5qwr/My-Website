@@ -1,4 +1,4 @@
-Reborn This Way
+Rebirth in the Silence
 The Deepest Quiet Scene
 🎬 CHAPTER 5: The Collapse of the Anonymous
 The Fall of the Meme Perpetrator / The Quiet Hell / Ward_Shadow_C’s Realm

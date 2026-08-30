@@ -1,4 +1,4 @@
-Reborn This Way — Chapter 1 (Extended Draft)
+Rebirth in the Silence — Chapter 1 (Extended Draft)
 “Silent World Before the Fall”
 
 

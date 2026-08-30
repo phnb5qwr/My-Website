@@ -1,4 +1,4 @@
-🌟 **“Reborn This Way”
+🌟 **“Rebirth in the Silence”
 Cast Configuration × Story Structure (Git-Safe Complete Edition)**
 
 ■ Film Structure

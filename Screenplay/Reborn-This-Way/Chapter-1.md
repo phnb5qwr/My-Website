@@ -1,4 +1,4 @@
-Reborn This Way
+Rebirth in the Silence
 
 
 Reborn This Way — Chapter 1 Visual Description

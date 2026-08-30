@@ -1,4 +1,4 @@
-Reborn This Way - Ending Scene
+Rebirth in the Silence - Ending Scene
 
 
 🎬 SCREENPLAY FORMAT — English Version
