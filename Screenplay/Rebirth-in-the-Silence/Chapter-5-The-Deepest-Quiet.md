@@ -98,25 +98,57 @@ I don’t… belong… here…”
 Ward_Shadow_C  
 “Quietness… is hell.”
 
-🌑 SCENE 5-4｜Before Discharge: The Protagonist Watches the News at the Bottom
+🌑 SCENE 5-4｜Before Discharge: Watching the News in the Psychiatric Ward Day Room
+Day Room.
+Too white.
+Too quiet.
+The air feels suspended, as if time itself has stopped.
+
 Middle_Lead is in the ward for a different reason.
+Ward_Shadow_C sits silently, like a shadow that forgot how to move.
 
-The television turns on.
+The TV flickers on.
+Its cold light fills the bottom of the bottom.
 
-News  
-“A fraud syndicate using SNS memes has been taken down.
-A former employee who created the harmful memes has been taken into protective care
+📺 News Broadcast (English)
+“A fraud group using SNS memes has been taken down.
+A former employee involved in creating harmful memes
+has been taken into protective custody
 and is currently undergoing treatment.”
 
-Middle_Lead  
+The screen shifts.
+Shadow_Police appears at a press conference.
+
+🎙 Shadow_Police (on TV)
+**“In this case, a forged website named Silent.Voice was used.
+The real Silent.Voice exists separately,
+but the fraud group mimicked its identity,
+spreading memes through the fake site
+and earning ad revenue from harmful content.
+
+The coexistence of the real and the counterfeit
+became the very breeding ground of this incident.”**
+
+Middle_Lead stares at the screen.
+
+Middle_Lead
 “…That man…”
 
-Ward_Shadow_C quietly speaks.
+Ward_Shadow_C
+“Hell… is quiet, isn’t it…?”
 
-Ward_Shadow_C  
-“Hell… is quiet, isn’t it…”
 
-— Fade out.
+📺 Commercial: Tech_Icon (brief smile)
+White background.
+Soft, harmless music.
+Tech_Icon turns with a bright smile.
+Just a few seconds.
+
+The commercial continues as the screen slowly fades out.
+Light disappears.
+The day room sinks back into silence.
+
+— Fade Out.
 
 
 © 2026 Pi. All Rights Reserved.
@@ -224,23 +256,55 @@ Tech_Shadow_A
 Ward_Shadow_C  
 「静けさは……地獄だ。」
 
-🌑 SCENE 5-4｜退院前の主人公：底の底でニュースを見る
+🌑 SCENE 5-4｜退院前の主人公：閉鎖病棟デイルームでニュースを見る
+デイルーム。
+白すぎる壁。
+無音。
+患者たちの気配は薄く、空気は沈殿している。
+
 Middle_Lead は別の理由で閉鎖病棟にいる。
+Ward_Shadow_C が静かに椅子に座り、動かない影のように存在している。
 
 テレビがつく。
+画面の光だけが、底の底を照らす。
 
-ニュース
+📺 ニュース映像（日本語）
 「SNSミームを利用した詐欺組織の摘発。
 加害ミームを作成していた国内企業の元社員が保護され、
 現在治療中とのことです。」
 
-主人公（Middle_Lead）
+画面が切り替わる。
+Shadow_Police が記者会見に立っている。
+
+🎙 Shadow_Police（TV会見）
+**「今回の事件では、偽装された “Silent.Voice” というサイトが利用されました。
+本物の “Silent.Voice” は別に存在しますが、
+詐欺組織はその名を模倣し、
+偽サイトを通じてミームを拡散し、
+加害ミームの広告収益を得ていました。
+
+本物と偽物が並走する構造そのものが、
+事件の温床となったと判断しています。」**
+
+Middle_Lead は画面を見つめたまま動かない。
+
+Middle_Lead
 「……あの男……」
 
 Ward_Shadow_C
 「地獄は……静かだろ……？」
 
-——暗転。
+
+📺 CM映像：Tech_Icon（数秒だけ笑顔で登場）
+白背景。
+爽やかな音楽。
+Tech_Icon が笑顔で振り向く。
+数秒だけ。
+
+CMが流れている最中に、画面がゆっくりフェードアウト。
+光が消え、デイルームは再び静寂に沈む。
+
+——フェードアウト。
 
 
 © 2026 Pi. All Rights Reserved.
