@@ -54,7 +54,7 @@ PRESSURE_LORD
 •	“職場の地獄”の象徴
 
 🔥 IT部門（冷たい知性 × 技術の狂気）
-•	Tech_Shadow（静かな狂気）
+•	Tech_Shadow_A（静かな狂気）
 •	Tech_Shadow_B（沈黙の監視）
 •	Tech_Shadow_C（外科的論理）
 
@@ -98,10 +98,7 @@ Ward_Shadow
 •	Ward_Shadow_A（濁圏の狂気）
 •	Ward_Shadow_B（壊れやすい影）
 •	Ward_Shadow_C（唯一心を開く相手）
-●底のナレーション（決定稿）
-言葉を話すことが、まるで意味を持たなくなる場所だった。 自分の声が誰にも届かないまま、時間だけが永遠に続いていくような── そんな感覚だけが残っている。
-
-
+•	Tech_Shadow_A（静かな狂気/主人公が退院前に入ってくる）
 
 🌙 C｜老年期（静の象徴）
 Old_Lead（老年期主人公）
