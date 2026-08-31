@@ -189,9 +189,16 @@ Codename: Ward_Shadow
 Ward_Shadow_A（濁圏の中心/狂気の底/麻薬中毒の濁の狂気）
 Ward_Shadow_B（壊れやすい静の狂気/静の影）
 Ward_Shadow_C（影圏の救い/主人公が唯一心を開く人物）
+Ward_Shadow_C＝構造の裏側を握る男
+サーバー運営
+内部告発
+組織の闇を知る
+静圏の地獄を知る
+匿名の限界を知る
 
+“静けさの暴力”を知る
 Codename: Tech_Icon  
-CMで1秒だけ登場
+CMで数秒だけ登場
 
 Old Age（静けさの象徴）
 Codename: Old_Lead  
