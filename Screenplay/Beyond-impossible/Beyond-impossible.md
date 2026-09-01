@@ -70,11 +70,8 @@ Chapter 6: The Family’s Safe Haven
 The mother and daughter travel to visit the grandmother and aunt in A Country.
 It is a reunion filled with laughter, tears, and gentle chaos.
 
-The grandmother’s quirky personality becomes a comedic highlight.
-The aunt’s calm presence anchors the family.
 Together, they form a “safe haven”—
 a circle of warmth that the mother once feared she had lost.
-
 This is the emotional midpoint of the film,
 where the audience feels the family’s bond fully restored.
 
@@ -196,8 +193,6 @@ B国に法人を持つことになる。
 
 家族が再びひとつになる。
 静圏が広がる。
-
-祖母の天然ボケが映画の名シーンになる。
 ここはコメディと涙の混合シーン。
 
 第7章：B国への移住準備
