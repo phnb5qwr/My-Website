@@ -122,7 +122,10 @@ Beyond Impossible
 A story of quiet miracles, family, and the worlds we create together.
 
 
+Written by Lino  
+Story by Pi  
 © 2026 Lino. All Rights Reserved.
+
 
 ----------------
 
@@ -233,4 +236,6 @@ B国への移住を現実的に考え始める。
 Beyond Impossible
 
 
+Written by Lino  
+Story by Pi  
 © 2026 Lino. All Rights Reserved.
