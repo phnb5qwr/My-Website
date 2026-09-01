@@ -66,19 +66,30 @@ Tech_Shadow_A
 “…No… that can’t be…
 I was… just… playing…”
 
-🌑 SCENE 5-3｜Psychiatric Ward: (The Deepest Quiet) × Ward_Shadow_C
+🌑 SCENE 5-3 — Closed Ward: The Deepest Silence × Ward_Shadow_C
 This is the deepest point of the entire film.
-The Deepest Quiet.  
-Ward_Shadow_C’s domain.
+A place where silence itself becomes hell.
 
-🔥 Visual ①: The Too-White Corridor (Silent Hell)
-Absolute silence
-Only footsteps echo
-Tech_Shadow_A walks with his head down
-Shadow_Police walks beside him
-The world becomes “nothing”
-The camera remains fixed
-The light is cold
+🩸 True Identity of Ward_Shadow_C (Fully Integrated Version)
+Ward_Shadow_C = the man who holds the structure behind everything.
+Core operator of the server infrastructure
+Knows the mechanics behind anonymous posting
+Understands the flow of AI-generated composites
+Has seen the organization’s darkest corners
+
+He was the first to detect Tech_Shadow_A’s movements
+Attempted an internal whistleblow → silenced and erased
+Reported everything to the police afterward
+The organization labeled him “mentally unstable” and sent him to the closed ward
+A man who knows the violence of silence
+The first person to understand the limits of anonymity
+
+In other words:
+The hell Tech_Shadow_A is falling into now
+is the same hell Ward_Shadow_C already lived through.
+And now—
+Two people who should never meet
+encounter each other in the deepest silence.
 
 🔥 Visual ②: The Ward Room (Ward_Shadow_C’s Realm)
 Ward_Shadow_C sits quietly on the bed.
@@ -225,16 +236,30 @@ Tech_Shadow_A
 「……そんな……はず……ない……
 俺は……ただ……遊んでただけだ……」
 
-🌑 SCENE 5-3｜閉鎖病棟：(最深の静けさ) × Ward_Shadow_C
-ここが 映画全体の最深部（最深の静けさ）。
-Ward_Shadow_C の領域。
-Ward_Shadow_C＝構造の裏側を握る男
-サーバー運営
-内部告発
+🌑 SCENE 5-3｜閉鎖病棟：最深の静けさ × Ward_Shadow_C（完全版）
+ここは映画全体の最深部。
+“静けさの地獄”そのもの。
+
+🩸 Ward_Shadow_C の正体（完全統合版）
+Ward_Shadow_C＝構造の裏側を握る男。
+サーバー運営の中枢
+匿名投稿の裏側を知る
+AI合成の流れを知る
 組織の闇を知る
-静圏の地獄を知る
-匿名の限界を知る
-“静けさの暴力”を知る
+
+Tech_Shadow_A の動向を最初に感知した人物
+内部告発を試みたが もみ消された
+その後、警察に通報
+組織に「精神異常」として処理され、閉鎖病棟へ
+“静けさの暴力”を知る男
+匿名の限界を最初に理解した人物
+
+つまり、
+Tech_Shadow_A が落ちてきた地獄を、
+Ward_Shadow_C はすでに経験している。
+そして──
+出会ってはいけない２人が、
+最深の静けさの中で出会ってしまう。
 
 🔥 演出①：白すぎる廊下（無音の地獄）
 無音
