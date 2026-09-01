@@ -125,7 +125,9 @@ Beyond Impossible
 A story of quiet miracles, family, and the worlds we create together.
 
 
+© 2026 Lino. All Rights Reserved.
 
+----------------
 
 
 🎬 タイトル：Beyond Impossible
@@ -234,3 +236,6 @@ B国への移住を現実的に考え始める。
 タイトルが浮かぶ。
 
 Beyond Impossible
+
+
+© 2026 Lino. All Rights Reserved.
