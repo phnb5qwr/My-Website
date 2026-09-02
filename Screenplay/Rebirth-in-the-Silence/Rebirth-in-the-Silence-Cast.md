@@ -3,11 +3,9 @@
 
 
 Protagonists (Three Ages of Silence)
-Young_Lead — The Young Protagonist / Fragile Shadow of Silence
-
-Middle_Lead — The Middle-Aged Protagonist / Pilgrim Through the Corporate Hell
-
-Old_Lead — The Elder Protagonist / Silent Witness
+ Young_Lead — The Young Protagonist / Fragile Shadow of Silence
+ Middle_Lead — The Middle-Aged Protagonist / Pilgrim Through the Corporate Hell
+ Old_Lead — The Elder Protagonist / Silent Witness
 
 Early Office Era (Multinational IT × Quiet Reality)
 Codename: Quiet_Engineer — The Quiet Technician
@@ -31,7 +29,7 @@ Boss_Power_D — Ethics Audit Chief (Head of the Ethics Audit Division)
 — Quiet Madness × Shadow of Structure
 
 Workplace Enforcer (Pressure of the Flame Realm)
-Codename: PRESSURE-LORD
+Codename: Pressure-Lord
 
 AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
@@ -39,34 +37,27 @@ Codename: Tech_Shadow
 Tech_Shadow_A — Symbol of the Outer World / Quiet Madness That Hates the Protagonist
 Tech_Shadow_B — Silent Surveillance / Pale Pressure of Wordless Hostility
 Tech_Shadow_C — Cold Precision / Surgical Logic Without Emotion
+
 Investors — The Trinity of Madness
 Investor A — The God of Shadow
-Quiet Pressure
-
-Shadow Presence
-
-Terrifying Even as a Voice
-
-Dominates Without Showing His Form
-→ Shadow Investor (God of Shadow)
+ Quiet Pressure
+ Shadow Presence
+ Terrifying Even as a Voice
+ Dominates Without Showing His Form
+ → Shadow Investor (God of Shadow)
 
 Investor B — The God of Structure
-Cold Intelligence
-
-Elegant Madness
-
-Kills With Words
-
-Twists Corporate Ethics From the Outside
-→ Primary Investor (God of Structure)
+ Cold Intelligence
+ Elegant Madness
+ Kills With Words
+ Twists Corporate Ethics From the Outside
+ → Primary Investor (God of Structure)
 
 Investor C — The God of Hell
-Expressionless Murderous Intent
-
-Madness Outside Social Structure
-
-“Inhuman Presence”
-→ Destructive Investor (God of Hell)
+ Expressionless Murderous Intent
+ Madness Outside Social Structure
+ “Inhuman Presence”
+ → Destructive Investor (God of Hell)
 
 Judge (Apex of Structural Violence)
 Codename: Judge_Silent
@@ -80,11 +71,11 @@ Codename: IRON-HAND
 Romance Scam Kingpin (Ruler of Structural Violence)
 Codename: SILENT-DOMINUS
 
-Outer Shadow (Police / Pursuer)
+Shadow_Police (Police / Pursuer)
 Codename: Shadow_Police
 
 Investigator Hunting the Crime Syndicate (Outer Hell)
-Codename: ASH-TRACKER
+Codename: Shadow_Police
 
 Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
@@ -93,18 +84,12 @@ Ward_Shadow_A — Center of the Murky Realm / Depth of Madness / Drug-Induced Ch
 Ward_Shadow_B — Fragile Quiet Madness / Shadow of Silence
 Ward_Shadow_C — Salvation of the Shadow Realm / The Only Person the Protagonist Opens His Heart To
 Ward_Shadow_C also embodies:
-
-Server Operations
-
-Internal Whistleblowing
-
-Knowledge of Organizational Darkness
-
-Understanding the Hell of the Quiet Realm
-
-Limits of Anonymity
-
-Knowledge of “Violence Within Silence”
+ Server Operations
+ Internal Whistleblowing
+ Knowledge of Organizational Darkness
+ Understanding the Hell of the Quiet Realm
+ Limits of Anonymity
+ Knowledge of “Violence Within Silence”
 
 Tech Icon (Appears Only for a Few Seconds in a Commercial)
 Codename: Tech_Icon
@@ -125,8 +110,6 @@ Codename: Future_Voices
 
 Old Wife (Invisible Light / Voice‑Only Presence)
 Codename: Silent_Wife
-
-
 
 
 
@@ -157,7 +140,7 @@ Boss_Power_D（Ethics Audit Chief（倫理監査部の長））
 —— 静かな狂気 × 構造の影
 
 Workplace Enforcer（炎圏の圧力）
-Codename: PRESSURE-LORD
+Codename: Pressure-Lord
 
 AI Designer / Technical Madness（冷たい知性）
 Codename: Tech_Shadow
@@ -167,19 +150,19 @@ Tech_Shadow_C（冷たい精密さ／感情を伴わず切り裂く“外科的�
 
 Investors — The Trinity of Madness
 Investor A（影の神）
-•	静かな圧
-•	影の存在
-•	声だけでも怖い
-•	姿を見せなくても支配力がある → 影の投資家（影の神）
+ •静かな圧
+ •影の存在
+ •声だけでも怖い
+ •姿を見せなくても支配力がある → 影の投資家（影の神）
 Investor B（構造の神）
-•	冷たい知性
-•	優雅な狂気
-•	言葉で人を殺すタイプ
-•	企業の倫理を外側からねじ曲げる → 本体の投資家（構造の神）
+ •冷たい知性
+ •優雅な狂気
+ •言葉で人を殺すタイプ
+ •企業の倫理を外側からねじ曲げる → 本体の投資家（構造の神）
 Investor C（地獄の神）
-•	無表情の殺意
-•	社会構造の外側の狂気
-•	“人間じゃない存在感” → 破壊の投資家（地獄の神）
+ •無表情の殺意
+ •社会構造の外側の狂気
+ •“人間じゃない存在感” → 破壊の投資家（地獄の神）
 
 Judge（構造的暴力の頂点）
 Codename: Judge_Silent
@@ -188,16 +171,16 @@ Dark Goddesses（ダブルロマンス詐欺）
 Codename: Dark_Goddess_A & Dark_Goddess_B
 
 Romance Scam Enforcement Unit（暴力の影）
-Codename: IRON-HAND
+Codename: Iron-Hand
 
 Romance Scam Kingpin（構造的暴力の支配者）
-Codename: SILENT-DOMINUS
+Codename: Silent-Dominus
 
-Outer Shadow（警察／追跡者）
+Shadow_Police（警察／追跡者）
 Codename: Shadow_Police
 
 Investigator Hunting the Crime Syndicate（外界の地獄）
-Codename: ASH-TRACKER
+Codename: Ash-Tracker
 
 Psychiatric Ward（底への入口）
 Codename: Ward_Shadow
@@ -205,12 +188,12 @@ Ward_Shadow_A（濁圏の中心/狂気の底/麻薬中毒の濁の狂気）
 Ward_Shadow_B（壊れやすい静の狂気/静の影）
 Ward_Shadow_C（影圏の救い/主人公が唯一心を開く人物）
 Ward_Shadow_C＝構造の裏側を握る男
-サーバー運営
-内部告発
-組織の闇を知る
-静圏の地獄を知る
-匿名の限界を知る
-“静けさの暴力”を知る
+ サーバー運営
+ 内部告発
+ 組織の闇を知る
+ 静圏の地獄を知る
+ 匿名の限界を知る
+ “静けさの暴力”を知る
 
 Codename: Tech_Icon  
 CMで数秒だけ登場
