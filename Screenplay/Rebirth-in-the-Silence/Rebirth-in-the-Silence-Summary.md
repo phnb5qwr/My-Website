@@ -819,13 +819,8 @@ Only moment where outer world intersects his hell
 炎上圏で主人公の過去の記憶として断片的に現れる
 「この子、絶対壊れる…」という予兆
 若い頃の光（Female_Lead）との対比で輝きが増す
+ 
 
-●候補（コードネーム）
-Young_Lead_A（若年期主人公） ←決定
-Young_Lead_B
-Young_Lead_C
-Young_Lead_D
-Young_Lead_E
 
 🔥 A1｜職場の“圧”を象徴する幹部（炎上圏の圧力）
 コードネーム： PRESSURE-LORD
@@ -879,16 +874,9 @@ SNS暴力
 Passion of the Christ の精神版
 男性社会の“内側の地獄”を歩く
 
-●候補（コードネーム）
-Middle_Lead_A ←決定
-Pure_Friend（唯一の味方／起業の資金援助）
-Cold_Tech_A
-Old_Lead (記憶としての影)
-Shadow_Police
 
-
-🌟 Silent_Friend_A — 最終キャラクタープロファイル（日本語版）
-コードネーム：Silent_Friend_A  
+🌟 Pure_Friend — 最終キャラクタープロファイル（日本語版）
+コードネーム：Pure_Friend 
 主人公の唯一の味方 —— “静の純粋さ × 祈りの人”
 
 ● 役割概要
@@ -913,7 +901,7 @@ Boss_Power_A（副社長）と Boss_Power_B（直属上司）の圧力の中で�
 
 2. 内部告発を支える
 主人公が内部告発を決意したとき、
-Silent_Friend_A は 唯一「やめろ」と言わない。
+Pure_Friend は 唯一「やめろ」と言わない。
 
 無責任に煽ることもしない。
 ただ静かにこう言う。
@@ -946,7 +934,7 @@ Silent_Friend_A は 唯一「やめろ」と言わない。
 精神
 
 すべてを失ったとき、
-唯一戻ってくる男が Silent_Friend_A。
+唯一戻ってくる男が Pure_Friend。
 
 これが映画の 静かな救い。
 
@@ -982,7 +970,7 @@ Silent_Friend_A は慌てない。
 主人公が
 「もう一度やり直したい」
 と言ったとき、
-Silent_Friend_A は静かに答える。
+Pure_Friend は静かに答える。
 
 「君ならできるよ。」
 
@@ -993,17 +981,13 @@ Silent_Friend_A は静かに答える。
 ただ主人公の再生を祈るだけ。
 
 7. 老年期の章で静かに響く存在
-主人公が老年期に、
-未完成の本 「The Best Husband」 を読むとき、
-Silent_Friend_A の存在がその意味を静かに補強する。
-
 主人公の人生で、
 純粋で汚れなき善意を持つ唯一の男性。
 
 🌙 映画への影響
 1. 地獄の中の静かな救い
 110分の地獄の物語に、
-Silent_Friend_A は唯一の光をもたらす。
+Pure_Friend は唯一の光をもたらす。
 
 2. 狂気ではなく純粋さ
 彼の演技は混乱を生まず、
@@ -1018,7 +1002,7 @@ Silent_Friend_A は唯一の光をもたらす。
 ここで涙がこぼれる。
 
 
-主人公の告発 — シナリオサマリー
+主人公の告発 — 
 
 1. 主人公が内部告発の記事を書く
 2. 炎上とbot攻撃で記事を削除
@@ -1043,9 +1027,7 @@ Silent_Friend_A は唯一の光をもたらす。
 静圏の最後の5分を象徴
 
 ●候補（コードネーム）
-Old_Lead_A ←決定
-Old_Lead_B
-Old_Lead_C
+Old_Lead_A 
 
 🌙 C2｜Silent Companions（霊的友人たち） 
 Codename: Silent_Friends
@@ -1071,8 +1053,6 @@ Silent_Friend_B
 （Pure_Friend の老年期）
 Silent_Friend_C 
 （Ethics_Shadow の老年期）
-Silent_Friend_D 
-（主人公）
 
 
 🌙 C3｜Grandchildren（声だけの未来） 
