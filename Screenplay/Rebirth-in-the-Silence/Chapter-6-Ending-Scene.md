@@ -1,160 +1,171 @@
 Rebirth in the Silence - Ending Scene
 
+INT. LIVING ROOM – EVENING
+A quiet dusk.
+In the living room of the protagonist’s home, now in his later years,
+two old friends — Silent_Friend_A and Silent_Friend_B — sit together.
 
-🎬 SCREENPLAY FORMAT — English Version
-INT. PROTAGONIST’S LIVING ROOM – LATE AFTERNOON
-The warm light of dusk fills the living room.
-Old friends — Silent_Friend_A and Silent_Friend_B — sit together, quietly reminiscing.
+SILENT_FRIEND_B (FLASHBACK)
+“Anyone normal will eventually break
+if they stay too long inside an abnormal structure.
+It’s not the person who collapses —
+it’s the environment that was already broken.
+The structure simply exceeded
+what a human being can quietly endure.”
 
-Silent_Friend_B — Retrospective Scene
-“When a normal person is exposed to an abnormal system for too long, exhaustion is inevitable.
-Abnormal environments distort even the most stable minds.
-It wasn’t people who broke… it was the system itself.
-All that happened was the environment quietly pushing past the limits of what a human being can endure.”
+SILENT_FRIEND_A (FLASHBACK)
+“In the end… money and ethics never align.
+Platforms prioritize profit,
+and ethics vanish somewhere along the way.
+Victims kept increasing,
+and by the time governments finally moved to regulate,
+algorithms that attacked ‘anyone, anywhere’
+were already flooding the world.
+Of course users left.
+No one can stay long in a place like that.
 
-Silent_Friend_A — Retrospective Scene
-“In the end… money and ethics never really align.
-Platforms prioritized whatever made them profit,
-and ethics simply vanished somewhere along the way.
-The number of victims kept growing, and by the time the government finally stepped in,
-algorithms that attacked anyone—it didn’t matter who—were already flooding the world.
-Of course users walked away… no one can stay in a place like that for long.
-
-And there’s one thing I can say…
-in a world built on constant attacks, do you really want to entrust your entire life to that?
-That simple question—quiet, but undeniable—was always there inside us.”
+One thing was always clear to us:
+Do you really want to entrust your entire life
+to a space filled with nothing but attacks?
+That simple question never left us.”
 
 The doorbell rings.
-The elderly protagonist rises slowly and walks to the entrance.
+The protagonist slowly stands and walks to the entrance.
 
 He opens the door.
-Standing there is Silent_Friend_C, the former supervisor from the ethics committee.
+Standing there is his former superior — Silent_Friend_C —
+once a member of the ethics committee.
 
-He carries a quiet guilt —
-for having been part of the structure that once trapped them all.
+He carries a quiet guilt
+for having been part of the structure.
 
 Not a winner,
 not a loser,
-but simply a human being.
+just a human being.
 
 The protagonist hesitates for a moment,
-then gently invites him into the living room.
+then gently invites him inside.
 
 Silent_Friend_C joins the others.
-A long silence settles over the room.
+A long silence fills the room.
 
 Finally, he begins to speak.
 
 SILENT_FRIEND_C
-“…After that incident.
+“…After you blew the whistle,
+the organization collapsed almost instantly.
 
-When you blew the whistle,
-the entire organization collapsed almost overnight.
+Criticism came from every direction.
+Executives were forced to take responsibility —
+myself included.
 
-Reports came in from every direction,
-and every executive was forced into endless rounds of accountability.
-Myself included.
+It was a brutal period of backlash.
+Some lost all their assets and their families.
+Some had their minds break entirely.
 
-It was a brutal time.
-Some lost all their assets and their families walked away.
-Others simply… broke.
+The organization survived
+because it was filled with people who ‘couldn’t quit.’
 
-That organization only functioned because
-there were so many people who couldn’t quit.
+When people can’t quit,
+power on the strong side grows unchecked.
+Exploitation becomes fixed.
+The weak appear complicit
+because silence is their only option.
 
-When a company is filled with people who have no way out,
-the power of those at the top grows unchecked.
-And once that happens,
-the exploitation becomes permanent.
+…The structure itself was wrong.
 
-The weaker side has no choice but to stay silent,
-and in the end,
-it looks as if they’re complicit.
+As long as capital income and labor income remain asymmetric,
+we cannot call the world ethical.
 
-…The structure itself was wrong from the beginning.
+Those with assets grow richer without working.
+Those without assets must work to survive.
 
-As long as there’s an asymmetry between capital income and labor income,
-we cannot call the world ethical or healthy.
-
-Those who own assets grow richer without working,
-while workers must work just to survive.
-
-That imbalance twists people’s personalities,
-breeds exploitation,
-and locks inequality into place.
+That structure distorts character,
+creates exploitation,
+and locks in inequality.
 
 For those without assets,
-there are only two paths out of that structure:
+there are only two ways out:
 
-Receive public assistance,
-or build a business of your own.
+Welfare.
+Or building your own business.
 
-…But you know,
-life never goes the way we expect.
+…But life is unpredictable.
 
-What I can say for certain is this:
-
-You were right to step out of that structure when you did.”
+Leaving that structure when you did —
+that was the right choice.”
 
 The protagonist and Silent_Friend_C quietly reconcile.
 No anger.
 No blame.
-Just two people who survived the same structure,
-sharing a silent understanding.
+Just two people who survived the same structure.
 
-They talk softly about old memories and the present day.
-Eventually, the friends take their leave.
+They talk softly with the others
+about the past and the present,
+and eventually everyone leaves.
 
 INT. WIFE’S ROOM – NIGHT
-The protagonist enters his wife’s silent room.
+The protagonist steps quietly into the still room.
 
-On her desk lies an unfinished manuscript.
-He gently picks it up.
+In front of the desk,
+the wife sits motionless, her back turned,
+as if she simply drifted into silence.
+On the desk lies an unfinished manuscript.
 
-When he opens the pages,
-her voice — soft, ethereal — begins to speak,
-even though she appeared only from behind throughout the entire film.
+PROTAGONIST (V.O.)
+“While I was chatting with my friends,
+she remained here at this desk,
+leaving behind an unfinished book…
+and quietly passed away.”
+
+He gently picks up the manuscript
+and opens a page.
+
+At that moment,
+the voice of the late wife begins to speak —
+soft, spiritual, almost otherworldly.
 
 WIFE (V.O.)
-“Many of the things that happened here…
-I cannot fully express them.
+“There is little I can say
+about what happened in that place.
+Speaking felt meaningless there.
+My voice reached no one,
+and only the sensation remained
+of time continuing forever
+without me.”
 
-It was a place where speaking felt meaningless,
-where my voice reached no one,
-and only time continued endlessly,
-leaving behind nothing but that sensation.”
+The screen fades slowly,
+like the last light of dusk disappearing.
 
-The light fades like the last trace of dusk disappearing.
+Complete silence.
 
-Silence fills the room completely.
-
-The protagonist speaks in a quiet narration.
+The protagonist’s voice returns.
 
 PROTAGONIST (V.O.)
 “I thought she didn’t know my secret.
-But she sensed everything…
-and wrote it here.
+But she sensed everything
+and wrote it into this book.
 
 I believed I understood her.
-But in truth,
+In truth…
 I understood almost nothing.”
 
-As he reads the unfinished book,
-Silent_Friend_C’s voice returns in a soft echo.
+He closes the unfinished book.
+
+Silent_Friend_C’s voice echoes in memory.
 
 SILENT_FRIEND_C (FLASHBACK / V.O.)
 “Righteousness is often lonely.
 But beyond that loneliness,
-there is always light.”
+there is light.”
 
-The protagonist closes the book.
-On the cover, the title appears quietly:
+The protagonist looks at the cover.
+A title appears quietly:
 
 “The Best Husband”
 
 FADE OUT.
 END.
-
 
 © 2026 Pi. All Rights Reserved.
 
@@ -177,7 +188,7 @@ Silent_Friend_B（回顧録シーン）
 ただ……環境の強さが、人間の限界を静かに超えていっただけなんだよ。」
 
 Silent_Friend_A（回顧録シーン）
-「結局……お金と倫理って一致しないんだよ。
+「結局……金と倫理って一致しないんだよ。
 プラットフォームは儲かる仕組みを優先して、
 その結果、倫理なんてどこかに消えた。
 被害者は増え続けて、政府がようやく規制に動いた頃には、
@@ -260,20 +271,26 @@ SILENT_FRIEND_C
 友人たちと共に、昔の話や現在の話を静かに語り合い、
 やがて全員が帰っていく。
 
+
 INT. 夫人の部屋 – 夜
-主人公は静まり返った夫人の部屋に入る。
+静まり返った部屋に、主人公がそっと入る。
 
+机の前には、夫人が後ろ姿のまま静かに座っている。
 机の上には、未完成の原稿が置かれている。
-主人公はそれをそっと手に取る。
 
-ページを開くと、
-映画全体で後ろ姿しか映らなかった夫人の声が、
+主人公（V.O.）
+「僕が友人と雑談していたその時、
+　彼女はこの机に向かったまま、
+　未完成の本を残して静かに息を引き取っていた。」
+
+主人公は原稿をそっと手に取り、ページを開く。
+
+その瞬間、他界した夫人の声が、
 柔らかく、霊的に語り始める。
 
 夫人（V.O.）
-「ここでの出来事は、多くは言えない。
+「あの場での出来事は、多くは言えない。
 言葉を話すことが、まるで意味を持たなくなる場所だった。
-
 自分の声が誰にも届かないまま、
 時間だけが永遠に続いていくような──
 そんな感覚だけが残っている。」
