@@ -92,7 +92,7 @@ Sandra Cretu — Silent_Wife
 ----------------------------------------------------------
 
 
-🌟 **『Reborn This Way』
+🌟 **『Rebirth in the Silence』
 キャスト配置図 × ストーリー構造（Git保存用・完全版）**
 
 ■映画構造
