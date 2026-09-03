@@ -1,5 +1,11 @@
+Rebirth in the Silence is an original film concept developed by Pi.
+
 # Rebirth in the Silence
 A psychological drama film project by Pi.
+
+This project is a personal creative exercise.  
+It is not affiliated with any actors, studios, or production companies.  
+All casting listed in this repository is fictional and used solely for conceptual exploration.
 
 ## Structure
 - Silent Zone (10 min)

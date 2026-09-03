@@ -1,3 +1,97 @@
+**Rebirth in the Silence — Concept Casting (Unofficial)**
+
+🎬 CAST (Temp)
+(Pi’s original casting preserved exactly, written in professional film-credit English)
+This is a fictional casting list for a personal film concept.  
+All actor names are used purely for creative exploration.
+
+Main Leads — Three Ages of the Protagonist
+Timothée Chalamet — Young_Lead_A (Fragile Shadow of Youth) 
+Joaquin Phoenix — Middle_Lead (Pilgrim of the Inferno) 
+Willem Dafoe — Old_Lead (The Quiet Witness)
+
+Early Office Era (Multinational IT × Quiet Reality)
+Tadanobu Asano — Quiet_Engineer
+
+Voice-Only Future Partner
+Sandra Cretu — Voice_Female (The Voice of Light)
+
+Silent Companions (Early Allies)
+Paul Bettany — Silent_Friend_A The protagonist’s only ally — “Pure Quietness × Silent Prayer”
+
+Boss (The Man of Light and Power)
+Codename: Boss_Power
+Antonio Banderas — Boss_Power_A (CFO / Chief Financial Officer)
+Mark Ruffalo — Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology) 
+Jesse Eisenberg— Boss_Power_C (CCO / Chief Compliance Officer, Ethics’ Shadow / The man who destroys the protagonist’s world)
+Matt Dillon — Silent_Friend_C (Direct subordinate of the Ethics Committee)
+
+Workplace Enforcer (Pressure of the Flame Zone)
+J.K. Simmons — Pressure_Lord
+
+AI Designer / Technical Madness (Cold Intelligence)
+Paul Dano — Tech_Shadow (Symbol of the Outer World / Quiet Madness that resents the protagonist) 
+Jesse Plemons — Tech_Shadow_B (Silent Surveillance / Pale Pressure of Wordless Hostility) 
+Benedict Cumberbatch — Tech_Shadow_C (Cold Precision / Surgical Logic without Emotion)
+
+Investors — The Trinity of Madness
+Viggo Mortensen — Investor_A (God of Shadows)
+•	Quiet pressure
+•	Shadow presence
+•	Terrifying even as a voice
+•	Dominates without appearing — Shadow Investor
+Mads Mikkelsen — Investor_B (God of Structure)
+•	Cold intelligence
+•	Elegant madness
+•	Words that kill
+•	Twists corporate ethics from the outside — Structural Investor
+Javier Bardem — Investor_C (God of Hell)
+•	Expressionless murderous intent
+•	Madness outside social structure
+•	“Inhuman presence” — Destruction Investor
+
+Judge (Pinnacle of Structural Violence)
+Cillian Murphy — Judge_Silent
+
+Dark Goddesses (Double Romance Scam)
+Zoë Kravitz / Rinko Kikuchi — Dark_Goddess_A & Dark_Goddess_B
+
+Romance Scam Enforcement Unit (Shadow of Violence)
+Kazuto Uryu — Iron_Hand
+
+Romance Scam Kingpin (Ruler of Structural Violence)
+Giancarlo Esposito — Silent_Dominus
+
+Outer Shadow (Police / Romance Scam Syndicate Trackers)
+Robert Pattinson — Shadow_Police
+
+Investigator Hunting the Crime Syndicate (Hell of the Outer World)
+Guy Pearce — Ash_Tracker
+
+Psychiatric Ward (Entrance to the Bottom)
+Codename: Ward_Shadow
+Jared Leto — Ward_Shadow_A (Center of the Murky Zone / Depth of Madness / Drug-induced chaos) 
+Jeremy Allen White — Ward_Shadow_B (Fragile Quiet Madness / Shadow of Silence) 
+David Dastmalchian — Ward_Shadow_C (Salvation of the Shadow Zone / The only person the protagonist opens up to)
+
+Tech Icon (few-second CM Appearance)
+Elon Musk — Tech_Icon
+
+Silent Companions (Spiritual Friends)
+Codename: Silent_Friends
+Björn Andrésen — Silent_Friend_A (Old age of Ward_Shadow_A)
+Harvey Keitel — Silent_Friend_B (Old age of Pure_Friend)
+Stellan Skarsgård — Silent_Friend_C (Old age of Ethics_Shadow)
+
+Grandchildren (Voices of the Future)
+Codename: Future_Voices
+
+Old Wife (Invisible Light / Voice-Only Presence)
+Sandra Cretu — Silent_Wife
+
+----------------------------------------------------------
+
+
 🌟 **『Reborn This Way』
 キャスト配置図 × ストーリー構造（Git保存用・完全版）**
 
@@ -530,7 +624,5 @@ Rebirth の5分が神話的で、聖なる静けさになる
 「エンディングテーマは映画の“静かな再生”と“霊的なトーン”に合うアーティストを選択。」
 
 
-
 © 2026 Pi. All Rights Reserved.
-
-
+This document is part of the Rebirth in the Silence concept archive.
