@@ -22,9 +22,9 @@ Paul Bettany — Silent_Friend_A The protagonist’s only ally — “Pure Quiet
 Boss (The Man of Light and Power)
 Codename: Boss_Power
 Antonio Banderas — Boss_Power_A (CFO / Chief Financial Officer)
-Mark Ruffalo — Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology) 
+Michael Fassbender — Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology) 
 Jesse Eisenberg— Boss_Power_C (CCO / Chief Compliance Officer, Ethics’ Shadow / The man who destroys the protagonist’s world)
-Matt Dillon — Silent_Friend_C (Direct subordinate of the Ethics Committee)
+Matt Dillon — Boss_Power_D (Direct subordinate of the Ethics Committee)
 
 Workplace Enforcer (Pressure of the Flame Zone)
 J.K. Simmons — Pressure_Lord
@@ -72,16 +72,23 @@ Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
 Jared Leto — Ward_Shadow_A (Center of the Murky Zone / Depth of Madness / Drug-induced chaos) 
 Jeremy Allen White — Ward_Shadow_B (Fragile Quiet Madness / Shadow of Silence) 
-David Dastmalchian — Ward_Shadow_C (Salvation of the Shadow Zone / The only person the protagonist opens up to)
+Gary Oldman — Ward_Shadow_C (Salvation of the Shadow Zone / The only person the protagonist opens up to)
 
 Tech Icon (few-second CM Appearance)
 Elon Musk — Tech_Icon
 
+Expert on Structural Violence (Interview Segment)
+David Dastmalchian — Expert_A (Social Structure Researcher)  
+ A man who speaks calmly about horrors because he has seen the architecture from the inside.
+Mark Ruffalo — Expert_B (Ethics Scholar)
+ A quiet, empathetic analyst of moral collapse.
+ A voice that exposes structural contradictions without exploiting pain.
+
 Silent Companions (Spiritual Friends)
 Codename: Silent_Friends
-Björn Andrésen — Silent_Friend_A (Old age of Ward_Shadow_A)
-Harvey Keitel — Silent_Friend_B (Old age of Pure_Friend)
-Stellan Skarsgård — Silent_Friend_C (Old age of Ethics_Shadow)
+Björn Andrésen — Silent_Friend_A (Old age of Pure_Friend)
+Harvey Keitel — Silent_Friend_B (Old age of Ward_Shadow_C )
+Stellan Skarsgård — Silent_Friend_C (Old age of Boss_Power_C)
 
 Grandchildren (Voices of the Future)
 Codename: Future_Voices

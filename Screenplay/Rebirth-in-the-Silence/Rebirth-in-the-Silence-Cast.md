@@ -19,21 +19,22 @@ The Protagonist’s Only Ally — Pure Quietness × Silent Prayer
 
 Boss (Man of Light and Power)
 Codename: Boss_Power
-
 Boss_Power_A — CFO (Chief Financial Officer)
-Boss_Power_B — CTO (Chief Technology Officer) / Violence of Technology
+Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology)  
+    — A cold, elegant architect of the algorithm.
+    Quiet dominance.
+    Corporate minimalism.
+    The man whose decisions silently destroyed civilization.
 Boss_Power_C — CCO (Chief Compliance Officer) / Shadow of Ethics / Ex‑Husband of the Protagonist’s First Wife
-— Symbol of Ethics × Reversal of Ethics × The Man Who Destroys the Protagonist’s World
-
+    — Symbol of Ethics × Reversal of Ethics × The Man Who Destroys the Protagonist’s World
 Boss_Power_D — Ethics Audit Chief (Head of the Ethics Audit Division)
-— Quiet Madness × Shadow of Structure
+    — Quiet Madness × Shadow of Structure
 
 Workplace Enforcer (Pressure of the Flame Realm)
 Codename: Pressure-Lord
 
 AI Designer / Technical Madness (Cold Intelligence)
 Codename: Tech_Shadow
-
 Tech_Shadow_A — Symbol of the Outer World / Quiet Madness That Hates the Protagonist
 Tech_Shadow_B — Silent Surveillance / Pale Pressure of Wordless Hostility
 Tech_Shadow_C — Cold Precision / Surgical Logic Without Emotion
@@ -45,14 +46,12 @@ Investor A — The God of Shadow
  Terrifying Even as a Voice
  Dominates Without Showing His Form
  → Shadow Investor (God of Shadow)
-
 Investor B — The God of Structure
  Cold Intelligence
  Elegant Madness
  Kills With Words
  Twists Corporate Ethics From the Outside
  → Primary Investor (God of Structure)
-
 Investor C — The God of Hell
  Expressionless Murderous Intent
  Madness Outside Social Structure
@@ -66,20 +65,19 @@ Dark Goddesses (Double Romance Scam)
 Codename: Dark_Goddess_A & Dark_Goddess_B
 
 Romance Scam Enforcement Unit (Shadow of Violence)
-Codename: IRON-HAND
+Codename: Iron-Hand
 
 Romance Scam Kingpin (Ruler of Structural Violence)
-Codename: SILENT-DOMINUS
+Codename: Silent-Dominus
 
 Shadow_Police (Police / Pursuer)
 Codename: Shadow_Police
 
 Investigator Hunting the Crime Syndicate (Outer Hell)
-Codename: Shadow_Police
+Codename: Ash_Tracker
 
 Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
-
 Ward_Shadow_A — Center of the Murky Realm / Depth of Madness / Drug-Induced Chaos
 Ward_Shadow_B — Fragile Quiet Madness / Shadow of Silence
 Ward_Shadow_C — Salvation of the Shadow Realm / The Only Person the Protagonist Opens His Heart To
@@ -94,17 +92,21 @@ Ward_Shadow_C also embodies:
 Tech Icon (Appears Only for a Few Seconds in a Commercial)
 Codename: Tech_Icon
 
+Expert on Structural Violence (Interview Segment)
+Expert_A (Social Structure Researcher)  
+ A man who speaks calmly about horrors because he has seen the architecture from the inside.
+Expert_B (Ethics Scholar)
+ A quiet, empathetic analyst of moral collapse.
+ A voice that exposes structural contradictions without exploiting pain.
+
 Old Age (Symbol of Quietness)
 Codename: Old_Lead
-
-Old_Lead_A — Selected
-
 Silent Companions (Spiritual Friends)
 Codename: Silent_Friends
-
-Silent_Friend_A — Elder Version of Ward_Shadow_A
-Silent_Friend_B — Elder Version of Pure_Friend
+Silent_Friend_A — Elder Version of Pure_Friend
+Silent_Friend_B — Elder Version of Ward_Shadow_C
 Silent_Friend_C — Elder Version of Boss_Power_C
+
 Grandchildren (Voices of the Future)
 Codename: Future_Voices
 
