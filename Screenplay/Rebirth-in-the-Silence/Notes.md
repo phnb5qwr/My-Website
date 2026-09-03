@@ -562,11 +562,11 @@ Codename: Silent_Friends
 
 ●Casting
 Silent_Friend_A 
-（Ward_Shadow_A の老年期）
-Silent_Friend_B  
 （Pure_Friend の老年期）
+Silent_Friend_B  
+（Ward_Shadow_Cの老年期）
 Silent_Friend_C 
-（Ethics_Shadow の老年期）
+（Boss_Power_C の老年期）
 
 🌙 C3｜Grandchildren（声だけの未来） 
 Codename: Future_Voices
