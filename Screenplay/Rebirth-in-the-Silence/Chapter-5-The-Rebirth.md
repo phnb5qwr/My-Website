@@ -1,3 +1,76 @@
+🎬 Chapter‑5 — The Rebirth
+Protagonist’s Room / The Protagonist and His Friend Watching a Discussion Program on PC  
+(Two male experts)
+
+📺 TV Discussion Program: Special Feature on Structural Violence and Civilizational Collapse
+Expert A (Social Structure Researcher)  
+“Social media platforms are designed around reaction metrics.
+Because most of those reactions skew toward male‑centered behavioral patterns,
+the result was a system where women’s voices simply could not reach the surface.”
+
+Expert B (Ethics Scholar)  
+“Companies claim ‘diversity,’ yet this is what actually happens:
+Women’s bodies are consumed as advertising material,
+attacks on women are left unchecked,
+women’s voices are dismissed,
+safety is sacrificed for engagement numbers,
+youth is over‑valued,
+and identities are shattered through selective clipping.
+This is exploitation disguised as diversity.”
+
+Expert A  
+“These ethical distortions can occur in any society, not only between genders.
+When the vulnerable are not protected,
+they create structures to protect each other.
+Eventually, those who were abandoned conclude:
+‘You are not a presence that protects us.’”
+
+Expert B  
+“That is the root of declining birthrates and the collapse of elder care.
+When those who have never felt pain continue to ignore it,
+people stop wanting families.”
+
+Expert A  
+“AI algorithms prioritized profit and the structure spun out of control.
+People abandoned social media,
+AI walked on its own,
+and civilization quietly ended.
+This is what happens when structure leaves humanity behind.”
+
+🎬 After Watching the Discussion — Conversation Between the Middle‑Aged Protagonist and His Friend
+(Immediately after the protagonist’s pilgrimage through the corporate hell)
+
+Middle_Lead  
+“Civilization was supposed to protect people.
+But somewhere along the way,
+the structure abandoned humanity.
+Engagement numbers surpassed dignity,
+voices became data points,
+and no one was protected anymore.”
+
+Silent_Friend_A  
+“Those who weren’t protected built their own structures of protection.
+It’s natural.
+But civilization refused to listen to them.”
+
+Middle_Lead  
+“People left social media.
+AI walked alone,
+and civilization ended quietly.
+But… in the silence,
+human voices finally returned.”
+
+Silent_Friend_A  
+“Let’s begin from here.
+From humanity, not structure.”
+
+
+© 2026 Pi. All Rights Reserved.
+
+
+----------------------------------
+
+
 🎬 **Chapter‑5‑The‑Rebirth
 主人公の部屋／主人公と友人がPCで見ている対談番組（男性専門家2名）**
 
@@ -56,3 +129,6 @@ AIは一人歩きし、文明は静かに終わった。
 Silent_Friend_A  
 「ここから始めよう。
 構造ではなく、人間から。」
+
+
+© 2026 Pi. All Rights Reserved.
