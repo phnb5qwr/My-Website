@@ -1,7 +1,7 @@
 Rebirth in the Silence
 
 
-Reborn This Way — Chapter 1 Visual Description
+Rebirth in the Silence — Chapter 1 Visual Description
 “The Candle Scene”
 
 INT. DARK ROOM — NIGHT
@@ -77,7 +77,7 @@ It only listens.
 
 
 
-Reborn This Way — Chapter 1
+Rebirth in the Silence — Chapter 1
 「キャンドルのシーン」
 
 
@@ -156,5 +156,6 @@ SFX：シュッ…
 キャンドルは燃え続ける。
 闇は退かない。
 ただ、静かに耳を傾けている。
+
 
 © 2026 Pi. All Rights Reserved.
