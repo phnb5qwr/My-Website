@@ -84,6 +84,12 @@ Mark Ruffalo — Expert_B (Ethics Scholar)
  A quiet, empathetic analyst of moral collapse.
  A voice that exposes structural contradictions without exploiting pain.
 
+Media & Public Sphere (Rebirth Era × Global Silence)
+Jeff Goldblum — Quiet_Host  
+Host of the world‑famous podcast.
+Gentle Intelligence × Soft Debate × Silent Empathy.
+The man who brings the protagonist’s voice to the world during the Rebirth Phase.
+
 Silent Companions (Spiritual Friends)
 Codename: Silent_Friends
 Björn Andrésen — Silent_Friend_A (Old age of Pure_Friend)

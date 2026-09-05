@@ -99,6 +99,12 @@ Expert_B (Ethics Scholar)
  A quiet, empathetic analyst of moral collapse.
  A voice that exposes structural contradictions without exploiting pain.
 
+Media & Public Sphere (Rebirth Era × Global Silence)
+Code name: Quiet_Host  
+Host of the world famous podcast.
+Gentle Intelligence × Soft Debate × Silent Empathy.
+The man who brings the protagonist’s voice to the world during the Rebirth Phase.
+
 Old Age (Symbol of Quietness)
 Codename: Old_Lead
 Silent Companions (Spiritual Friends)
@@ -199,6 +205,12 @@ Ward_Shadow_C＝構造の裏側を握る男
 
 Codename: Tech_Icon  
 CMで数秒だけ登場
+
+Media & Public Sphere (再生の時代 × 世界的静寂)
+Codename: Quiet_Host  
+世界的に有名なポッドキャストのホスト。
+穏やかな知性 × 柔らかな議論 × 静かな共感。
+再生のフェーズにおいて、主人公の声を世界へ届ける人物。
 
 Old Age（静けさの象徴）
 Codename: Old_Lead  
