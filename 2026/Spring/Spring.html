@@ -5,26 +5,28 @@
 
   <title>void record</title>
   <style>
-    @media screen and (min-width: 601px) {
-    body {
-      min-height: 100vh;   /* ← PCだけ中央寄せを維持する */
-    }
-  }
 
+/* PC用 */
+@media screen and (min-width: 601px) {
   body {
-    background-color: black;
-    color: white;
-    font-family: 'Times New Roman', serif;
-    margin: 0;
-    padding: 0;
-
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;   /* ← 中央寄せで静かに */
-    align-items: center;
-    text-align: center;
+    min-height: 100vh;   /* PCだけ中央寄せを維持する */
   }
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Times New Roman', serif;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;   /* ← PCでは中央寄せ */
+  align-items: center;
+  text-align: center;
+}  
+
 
   h1 {
     font-size: 1.4em;          /* ← 控えめで上品に */
@@ -91,7 +93,13 @@
   }
 
   @media screen and (max-width: 600px) {
-
+      body {
+    height: auto;        /* ← スマホで圧縮されなくなる */
+    min-height: 100vh;   /* ← 自然な縦スクロール */
+    justify-content: flex-start; /* ← 中央固定を解除 */
+    padding-top: 2.5rem; /* ← 上に余白 */
+  }
+  
     .buttons {
       flex-direction: column;   /* ← 横並びを縦並びにする */
       gap: 1.5rem;              /* ← 呼吸を深く */
