@@ -74,6 +74,24 @@ It can be exported globally through:
 - Export of public‑culture educational materials  
 - Cultural branding products  
 
+# 7. Export Value of Senior Women Audition Culture
+
+Because the IUFS Public Actor Model is built on multi‑generational casting,
+the audition culture for senior women becomes a new and highly exportable
+cultural model.
+
+Film cultures that place senior women at the center of casting are extremely rare
+worldwide. IUFS public‑culture films gain international value for the following reasons:
+
+- Multi‑generational casting is highly valued at international film festivals  
+- Senior women’s participation symbolizes cultural inclusion  
+- The Public Actor Model structurally avoids age‑based exploitation  
+- Public‑culture films generate global discourse as “ethical inversion”  
+- University collaboration institutionalizes cultural participation for senior women  
+
+Thus, the senior‑women audition culture becomes a new cultural export model
+for Canada within the IUFS framework.
+
 ---
 
 © 2026 Pi. Supplementary Notes.
@@ -158,5 +176,23 @@ IUFS 公務員俳優モデルは、
 - 公共文化ブランドとしての文化商品化  
 
 ---
+
+# 7. 高齢女性オーディション文化の輸出価値
+
+IUFS 公務員俳優モデルは、多世代キャストを中心とした文化構造を持つため、
+高齢女性のオーディション文化が新しい文化輸出モデルとして成立する。
+
+高齢女性を主要キャストとして扱う映画文化は世界的に希少であり、
+IUFS の公共文化映画は以下の理由で国際的価値を持つ。
+
+- 多世代キャストが国際映画祭で高く評価される  
+- 高齢女性の出演機会が文化的包摂の象徴となる  
+- 公務員俳優モデルが年齢差別を回避する構造を持つ  
+- 公共文化映画が「倫理の反転の反転」として国際的議論を生む  
+- 大学連携により高齢女性の文化参加が制度化される  
+
+これにより、高齢女性オーディション文化は
+カナダの新しい文化輸出モデルとして国際展開が可能となる。
+
 
 © 2026 Pi. Supplementary Notes.
