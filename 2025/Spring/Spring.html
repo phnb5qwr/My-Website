@@ -63,36 +63,17 @@
     font-weight: normal;       /* ← 静かに */
   }
 
-  /* スマホ用（最後に置く） */
-  @media screen and (max-width: 600px) {
-    .buttons {
-      flex-direction: column;
-      gap: 2rem;
-      margin-top: 2em;
-    }
-
-    .left-column,
-    .right-column {
-      align-items: center;
-    }
-
-    .button {
-      width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
   .button:hover {
     background-color: #444;
   }
 
-  /* カラムごとに縦並び */
-  .left-column,
-  .right-column {
+.left-column,
+.right-column {
+    width: 250px;   /* ← 左右の幅を統一する */
     display: flex;
     flex-direction: column;
     gap: 1rem;
-  }
+}
 
   /* 中央ボタン（幅は固定しない） */
   .center-button {
@@ -108,6 +89,27 @@
     text-align: center;
     margin-top: 3em;           /* ← absolute を外して自然に下へ */
     margin-bottom: 1.5em;
+  }
+
+    /* スマホ用（最後に置く） */
+  @media screen and (max-width: 600px) {
+    .buttons {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .left-column,
+    .right-column {
+      width: 100%;        /* ← スマホ幅いっぱい */
+      align-items: center; /* ← ボタンを中央揃え */
+    }
+
+    .button {
+        width: 100%;        /* ← ボタン幅も統一 */
+        box-sizing: border-box;
+    }
+  
   }
 
   </style>
