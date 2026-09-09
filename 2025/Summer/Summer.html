@@ -63,24 +63,6 @@
     font-weight: normal;       /* ← 静かに */
   }
 
-  @media screen and (max-width: 600px) {
-    .buttons {
-      flex-direction: column;
-      gap: 2rem;
-      margin-top: 2em;
-    }
-
-    .left-column,
-    .right-column {
-      align-items: center;
-    }
-
-    .button {
-      width: 100%;
-      box-sizing: border-box;
-    }
-  }
-
   .button:hover {
     background-color: #444;
   }
@@ -108,6 +90,25 @@
     text-align: center;
     margin-top: 3em;           /* ← absolute を外して自然に下へ */
     margin-bottom: 1.5em;
+  }
+  
+
+    @media screen and (max-width: 600px) {
+    .buttons {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .left-column,
+    .right-column {
+      align-items: center;
+    }
+
+    .button {
+      width: 100%;
+      box-sizing: border-box;
+    }
   }
 
   </style>
