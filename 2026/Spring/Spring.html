@@ -57,6 +57,26 @@
     font-weight: normal;
   }
 
+  /* スマホ用 */
+  @media screen and (max-width: 600px) {
+    .buttons {
+      flex-direction: column;
+      gap: 2rem;
+      margin-top: 2em;
+    }
+
+    .left-column,
+    .right-column {
+      width: 100%;
+      align-items: center;
+    }
+
+    .button {
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
   .button:hover {
     background-color: #444;
   }
@@ -84,41 +104,11 @@
     margin-bottom: 1.5em;
   }
 
-  /* スマホ用 */
-  @media screen and (max-width: 600px) {
-
-    body {
-      justify-content: flex-start;   /* 中央寄せ解除 */
-      padding-top: 2rem;
-      min-height: auto;
-    }
-
-    .buttons {
-      flex-direction: column;        /* 縦並び */
-      gap: 2rem;
-      margin-top: 2em;
-    }
-
-    .left-column,
-    .right-column {
-      width: 100%;                   /* スマホ幅いっぱい */
-      align-items: center;
-    }
-
-    .button {
-      width: 100%;
-      box-sizing: border-box;
-      padding: 14px 24px;            /* Summer と同じ */
-    }
-
-    /* Summer は h1 のフォントサイズを変えていない */
-    /* Spring も同じにするため変更なし */
 
     footer {
       font-size: 1em;
       margin-top: 4em;
     }
-  }
 
   </style>
 </head>
