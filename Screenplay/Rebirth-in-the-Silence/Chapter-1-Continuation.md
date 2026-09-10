@@ -188,7 +188,7 @@ But something in his world has begun to shift.
 
 
 
-Reborn This Way — Chapter 1　(続き)
+Rebirth in the Silence — Chapter 1　(続き)
 「崩壊前の静かな世界」
 
 INT. リモートワークスペース — 昼

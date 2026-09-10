@@ -1,29 +1,32 @@
-Rebirth in the Silence
-
-
-Rebirth in the Silence — Chapter 1 Visual Description
+🎬 Rebirth in the Silence — Chapter 1
 “The Candle Scene”
 
 INT. DARK ROOM — NIGHT
-
 Complete darkness.
 No movement. No breath. No world.
 
-A faint, suspended tension fills the air—
-the same tension carried by the distant echo of a Gregorian‑like chant.
-Still no instruments.
-Only silence shaped into sound.
+A faint tension hangs in the air.
+The distant echo of a Gregorian‑like chant drifts softly,
+holding that tension in place.
+No instruments.
+Only silence, shaped into sound.
 
 A single match is struck.
 
 SFX: fsshhh…  
-A thin flame blooms, trembling in the void.
+A thin flame trembles into existence within the void.
 
-The man’s hand—middle‑aged, worn, steady but fragile—cups the flame.
+The man’s hand—
+an aged hand,
+worn by long years,
+steady yet carrying a quiet fragility—
+cups the flame.
+
 The light reveals almost nothing:
-just the outline of fingers,
+the outline of fingers,
 the texture of skin,
-the quiet desperation of someone who has lived too long in the dark.
+the quiet despair of someone
+who has lived too long in the dark.
 
 He brings the flame to a candle.
 
@@ -32,26 +35,29 @@ A small, wavering light rises.
 
 The room remains mostly dark.
 Only the candle’s glow exists—
-a fragile island of warmth in an ocean of black.
+a fragile island of warmth
+floating in a black ocean.
 
 The man does not appear.
 Only his hands.
 Only the flame.
 Only the act of lighting the candle.
 
-His voice enters, calm but strained,
-as if speaking from a place beyond exhaustion.
+Then, his voice enters.
+An elderly voice.
+Calm, taut,
+as if drawn from somewhere beyond
+the exhaustion of a long life.
 
-NARRATION (Male, mid‑40s to 50s):
-
-What is true extremity?  
+NARRATION (Male, 70s–80s)
+What is true extremity?
 It is the moment when a person gives up speaking.
 
 Even now, I don’t want to talk about what happened.
 I don’t want to remember it.
 
 But people say things.
-“You’re a coward for staying silent.”
+“Silence is cowardice.”
 “A traitor.”
 “A loser.”
 
@@ -61,7 +67,8 @@ they cannot speak, even if they want to.
 
 So their voices…
 they sound distant now.
-Like the voices of people who have nothing to do with me.
+As if they belong to people
+who have nothing to do with me.
 
 They simply do not know.
 
@@ -75,11 +82,10 @@ It only listens.
 
 © 2026 Pi. All Rights Reserved.
 
+-------------------------
 
-
-Rebirth in the Silence — Chapter 1
+🎬 Rebirth in the Silence — Chapter 1
 「キャンドルのシーン」
-
 
 INT. 暗い部屋 — 夜
 完全な暗闇。
@@ -97,8 +103,10 @@ SFX：シュッ…
 薄い炎が闇の中に震えながら生まれる。
 
 男の手——
-中年で、使い込まれ、
-安定しているがどこか脆さを含んだ手が、
+年老いた手。
+長い年月を生き、
+使い込まれ、
+なおどこか脆さを含んだ手が、
 その炎を包み込む。
 
 光が照らすのはほんのわずか。
@@ -123,11 +131,12 @@ SFX：シュッ…
 キャンドルに火を灯すという行為だけ。
 
 そのとき、男の声が入る。
+老年の声。
 静かで、張りつめていて、
-疲労の向こう側から絞り出されるような声。
+長い人生の疲労の向こう側から絞り出されるような声。
 
-ナレーション（男性・40〜50代）
-本当の極限とは何だろう。  
+ナレーション（男性・70〜80代）
+本当の極限とは何だろう。
 それは、人が“語ることを諦めた瞬間”だ。
 
 今でも、あの出来事について話したくない。
