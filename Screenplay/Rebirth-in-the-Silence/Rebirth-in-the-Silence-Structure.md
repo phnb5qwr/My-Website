@@ -1,3 +1,52 @@
+🎬 Rebirth in the Silence — Core Concept (Complete English Version for Git)
+“Elegant Surface / Invisible Violence / Quiet Collapse”
+
+Rebirth in the Silence is a story about stylish, elegant men who quietly fall apart under invisible structural violence.
+
+On the surface, everything is perfect, calm, and refined.
+The beauty of their suits, their controlled gestures, the graceful music.
+Yet beneath that surface, anonymous pressure, linguistic aggression, and distorted social structures slowly erode their minds.
+
+There are no direct acts of physical violence in this film.
+However, structural violence is more brutal than visible violence—silent, inescapable, and relentless.
+Elegance and collapse.
+Quietness and hell.
+The surface and the inner breakdown.
+
+This “contrast” is the structural dissonance at the core of Rebirth in the Silence.
+
+
+© 2026 Pi. All Rights Reserved.
+
+
+-------------------------------------------
+
+🎬 Rebirth in the Silence — Core Concept（Git保存用 完全版）
+“Elegant Surface / Invisible Violence / Quiet Collapse”
+
+Rebirth in the Silence は、
+スタイリッシュで優雅な男たちが、
+目に見えない構造暴力によって静かに崩壊していく物語である。
+
+表面は完璧で、静かで、洗練されている。
+スーツの美しさ、整った所作、優雅な音楽。
+しかしその内側では、匿名の圧力、言語の暴力、社会構造の歪みが
+ゆっくりと精神を侵食していく。
+
+この作品には、直接的な暴力シーンは存在しない。
+だが、構造暴力は暴力以上に残酷で、静かで、逃げ場がない。
+優雅さと崩壊、静けさと地獄、表面と内側の断絶。
+
+この“落差”こそが、Rebirth in the Silence の 構造的コントラスト である。
+
+
+© 2026 Pi. All Rights Reserved.
+
+-------------------------------------------
+
+
+
+
 Rebirth in the Silence
 
 (Workplace Hell Scene)
