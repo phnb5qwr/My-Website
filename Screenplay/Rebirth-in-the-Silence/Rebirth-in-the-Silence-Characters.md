@@ -119,10 +119,12 @@ Codename: Future_Voices
 Old Wife (Invisible Light / Voice‑Only Presence)
 Codename: Silent_Wife
 
+© 2026 Pi. All Rights Reserved.
 
+---------------------------------------
+---------------------------------------
 
 ◆ キャスト
-
 
 Young_Lead（若き主人公/壊れやすい静の影）
 Middle_Lead（中年期主人公/地獄を巡る巡礼者）
@@ -231,5 +233,6 @@ Codename: Future_Voices
 Old Wife（見えない光／声だけの存在）
 Codename: Silent_Wife
 
-
 © 2026 Pi. All Rights Reserved.
+
+---------------------------------------
