@@ -80,6 +80,55 @@ The darkness does not retreat.
 It only seems, more than in Chapter 1,
 to be ready to listen.
 
+---------------------------------------
+
+(Flashback Sequence)
+
+The middle‑aged protagonist (Middle_Lead) stands inside the courtroom.
+He appears as the plaintiff — a whistleblower — while the defendant is Boss_Power_C,
+the Chief Compliance Officer, and the man who married his former wife.
+
+The Chief Justice delivers the verdict.
+
+CHIEF JUSTICE  
+“This court hereby finds the defendant not guilty.”
+
+The gavel strikes, echoing through the courtroom.
+
+The protagonist is then declared to have a mental disorder,
+officially categorized as mentally ill,
+and is quietly escorted toward a locked psychiatric ward.
+
+Shock and despair blur his senses as he is taken away.
+Is this reality?
+Or a hallucination?
+
+His mind fractures under the weight of the moment —
+the instant when reversed ethics became “justice.”
+A violent shock spreads through him,
+and the world he knew collapses into absolute despair.
+
+---------------------------------------
+
+NARRATION (Male, 70s–80s)
+
+That was the pinnacle of invisible violence.
+Around the defendant swirled countless vested interests,
+and those who were supposed to protect the weak in that courtroom
+were already entangled in those interests.
+
+The weaker you are,
+the weaker they make you —
+until society erases you entirely.
+
+That was the “reality of justice” I witnessed.
+
+What more could I possibly say?
+
+---------------------------------------
+
+Fade Out
+
 © 2026 Pi. All Rights Reserved.
 
 ---------------------------------------
@@ -164,6 +213,40 @@ Chapter1 と同じ音。
 暗闇は退かない。
 ただ、Chapter1 の時よりも
 “語りを受け入れる準備”をしているように見える。
+
+---------------------------------------
+
+(回想シーン)
+
+中年の主人公（ Middle_Lead）が裁判所にいる。
+内部告発者として原告人となり、被告人が、Boss_Power_C（CCO（最高コンプライアンス責任者）
+彼の元奥さんの再婚相手だ。
+
+最高裁判所長が判決を下す。
+「これによって被告人を無罪とする。」
+ハンマーが裁判所に鳴り響く。
+
+主人公は、精神疾患がある、という判定で、精神病とみなされ、閉鎖病棟へと連れていかれる。
+衝撃と絶望のなか、静かに病院へと連れ去られていく。
+これは現実なのか？幻なのか？
+主人公の脳は混乱する。
+倫理の反転が「正義」となった瞬間に、強いショックを受け、絶望感が彼の世界を埋め尽くしていく。
+
+---------------------------------------
+
+ナレーション（男性・70〜80代）
+
+あれこそが、目に見えない暴力の頂点だったんだ。
+被告人の周りには多くの利害関係者たちが渦巻いていた。
+法廷という名の弱者を守る立場の人間は、その利害関係の中にいたんだ。
+弱い立場の者が、更に弱い立場となり、社会の中で抹殺されていく。
+それが、自分がみた、「正義の現実」だった。
+
+これ以上、何を語ることができるのかい？
+
+---------------------------------------
+
+フェードアウト
 
 © 2026 Pi. All Rights Reserved.
 
