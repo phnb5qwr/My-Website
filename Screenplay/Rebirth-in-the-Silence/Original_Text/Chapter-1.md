@@ -1,6 +1,5 @@
-🎬Rebirth in the Silence — Chapter 1
+🎬 Rebirth in the Silence — Chapter 1
 “The Candle Scene”
-
 
 INT. DARK ROOM — NIGHT
 
@@ -87,17 +86,16 @@ The candle continues to burn.
  The darkness does not retreat.
  It only listens.
 
-
 © 2026 Pi. All Rights Reserved.
 
-
 ---------------------------------------
-
+---------------------------------------
 
 🎬 Rebirth in the Silence — Chapter 1
 「キャンドルのシーン」
-和訳・完全版（原文保存用）
+
 INT. 暗い部屋 — 夜
+
 完全な暗闇。
 動きはない。
 息遣いもない。
@@ -181,6 +179,6 @@ SFX：fsshhh…
 暗闇は退かない。
 ただ、静かに耳を傾けている。
 
-
 © 2026 Pi. All Rights Reserved.
 
+---------------------------------------

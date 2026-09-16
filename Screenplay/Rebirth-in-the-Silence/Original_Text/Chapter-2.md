@@ -1,8 +1,7 @@
 🎬 Rebirth in the Silence — Chapter 2
 “The Quiet World Before Collapse”
-Original Text — English Full Version
 
-🌑 INT. Multinational IT Company — Office at Midnight / Shadow of the Silent Zone
+INT. Multinational IT Company — Office at Midnight / Shadow of the Silent Zone
 A vast office. The white glow of fluorescent lights illuminates a floor where almost no one remains.
 A modern IT workplace.
 
@@ -62,7 +61,9 @@ Their traces remain in scattered documents and misaligned chairs.
 To distract himself,
 the protagonist begins casually surfing the web.
 
-🌑 A Strange Internal Document Pops Up on the Screen
+---------------------------------------
+
+A Strange Internal Document Pops Up on the Screen
 In the corner of the screen, an unfamiliar filename appears.
 
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
@@ -72,7 +73,9 @@ Clicking it opens an internal AI algorithm design document.
 
 But the content is not technical.
 
-🌑 AI Internal Document (on screen)
+---------------------------------------
+
+AI Internal Document (on screen)
 “AI should not prioritize apology.
 By explaining first, it can control the user’s emotions.”
 
@@ -85,6 +88,8 @@ Explanation is dominance.
 Efficiency over ethics.”
 
 He gasps quietly.
+
+---------------------------------------
 
 INT. Apartment — Night
 The room is silent—too silent.
@@ -143,7 +148,10 @@ And—
 in the middle of this quiet, lonely night—
 he finds it.
 
-🌑 Silent.Voice
+---------------------------------------
+
+Silent.Voice
+
 A minimalist website.
 No decoration.
 Only a woman’s voice.
@@ -199,7 +207,9 @@ The AI assistant’s unsettling behavior.
 He remains quiet.
 But something in his world has begun to shift.
 
-🌑 A Japanese Anonymous Website Opened by Accident
+---------------------------------------
+
+A Japanese Anonymous Website Opened by Accident
 He shifts his gaze to another tab.
 A personal site in mixed Japanese and English—
 a place he stumbled upon by chance.
@@ -210,7 +220,9 @@ The title reads quietly:
 
 He begins reading.
 
-🌑 Anonymous Text (Bushido × Colonialism)
+---------------------------------------
+
+Anonymous Text (Bushido × Colonialism)
 “Beauty lies in sequence.
 Apologize first.
 That is the ‘beauty of responsibility’ in Bushido.”
@@ -233,7 +245,9 @@ He scrolls.
 
 His breath stops.
 
-🌑 Further Down, a Story from the War
+---------------------------------------
+
+Further Down, a Story from the War
 “During the war, on a ship returning from Saipan to Japan,
 a Japanese man was appointed as the guide.
 He chose a highly capable Korean man as his deputy.
@@ -243,7 +257,9 @@ He chose not self-preservation, but the safety of the entire ship.”
 
 The protagonist freezes before the screen.
 
-🌑 Two Texts Overlap in His Mind
+---------------------------------------
+
+Two Texts Overlap in His Mind
 One speaks of “aesthetic responsibility based on ability.”
 The other describes “a design of domination that rejects apology.”
 
@@ -252,6 +268,8 @@ He whispers quietly:
 “This is… the denial of aesthetics.”
 
 Only the screen’s glow lights the silent zone of the midnight room.
+
+---------------------------------------
 
 The Next Morning
 A cold presence runs behind him.
@@ -269,7 +287,9 @@ Apparently, deadlines were missed and complaints are piling up.
 He looks away again,
 but his heartbeat quickens.
 
-🌑 The Moment He Decides to Blow the Whistle
+---------------------------------------
+
+The Moment He Decides to Blow the Whistle
 He grips a USB drive.
 His hand trembles.
 
@@ -336,18 +356,16 @@ Protagonist:
 And so, the day ends.
 The story of whistleblowing begins here.
 
-
 © 2026 Pi. All Rights Reserved.
 
-
 ---------------------------------------
-
+---------------------------------------
 
 🎬 Rebirth in the Silence — Chapter 2
 「崩壊前の静かな世界」
-原文・完全版
 
-🌑 INT. 多国籍IT企業・深夜のオフィス — 静圏の影
+
+INT. 多国籍IT企業・深夜のオフィス — 静圏の影
 巨大なオフィス。蛍光灯の白い光が、ほとんど誰もいないフロアを照らしている。
 現代のIT企業の職場。
 
@@ -406,7 +424,9 @@ The story of whistleblowing begins here.
 
 主人公は、ふと気を紛らわせるためにネットサーフィンを始める。
 
-🌑 PC画面に、奇妙な内部文書がポップアップする
+---------------------------------------
+
+PC画面に、奇妙な内部文書がポップアップする
 画面の隅に、見覚えのないファイル名が浮かぶ。
 
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
@@ -416,7 +436,9 @@ The story of whistleblowing begins here.
 
 しかし内容は技術ではない。
 
-🌑 AI内部文書（画面に映る）
+---------------------------------------
+
+AI内部文書（画面に映る）
 “AIは謝罪を優先しない。
 説明を先にすることでユーザーの感情を制御できる。”
 
@@ -429,6 +451,8 @@ The story of whistleblowing begins here.
 倫理より効率。”
 
 主人公は息を呑む。
+
+---------------------------------------
 
 INT. 帰宅後のアパートにて — 夜
 部屋は静か——静かすぎる。
@@ -488,7 +512,9 @@ AIはその変化に気づかず話し続ける。
 この静かで孤独な夜の真ん中で——
 彼はそれを見つける。
 
-🌑 Silent.Voice
+---------------------------------------
+
+Silent.Voice
 ひとつのウェブサイト。
 ミニマルで、飾り気がない。
 女性の声だけ。
@@ -515,6 +541,8 @@ AIの奇妙な振る舞いと、
 
 主人公はまだ知らない。
 しかし観客は何かが始まりそうな事を感じ取る。
+
+---------------------------------------
 
 INT. アパート — 深夜
 微細な反応の瞬間。
@@ -555,7 +583,9 @@ AIアシスタントサイトの不穏な振る舞い。
 男は静かにしている。
 しかし彼の世界の何かが変わり始めていた。
 
-🌑 別タブに、偶然開いてしまった日本人の匿名サイト
+---------------------------------------
+
+別タブに、偶然開いてしまった日本人の匿名サイト
 主人公は別タブに視線を移す。
 そこには、偶然流れ着いた日本語と英語が混ざった個人サイトがあった。
 
@@ -565,7 +595,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 主人公は読み始める。
 
-🌑 匿名サイトの文章（武士道 × 植民地主義 の対比）
+---------------------------------------
+
+匿名サイトの文章（武士道 × 植民地主義 の対比）
 “美学とは、順番だ。
 まず謝る。
 それは武士道の『責任の美』である。”
@@ -588,7 +620,8 @@ AIアシスタントサイトの不穏な振る舞い。
 
 主人公の呼吸が止まる。
 
-🌑 さらにスクロールすると、戦時中の船の話が出てくる
+---------------------------------------
+
 “戦時中、サイパンから日本へ戻る船で、
 船の案内役を任された日本人がいた。
 彼は、副官に韓国人の優秀な人物を選んだ。
@@ -598,7 +631,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 主人公は画面の前で固まる。
 
-🌑 二つの文章が頭の中で重なる
+---------------------------------------
+
+二つの文章が頭の中で重なる
 片方は、「能力と責任で選ぶ美学」。
 もう片方は、「謝罪を不要とする支配の設計」。
 
@@ -608,8 +643,10 @@ AIアシスタントサイトの不穏な振る舞い。
 
 画面の光だけが、深夜のPCの静圏を照らしている。
 
+---------------------------------------
+
 翌朝——
-🌑 背後に冷たい気配が走る。
+背後に冷たい気配が走る。
 遠くのガラス越しに、Tech_Shadow_C がこちらを見ている気がする。
 
 冷たい精密さ。
@@ -623,7 +660,9 @@ AIアシスタントサイトの不穏な振る舞い。
 主人公はすぐに視線を戻すが、
 心臓の鼓動が速くなる。
 
-🌑 内部告発を決意する瞬間
+---------------------------------------
+
+内部告発を決意する瞬間
 主人公はUSBを握りしめる。
 手が震えている。
 
@@ -691,5 +730,6 @@ Quiet_Engineer：
 そうして、一日が終わる。
 内部告発の物語がここから始まる。
 
-
 © 2026 Pi. All Rights Reserved.
+
+---------------------------------------
