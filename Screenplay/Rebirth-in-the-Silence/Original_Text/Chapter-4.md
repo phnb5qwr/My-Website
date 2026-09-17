@@ -373,45 +373,12 @@ Attempted whistleblow
 Labeled mentally abnormal
 Sent to the closed ward
 
-🌑 SCENE 4‑B‑7｜Pure-Friend: The Outside World (Montreal)
-INT. SMALL COMPANY — MONTREAL (MORNING)
-Steam from the coffee machine
-Copy machine hum
-Light keyboard tapping
-Morning sunlight
-Small plants
-The smell of everyday life
-
-Pure_Friend organizes emails.
-He knows nothing of Middle_Lead’s hell.
-
-The TV plays quietly.
-
-News Anchor
-“The term ‘joint suicide’ will be abolished
-and unified as
-‘child abuse death accompanying parental suicide.’”
-
-Pure_Friend
-“…Again…
-They always just change the wording…”
-
-Coworker
-“That’s how news works.”
-
-Pure_Friend does not think deeply.
-He lives in the outside world.
-
-But this news
-means something entirely different
-in the bottom world.
-
 🌑 SCENE 4‑B‑8｜Ward_Shadow_C — Confession (Toronto)
 INT. CLOSED WARD DAYROOM — TORONTO (SILENCE)
-Middle_Lead watches TV.
+Middle_Lead watches the TV.
 Ward_Shadow_C sits quietly.
 
-News footage
+News Footage
 “A fraud group using SNS memes has been taken down.
 A former employee involved in creating harmful memes
 has been taken into protective custody
@@ -438,7 +405,11 @@ The administrative office… used that label…
 My mother… died…
 And the one left behind… was me…”
 
-(The past of Ward_Shadow_C plays visually.)
+(A flashback of Ward_Shadow_C’s past plays on screen.)
+
+---------------------------------------
+
+One night, his mother posted on SNS:
 
 Mother’s SNS Post
 “……I’m at my limit……
@@ -462,7 +433,69 @@ Her death was processed as:
 
 “Child abuse death accompanying parental suicide.”
 
-Ward_C speaks again.
+🌑 SCENE 4‑B‑9｜Ward_Shadow_C Discovers the Administrative Report
+(The structure that forces the audience to self‑reflect)
+
+INT. GOVERNMENT BUILDING – ARCHIVE ROOM — NIGHT
+A dim room.
+The faint hum of fluorescent lights.
+Ward_Shadow_C flips through old documents.
+
+He is searching for the truth behind his mother’s death.
+This is not mere “investigation.”
+It is the determination of someone who survived.
+
+Among the stack of documents,
+there is one sheet with a slightly different color.
+Ward_Shadow_C’s hand stops.
+
+Document Title
+“Child Abuse Death Accompanying Parental Suicide”
+
+Ward_Shadow_C’s eyes tremble.
+His breath halts.
+He slowly begins to read.
+
+Document Contents
+DV consultation history: None  
+Welfare application: Rejected  
+Neighborhood trouble: None  
+Violence toward child: None  
+SNS post:
+　“I want to disappear with my child.”
+Administrative judgment:
+　“Possibility of abuse.”
+Final classification:
+　“Abuse death.”
+
+Ward_Shadow_C’s hand trembles.
+
+Ward_Shadow_C (quietly)
+“…No…
+My mother… wasn’t abusive…”
+
+He grips the document tightly.
+The paper makes a faint sound.
+
+Ward_Shadow_C (even quieter)
+“…This…
+The thing that killed my mother…
+was language…”
+
+Ward_Shadow_C looks at the final section of the document.
+There, in small letters, it reads:
+
+“Person in charge: Unknown”
+
+Ward_Shadow_C
+“…Who… decided…
+this word…?”
+
+---------------------------------------
+
+(Flashback ends.)
+
+Ward_C begins speaking to Middle_Lead again.
 
 Ward_Shadow_C
 “My mother wasn’t abusive.
@@ -487,7 +520,7 @@ is hell…”
 
 Middle_Lead listens quietly.
 
-📺 TV Commercial: Tech_Icon
+📺 TV Commercial
 White background.
 Tech_Icon turns with a bright smile.
 Just a few seconds.
@@ -935,6 +968,8 @@ Ward_Shadow_C が語り始める。
 
 (Ward_Shadow_C の過去の回顧シーンが映像で流れる)
 
+---------------------------------------
+
 ある夜、母親はSNSに投稿する。
 母親のSNS投稿
 「……もう限界です……
@@ -958,7 +993,67 @@ Ward_Shadow_C が語り始める。
 公的機関の報告書でこう処理された。
 「保護者の自殺に伴う子の虐待死」
 
-Ward_C が再び語り始める。
+🌑 SCENE 4‑B‑9｜：Ward_Shadow_C が「行政の報告書」を発見する瞬間
+
+INT. 行政庁舎・資料保管室 —— 夜
+薄暗い部屋。
+蛍光灯の音がわずかに鳴る。
+Ward_Shadow_C が古い書類をめくっている。
+
+彼は母の死の真相を探している。
+ただの“調査”ではない。
+生き残った者の執念だ。
+
+書類の束の中に、
+一枚だけ色の違う紙がある。
+Ward_Shadow_C の手が止まる。
+
+書類タイトル
+「保護者の自殺に伴う子の虐待死」
+
+Ward_Shadow_C の目が揺れる。
+呼吸が止まる。
+彼はゆっくりと読み進める。
+
+書類の内容（視聴者が震える部分）
+DV相談歴：なし
+生活保護申請：不受理
+近隣トラブル：なし
+子への暴力：なし
+SNS投稿：
+　「子どもと一緒に消えたい」
+行政判断：
+　「虐待の可能性あり」
+最終分類：
+　「虐待死」
+
+Ward_Shadow_C の手が震える。
+
+Ward_Shadow_C（静かに）
+「……違う……
+母は……虐待なんかしていない……」
+
+彼は書類を握りしめる。
+紙がわずかに音を立てる。
+
+Ward_Shadow_C（さらに静かに）
+「……これは……
+母を殺したのは……
+“言葉”だ……」
+
+Ward_Shadow_C が書類の最後の欄を見る。
+そこには小さくこう書かれている。
+
+「担当者：不明」
+
+Ward_Shadow_C
+「……誰が……この言葉を……決めた……？」　
+
+---------------------------------------
+
+（回顧シーン終了後）
+Ward_C が再び主人公に語り始める。
+
 「母は虐待なんかしていない。
 構造が母を殺したんだ。」
 この怒りが、Ward_C の人生の核になる。
