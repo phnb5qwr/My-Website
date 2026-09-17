@@ -70,7 +70,6 @@ From humanity, not structure.”
 
 ----------------------------------
 
-
 🎬 **Chapter‑5‑The‑Rebirth
 主人公の部屋／主人公と友人がPCで見ている対談番組（男性専門家2名）**
 

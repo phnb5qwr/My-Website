@@ -1,237 +1,272 @@
-🎬 CAST LIST (Complete English Version)
-(© 2026 Pi. All Rights Reserved.)
+🎬 Rebirth in the Silence — Complete Cast (Git Archive Edition)
+Character Archive / v1.0.0  
 
+🧩 Protagonist (Three Eras)
+Young_Lead  
+　A fragile shadow of quietude (Youth Era)
 
-Protagonists (Three Ages of Silence)
- Young_Lead — The Young Protagonist / Fragile Shadow of Silence
- Middle_Lead — The Middle-Aged Protagonist / Pilgrim Through the Corporate Hell
- Old_Lead — The Elder Protagonist / Silent Witness
+Middle_Lead  
+　A pilgrim wandering through hell (Middle Age)
 
-Early Office Era (Multinational IT × Quiet Reality)
-Codename: Quiet_Engineer — The Quiet Technician
+Old_Lead  
+　A silent witness (Old Age)
 
-Voice‑Only Future Partner
-Codename: Voice_Female — The Voice of Light
+🧑‍💻 Early Office Era (Multinational IT × Quiet Realism)
+Quiet_Engineer_young  
+　A quiet engineer (Youth Era only)
 
-Pure Friend
-Codename: Pure_Friend  
-The Protagonist’s Only Ally — Pure Quietness × Silent Prayer
+🔥 Workplace Enforcer (Pressure of the Flame Era)
+Pressure-Lord_young  
+　Workplace pressure in the youth era
 
-Boss (Man of Light and Power)
-Codename: Boss_Power
-Boss_Power_A — CFO (Chief Financial Officer)
-Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology)  
-    — A cold, elegant architect of the algorithm.
-    Quiet dominance.
-    Corporate minimalism.
-    The man whose decisions silently destroyed civilization.
-Boss_Power_C — CCO (Chief Compliance Officer) / Shadow of Ethics / Ex‑Husband of the Protagonist’s First Wife
-    — Symbol of Ethics × Reversal of Ethics × The Man Who Destroys the Protagonist’s World
-Boss_Power_D — Ethics Audit Chief (Head of the Ethics Audit Division)
-    — Quiet Madness × Shadow of Structure
+Pressure-Lord_midterm  
+　Workplace pressure in the midterm external company
+※Different individuals; same symbolic role as “the pressure.”
 
-Workplace Enforcer (Pressure of the Flame Realm)
-Codename: Pressure-Lord
+🧠 AI Designer / Technical Madness (Cold Intelligence)
+※Same “shadow quality,” but different eras and workplaces → split for Git archival.
 
-AI Designer / Technical Madness (Cold Intelligence)
-Codename: Tech_Shadow
-Tech_Shadow_A — Symbol of the Outer World / Quiet Madness That Hates the Protagonist
-Tech_Shadow_B — Silent Surveillance / Pale Pressure of Wordless Hostility
-Tech_Shadow_C — Cold Precision / Surgical Logic Without Emotion
+Tech_Shadow_A_young  
+　Youth Era: Multinational IT company
+　Holds the AI anomaly logs
+　Origin of the internal whistleblowing
+　Silent madness fueled by resentment toward the protagonist
 
-Investors — The Trinity of Madness
-Investor A — The God of Shadow
- Quiet Pressure
- Shadow Presence
- Terrifying Even as a Voice
- Dominates Without Showing His Form
- → Shadow Investor (God of Shadow)
-Investor B — The God of Structure
- Cold Intelligence
- Elegant Madness
- Kills With Words
- Twists Corporate Ethics From the Outside
- → Primary Investor (God of Structure)
-Investor C — The God of Hell
- Expressionless Murderous Intent
- Madness Outside Social Structure
- “Inhuman Presence”
- → Destructive Investor (God of Hell)
+Tech_Shadow_A_midterm  
+　Midterm Era: External global company
+　Member of a large-scale AI project
+　Reappears as a shadow in the protagonist’s life
+　Audience recognizes him as “that shadow,” while the protagonist does not
 
-Judge (Apex of Structural Violence)
-Codename: Judge_Silent
+Tech_Shadow_A_late  
+　Flame Era → The Bottom
+　Anonymous meme perpetrator
+　Knows the underside of SNS structures
+　Investigated by Shadow_Police
+　Reinforces the protagonist’s “outer hell”
 
-Dark Goddesses (Double Romance Scam)
-Codename: Dark_Goddess_A & Dark_Goddess_B
+Tech_Shadow_B_young / midterm / late  
+　Silent surveillance
+　Wordless hostility
+　Pale pressure
 
-Romance Scam Enforcement Unit (Shadow of Violence)
-Codename: Iron-Hand
+Tech_Shadow_C_young / midterm / late  
+　Cold precision
+　Surgical logic without emotion
+　A cold shadow standing behind the protagonist
 
-Romance Scam Kingpin (Ruler of Structural Violence)
-Codename: Silent-Dominus
+👔 Boss (Man of Light and Power)
+※CXO roles change with companies → split by era.
 
-Shadow_Police (Police / Pursuer)
-Codename: Shadow_Police
+Boss_Power_A_young (CFO)
+Boss_Power_A_midterm (CFO)
 
-Investigator Hunting the Crime Syndicate (Outer Hell)
-Codename: Ash_Tracker
+Boss_Power_B_young (CTO / Violence of Technology)
+Boss_Power_B_midterm (CTO)
 
-Psychiatric Ward (Entrance to the Bottom)
-Codename: Ward_Shadow
-Ward_Shadow_A — Center of the Murky Realm / Depth of Madness / Drug-Induced Chaos
-Ward_Shadow_B — Fragile Quiet Madness / Shadow of Silence
-Ward_Shadow_C — Salvation of the Shadow Realm / The Only Person the Protagonist Opens His Heart To
-Ward_Shadow_C also embodies:
- Server Operations
- Internal Whistleblowing
- Knowledge of Organizational Darkness
- Understanding the Hell of the Quiet Realm
- Limits of Anonymity
- Knowledge of “Violence Within Silence”
+Boss_Power_C_midterm (CCO / Shadow of Ethics)
+　※Future husband of the protagonist’s first wife
+　※Appears only in midterm era (fixed character)
 
-Tech Icon (Appears Only for a Few Seconds in a Commercial)
-Codename: Tech_Icon
+Boss_Power_D_young (Head of Ethics Audit)
+Boss_Power_D_midterm (Head of Ethics Audit)
 
-Expert on Structural Violence (Interview Segment)
-Expert_A (Social Structure Researcher)  
- A man who speaks calmly about horrors because he has seen the architecture from the inside.
-Expert_B (Ethics Scholar)
- A quiet, empathetic analyst of moral collapse.
- A voice that exposes structural contradictions without exploiting pain.
+💼 Investors — The Trinity of Madness
+※Investors naturally span multiple companies → names remain fixed.
 
-Media & Public Sphere (Rebirth Era × Global Silence)
-Code name: Quiet_Host  
-Host of the world famous podcast.
-Gentle Intelligence × Soft Debate × Silent Empathy.
-The man who brings the protagonist’s voice to the world during the Rebirth Phase.
+Investor_A (God of Shadows)
+Investor_B (God of Structure)
+Investor_C (God of Hell)
 
-Old Age (Symbol of Quietness)
-Codename: Old_Lead
-Silent Companions (Spiritual Friends)
-Codename: Silent_Friends
-Silent_Friend_A — Elder Version of Pure_Friend
-Silent_Friend_B — Elder Version of Ward_Shadow_C
-Silent_Friend_C — Elder Version of Boss_Power_C
+⚖ Judge (Apex of Structural Violence)
+Judge_Silent
 
-Grandchildren (Voices of the Future)
-Codename: Future_Voices
+🕸 Dark Goddesses (Dual Romance Scam)
+Dark_Goddess_A  
+Dark_Goddess_B
 
-Old Wife (Invisible Light / Voice‑Only Presence)
-Codename: Silent_Wife
+🥀 Romance Scam Enforcement Unit (Shadow of Violence)
+Iron-Hand
+
+🕶 Romance Scam Kingpin (Master of Structural Violence)
+Silent-Dominus
+
+👮 Shadow_Police (Police / Pursuer)
+Shadow_Police
+
+🔥 Investigator Hunting the Crime Syndicate (Outer Hell)
+Ash-Tracker
+
+🏥 Psychiatric Ward (Entrance to the Bottom)
+Ward_Shadow_A  
+　Center of the murky zone / chaotic madness
+
+Ward_Shadow_B  
+　Fragile quiet madness / shadow of silence
+
+Ward_Shadow_C  
+　Savior of the shadow zone
+　Holds the underside of structures
+　Server operations / internal whistleblowing / organizational darkness
+　Knows the violence of silence
+　Understands the limits of anonymity
+
+📺 Tech_Icon (Appears for a few seconds in a commercial)
+Tech_Icon
+
+🎙 Media & Public Sphere (Era of Rebirth × Global Quietude)
+Quiet_Host  
+　Host of a globally renowned podcast
+　Soft intellect × gentle dialogue × quiet empathy
+　Carries the protagonist’s voice into the world
+
+👵 Old Age (Symbol of Quietude)
+Old_Lead
+
+👥 Silent Companions (Spiritual Friends)
+Silent_Friend_A  
+　Old age of Ward_Shadow_A
+
+Silent_Friend_B  
+　Old age of Pure_Friend
+
+Silent_Friend_C  
+　Old age of Boss_Power_C
+
+👶 Grandchildren (Voices of the Future)
+Future_Voices
+
+👩‍🦳 Old Wife (Invisible Light / Voice-Only Presence)
+Silent_Wife (Voice_Female)
 
 © 2026 Pi. All Rights Reserved.
 
 ---------------------------------------
 ---------------------------------------
 
-◆ キャスト
+🎬 Rebirth in the Silence — 完全版キャスト（Git保存用）
+Character Archive / v1.0.0
 
-Young_Lead（若き主人公/壊れやすい静の影）
-Middle_Lead（中年期主人公/地獄を巡る巡礼者）
-Old_Lead（老年期主人公/静かなる証人）
+🧩 主人公（3時代）
+Young_Lead  
+　壊れやすい静の影（青年期）
 
-Early Office Era（多国籍IT × 静圏リアリティ）
-Codename: Quiet_Engineer  （静かな技術者）
+Middle_Lead  
+　地獄を巡る巡礼者（中年期）
 
-Voice‑Only Future Partner（声だけの未来の伴侶）
-Codename: Voice_Female（光の声）
+Old_Lead  
+　静かなる証人（老年期）
 
-Pure_Friend
-Codename: Pure_Friend  
-主人公の唯一の味方 —— “純粋な静けさ × 静かな祈りの男”
+🧑‍💻 Early Office Era（多国籍IT × 静圏リアリティ）
+Quiet_Engineer_young  
+　静かな技術者（青年期のみ）
 
-Boss（光と力の男）
-Codename: Boss_Power
-Boss_Power_A（CFO（最高財務責任者））
-Boss_Power_B（CTO（最高技術責任者）/技術の暴力）
-Boss_Power_C（CCO（最高コンプライアンス責任者）倫理の影/最初の奥さんの再婚相手）
-—— 倫理の象徴 × 倫理の反転 × 主人公の世界を破壊する男
-Boss_Power_D（Ethics Audit Chief（倫理監査部の長）） 
-—— 静かな狂気 × 構造の影
+🔥 Workplace Enforcer（炎圏の圧力）
+Pressure-Lord_young  
+　青年期の職場の圧力
 
-Workplace Enforcer（炎圏の圧力）
-Codename: Pressure-Lord
+Pressure-Lord_midterm  
+　中年期の外資企業の圧力
+※人物は別。役割は同じ「圧の象徴」。
 
-AI Designer / Technical Madness（冷たい知性）
-Codename: Tech_Shadow
-Tech_Shadow_A_（外界の象徴/主人公を恨む静の狂気）
-Tech_Shadow_B（沈黙の監視／言葉なき敵意が放つ“蒼白の圧力”）
-Tech_Shadow_C（冷たい精密さ／感情を伴わず切り裂く“外科的な論理”）
+🧠 AI Designer / Technical Madness（冷たい知性）
+※影の質は同じだが、時代・職場が変わるため Git では分岐。
+Tech_Shadow_A_young  
+　青年期：多国籍IT企業
+　AI暴走ログを握る
+　内部告発の起点
+　主人公を恨む静の狂気
 
-Investors — The Trinity of Madness
-Investor A（影の神）
- •静かな圧
- •影の存在
- •声だけでも怖い
- •姿を見せなくても支配力がある → 影の投資家（影の神）
-Investor B（構造の神）
- •冷たい知性
- •優雅な狂気
- •言葉で人を殺すタイプ
- •企業の倫理を外側からねじ曲げる → 本体の投資家（構造の神）
-Investor C（地獄の神）
- •無表情の殺意
- •社会構造の外側の狂気
- •“人間じゃない存在感” → 破壊の投資家（地獄の神）
+Tech_Shadow_A_midterm  
+　中年期：外資企業
+　大規模AIプロジェクトの一員
+　主人公の人生に再び影として現れる
+　観客だけが「あの影だ」と理解する
 
-Judge（構造的暴力の頂点）
-Codename: Judge_Silent
+Tech_Shadow_A_late  
+　炎圏 → 底
+　匿名ミーム加害
+　SNS構造の裏側を知る
+　Shadow_Police の調査対象
+　主人公の外側の地獄を補強する影
 
-Dark Goddesses（ダブルロマンス詐欺）
-Codename: Dark_Goddess_A & Dark_Goddess_B
+Tech_Shadow_B_young / midterm / late  
+　沈黙の監視
+　言葉なき敵意
+　蒼白の圧力
 
-Romance Scam Enforcement Unit（暴力の影）
-Codename: Iron-Hand
+Tech_Shadow_C_young / midterm / late  
+　冷たい精密さ
+　感情を伴わない外科的論理
+　主人公の背後に立つ“冷たい影”
 
-Romance Scam Kingpin（構造的暴力の支配者）
-Codename: Silent-Dominus
+👔 Boss（光と力の男）
+※CXOは企業が変われば人物も変わるため、時代別に分岐。
+Boss_Power_A_young（CFO）
+Boss_Power_A_midterm（CFO）
 
-Shadow_Police（警察／追跡者）
-Codename: Shadow_Police
+Boss_Power_B_young（CTO / 技術の暴力）
+Boss_Power_B_midterm（CTO）
 
-Investigator Hunting the Crime Syndicate（外界の地獄）
-Codename: Ash-Tracker
+Boss_Power_C_midterm（CCO / 倫理の影）
+　※奥さんの再婚相手
+　※中年期のみ登場（固定キャラ）
 
-Psychiatric Ward（底への入口）
-Codename: Ward_Shadow
-Ward_Shadow_A（濁圏の中心/狂気の底/麻薬中毒の濁の狂気）
-Ward_Shadow_B（壊れやすい静の狂気/静の影）
-Ward_Shadow_C（影圏の救い/主人公が唯一心を開く人物）
-Ward_Shadow_C＝構造の裏側を握る男
- サーバー運営
- 内部告発
- 組織の闇を知る
- 静圏の地獄を知る
- 匿名の限界を知る
- “静けさの暴力”を知る
+Boss_Power_D_young（倫理監査部の長）
+Boss_Power_D_midterm（倫理監査部の長）
 
-Codename: Tech_Icon  
-CMで数秒だけ登場
+💼 Investors — The Trinity of Madness（投資家三神）
+※投資家は企業をまたいで同じ人物が関わるため、名前は固定。
 
-Media & Public Sphere (再生の時代 × 世界的静寂)
-Codename: Quiet_Host  
-世界的に有名なポッドキャストのホスト。
-穏やかな知性 × 柔らかな議論 × 静かな共感。
-再生のフェーズにおいて、主人公の声を世界へ届ける人物。
+Investor_A（影の神）
+Investor_B（構造の神）
+Investor_C（地獄の神）
 
-Old Age（静けさの象徴）
-Codename: Old_Lead  
-Old_Lead_A（選択済）
+⚖ Judge（構造的暴力の頂点）
+Judge_Silent
 
-Silent Companions（霊的友人たち）
-Codename: Silent_Friends
-Silent_Friend_A
-　（Ward_Shadow_A の老年期）
-Silent_Friend_B
-　（Pure_Friend の老年期）
-Silent_Friend_C
-　（Boss_Power_C の老年期）
+🕸 Dark Goddesses（ダブルロマンス詐欺）
+Dark_Goddess_A
+Dark_Goddess_B
 
-Grandchildren（未来の声）
-Codename: Future_Voices
+🥀 Romance Scam Enforcement Unit（暴力の影）
+Iron-Hand
 
-Old Wife（見えない光／声だけの存在）
-Codename: Silent_Wife
+🕶 Romance Scam Kingpin（構造的暴力の支配者）
+Silent-Dominus
+
+👮 Shadow_Police（警察／追跡者）
+Shadow_Police
+
+🔥 Investigator Hunting the Crime Syndicate（外界の地獄）
+Ash-Tracker
+
+🏥 Psychiatric Ward（底への入口）
+Ward_Shadow_A（濁圏の中心）
+Ward_Shadow_B（壊れやすい静の狂気）
+Ward_Shadow_C（影圏の救い／構造の裏側を握る男）
+
+📺 Tech_Icon（CMで数秒）
+Tech_Icon
+
+🎙 Media & Public Sphere（再生の時代 × 世界的静寂）
+Quiet_Host  
+　世界的ポッドキャストのホスト
+　主人公の声を世界へ届ける人物
+
+👵 Old Age（静けさの象徴）
+Old_Lead
+
+👥 Silent Companions（霊的友人たち）
+Silent_Friend_A（Ward_Shadow_A の老年期）
+Silent_Friend_B（Pure_Friend の老年期）
+Silent_Friend_C（Boss_Power_C の老年期）
+
+👶 Grandchildren（未来の声）
+Future_Voices
+
+👩‍🦳 Old Wife（見えない光／声だけの存在）
+Silent_Wife（Voice_Female）
 
 © 2026 Pi. All Rights Reserved.
 
