@@ -8,17 +8,22 @@ It is not affiliated with any actors, studios, or production companies.
 All casting listed in this repository is fictional and used solely for conceptual exploration.
 
 ## Structure
-- Silent Zone (10 min)
-- Inferno Zone (110 min)
-- Bottom
-- Rebirth (5 min)
+— Introduction (5min)
+— Early Signs (15min)
+— Hell Sequence (60min incl. 5min elder narration)
+— Warmth of the City (30min)
+— Final Quiet (10min)
+Total Runtime: 120min
 
 ## Files
-- Rebirth in the Silence-Summary.md
+- Rebirth-in-the-Silence-Characters.md
+- Rebirth-in-the-Silence-Design-Document
+- Rebirth-in-the-Silence-Film-Structure.md
 - Rebirth in the Silence-Structure.md
-- Rebirth in the Silence-Cast.md
-- Chapter1.md
-- Chapter1-Continuation.md
+- Rebirth in the Silence-Summary.md
+- Rebirth-in-the-Silence-Theory.md
+- Rebirth-in-the-Silence-Worldview
+- Original_Text/Screenplay Chapter1-6.md
 - Notes.md
 
 ## Copyright
