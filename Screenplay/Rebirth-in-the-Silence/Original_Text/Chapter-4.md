@@ -1,53 +1,52 @@
 🎬 Rebirth in the Silence — Chapter 4
-“Into the Depths of Silence”
+“Into the Depth of Silence”
 
 INT. SAME DARK ROOM — NIGHT
+Absolute silence.
+The air does not move.
+Time does not flow.
 
-Complete stillness.
-The air does not move, and time refuses to flow.
-It is the same room as in Chapter 1, yet the darkness is deeper, heavier—
-as if silence itself has taken physical form and settled here.
+It is the same room from Chapter 1,
+yet the darkness is deeper, heavier—
+as if silence itself has taken shape and settled here.
 
-In the distance, the faintest trace of Gregorian chant drifts,
-a barely audible ripple echoing just like before.
+Far away, the same faint trace of Gregorian chant drifts,
+barely audible, like a distant wave.
 
 SFX: fsshhh…
 
 A match is struck.
 The same sound as Chapter 1.
 The same hand.
-The same trembling of aged fingers.
+The same trembling, aged fingers.
 
 But this time, the flame does not rise immediately.
-It hesitates, wavering as though pushed back
-by the pressure of the surrounding darkness.
+It hesitates—
+as if pushed back by the pressure of the darkness.
 
 The man’s hand—
-the same hand worn down by long years—
-slowly shelters the flame
+the hand that carries decades of weight—
+slowly shields the flame
 and guides it toward the candle.
 
 The wick accepts the fire.
 A small light rises.
 
-The room remains almost entirely dark.
-Yet compared to Chapter 1,
-there is a slightly deeper shadow present.
-The light does not illuminate it.
-It merely allows the shadow to exist.
+The room remains dark.
+But compared to Chapter 1,
+a deeper shadow exists now.
+The light does not dispel it—
+it merely allows the shadow to exist.
 
 And then—
 the voice returns.
 
 An old voice.
 Seventies to eighties.
-A voice drawn up from a place
-even deeper than the silence he once chose.
+A voice pulled up from a place
+beyond long silence.
 
----------------------------------------
-
-Narration (Male, 70s–80s)
-
+NARRATION (Male, 70s–80s)
 Silence protected me.
 But at the same time,
 it imprisoned me.
@@ -61,150 +60,95 @@ I would break.
 But silence is not eternal.
 
 At the bottom of long years,
-a voice slowly begins to take shape—
+a voice slowly regains its shape—
 like a bubble rising
 from the floor of the deep sea.
 
-Beyond this point lies a place
-I never spoke of to anyone.
+From here on,
+I speak of a place
+I never told anyone about.
 
-Quiet, dark,
-and—
-a depth where even my own voice
+Quiet, dark—
+and a depth where even my own voice
 could not reach.
 
----------------------------------------
+That was the peak
+of invisible violence.
 
-The candle continues to burn.
-The darkness does not retreat.
-It only seems, more than in Chapter 1,
-to be ready to listen.
+Around the defendant,
+a swarm of vested interests circled.
 
----------------------------------------
+The courtroom—
+a place meant to protect the weak—
+was already swallowed
+by those interests.
 
-(Flashback Sequence)
+The vulnerable were pushed
+into even weaker positions,
+erased quietly
+from society.
 
-The middle‑aged protagonist (Middle_Lead) stands inside the courtroom.
-He appears as the plaintiff — a whistleblower — while the defendant is Boss_Power_C,
-the Chief Compliance Officer, and the man who married his former wife.
+That was the “reality of justice”
+I witnessed.
 
-The Chief Justice delivers the verdict.
-
-“Therefore, this court finds the defendant not guilty.”
-
-The gavel strikes, echoing through the courtroom.
-
-The protagonist is then declared to have a mental disorder,
-officially categorized as mentally ill,
-and is quietly escorted toward a locked psychiatric ward.
-
-Shock and despair blur his senses as he is taken away.
-Is this reality?
-Or a hallucination?
-
-His mind fractures under the weight of the moment —
-the instant when reversed ethics became “justice.”
-A violent shock spreads through him,
-and the world he knew collapses into absolute despair.
-
----------------------------------------
-
-NARRATION (Male, 70s–80s)
-
-That was the pinnacle of invisible violence.
-
-Around the defendant swirled countless vested interests.
-And those who were supposed to protect the weak in that courtroom
-were already entangled in those interests.
-
-The weaker you are,
-the weaker they make you —
-until society erases you entirely.
-
-That was the “reality of justice” I witnessed.
-
-What more could I possibly say?
-
-—— FADE OUT ——
-
----------------------------------------
-
-🎬 Rebirth in the Silence — Chapter 4‑B
-“Collapse of Anonymity — The Shadow Falling into Silence”
-
-INT. SAME DARK ROOM — NIGHT
-The candle from Chapter 4 is still burning.
-Its flame does not flicker—
-it simply waits for the next confession.
-
-The darkness does not retreat.
-Instead, the deeper the narration sinks,
-the thicker the shadow becomes.
-
-The old protagonist’s voice (Old_Lead)
-slowly rises from the bottom of silence.
-
-Old_Lead (Narration / living in Ottawa)
-Silence has a bottom.
+What more can I possibly say?
 
 But—
 beneath that bottom,
-there is another one.
+there is another bottom.
 
 A place
 where falling shadows
-finally land.
+continue to fall.
 
 A place
 where anonymity breaks.
 
----------------------------------------
+FADE OUT.
 
-🌑 SCENE 4‑B‑1｜The First Crack of the Young Shadow (Middle_Lead’s Memory)
-INT. EXTERNAL GLOBAL COMPANY OFFICE — TORONTO (PRESENT)
+🌑 SCENE 4‑B‑1｜Fracture of the Young Shadow (Middle_Lead’s Memory)
+INT. GLOBAL TECH OFFICE — TORONTO (PRESENT)
 Middle_Lead works quietly.
 AI project documents, logs, meeting notes—
-a routine day.
+a calm, ordinary day.
 
-Then suddenly—
-the hum of the fluorescent lights touches his ear.
+Then—
+the fluorescent light makes that sound.
+A faint buzz.
 
-In that moment,
-the present melts away.
+The present dissolves.
 
-INT. MULTINATIONAL IT COMPANY — TORONTO (PAST / YOUTH ERA)
-Young_Lead writes code quietly.
+INT. MULTINATIONAL IT COMPANY — TORONTO (PAST / YOUTH)
+Young_Lead types quietly.
 Quiet_Engineer_young works beside him.
 
-Calm.
-Ordinary.
-A typical workplace.
+A peaceful, ordinary workplace.
 
-But at the far end of the room,
-Tech_Shadow_A_young sits alone.
-
-Silent.
-Expressionless.
-A shadow carved by fluorescent light.
+But in the back of the room,
+Tech_Shadow_A_young sits—
+silent, expressionless,
+a shadow under the fluorescent light.
 
 On his monitor:
 
 AI anomaly logs
 
-Access flags
+access flags
 
-Suppressed warnings
+suppressed warnings
 
-“Something that should not be seen”
+something that should not be seen
 
 Young_Lead
-“…We shouldn’t ignore this…”
+“…If we leave this, it’ll be dangerous…”
 
 Quiet_Engineer_young
 “…Don’t touch it.
-There are things in this world you’re not meant to touch.”
+There are things in this world
+you shouldn’t touch.”
 
-Tech_Shadow_A_young quietly closes the window.
+Tech_Shadow_A_young
+quietly closes the window.
 
 No reaction.
 No emotion.
@@ -213,48 +157,24 @@ Only silence.
 A silence
 that will one day break.
 
-INT. EXTERNAL GLOBAL COMPANY OFFICE — TORONTO (PRESENT)
+INT. GLOBAL TECH OFFICE — TORONTO (PRESENT)
 Middle_Lead blinks.
-The memory fades,
-and the present returns.
+The memory dissolves.
+The present returns.
 
-But the shadow
-still lingers somewhere inside him.
+But the shadow remains
+somewhere inside him.
 
-🌑 SCENE 4‑B‑2｜Whistleblow — The Structure Begins to Move
-INT. ETHICS COMMITTEE ROOM — TORONTO
-Middle_Lead submits the whistleblow documents.
-Days earlier, Pure_Friend in Montreal
-quietly encouraged him.
-
-Pure_Friend (voice message)
-“If you believe it’s right… then do it.”
-
-Boss_Power_C_midterm receives the documents.
-
-Boss_Power_C_midterm
-“You are correct.
-But correctness is not always protected.”
-
-It is not a threat—
-it is prophecy.
-
-Tech_Shadow_A_young watches from afar.
-Later, his department is dissolved.
-He loses his position.
-
-A quiet resentment begins to grow.
-
-🌑 SCENE 4‑B‑3｜Tech_Shadow_A_midterm — The Return of the Shadow
-INT. EXTERNAL GLOBAL COMPANY — TORONTO (YEARS LATER)
-Middle_Lead works at a new company.
+🌑 SCENE 4‑B‑2｜Tech_Shadow_A_midterm — The Return of the Shadow
+INT. GLOBAL TECH COMPANY — TORONTO (YEARS LATER)
+New company.
 New colleagues.
-New boss.
 New life.
 
 But shadows move.
 
-Tech_Shadow_A_midterm sits in the same meeting room.
+Tech_Shadow_A_midterm
+sits in the same meeting room.
 
 Different company.
 Different era.
@@ -265,270 +185,312 @@ Only the audience does.
 
 The shadow has returned.
 
+🌑 SCENE 4‑B‑3｜Whistleblowing — The Structure Begins to Move
+INT. ETHICS COMMITTEE ROOM — TORONTO
+Middle_Lead submits whistleblower documents.
+
+Days earlier,
+Pure_Friend in Montreal
+quietly encouraged him.
+
+Pure_Friend (voice message)
+“If you believe it’s right…
+you should do it.”
+
+Boss_Power_C_midterm
+receives the documents.
+
+Boss_Power_C_midterm
+“You are right.
+But righteousness is not always protected.”
+
+Not a threat—
+a prophecy.
+
+Tech_Shadow_A_young watches from afar.
+Later, the department is dissolved.
+He loses his job.
+
+A quiet resentment is born.
+
 🌑 SCENE 4‑B‑4｜Collapse of Anonymity — Tech_Shadow_A_late
 INT. SMALL APARTMENT — TORONTO (NIGHT)
 Tech_Shadow_A_late operates multiple anonymous accounts.
 
-AI synthesis tools
-Cut‑out editors
-Ad revenue dashboards
+AI synthesis tools.
+Clip editing.
+Ad revenue dashboards.
 
-Middle_Lead’s voice
-Middle_Lead’s face
-Middle_Lead’s interviews
+Middle_Lead’s voice.
+Middle_Lead’s face.
+Middle_Lead’s interviews.
 
 Tech_Shadow_A_late
 “…It’s just a game…”
 
-Cutting
-Distorting
-Turning into memes
-Uploading
+Cut.
+Distort.
+Meme.
+Upload.
 
 Revenue spikes.
 
 Tech_Shadow_A_late
-“…I’m moving the world…”
+“…I’m the one moving the world…”
 
 Collapse begins.
 
-🌑 SCENE 4‑B‑5｜Shadow_Police — The End of the Safe Zone
+🌑 SCENE 4‑B‑5｜Ethics Reversed (Boss_Power_C_midterm)
+INT. ETHICS COMMITTEE ROOM
+Middle_Lead is judged
+“possible mental disorder.”
+
+Boss_Power_C_midterm
+betrays him.
+
+Justice reverses.
+
+🌑 SCENE 4‑B‑6｜Courtroom → Psychiatric Ward
+INT. COURTROOM
+Middle_Lead stands as plaintiff.
+Defendant: Boss_Power_C—
+CCO,
+his ex‑wife’s new husband.
+
+Chief Justice
+“Therefore, the defendant is found not guilty.”
+
+The gavel strikes.
+
+Middle_Lead is declared mentally ill.
+He is taken to a closed psychiatric ward.
+
+Reality or hallucination?
+His mind fractures.
+
+Justice reversed becomes “truth.”
+Shock fills his world.
+
+🌑 SCENE 4‑B‑7｜Shadow_Police — End of the Safe Zone
 INT. INTERROGATION ROOM — TORONTO POLICE HQ (NIGHT)
 Shadow_Police places documents on the table.
 
 Shadow_Police
-“Your memes were used in a fraud group’s advertising.”
+“Your memes were used
+in fraud advertisements.”
 
 Tech_Shadow_A_late
 “…No… I just cut them…
-Just edited them…
-Why… why is this happening…”
+just edited them…
+why… this…”
 
 Shadow_Police
-“Playtime doesn’t erase responsibility.”
+“It’s not a game.”
 
-On the monitor,
-his name and face appear in hundreds of AI‑generated memes.
+On the monitor:
+memes multiplying—
+his name, his face,
+auto‑generated.
 
 Tech_Shadow_A_late
-“…They’re multiplying…
+“…They’re increasing…
 I didn’t make these…
-Why is my name…
-Why is my face…
-I was supposed to be safe…”
+why my name…
+why my face…
+I was… in a safe zone…”
 
 AI‑generated meme
-“You made me.”
+“You made them.”
 
 Tech_Shadow_A_late
 “…Stop… stop… stop…”
 
 Shadow_Police
-“There is no safe zone in SNS.”
+“There is no safe zone
+on social media.”
 
-🌑 SCENE 4‑B‑6｜Closed Ward: The Deepest Silence × Ward_Shadow_C (Complete Version)
-This is the deepest point of the entire film.
-The hell of silence itself.
+🌑 SCENE 4‑B‑8｜Closed Ward: The Deepest Silence × Ward_Shadow_C
+INT. CLOSED PSYCHIATRIC WARD — TORONTO
+The deepest layer of the film.
+Silence as hell.
 
-🩸 True Identity of Ward_Shadow_C (Complete Integrated Version)
-Ward_Shadow_C = the man who holds the underside of the structure.
+Ward_Shadow_C:
+a man who knows the underside of the structure.
+server operations
+anonymous posting systems
+AI synthesis flows
+organizational darkness
 
-Core of server operations
-Knows the underside of anonymous posting
-Knows the flow of AI synthesis
-Knows the organization’s darkness
-The first person who sensed Tech_Shadow_A’s movements
-Attempted whistleblowing but was silenced
-Later reported to the police
-Labeled “mentally abnormal” by the organization and sent to the closed ward
-A man who knows the “violence of silence”
-The first person to understand the limits of anonymity
+He sensed Tech_Shadow_A’s movements first.
+He tried whistleblowing—
+was suppressed.
+Reported to police.
+Declared mentally ill.
+Sent to the ward.
 
-In other words,
-Ward_Shadow_C already knows the reason Tech_Shadow_A fell.
+He knows the violence of silence.
+He knows the limits of anonymity.
 
-And then—
-two people who must never meet
-encounter each other
-in the deepest silence.
+He knows
+why Tech_Shadow_A fell.
 
-Ward_Shadow_C’s Past
-His mother was cornered by the administrative system:
+And now—
+the two who should never meet
+meet in the deepest silence.
 
-Welfare application rejected
-Unable to escape domestic violence
-Consultation windows failed
-Labeled “abusive” by administrative terminology
-In truth, it was not “abuse death” but structural‑violence death
-Ward_Shadow_C carried anger toward that terminology.
-
-Ward_Shadow_C’s Life
-Entered public institutions to learn the truth of his mother’s death
-
-Witnessed internal debates about terminology
-Realized: “People in the safe zone are the ones defining the deaths of the weak”
-Saw the reality of administrative language manipulation
-Saw weak people’s deaths being defined by safe‑zone officials
-Attempted whistleblow
-Labeled mentally abnormal
-Sent to the closed ward
-
-🌑 SCENE 4‑B‑8｜Ward_Shadow_C — Confession (Toronto)
-INT. CLOSED WARD DAYROOM — TORONTO (SILENCE)
-Middle_Lead watches the TV.
+🌑 SCENE 4‑B‑9｜Ward_Shadow_C — Confession
+INT. WARD DAYROOM — TORONTO (SILENCE)
+Middle_Lead watches TV.
 Ward_Shadow_C sits quietly.
 
-News Footage
-“A fraud group using SNS memes has been taken down.
-A former employee involved in creating harmful memes
-has been taken into protective custody
-and is currently undergoing treatment.”
-
-Shadow_Police (press conference)
-“The forged site ‘Silent.Voice’ was used.
-The coexistence of the real and the fake
-became the breeding ground of this incident.”
+News:
+fraud ring using AI memes.
+Fake “Silent.Voice” accounts.
 
 Middle_Lead
 “…That man…”
 
-Ward_Shadow_C begins to speak.
+Ward_Shadow_C begins speaking.
 
 Ward_Shadow_C
-“…My mother… asked for help on SNS…
-‘…I’m at my limit… I want to disappear with my child…’
-She wrote that…
-She just wanted someone to save her…
-But she was attacked…
-They called her… ‘abusive mother’…
-The administrative office… used that label…
-My mother… died…
-And the one left behind… was me…”
-
-(A flashback of Ward_Shadow_C’s past plays on screen.)
+“My mother asked for help on SNS.
+‘…I’m at my limit…
+I want to disappear with my child…’
+She wanted help.
+But she was attacked.
+Called a ‘child‑abusing mother.’
+The administration used that word.
+She died.
+And I remained.”
 
 ---------------------------------------
+(Flashback plays)
 
-One night, his mother posted on SNS:
+🌑 SCENE 4‑B‑10｜Flashback — Ward_Shadow_C’s Past 
+(A flashback sequence begins to play — Ward_Shadow_C’s past.)
 
-Mother’s SNS Post
-“……I’m at my limit……
-I want to disappear with my child……
-Someone…… help……”
+One night, his mother posts on social media.
 
-SNS did not help her.
-It attacked her.
+Mother’s SNS Post  
+“…I can’t take this anymore…
+I want to disappear with my child…
+Someone… please help…”
 
-Anonymous voices
-“Abusive mother”
-“Don’t drag your child into it”
-“If you want to die, die alone”
+But social media did not save her.
+It turned against her.
 
-She was cornered further.
-She committed suicide.
-Ward_C was left behind.
+Anonymous voices:
 
-Administrative Language Manipulation (News)
-Her death was processed as:
+“Child‑abusing mother.”
+“Don’t drag your kid into this.”
+“If you want to die, die alone.”
 
-“Child abuse death accompanying parental suicide.”
+Her despair deepens.
+Eventually, she takes her own life.
 
-🌑 SCENE 4‑B‑9｜Ward_Shadow_C Discovers the Administrative Report
-(The structure that forces the audience to self‑reflect)
+The child left behind
+was Ward_C.
 
-INT. GOVERNMENT BUILDING – ARCHIVE ROOM — NIGHT
-A dim room.
-The faint hum of fluorescent lights.
-Ward_Shadow_C flips through old documents.
+🌑 SCENE 4‑B‑11｜Ward_Shadow_C Finds the Administrative Report
+INT. GOVERNMENT ARCHIVE ROOM — NIGHT
+Ward_Shadow_C, now in his middle age, searches through old government records.
+Not investigation—
+obsession.
 
-He is searching for the truth behind his mother’s death.
-This is not mere “investigation.”
-It is the determination of someone who survived.
+He finds a single sheet
+with a different color.
 
-Among the stack of documents,
-there is one sheet with a slightly different color.
-Ward_Shadow_C’s hand stops.
-
-Document Title
+Title:
 “Child Abuse Death Accompanying Parental Suicide”
 
-Ward_Shadow_C’s eyes tremble.
-His breath halts.
-He slowly begins to read.
+He reads:
+No DV history
+Welfare application rejected
+No neighbor trouble
+Violence toward child
 
-Document Contents
-DV consultation history: None  
-Welfare application: Rejected  
-Neighborhood trouble: None  
-Violence toward child: None  
 SNS post:
-　“I want to disappear with my child.”
+“I want to disappear with my child”
+
 Administrative judgment:
-　“Possibility of abuse.”
+“Possible abuse”
+
 Final classification:
-　“Abuse death.”
+“Child abuse death”
 
-Ward_Shadow_C’s hand trembles.
-
-Ward_Shadow_C (quietly)
-“…No…
-My mother… wasn’t abusive…”
-
-He grips the document tightly.
-The paper makes a faint sound.
-
-Ward_Shadow_C (even quieter)
-“…This…
-The thing that killed my mother…
-was language…”
-
-Ward_Shadow_C looks at the final section of the document.
-There, in small letters, it reads:
-
-“Person in charge: Unknown”
+Responsible officer: Unknown
 
 Ward_Shadow_C
-“…Who… decided…
-this word…?”
+“…No…
+She wasn’t abusive…”
+
+Ward_Shadow_C remembers clearly:
+He was never abused.
+Not once.
+
+He grips the report.
+
+Ward_Shadow_C
+“…This…
+This killed her…
+Words killed her…”
 
 ---------------------------------------
 
-(Flashback ends.)
-
-Ward_C begins speaking to Middle_Lead again.
-
-Ward_Shadow_C
-“My mother wasn’t abusive.
-The structure killed her.”
-
-This anger became the core of Ward_C’s life.
-
-In other words,
-Ward_Shadow_C has already lived
-the hell Middle_Lead is falling into.
-
+BACK TO DAYROOM
 Ward_Shadow_C
 “My mother wasn’t abusive.
 The structure killed her.
-…Words… are violence…
-Who decides… where that violence begins…
-and who it strikes…?
-I saw everything…
-I learned everything…
-That is why… silence…
-is hell…”
+Words are violence.
+Someone decides that violence.
+I saw it all.
+I know it all.
+That’s why silence is hell.”
 
 Middle_Lead listens quietly.
 
-📺 TV Commercial
+A commercial plays.
 White background.
-Tech_Icon turns with a bright smile.
-Just a few seconds.
+Tech_Icon smiles.
 
-The light fades.
-The dayroom sinks back into silence.
+Light fades.
+Silence returns.
 
-—— FADE OUT.
+FADE OUT.
+
+---------------------------------------
+
+🌑 SCENE 4‑C｜Pure‑Friend: The Outside World (Montreal)
+INT. SMALL OFFICE — MONTREAL (MORNING)
+Coffee maker steam.
+Printer sounds.
+Keyboard clicks.
+Morning light.
+Plants.
+Life.
+
+Pure_Friend organizes emails.
+He knows nothing of Middle_Lead’s hell.
+
+TV plays softly.
+
+News anchor:
+“The term ‘double suicide’ will be abolished
+and unified as
+‘child abuse death accompanying parental suicide.’”
+
+Pure_Friend
+“…Again…
+Just changing words…”
+
+Colleague
+“That’s how news works.”
+
+Pure_Friend doesn’t think deeply.
+He lives in the outside world.
+
+But in the bottom world,
+this news means something else entirely.
 
 © 2026 Pi. All Rights Reserved.
 
@@ -608,47 +570,6 @@ Chapter1 と同じ音。
 そして——
 私自身の声すら届かない深海だ。
 
----------------------------------------
-
-キャンドルは燃え続ける。
-暗闇は退かない。
-ただ、Chapter1 の時よりも
-“語りを受け入れる準備”をしているように見える。
-
----------------------------------------
-
-（回想シーン）
-
-中年の主人公（Middle_Lead）が裁判所にいる。
-内部告発者として原告人となり、
-被告人は Boss_Power_C ——
-CCO（最高コンプライアンス責任者）、
-主人公の元妻の再婚相手だ。
-
-最高裁判所長が判決を下す。
-
-「これによって被告人を無罪とする。」
-
-ハンマーが裁判所に鳴り響く。
-
-主人公は「精神疾患がある」という判定を受け、
-精神病として扱われ、
-閉鎖病棟へと連れていかれる。
-
-衝撃と絶望のなか、
-静かに病院へと連れ去られていく。
-
-これは現実なのか？
-幻なのか？
-
-主人公の脳は混乱する。
-倫理の反転が「正義」となった瞬間、
-強いショックが彼の世界を埋め尽くしていく。
-
----------------------------------------
-
-ナレーション（男性・70〜80代）
-
 あれこそが、目に見えない暴力の頂点だったんだ。
 
 被告人の周りには
@@ -667,27 +588,6 @@ CCO（最高コンプライアンス責任者）、
 
 これ以上、何を語ることができるのかい？
 
-フェードアウト
-
----------------------------------------
-
-
-🎬 Rebirth in the Silence — Chapter 4‑B
-「匿名の崩壊 —— 静けさの底で落ちる影」
-
-INT. 同じ暗い部屋 —— 夜
-Chapter4 のキャンドルがまだ燃えている。
-炎は揺れず、ただ“次の語り”を待っている。
-
-暗闇は退かない。
-むしろ、語りが深くなるほど影が濃くなる。
-
-老いた主人公（Old_Lead）の声が、
-沈黙の底からゆっくりと浮かび上がる。
-
-Old_Lead（ナレーション／オタワ在住）
-沈黙には底がある。
-
 だが——
 その底のさらに下に、
 もうひとつの底がある。
@@ -696,6 +596,8 @@ Old_Lead（ナレーション／オタワ在住）
 落ちる影が落ちる場所だ。
 
 匿名が壊れる場所だ。
+
+——フェードアウト。
 
 ---------------------------------------
 
@@ -755,7 +657,28 @@ Middle_Lead は瞬きをする。
 だが、
 あの影はまだ心のどこかに残っている。
 
-🌑 SCENE 4‑B‑2｜内部告発 —— 構造が動き始める
+🌑 SCENE 4‑B‑2｜Tech_Shadow_A_midterm —— 影の再来
+INT. 外資企業 —— トロント（数年後）
+Middle_Lead は新しい会社で働いている。
+新しい同僚。
+新しい上司。
+新しい生活。
+
+だが、影は移動する。
+
+Tech_Shadow_A_midterm が
+同じ会議室に座っている。
+
+会社は違う。
+時代も違う。
+だが、影の質は同じ。
+
+Middle_Lead は気づかない。
+観客だけが気づく。
+
+影が戻ってきた。
+
+🌑 SCENE 4‑B‑3｜内部告発 —— 構造が動き始める
 INT. 倫理委員会室 —— トロント
 Middle_Lead は内部告発の書類を提出する。
 数日前、モントリオールの Pure_Friend が
@@ -778,27 +701,6 @@ Tech_Shadow_A_young は遠くから見ている。
 彼は職を失う。
 
 静かな恨みが生まれる。
-
-🌑 SCENE 4‑B‑3｜Tech_Shadow_A_midterm —— 影の再来
-INT. 外資企業 —— トロント（数年後）
-Middle_Lead は新しい会社で働いている。
-新しい同僚。
-新しい上司。
-新しい生活。
-
-だが、影は移動する。
-
-Tech_Shadow_A_midterm が
-同じ会議室に座っている。
-
-会社は違う。
-時代も違う。
-だが、影の質は同じ。
-
-Middle_Lead は気づかない。
-観客だけが気づく。
-
-影が戻ってきた。
 
 🌑 SCENE 4‑B‑4｜匿名の崩壊 —— Tech_Shadow_A_late
 INT. 小さなアパート —— トロント（夜）
@@ -828,7 +730,45 @@ Tech_Shadow_A_late
 
 崩壊が始まる。
 
-🌑 SCENE 4‑B‑5｜Shadow_Police —— 安全圏の終わり
+🌑 SCENE 4‑B‑5｜倫理の反転（Boss_Power_C_midterm）
+INT. 倫理委員会室
+内部告発の結果、
+Middle_Lead は「精神疾患の可能性」と判定される。
+
+Boss_Power_C_midterm の判断により、
+Middle_Lead は会社から裏切られる。
+
+→ 正義が反転する瞬間。
+
+🌑 SCENE 4‑B‑6｜裁判所：精神疾患扱い → 閉鎖病棟へ
+
+中年の主人公（Middle_Lead）が裁判所にいる。
+内部告発者として原告人となり、
+被告人は Boss_Power_C ——
+CCO（最高コンプライアンス責任者）、
+主人公の元妻の再婚相手だ。
+
+最高裁判所長が判決を下す。
+
+「これによって被告人を無罪とする。」
+
+ハンマーが裁判所に鳴り響く。
+
+主人公は「精神疾患がある」という判定を受け、
+精神病として扱われ、
+閉鎖病棟へと連れていかれる。
+
+衝撃と絶望のなか、
+静かに病院へと連れ去られていく。
+
+これは現実なのか？
+幻なのか？
+
+主人公の脳は混乱する。
+倫理の反転が「正義」となった瞬間、
+強いショックが彼の世界を埋め尽くしていく。
+
+🌑 SCENE 4‑B‑7｜Shadow_Police —— 安全圏の終わり
 INT. 取調室 —— トロント警察本部（夜）
 Shadow_Police が資料を置く。
 
@@ -862,7 +802,7 @@ Tech_Shadow_A_late
 Shadow_Police
 「SNSに安全圏はありません。」
 
-🌑 SCENE 4‑B‑6｜閉鎖病棟：最深の静けさ × Ward_Shadow_C（完全版）
+🌑 SCENE 4‑B‑8｜閉鎖病棟：最深の静けさ × Ward_Shadow_C（完全版）
 ここは映画全体の最深部。
 “静けさの地獄”そのもの。
 
@@ -906,38 +846,7 @@ Ward_Shadow_C の人生
 組織に「精神異常」として処理される
 閉鎖病棟へ送られる
 
-🌑 SCENE 4‑B‑7｜Pure-Friend：外側の世界（モントリオール）
-INT. 小さな会社 —— モントリオール（朝）
-コーヒーメーカーの湯気
-コピー機の音
-キーボードの軽い打鍵
-朝の光
-観葉植物
-生活の匂い
-
-Pure_Friend はメールを整理している。
-Middle_Lead の地獄を知らない。
-
-テレビが小さく流れる。
-
-ニュースキャスター
-「“心中”という表現を廃止し、
-“保護者の自殺に伴う子の虐待死”と統一する方針です。」
-
-Pure_Friend
-「……またか……
-言葉だけ変えてるよな……」
-
-同僚
-「ニュースってそういうもんだろ。」
-
-Pure_Friend は深く考えない。
-彼は“外側の世界”の住人だから。
-
-だがこのニュースは、
-底の世界ではまったく別の意味を持つ。
-
-🌑 SCENE 4‑B‑8｜Ward_Shadow_C —— 告白（トロント）
+🌑 SCENE 4‑B‑9｜Ward_Shadow_C —— 告白（トロント）
 INT. 閉鎖病棟デイルーム —— トロント（静寂）
 
 Middle_Lead はテレビを見ている。
@@ -966,88 +875,78 @@ Ward_Shadow_C が語り始める。
 母は……死んだ……
 残されたのが……俺だ……」
 
-(Ward_Shadow_C の過去の回顧シーンが映像で流れる)
-
 ---------------------------------------
 
-ある夜、母親はSNSに投稿する。
-母親のSNS投稿
+(Ward_Shadow_C の過去の回顧シーンが映像で流れる)
+
+🌑 SCENE 4‑B‑10｜フラッシュバック —— Ward_Shadow_C の過去
+ある夜、彼の母親は SNS に投稿する。
+
+母親の SNS 投稿  
 「……もう限界です……
 子どもと一緒に消えたい……
 誰か……助けて……」
 
-しかし、SNSは彼女を助けなかった。
-炎上が始まる。
+しかし、SNS は彼女を救わなかった。
+SNS は彼女に牙をむいた。
 
-匿名の声
+匿名の声：
+
 「虐待母親」
 「子どもを巻き込むな」
 「死ぬなら一人で死ね」
 
-母親はさらに追い詰められ、
-自殺する。
-残された子どもが Ward_C。
+彼女の絶望は深まり、
+やがて彼女は自ら命を絶つ。
 
-行政の言語操作（ニュース）
-母親の死は、
-公的機関の報告書でこう処理された。
-「保護者の自殺に伴う子の虐待死」
+残された子どもが
+Ward_C だった。
 
-🌑 SCENE 4‑B‑9｜：Ward_Shadow_C が「行政の報告書」を発見する瞬間
-
+🌑 SCENE 4‑B‑11｜Ward_Shadow_C が行政の報告書を発見する
 INT. 行政庁舎・資料保管室 —— 夜
-薄暗い部屋。
-蛍光灯の音がわずかに鳴る。
-Ward_Shadow_C が古い書類をめくっている。
 
-彼は母の死の真相を探している。
-ただの“調査”ではない。
-生き残った者の執念だ。
+中年になった Ward_Shadow_C は、
+古い行政記録を探し続けている。
+それは調査ではなく——
+執念だった。
 
-書類の束の中に、
-一枚だけ色の違う紙がある。
-Ward_Shadow_C の手が止まる。
+彼は一枚だけ色の違う紙を見つける。
 
-書類タイトル
+タイトル：  
 「保護者の自殺に伴う子の虐待死」
 
-Ward_Shadow_C の目が揺れる。
-呼吸が止まる。
-彼はゆっくりと読み進める。
+彼は読み進める。
 
-書類の内容（視聴者が震える部分）
 DV相談歴：なし
 生活保護申請：不受理
 近隣トラブル：なし
-子への暴力：なし
+子への暴力：あり（改ざんされた項目）
+
 SNS投稿：
-　「子どもと一緒に消えたい」
+「子どもと一緒に消えたい」
+
 行政判断：
-　「虐待の可能性あり」
+「虐待の可能性あり」
+
 最終分類：
-　「虐待死」
+「虐待死」
 
-Ward_Shadow_C の手が震える。
+担当者：不明
 
-Ward_Shadow_C（静かに）
+Ward_Shadow_C
 「……違う……
 母は……虐待なんかしていない……」
 
-彼は書類を握りしめる。
-紙がわずかに音を立てる。
+Ward_Shadow_C ははっきり覚えている。
+彼は一度も暴力を受けたことがない。
+一度も。
 
-Ward_Shadow_C（さらに静かに）
-「……これは……
-母を殺したのは……
-“言葉”だ……」
-
-Ward_Shadow_C が書類の最後の欄を見る。
-そこには小さくこう書かれている。
-
-「担当者：不明」
+彼は報告書を強く握りしめる。
 
 Ward_Shadow_C
-「……誰が……この言葉を……決めた……？」　
+「……これだ……
+これが母を殺した……
+言葉が……母を殺したんだ……」
 
 ---------------------------------------
 
@@ -1082,6 +981,39 @@ Tech_Icon が笑顔で振り向く。
 デイルームは再び静寂に沈む。
 
 ——フェードアウト。
+
+---------------------------------------
+
+🌑 SCENE 4‑C｜Pure-Friend：外側の世界（モントリオール）
+INT. 小さな会社 —— モントリオール（朝）
+コーヒーメーカーの湯気
+コピー機の音
+キーボードの軽い打鍵
+朝の光
+観葉植物
+生活の匂い
+
+Pure_Friend はメールを整理している。
+Middle_Lead の地獄を知らない。
+
+テレビが小さく流れる。
+
+ニュースキャスター
+「“心中”という表現を廃止し、
+“保護者の自殺に伴う子の虐待死”と統一する方針です。」
+
+Pure_Friend
+「……またか……
+言葉だけ変えてるよな……」
+
+同僚
+「ニュースってそういうもんだろ。」
+
+Pure_Friend は深く考えない。
+彼は“外側の世界”の住人だから。
+
+だがこのニュースは、
+底の世界ではまったく別の意味を持つ。
 
 © 2026 Pi. All Rights Reserved.
 
