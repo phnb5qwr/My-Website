@@ -1,4 +1,5 @@
 🎬 Rebirth in the Silence — Chapter 3
+“The Fracture of Responsibility”
 
 Decades Later —
 The protagonist has transferred to a better multinational company and now has a family.
@@ -224,6 +225,95 @@ but his expression is completely frozen.
 © 2026 Pi. All Rights Reserved.
 
 ---------------------------------------
+
+🌑 SCENE 3‑B‑4｜Hell’s Madness（Investor_C — God of Hell）
+From the window overlooking the skyline,
+Investor_C — clad in an immaculate high‑end suit — stands in silence,
+observing the city below like a judge from another realm.
+
+CUT TO:
+
+The lobby of the office building.
+Investor_C walks past the receptionists without a glance,
+moving through the security gate with a calm, effortless stride.
+
+INT. Department Floor — Continuous
+
+Investor_C
+“Where is Tech_Shadow_A_midterm?”
+
+Floor Staff
+“P‑personal information is… um…”
+
+Investor_C fixes his gaze on the staff member.
+The silent pressure freezes the air.
+
+He slowly takes out his smartphone
+and makes a call.
+
+Investor_C
+“Hey. What’s going on with this floor?”
+
+A voice echoes from the phone’s speaker.
+
+Boss_Power_C_midterm (CCO / Shadow of Ethics)
+“I’ll be there immediately.”
+
+Investor_C ends the call.
+The staff member is petrified.
+
+A few minutes later—
+Boss_Power_C_midterm arrives in a rush,
+eyes sharp, scanning the room.
+
+He glares at the surrounding employees,
+then guides Investor_C toward Tech_Shadow_A_midterm’s desk.
+
+INT. Tech_Shadow Section — Moments Later
+
+Investor_C stares directly at Tech_Shadow_A_midterm.
+
+Investor_C
+“So, you’re the one.”
+
+Tech_Shadow_A_midterm turns pale, unable to move.
+
+Tech_Shadow_B_midterm and Tech_Shadow_C_midterm
+watch from a distance, frozen.
+
+Investor_C
+“Whose order was it?”
+
+Tech_Shadow_A_midterm glances at Boss_Power_C_midterm.
+Boss_Power_C_midterm responds with a cold, silent glare.
+
+Investor_C
+“There’s a complaint from the investors.
+How are you going to take responsibility?”
+
+Investor_C places a folder on the desk—
+inside are the damage reports and the monetary losses.
+
+Investor_C
+“You two will take responsibility.”
+
+He turns and begins to walk away.
+
+On his way out—
+a trembling staff member speaks up.
+
+Floor Staff
+“About earlier… I sincerely apolo—”
+
+Investor_C pauses,
+gives the staff member a single quiet glance,
+and leaves without a word.
+
+The entire floor remains frozen in fear.
+
+© 2026 Pi. All Rights Reserved.
+
+---------------------------------------
 ---------------------------------------
 
 Rebirth in the Silence — Chapter 3
@@ -317,15 +407,15 @@ INT. 別室 — 直後
 
 Pressure-Lord_midterm：
 「お前のせいで現場は滅茶苦茶だ！
-納期は遅れ、クレーム対応に追われてるんだぞ！
-どう責任取るんだ！」
+納期は遅れ、クレーム対応に追われている！
+どう責任取る気か！」
 
 主人公：
-「外では人が死んでいるんだ！
+「外では人が死んでいる！
 誰かが内部告発しないと、この会社は信用を失う！」
 
 Pressure-Lord_midterm：
-「お前のせいで俺らのチームが猛攻撃に遭ってるんだ！
+「お前のせいで俺らのチームが猛攻撃に遭っている！
 その責任はどうしてくれる！」
 
 Pressure-Lord_midterm は主人公を睨みつける。
@@ -355,7 +445,7 @@ Boss_Power_D_midterm（穏やかな表情）：
 「君の気持ちはわかる。
 ただ、君はこの会社の権威じゃない。
 幹部でもない。
-だからこそ、黙っておくべきなんだ。
+だからこそ、黙っておくべきだ。
 内部告発なんて、やってはいけない。」
 
 主人公：
@@ -368,7 +458,7 @@ Boss_Power_D_midterm（溜息）：
 ユーザーが苦しもうと、自殺しようと、精神疾患になろうと、
 会社にとってはどうでもいい。
 嫌なら使わなければいいだけだ。
-責任は彼らが取るべきなんだよ。」
+責任は彼らが取るべきなのだよ。」
 
 主人公はあきれ顔でその場を去る。
 
@@ -439,6 +529,94 @@ Tech_Shadow_A_midterm：
 「知らねーよ。」
 
 強がる声とは裏腹に、彼の表情は完全に凍り付いていた。
+
+---------------------------------------
+
+🌑 SCENE 3‑B‑4｜地獄の狂気（Investor_C — God of Hell）
+高層ビルの窓から街を見下ろし、
+高級スーツを纏った Investor_C（God of Hell）は静かに佇んでいる。
+
+CUT TO:
+
+オフィスビルの受付。
+Investor_C は受付嬢に一瞥もくれず、
+淡々と、そして颯爽とセキュリティゲートを通過する。
+
+INT. 部署内 — 連続
+
+Investor_C
+「Tech_Shadow_A_midterm はどこだ？」
+
+現場の社員
+「こ、個人情報は……」
+
+Investor_C はその社員をじっと見つめる。
+無言の圧力が空気を凍らせる。
+
+ゆっくりスマートフォンを取り出し、
+どこかへ電話をかける。
+
+Investor_C
+「おい、ここの現場はどうなってる？」
+
+スマホのスピーカーから声が響く。
+
+Boss_Power_C_midterm（CCO / Shadow of Ethics）
+「すぐ、そちらへ参ります。」
+
+Investor_C はスマホを切る。
+現場の社員は完全に固まる。
+
+数分後——
+Boss_Power_C_midterm が慌てた様子で現場に到着する。
+
+Boss_Power_C_midterm は周囲の社員を鋭く睨みつけ、
+Investor_C を Tech_Shadow_A_midterm の席へ案内する。
+
+INT. Tech_Shadow セクション — 直後
+
+Investor_C は Tech_Shadow_A_midterm を見据える。
+
+Investor_C
+「お前がそうか。」
+
+Tech_Shadow_A_midterm は蒼白になり、動けない。
+
+Tech_Shadow_B_midterm と Tech_Shadow_C_midterm が
+遠巻きにその様子を見ている。
+
+Investor_C
+「誰の指示だ？」
+
+Tech_Shadow_A_midterm は Boss_Power_C_midterm をチラ見する。
+Boss_Power_C_midterm は無言で睨み返す。
+
+Investor_C
+「投資家からのクレーム。
+責任、どうするんだ？」
+
+Investor_C は被害額のデータと金額が記された書類を
+Tech_Shadow_A_midterm と Boss_Power_C_midterm の前に置く。
+
+Investor_C
+「お前ら二人で責任を取れ。」
+
+そう言い残し、静かに背を向けて歩き出す。
+
+帰り際——
+現場の社員が震えながら声をかける。
+
+現場の社員
+「先ほどは、申し訳ござ……」
+
+Investor_C はその社員を一瞥し、
+何も言わずに去っていく。
+
+空気は完全に凍りついていた。
+
+© 2026 Pi. All Rights Reserved.
+---------------------------------------
+
 
 © 2026 Pi. All Rights Reserved.
 
