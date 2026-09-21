@@ -3,7 +3,7 @@ Screenplay Style Summary (Complete Git Version)
 © 2026 Pi. All Rights Reserved.
 
 
-ACT I — QUIET REALM（静圏 / 10 min）
+ACT I — QUIET REALM（静圏 / 15 min）
 
 Scene 1 — Opening Silence
 A｜Youth Era — Young_Lead
@@ -20,7 +20,7 @@ A2｜Multinational IT × Quiet Reality
 •	Sets contrast for later hell
 
 
-ACT II — FLAME REALM（炎上圏 / 110 min）
+ACT II — FLAME REALM（炎上圏 / 60 min）
 Sequence 1 — Collapse Begins
 
 B｜Middle Age — Middle_Lead

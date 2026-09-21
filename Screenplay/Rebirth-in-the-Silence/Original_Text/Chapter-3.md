@@ -2,7 +2,7 @@
 “The Fracture of Responsibility”
 
 Decades Later —
-The protagonist has transferred to a better multinational company and now has a family.
+The protagonist (Middle_Lead) has transferred to a better multinational company and now has a family.
 The era is defined by SNS and AI.
 Corporations are drowning in accounting scandals and whistleblower responses.
 KPI logs reveal “who did what, where, and when” instantly.
@@ -222,8 +222,6 @@ Tech_Shadow_A_midterm:
 He tries to act tough,
 but his expression is completely frozen.
 
-© 2026 Pi. All Rights Reserved.
-
 ---------------------------------------
 
 🌑 SCENE 3‑B‑4｜Hell’s Madness（Investor_C — God of Hell）
@@ -311,6 +309,124 @@ and leaves without a word.
 
 The entire floor remains frozen in fear.
 
+---------------------------------------
+
+🌑 SCENE 3‑B‑5｜The Silent Boardroom (Investor_A — God of Shadows)
+The conference room.
+Boss_Power_A_midterm (CFO), Boss_Power_B_midterm (CTO),
+Boss_Power_C_midterm (CCO / Shadow of Ethics),
+and Investor_A (God of Shadows) quietly survey one another.
+
+Investor_A  
+“Explain. What exactly is happening.”
+
+Boss_Power_B_midterm (CTO)  
+“The tech division is simply executing tasks as assigned.
+We were dragged into this mess.”
+
+Boss_Power_C_midterm (CCO)  
+“Advertisers, shareholders… our performance is taking damage.
+And now ethics is under fire.
+What do you expect us to do!”
+
+Boss_Power_A_midterm (CFO)  
+“Revenue continues to rise. But audits are becoming more frequent.
+At this rate, the structure won’t hold.
+We may have to let the tide take its course—”
+
+Investor_A  
+“How do you intend to survive this.”
+
+Silence falls over the room.
+
+After a moment,
+Boss_Power_C_midterm (CCO)  
+“…I’ll speak to him directly. I’ll hear it from him.”
+
+The silence lingers.
+The meeting ends without another word.
+
+---------------------------------------
+
+🌑 SCENE 3‑B‑6｜Dialogue in the Shadow of Ethics (Boss_Power_C_midterm — Shadow of Ethics)
+Boss_Power_C_midterm summons the protagonist.
+A private room. The conversation begins.
+
+Protagonist  
+“It’s been a while since we talked face‑to‑face.”
+
+Boss_Power_C_midterm  
+“I never thought you’d end up transferring to this company.”
+
+The protagonist gives a faint, bitter smile.
+
+Protagonist  
+“You’ve climbed pretty high, haven’t you.”
+
+Boss_Power_C_midterm  
+“…Are things going well with her?”
+
+Protagonist  
+“This whole incident ruined everything.
+What about you?”
+
+Silence.
+
+Boss_Power_C_midterm  
+“She was hit hard.
+By the neighborhood, by social media… everywhere.”
+
+Protagonist  
+“I see… but the victims outside—”
+
+Boss_Power_C_midterm  
+“She left me.
+Another man stepped in to help her.”
+
+A heavy silence drops between them.
+
+Boss_Power_C_midterm glances at his smartphone.
+
+Boss_Power_C_midterm  
+“Forgive me. I need to take this call.”
+
+Protagonist  
+“Go ahead…”
+
+Boss_Power_C_midterm  
+“…Yes. I’m here now.
+Understood. I’ll do that.”
+
+He ends the call.
+
+Protagonist  
+“Who was that?”
+
+Boss_Power_C_midterm  
+“Your wife.
+She said you told her nothing, and asked me for advice.”
+
+The protagonist panics internally, trying desperately to remain composed.
+
+Protagonist  
+“Where is she now?”
+
+Boss_Power_C_midterm  
+“Who is it you’re trying to protect?”
+
+The protagonist stands frozen, shocked.
+He looks up at the ceiling, hollow.
+In that moment, he realizes:
+even if he returns home, his wife has already left with their child.
+
+Boss_Power_C_midterm  
+“You acted with courage.
+But courage often demands a price.
+Righteousness can be lonely.
+Yet beyond that loneliness, there is light.”
+
+The protagonist lowers his shoulders and leaves the room.
+
 © 2026 Pi. All Rights Reserved.
 
 ---------------------------------------
@@ -320,7 +436,7 @@ Rebirth in the Silence — Chapter 3
 
 数十年後——
 
-主人公はより良い外資企業へ転職し、家族を持っている。
+主人公（Middle_Lead）はより良い外資企業へ転職し、家族を持っている。
 時代は SNS と AI。
 企業は不正会計や内部告発対応に追われている。
 KPIログにより「誰が・どこで・何をしたか」が即バレする時代。
@@ -614,9 +730,122 @@ Investor_C はその社員を一瞥し、
 
 空気は完全に凍りついていた。
 
-© 2026 Pi. All Rights Reserved.
 ---------------------------------------
 
+🌑 SCENE 3‑B‑5｜沈黙の取締役会（Investor_A — God of Shadows）
+会議室。
+Boss_Power_A_midterm（CFO）、Boss_Power_B_midterm（CTO）、
+Boss_Power_C_midterm（CCO / Shadow of Ethics）、
+そして Investor_A（God of Shadows）が、静かに彼らを見渡している。
+
+Investor_A  
+「つまり、どういう事だ。」
+
+Boss_Power_B_midterm（CTO）  
+「技術部門は淡々とタスクをこなしているだけだ。
+俺らの部門は巻き添えにされたんだ。」
+
+Boss_Power_C_midterm（CCO）  
+「広告主、株主……業績に影響が出ている。
+そのうえ倫理が叩かれている。
+俺らにどうしろと！」
+
+Boss_Power_A_midterm（CFO）  
+「売り上げは伸び続けている。しかし今は監査が入りやすくなっている。
+もう、このままでは体制が維持されない。
+ここはもう、流れに任せ——」
+
+Investor_A  
+「どう乗り切る気だ。」
+
+全員が沈黙する。
+
+しばらくして、
+Boss_Power_C_midterm（CCO）  
+「……俺が、あいつから直接話を聞こう。」
+
+沈黙が続き、会議は静かに終わる。
+
+---------------------------------------
+
+🌑 SCENE 3‑B‑6｜倫理の影の対話（Boss_Power_C_midterm — Shadow of Ethics）
+Boss_Power_C_midterm が主人公を呼び出す。
+別室で対話が始まる。
+
+主人公  
+「こうやって対面で話すのも久しぶりだな。」
+
+Boss_Power_C_midterm  
+「まさか、お前がこの会社に転職するとは思わなかったがな。」
+
+主人公が苦笑する。
+
+主人公  
+「お前、ずいぶん偉くなったんだな。」
+
+Boss_Power_C_midterm  
+「……お前、あいつとは上手くいってるのか？」
+
+主人公  
+「今回の件で、めちゃくちゃになった。
+お前こそどうなんだ？」
+
+沈黙。
+
+Boss_Power_C_midterm  
+「あいつは今回の件で猛攻撃に遭った。
+近所からも、SNSからも。」
+
+主人公  
+「そうか……。ただ、あの件は外の被害者が——」
+
+Boss_Power_C_midterm  
+「あいつは、もう俺から去った。
+別の男が助けた。」
+
+沈黙が落ちる。
+
+Boss_Power_C_midterm がスマートフォンをちらりと見る。
+
+Boss_Power_C_midterm  
+「失礼だが、今電話に出てもいいか。」
+
+主人公  
+「ああ……。」
+
+Boss_Power_C_midterm  
+「……ああ、今ここにいる。
+わかった。そうしよう。」
+
+電話が切れる。
+
+主人公  
+「誰と話してた？」
+
+Boss_Power_C_midterm  
+「お前の奥さんだ。
+“君から何も聞かされなかった” と俺に相談してきた。」
+
+主人公はパニックに陥りながらも、冷静を装おうとする。
+
+主人公  
+「今どこにいるんだ？」
+
+Boss_Power_C_midterm  
+「お前は、誰を守りたいのか？」
+
+主人公はショックを受けたまま呆然とする。
+天井を見上げ、絶望する。
+その瞬間、家に戻っても奥さんは子供を連れて出て行ったことを悟る。
+
+Boss_Power_C_midterm  
+「お前は勇気を持った。
+だが、勇気は時に代償を伴う。
+正しさは時に孤独だ。
+しかし、孤独の先に光がある。」
+
+主人公は肩を落とし、部屋を去る。
+
+---------------------------------------
 
 © 2026 Pi. All Rights Reserved.
-
