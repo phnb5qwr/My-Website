@@ -114,6 +114,8 @@ the fluorescent light makes that sound.
 
 The present dissolves.
 
+---------------------------------------
+
 INT. Multinational IT Company — Toronto (Past / Young)
 
 Young_Lead codes silently.
@@ -147,6 +149,8 @@ No emotion.
 Only silence.
 
 A silence that will one day break.
+
+---------------------------------------
 
 INT. Foreign Tech Office — Toronto (Present)
 
@@ -321,13 +325,9 @@ A place where silence itself becomes a form of violence.
 
 Ward_Shadow_C sits motionless.
 He is the man who holds the underside of the structure:
-
 the core of server operations
-
 the hidden mechanics of anonymous posting
-
 the flow of AI synthesis
-
 the organization’s darkness
 
 He was the first to sense Tech_Shadow_A’s movements.
@@ -747,6 +747,8 @@ AIプロジェクトの資料、ログ、会議メモ。
 その瞬間、
 現在の光景がゆっくりと溶けていく。
 
+---------------------------------------
+
 INT. 多国籍IT企業 —— トロント（過去／青年期）
 Young_Lead が静かにコードを書いている。
 Quiet_Engineer_young が隣で作業している。
@@ -783,6 +785,8 @@ Tech_Shadow_A_young は
 
 その静けさは、
 いつか壊れる。
+
+---------------------------------------
 
 INT. 外資企業オフィス —— トロント（現在）
 Middle_Lead は瞬きをする。
@@ -1265,7 +1269,7 @@ Middle_Lead の地獄を知らない。
 
 Pure_Friend
 「……またか……
-言葉だけ変えてるよな……」
+言葉だけ変えているよな……」
 
 同僚
 「ニュースってそういうもんだろ。」
