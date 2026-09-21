@@ -1,78 +1,74 @@
-🎬 Rebirth in the Silence — Chapter 4
-“Into the Depth of Silence”
+🌑 CHAPTER 4 — “Into the Depth of Silence”
+INT. Same Dark Room — Night
 
-INT. SAME DARK ROOM — NIGHT
-Absolute silence.
+Complete stillness.
 The air does not move.
 Time does not flow.
-
 It is the same room from Chapter 1,
-yet the darkness is deeper, heavier—
-as if silence itself has taken shape and settled here.
+but the darkness is deeper, heavier—
+as if silence itself has taken physical form.
 
-Far away, the same faint trace of Gregorian chant drifts,
-barely audible, like a distant wave.
+Far away, the faintest trace of Gregorian chant
+drifts like a distant wave.
 
-SFX: fsshhh…
+SFX: fsshhh—
 
-A match is struck.
+A match strikes.
 The same sound as Chapter 1.
 The same hand.
 The same trembling, aged fingers.
 
-But this time, the flame does not rise immediately.
-It hesitates—
-as if pushed back by the pressure of the darkness.
+But this time, the flame hesitates.
+It flickers, pushed back by the pressure of the dark.
 
-The man’s hand—
-the hand that carries decades of weight—
-slowly shields the flame
-and guides it toward the candle.
+The old hand shields the flame,
+guiding it slowly toward the candle.
 
 The wick accepts the fire.
 A small light rises.
 
 The room remains dark.
-But compared to Chapter 1,
-a deeper shadow exists now.
-The light does not dispel it—
-it merely allows the shadow to exist.
+But the shadows are deeper than in Chapter 1.
+The light does not illuminate them—
+it merely allows their existence.
 
 And then—
 the voice returns.
 
-An old voice.
-Seventies to eighties.
-A voice pulled up from a place
-beyond long silence.
+An elderly voice,
+70s to 80s,
+drawn up from a place far deeper
+than silence itself.
 
-NARRATION (Male, 70s–80s)
+---------------------------------------
+
+Narration (Male, 70–80s)
+Here lies the world beneath silence—
+the place where a fallen shadow falls again.
+
 Silence protected me.
-But at the same time,
-it imprisoned me.
+But it also imprisoned me.
 
 That night—
 I stopped speaking.
-I knew, somewhere inside,
-that if I spoke,
-I would break.
+I knew that if I spoke,
+something would break.
 
 But silence is not eternal.
 
 At the bottom of long years,
-a voice slowly regains its shape—
+a voice slowly regains shape,
 like a bubble rising
 from the floor of the deep sea.
 
 From here on,
-I speak of a place
-I never told anyone about.
+I enter a place I never told anyone about.
 
 Quiet, dark—
-and a depth where even my own voice
+a depth where even my own voice
 could not reach.
 
-That was the peak
+That was the true peak
 of invisible violence.
 
 Around the defendant,
@@ -80,63 +76,60 @@ a swarm of vested interests circled.
 
 The courtroom—
 a place meant to protect the weak—
-was already swallowed
-by those interests.
+was filled with people
+who benefited from the structure.
 
-The vulnerable were pushed
+The weak were pushed
 into even weaker positions,
 erased quietly
-from society.
+by the machinery of society.
 
-That was the “reality of justice”
-I witnessed.
+That was the reality of “justice” I saw.
 
-What more can I possibly say?
+What more can I say?
 
-But—
-beneath that bottom,
-there is another bottom.
+But beneath that bottom,
+there is another bottom still.
 
 A place
 where falling shadows
-continue to fall.
+fall again.
 
 A place
 where anonymity breaks.
 
 FADE OUT.
 
-🌑 SCENE 4‑B‑1｜Fracture of the Young Shadow (Middle_Lead’s Memory)
-INT. GLOBAL TECH OFFICE — TORONTO (PRESENT)
+---------------------------------------
+
+🌑 SCENE 4‑B‑1 — Fracture of the Young Shadow (Middle_Lead’s Memory)
+INT. Foreign Tech Office — Toronto (Present)
+
 Middle_Lead works quietly.
-AI project documents, logs, meeting notes—
-a calm, ordinary day.
+AI project documents, logs, meeting notes.
+A routine day.
 
 Then—
 the fluorescent light makes that sound.
-A faint buzz.
 
 The present dissolves.
 
-INT. MULTINATIONAL IT COMPANY — TORONTO (PAST / YOUTH)
-Young_Lead types quietly.
+INT. Multinational IT Company — Toronto (Past / Young)
+
+Young_Lead codes silently.
 Quiet_Engineer_young works beside him.
 
-A peaceful, ordinary workplace.
+A normal workplace.
+Ordinary.
+Calm.
 
 But in the back of the room,
-Tech_Shadow_A_young sits—
-silent, expressionless,
-a shadow under the fluorescent light.
+Tech_Shadow_A_young sits like a shadow.
 
-On his monitor:
-
+His monitor displays:
 AI anomaly logs
-
 access flags
-
 suppressed warnings
-
 something that should not be seen
 
 Young_Lead
@@ -145,36 +138,36 @@ Young_Lead
 Quiet_Engineer_young
 “…Don’t touch it.
 There are things in this world
-you shouldn’t touch.”
+you’re not supposed to touch.”
 
-Tech_Shadow_A_young
-quietly closes the window.
+Tech_Shadow_A_young quietly closes the window.
 
 No reaction.
 No emotion.
 Only silence.
 
-A silence
-that will one day break.
+A silence that will one day break.
 
-INT. GLOBAL TECH OFFICE — TORONTO (PRESENT)
+INT. Foreign Tech Office — Toronto (Present)
+
 Middle_Lead blinks.
-The memory dissolves.
+The memory fades.
 The present returns.
 
-But the shadow remains
-somewhere inside him.
+But the shadow remains inside him.
 
-🌑 SCENE 4‑B‑2｜Tech_Shadow_A_midterm — The Return of the Shadow
-INT. GLOBAL TECH COMPANY — TORONTO (YEARS LATER)
-New company.
+---------------------------------------
+
+🌑 SCENE 4‑B‑2 — Tech_Shadow_A_midterm: The Return of the Shadow
+INT. Foreign Company — Toronto (Years Later)
+
+New job.
 New colleagues.
 New life.
 
 But shadows move.
 
-Tech_Shadow_A_midterm
-sits in the same meeting room.
+Tech_Shadow_A_midterm sits in the same meeting room.
 
 Different company.
 Different era.
@@ -185,36 +178,40 @@ Only the audience does.
 
 The shadow has returned.
 
-🌑 SCENE 4‑B‑3｜Whistleblowing — The Structure Begins to Move
-INT. ETHICS COMMITTEE ROOM — TORONTO
-Middle_Lead submits whistleblower documents.
+---------------------------------------
+
+🌑 SCENE 4‑B‑3 — Whistleblowing: The Structure Begins to Move
+INT. Ethics Committee Room — Toronto
+
+Middle_Lead submits whistleblowing documents.
 
 Days earlier,
 Pure_Friend in Montreal
 quietly encouraged him.
 
 Pure_Friend (voice message)
-“If you believe it’s right…
-you should do it.”
+“If you believe it’s right… then do it.”
 
-Boss_Power_C_midterm
-receives the documents.
+Boss_Power_C_midterm receives the documents.
 
 Boss_Power_C_midterm
 “You are right.
 But righteousness is not always protected.”
 
-Not a threat—
-a prophecy.
+It is not a threat—
+but a prophecy.
 
 Tech_Shadow_A_young watches from afar.
-Later, the department is dissolved.
+His department is later dissolved.
 He loses his job.
 
 A quiet resentment is born.
 
-🌑 SCENE 4‑B‑4｜Collapse of Anonymity — Tech_Shadow_A_late
-INT. SMALL APARTMENT — TORONTO (NIGHT)
+---------------------------------------
+
+🌑 SCENE 4‑B‑4 — Collapse of Anonymity (Tech_Shadow_A_late)
+INT. Small Apartment — Toronto (Night)
+
 Tech_Shadow_A_late operates multiple anonymous accounts.
 
 AI synthesis tools.
@@ -228,145 +225,277 @@ Middle_Lead’s interviews.
 Tech_Shadow_A_late
 “…It’s just a game…”
 
-Cut.
-Distort.
-Meme.
-Upload.
+Cutting.
+Distorting.
+Meme‑making.
+Uploading.
 
 Revenue spikes.
 
 Tech_Shadow_A_late
-“…I’m the one moving the world…”
+“…I’m… controlling the world…”
 
 Collapse begins.
 
-🌑 SCENE 4‑B‑5｜Ethics Reversed (Boss_Power_C_midterm)
-INT. ETHICS COMMITTEE ROOM
-Middle_Lead is judged
-“possible mental disorder.”
+---------------------------------------
 
-Boss_Power_C_midterm
+🌑 SCENE 4‑B‑5 — Reversal of Ethics (Boss_Power_C_midterm)
+INT. Ethics Committee Room
+
+Middle_Lead is judged
+as “possibly mentally ill.”
+
+Boss_Power_C_midterm’s decision
 betrays him.
 
 Justice reverses.
 
-🌑 SCENE 4‑B‑6｜Courtroom → Psychiatric Ward
-INT. COURTROOM
+---------------------------------------
+
+🌑 SCENE 4‑B‑6 — Court: Mental Illness → Locked Ward
+INT. Courtroom — Toronto
+
 Middle_Lead stands as plaintiff.
-Defendant: Boss_Power_C—
+The defendant is Boss_Power_C—
 CCO,
-his ex‑wife’s new husband.
+and the new husband of Middle_Lead’s ex‑wife.
 
 Chief Justice
 “Therefore, the defendant is found not guilty.”
 
 The gavel strikes.
 
-Middle_Lead is declared mentally ill.
-He is taken to a closed psychiatric ward.
+Middle_Lead is declared mentally ill
+and taken to a locked ward.
 
-Reality or hallucination?
-His mind fractures.
+Reality or hallucination—
+he cannot tell.
 
-Justice reversed becomes “truth.”
-Shock fills his world.
+The reversal of ethics
+becomes “justice,”
+and shock consumes him.
 
-🌑 SCENE 4‑B‑7｜Shadow_Police — End of the Safe Zone
-INT. INTERROGATION ROOM — TORONTO POLICE HQ (NIGHT)
-Shadow_Police places documents on the table.
+---------------------------------------
+
+🌑 SCENE 4‑B‑7 — Shadow_Police: End of the Safe Zone
+INT. Interrogation Room — Toronto Police HQ (Night)
 
 Shadow_Police
-“Your memes were used
-in fraud advertisements.”
+“Your memes were used in fraud advertisements.”
 
 Tech_Shadow_A_late
 “…No… I just cut them…
 just edited them…
-why… this…”
+why… why is this happening…”
 
 Shadow_Police
-“It’s not a game.”
+“Playtime is over.”
 
-On the monitor:
-memes multiplying—
-his name, his face,
-auto‑generated.
+On the monitor,
+memes with his face and name
+multiply uncontrollably.
 
 Tech_Shadow_A_late
 “…They’re increasing…
 I didn’t make these…
-why my name…
-why my face…
-I was… in a safe zone…”
+why is my name…
+why is my face…
+I was supposed to be safe…”
 
 AI‑generated meme
-“You made them.”
+“You made me.”
 
 Tech_Shadow_A_late
 “…Stop… stop… stop…”
 
 Shadow_Police
-“There is no safe zone
-on social media.”
+“There is no safe zone on SNS.”
 
-🌑 SCENE 4‑B‑8｜Closed Ward: The Deepest Silence × Ward_Shadow_C
-INT. CLOSED PSYCHIATRIC WARD — TORONTO
-The deepest layer of the film.
-Silence as hell.
+---------------------------------------
 
-Ward_Shadow_C:
-a man who knows the underside of the structure.
-server operations
-anonymous posting systems
-AI synthesis flows
-organizational darkness
+🌑 SCENE 4‑B‑8 — Locked Ward: The Deepest Silence × Ward_Shadow_C
+INT. Locked Ward Dayroom — Toronto (Absolute Silence)
 
-He sensed Tech_Shadow_A’s movements first.
-He tried whistleblowing—
-was suppressed.
-Reported to police.
-Declared mentally ill.
-Sent to the ward.
+This is the deepest point of the entire film.
+A place where silence itself becomes a form of violence.
 
-He knows the violence of silence.
-He knows the limits of anonymity.
+Ward_Shadow_C sits motionless.
+He is the man who holds the underside of the structure:
 
-He knows
-why Tech_Shadow_A fell.
+the core of server operations
 
-And now—
-the two who should never meet
-meet in the deepest silence.
+the hidden mechanics of anonymous posting
 
-🌑 SCENE 4‑B‑9｜Ward_Shadow_C — Confession
-INT. WARD DAYROOM — TORONTO (SILENCE)
-Middle_Lead watches TV.
-Ward_Shadow_C sits quietly.
+the flow of AI synthesis
 
-News:
-fraud ring using AI memes.
-Fake “Silent.Voice” accounts.
+the organization’s darkness
+
+He was the first to sense Tech_Shadow_A’s movements.
+He attempted whistleblowing, but it was erased.
+He later reported to the police.
+The organization labeled him “mentally abnormal”
+and sent him to the locked ward.
+
+He is the man who knows
+the violence of silence.
+
+He is the first person
+to understand the limits of anonymity.
+
+Two people who should never meet
+have now met
+in the deepest silence.
+
+---------------------------------------
+
+🌑 SCENE 4‑B‑9 — Ward_Shadow_C: Confession (Toronto)
+INT. Locked Ward Dayroom — Toronto (Silence)
+
+Ward_Shadow_A, a former drug addict,
+wanders restlessly as if searching for something lost.
+
+Ward_Shadow_B, a severe germ‑phobic patient,
+keeps walking toward the sink again and again,
+only to be gently stopped by nurses each time.
+
+Middle_Lead watches the muted television.
+Ward_Shadow_C sits beside him, perfectly still.
+
+ON TV — NEWS REPORT
+“Police have arrested members of a fraud ring
+that used AI‑generated meme content.
+The former employee involved in producing the material
+is now under protective treatment.”
+
+CUT TO: Shadow_Police at a press conference.
+
+Shadow_Police
+“A forged version of ‘Silent.Voice’ was used.
+The coexistence of real and fake identities
+created the structural conditions for the crime.”
 
 Middle_Lead
 “…That man…”
 
-Ward_Shadow_C begins speaking.
+Ward_Shadow_C begins to speak.
 
 Ward_Shadow_C
-“My mother asked for help on SNS.
-‘…I’m at my limit…
-I want to disappear with my child…’
-She wanted help.
+“My mother… asked for help on SNS.
+‘…I’m at my limit… I want to disappear with my child…’
+She wrote that.
+She just wanted someone to save her.
 But she was attacked.
-Called a ‘child‑abusing mother.’
-The administration used that word.
-She died.
-And I remained.”
+They called her an ‘abusive mother.’
+The administration used that word too.
+And then… she died.
+And I was the one left behind.”
+
+Silence fills the room.
 
 ---------------------------------------
+
+🌑 SCENE 4‑B‑10 — Fracture of the Structure (Shadow_Police × Ash‑Tracker)
+INT. Police Cyber‑Investigation Unit — Toronto (Night)
+
+Monitors glow in the dark.
+AI logs, SNS traffic, and forged‑site access histories
+cover the walls like a map of structural collapse.
+
+Shadow_Police
+“Where did the whistleblower connect with Tech_Shadow_A online?”
+
+Ash‑Tracker
+“Through a forged version of ‘Silent.Voice.’
+But the routes are different.”
+
+Shadow_Police
+“Different how?”
+
+Ash‑Tracker
+“This forged site is a hub for romance‑fraud operations.
+Both of them were guided there.”
+
+Shadow_Police
+“So the whistleblower was tricked?”
+
+Ash‑Tracker
+“He was redirected from the real ‘Silent.Voice’
+to the forged one.
+Tech_Shadow_A, however—
+he entered the forged site from the beginning.
+He never touched the real one.”
+
+Shadow_Police
+“Is Tech_Shadow_A part of the fraud group?”
+
+Ash‑Tracker
+“No.
+His motive isn’t fraud.
+It’s obsession.
+He’s been tracking the whistleblower out of resentment.”
+
+Shadow_Police
+“So it’s money and revenge?”
+
+Ash‑Tracker
+“He already has money.
+This is pure revenge.”
+
+Shadow_Police
+“And the two women on the romance‑fraud screens?”
+
+Ash‑Tracker
+“Dark_Goddess_A and Dark_Goddess_B.
+But there are men behind them.”
+
+Shadow_Police
+“Who?”
+
+Ash‑Tracker
+“Iron‑Hand and Silent‑Dominus.
+Silent‑Dominus is the boss of the organization.”
+
+Shadow_Police
+“And Iron‑Hand?”
+
+Ash‑Tracker
+“He extracts money from men approaching the women.
+The women profit from it too.
+He’s essentially a bodyguard.”
+
+Shadow_Police
+“The organization is collapsing?”
+
+Ash‑Tracker
+“AI evolution.
+Their actions can’t be hidden anymore.”
+
+Shadow_Police
+“So AI is tracking their fraud,
+while general users using AI
+are also causing widespread harm.
+A contradiction.”
+
+Ash‑Tracker
+“Exactly.
+The structure itself is breaking.”
+
+Shadow_Police looks into the distance, thinking.
+
+Ash‑Tracker
+“We have enough evidence.”
+
+Shadow_Police
+“Report it to the media.
+Immediately.”
+
+FADE OUT.
+
+---------------------------------------
+
 (Flashback plays)
 
-🌑 SCENE 4‑B‑10｜Flashback — Ward_Shadow_C’s Past 
+🌑 SCENE 4‑B‑11｜Flashback — Ward_Shadow_C’s Past 
 (A flashback sequence begins to play — Ward_Shadow_C’s past.)
 
 One night, his mother posts on social media.
@@ -391,7 +520,9 @@ Eventually, she takes her own life.
 The child left behind
 was Ward_C.
 
-🌑 SCENE 4‑B‑11｜Ward_Shadow_C Finds the Administrative Report
+---------------------------------------
+
+🌑 SCENE 4‑B‑12｜Ward_Shadow_C Finds the Administrative Report
 INT. GOVERNMENT ARCHIVE ROOM — NIGHT
 Ward_Shadow_C, now in his middle age, searches through old government records.
 Not investigation—
@@ -548,6 +679,9 @@ Chapter1 と同じ音。
 
 ナレーション（男性・70〜80代）
 
+——ここは、沈黙のさらに下の世界。
+影が落ちたその先に、もうひとつの底がある。
+
 沈黙は、私を守ってくれた。
 だが同時に、私を閉じ込めてもいた。
 
@@ -657,6 +791,8 @@ Middle_Lead は瞬きをする。
 だが、
 あの影はまだ心のどこかに残っている。
 
+---------------------------------------
+
 🌑 SCENE 4‑B‑2｜Tech_Shadow_A_midterm —— 影の再来
 INT. 外資企業 —— トロント（数年後）
 Middle_Lead は新しい会社で働いている。
@@ -677,6 +813,8 @@ Middle_Lead は気づかない。
 観客だけが気づく。
 
 影が戻ってきた。
+
+---------------------------------------
 
 🌑 SCENE 4‑B‑3｜内部告発 —— 構造が動き始める
 INT. 倫理委員会室 —— トロント
@@ -701,6 +839,8 @@ Tech_Shadow_A_young は遠くから見ている。
 彼は職を失う。
 
 静かな恨みが生まれる。
+
+---------------------------------------
 
 🌑 SCENE 4‑B‑4｜匿名の崩壊 —— Tech_Shadow_A_late
 INT. 小さなアパート —— トロント（夜）
@@ -730,6 +870,8 @@ Tech_Shadow_A_late
 
 崩壊が始まる。
 
+---------------------------------------
+
 🌑 SCENE 4‑B‑5｜倫理の反転（Boss_Power_C_midterm）
 INT. 倫理委員会室
 内部告発の結果、
@@ -739,6 +881,8 @@ Boss_Power_C_midterm の判断により、
 Middle_Lead は会社から裏切られる。
 
 → 正義が反転する瞬間。
+
+---------------------------------------
 
 🌑 SCENE 4‑B‑6｜裁判所：精神疾患扱い → 閉鎖病棟へ
 
@@ -767,6 +911,8 @@ CCO（最高コンプライアンス責任者）、
 主人公の脳は混乱する。
 倫理の反転が「正義」となった瞬間、
 強いショックが彼の世界を埋め尽くしていく。
+
+---------------------------------------
 
 🌑 SCENE 4‑B‑7｜Shadow_Police —— 安全圏の終わり
 INT. 取調室 —— トロント警察本部（夜）
@@ -801,6 +947,8 @@ Tech_Shadow_A_late
 
 Shadow_Police
 「SNSに安全圏はありません。」
+
+---------------------------------------
 
 🌑 SCENE 4‑B‑8｜閉鎖病棟：最深の静けさ × Ward_Shadow_C（完全版）
 ここは映画全体の最深部。
@@ -846,8 +994,17 @@ Ward_Shadow_C の人生
 組織に「精神異常」として処理される
 閉鎖病棟へ送られる
 
+---------------------------------------
+
 🌑 SCENE 4‑B‑9｜Ward_Shadow_C —— 告白（トロント）
 INT. 閉鎖病棟デイルーム —— トロント（静寂）
+
+元麻薬中毒者のWard_Shadow_A
+潔癖症のWard_Shadow_B
+
+Ward_Shadow_Aは、時々何かを探し回っているようにそわそわしている。
+Ward_Shadow_Bは、相変わらず水道の蛇口の所へ何度も向かう先で、
+何度も看護師に引き止められている。
 
 Middle_Lead はテレビを見ている。
 Ward_Shadow_C が静かに座っている。
@@ -877,9 +1034,111 @@ Ward_Shadow_C が語り始める。
 
 ---------------------------------------
 
+🌑 SCENE 4‑B‑10｜構造の裂け目（Shadow_Police × Ash‑Tracker）
+INT. 警察捜査班オフィス —— トロント（夜）
+
+薄暗い室内。
+モニターの光だけが、捜査班の顔を照らしている。
+AI解析ログ、SNSトラフィック、偽装サイトのアクセス履歴が
+壁一面に投影されている。
+
+Shadow_Police が資料を机に置く。
+
+Shadow_Police
+「内部告発者は、どこで Tech_Shadow_A とネットで接触した？」
+
+Ash‑Tracker（冷静）
+「偽装された “Silent.Voice” だ。ただし——経由が違う。」
+
+Shadow_Police
+「違う？どういうことだ。」
+
+Ash‑Tracker
+「ここはロマンス詐欺の温床になっている。
+“Silent.Voice” の偽サイトに、二人とも誘導されている。」
+
+Shadow_Police
+「つまり、内部告発者も偽サイトに？」
+
+Ash‑Tracker
+「内部告発者は、本物の “Silent.Voice” から偽サイトへ誘導された。
+Tech_Shadow_A は——最初から偽サイトに入っている。
+本物のサイトには一度も行っていない。」
+
+Shadow_Police
+「Tech_Shadow_A は偽サイトの共犯者か？」
+
+Ash‑Tracker
+「それは違う。
+彼の目的は “Silent.Voice” ではない。
+内部告発者への執念深い恨みだ。
+ネット上で追跡し、嫌がらせを続けている。」
+
+Shadow_Police
+「目的は金と恨みか？」
+
+Ash‑Tracker
+「金はもう持っている。
+これは純粋な恨みと嫌がらせだ。」
+
+Shadow_Police
+「このサイトに出てくる二人の女は誰だ？」
+
+Ash‑Tracker
+「Dark_Goddess_A と Dark_Goddess_B。
+ただし、彼女たちの背後に男がいる。」
+
+Shadow_Police
+「誰だ？」
+
+Ash‑Tracker
+「Iron‑Hand と Silent‑Dominus。
+Silent‑Dominus が組織のドンだ。」
+
+Shadow_Police
+「Iron‑Hand は？」
+
+Ash‑Tracker
+「女たちに近づく男から金をむしり取っている。
+女たちもそこから利益を得ている。
+いわば用心棒だ。」
+
+Shadow_Police
+「内部組織が崩壊していると聞いたが？」
+
+Ash‑Tracker
+「AIが進化して、彼らの行動が隠せなくなっている。
+ロマンス詐欺の動きも、一般人のAI使用も、
+すべてログに残る時代だ。」
+
+Shadow_Police
+「つまり——
+AIが彼らの犯罪を追跡し、
+同時に一般人も AI を使って被害を拡大させている。
+矛盾しているが、そういうことか。」
+
+Ash‑Tracker
+「そうだ。
+構造そのものが崩れている。」
+
+Shadow_Police は遠くを見つめ、深く息を吐く。
+
+Ash‑Tracker
+「証拠は揃った。」
+
+Shadow_Police
+「メディアに報告しろ。
+今すぐだ。」
+
+画面に “Silent.Voice（偽）” のアクセスログが赤く点滅する。
+
+——フェードアウト。
+
+---------------------------------------
+
 (Ward_Shadow_C の過去の回顧シーンが映像で流れる)
 
-🌑 SCENE 4‑B‑10｜フラッシュバック —— Ward_Shadow_C の過去
+🌑 SCENE 4‑B‑11｜フラッシュバック —— Ward_Shadow_C の過去
 ある夜、彼の母親は SNS に投稿する。
 
 母親の SNS 投稿  
@@ -902,7 +1161,9 @@ SNS は彼女に牙をむいた。
 残された子どもが
 Ward_C だった。
 
-🌑 SCENE 4‑B‑11｜Ward_Shadow_C が行政の報告書を発見する
+---------------------------------------
+
+🌑 SCENE 4‑B‑12｜Ward_Shadow_C が行政の報告書を発見する
 INT. 行政庁舎・資料保管室 —— 夜
 
 中年になった Ward_Shadow_C は、
@@ -1018,3 +1279,4 @@ Pure_Friend は深く考えない。
 © 2026 Pi. All Rights Reserved.
 
 ---------------------------------------
+
