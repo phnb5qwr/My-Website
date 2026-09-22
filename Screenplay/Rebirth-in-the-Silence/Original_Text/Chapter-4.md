@@ -877,7 +877,7 @@ Middle_Lead の声
 Middle_Lead の顔
 Middle_Lead のインタビュー
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 「……遊びだよ……」
 
 切り抜き
