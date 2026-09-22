@@ -205,7 +205,7 @@ But righteousness is not always protected.”
 It is not a threat—
 but a prophecy.
 
-Tech_Shadow_A_young watches from afar.
+Tech_Shadow_A_midterm watches from afar.
 His department is later dissolved.
 He loses his job.
 
@@ -216,7 +216,7 @@ A quiet resentment is born.
 🌑 SCENE 4‑B‑4 — Collapse of Anonymity (Tech_Shadow_A_late)
 INT. Small Apartment — Toronto (Night)
 
-Tech_Shadow_A_late operates multiple anonymous accounts.
+Tech_Shadow_A_midterm operates multiple anonymous accounts.
 
 AI synthesis tools.
 Clip editing.
@@ -226,7 +226,7 @@ Middle_Lead’s voice.
 Middle_Lead’s face.
 Middle_Lead’s interviews.
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 “…It’s just a game…”
 
 Cutting.
@@ -236,7 +236,7 @@ Uploading.
 
 Revenue spikes.
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 “…I’m… controlling the world…”
 
 Collapse begins.
@@ -287,7 +287,7 @@ INT. Interrogation Room — Toronto Police HQ (Night)
 Shadow_Police
 “Your memes were used in fraud advertisements.”
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 “…No… I just cut them…
 just edited them…
 why… why is this happening…”
@@ -299,7 +299,7 @@ On the monitor,
 memes with his face and name
 multiply uncontrollably.
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 “…They’re increasing…
 I didn’t make these…
 why is my name…
@@ -309,7 +309,7 @@ I was supposed to be safe…”
 AI‑generated meme
 “You made me.”
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 “…Stop… stop… stop…”
 
 Shadow_Police
@@ -330,7 +330,7 @@ the hidden mechanics of anonymous posting
 the flow of AI synthesis
 the organization’s darkness
 
-He was the first to sense Tech_Shadow_A’s movements.
+He was the first to sense Tech_Shadow_A_midterm’s movements.
 He attempted whistleblowing, but it was erased.
 He later reported to the police.
 The organization labeled him “mentally abnormal”
@@ -345,6 +345,24 @@ to understand the limits of anonymity.
 Two people who should never meet
 have now met
 in the deepest silence.
+
+Ward_Shadow_C’s Past  
+His mother was systematically cornered by the administrative apparatus.
+Her application for welfare support was denied.
+She had no way to escape domestic violence.
+The public consultation desks failed her entirely.
+The administration processed her death under the label “child abuse.”
+But the truth was not an “abuse-related death”—it was a death produced by structural violence.
+Ward_Shadow_C’s anger toward that language has never faded.
+
+Ward_Shadow_C’s Life  
+Driven to learn the truth about his mother’s death, he joined a government agency.
+There, he witnessed debates over how to rename and sanitize the deaths of vulnerable people.
+He realized that those living in safety were the ones rewriting the language of suffering.
+He saw the administrative system manipulating terminology to control public perception.
+He understood that the deaths of the weak were being defined by people who had never lived their reality.
+When he tried to expose it, the organization branded him “mentally ill.”
+He was forcibly transferred to a locked psychiatric ward.
 
 ---------------------------------------
 
@@ -402,7 +420,7 @@ AI logs, SNS traffic, and forged‑site access histories
 cover the walls like a map of structural collapse.
 
 Shadow_Police
-“Where did the whistleblower connect with Tech_Shadow_A online?”
+“Where did the whistleblower connect with Tech_Shadow_A_midterm online?”
 
 Ash‑Tracker
 “Through a forged version of ‘Silent.Voice.’
@@ -421,12 +439,12 @@ Shadow_Police
 Ash‑Tracker
 “He was redirected from the real ‘Silent.Voice’
 to the forged one.
-Tech_Shadow_A, however—
+Tech_Shadow_A_midterm, however—
 he entered the forged site from the beginning.
 He never touched the real one.”
 
 Shadow_Police
-“Is Tech_Shadow_A part of the fraud group?”
+“Is Tech_Shadow_A_midterm part of the fraud group?”
 
 Ash‑Tracker
 “No.
@@ -838,7 +856,7 @@ Boss_Power_C_midterm
 それは脅しではなく、
 予言だった。
 
-Tech_Shadow_A_young は遠くから見ている。
+Tech_Shadow_A_midterm は遠くから見ている。
 その後、部署は処分され、
 彼は職を失う。
 
@@ -848,7 +866,7 @@ Tech_Shadow_A_young は遠くから見ている。
 
 🌑 SCENE 4‑B‑4｜匿名の崩壊 —— Tech_Shadow_A_late
 INT. 小さなアパート —— トロント（夜）
-Tech_Shadow_A_late が
+Tech_Shadow_A_midterm が
 複数の匿名アカウントを操作している。
 
 AI合成ツール
@@ -869,7 +887,7 @@ Tech_Shadow_A_late
 
 収益が跳ねる。
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 「……俺が……世界を動かしてる……」
 
 崩壊が始まる。
@@ -925,7 +943,7 @@ Shadow_Police が資料を置く。
 Shadow_Police
 「あなたのミームは詐欺組織の広告に使われていました。」
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 「……違う……俺は……ただ切っただけだ……
 ただ編集しただけだ……
 なんで……こんな……」
@@ -936,7 +954,7 @@ Shadow_Police
 モニターには
 彼の名前と顔が勝手に合成されたミームが増殖している。
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 「……増えてる……
 俺が作ったやつじゃない……
 なんで……俺の名前が……
@@ -946,7 +964,7 @@ Tech_Shadow_A_late
 AI合成ミーム
 「お前が作ったんだよ。」
 
-Tech_Shadow_A_late
+Tech_Shadow_A_midterm
 「……やめろ……やめろ……やめろ……」
 
 Shadow_Police
@@ -965,7 +983,7 @@ Ward_Shadow_C＝構造の裏側を握る男。
 AI合成の流れを知る
 組織の闇を知る
 
-Tech_Shadow_A の動向を最初に感知した人物
+Tech_Shadow_A_midterm の動向を最初に感知した人物
 内部告発を試みたが もみ消された
 その後、警察に通報
 組織に「精神異常」として処理され、閉鎖病棟へ
@@ -973,7 +991,7 @@ Tech_Shadow_A の動向を最初に感知した人物
 匿名の限界を最初に理解した人物
 
 つまり、
-Tech_Shadow_A が落ちてきた原因を、
+Tech_Shadow_A_midterm が落ちてきた原因を、
 Ward_Shadow_C はすでに知っている。
 そして──
 出会ってはいけない２人が、
@@ -1049,7 +1067,7 @@ AI解析ログ、SNSトラフィック、偽装サイトのアクセス履歴が
 Shadow_Police が資料を机に置く。
 
 Shadow_Police
-「内部告発者は、どこで Tech_Shadow_A とネットで接触した？」
+「内部告発者は、どこで Tech_Shadow_A_midterm とネットで接触した？」
 
 Ash‑Tracker（冷静）
 「偽装された “Silent.Voice” だ。ただし——経由が違う。」
@@ -1066,11 +1084,11 @@ Shadow_Police
 
 Ash‑Tracker
 「内部告発者は、本物の “Silent.Voice” から偽サイトへ誘導された。
-Tech_Shadow_A は——最初から偽サイトに入っている。
+Tech_Shadow_A_midterm は——最初から偽サイトに入っている。
 本物のサイトには一度も行っていない。」
 
 Shadow_Police
-「Tech_Shadow_A は偽サイトの共犯者か？」
+「Tech_Shadow_A_midterm は偽サイトの共犯者か？」
 
 Ash‑Tracker
 「それは違う。
