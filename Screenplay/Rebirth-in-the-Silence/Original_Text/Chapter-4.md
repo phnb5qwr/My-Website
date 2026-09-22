@@ -213,7 +213,7 @@ A quiet resentment is born.
 
 ---------------------------------------
 
-🌑 SCENE 4‑B‑4 — Collapse of Anonymity (Tech_Shadow_A_late)
+🌑 SCENE 4‑B‑4 — Collapse of Anonymity (Tech_Shadow_A_midterm)
 INT. Small Apartment — Toronto (Night)
 
 Tech_Shadow_A_midterm operates multiple anonymous accounts.
@@ -864,7 +864,7 @@ Tech_Shadow_A_midterm は遠くから見ている。
 
 ---------------------------------------
 
-🌑 SCENE 4‑B‑4｜匿名の崩壊 —— Tech_Shadow_A_late
+🌑 SCENE 4‑B‑4｜匿名の崩壊 —— Tech_Shadow_A_midterm
 INT. 小さなアパート —— トロント（夜）
 Tech_Shadow_A_midterm が
 複数の匿名アカウントを操作している。
