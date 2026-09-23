@@ -85,10 +85,11 @@ Mark Ruffalo — Expert_B (Ethics Scholar)
  A voice that exposes structural contradictions without exploiting pain.
 
 Media & Public Sphere (Rebirth Era × Global Silence)
-Jeff Goldblum — Quiet_Host  
-Host of the world‑famous podcast.
-Gentle Intelligence × Soft Debate × Silent Empathy.
-The man who brings the protagonist’s voice to the world during the Rebirth Phase.
+Jeff Goldblum — Trickster_Host
+　Host of a globally renowned podcast
+　Wit × curiosity × fearless empathy
+　Draws hidden truths into the open
+　The man who brings the protagonist’s voice to the world during the Rebirth Phase.
 
 Silent Companions (Spiritual Friends)
 Codename: Silent_Friends

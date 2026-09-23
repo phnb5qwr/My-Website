@@ -1,5 +1,5 @@
-🎬 Rebirth in the Silence — Complete Cast (Git Archive Edition)
-Character Archive / v1.0.0  
+🎬 Rebirth in the Silence — Complete Cast
+Character Archive
 
 🧩 Protagonist (Three Eras)
 Young_Lead  
@@ -38,19 +38,18 @@ Tech_Shadow_A_midterm
 　Reappears as a shadow in the protagonist’s life
 　Audience recognizes him as “that shadow,” while the protagonist does not
 
-Tech_Shadow_A_late  
 　Flame Era → The Bottom
 　Anonymous meme perpetrator
 　Knows the underside of SNS structures
 　Investigated by Shadow_Police
 　Reinforces the protagonist’s “outer hell”
 
-Tech_Shadow_B_young / midterm / late  
+Tech_Shadow_B_young / midterm  
 　Silent surveillance
 　Wordless hostility
 　Pale pressure
 
-Tech_Shadow_C_young / midterm / late  
+Tech_Shadow_C_young / midterm
 　Cold precision
 　Surgical logic without emotion
 　A cold shadow standing behind the protagonist
@@ -115,9 +114,10 @@ Ward_Shadow_C
 Tech_Icon
 
 🎙 Media & Public Sphere (Era of Rebirth × Global Quietude)
-Quiet_Host  
+Trickster_Host
 　Host of a globally renowned podcast
-　Soft intellect × gentle dialogue × quiet empathy
+　Wit × curiosity × fearless empathy
+　Draws hidden truths into the open
 　Carries the protagonist’s voice into the world
 
 👵 Old Age (Symbol of Quietude)
@@ -144,8 +144,8 @@ Silent_Wife (Voice_Female)
 ---------------------------------------
 ---------------------------------------
 
-🎬 Rebirth in the Silence — 完全版キャスト（Git保存用）
-Character Archive / v1.0.0
+🎬 Rebirth in the Silence — 完全版キャスト
+Character Archive
 
 🧩 主人公（3時代）
 Young_Lead  
@@ -183,19 +183,18 @@ Tech_Shadow_A_midterm
 　主人公の人生に再び影として現れる
 　観客だけが「あの影だ」と理解する
 
-Tech_Shadow_A_late  
 　炎圏 → 底
 　匿名ミーム加害
 　SNS構造の裏側を知る
 　Shadow_Police の調査対象
 　主人公の外側の地獄を補強する影
 
-Tech_Shadow_B_young / midterm / late  
+Tech_Shadow_B_young / midterm
 　沈黙の監視
 　言葉なき敵意
 　蒼白の圧力
 
-Tech_Shadow_C_young / midterm / late  
+Tech_Shadow_C_young / midterm
 　冷たい精密さ
 　感情を伴わない外科的論理
 　主人公の背後に立つ“冷たい影”
@@ -250,9 +249,11 @@ Ward_Shadow_C（影圏の救い／構造の裏側を握る男）
 Tech_Icon
 
 🎙 Media & Public Sphere（再生の時代 × 世界的静寂）
-Quiet_Host  
-　世界的ポッドキャストのホスト
-　主人公の声を世界へ届ける人物
+Trickster_Host  
+世界的に著名なポッドキャスト番組のホスト
+機知 × 好奇心 × 恐れを知らない共感
+隠された真実を表舞台へ引き出す
+主人公の声を世界へ届ける
 
 👵 Old Age（静けさの象徴）
 Old_Lead
