@@ -15,6 +15,15 @@ Old_Lead
 Quiet_Engineer_young  
 　A quiet engineer (Youth Era only)
 
+💧 Silent Companions (Early Allies)
+Pure_Friend_young
+　Pure Quietness × Silent Prayer
+Pure_Friend_midterm
+　“Lives new life in Montreau × support Middle_Lead after his injury”
+
+🎶Silent.Voice
+Sandra Cretu — Voice_Female (Site of Silent.Voice/The Voice of Light)
+
 🔥 Workplace Enforcer (Pressure of the Flame Era)
 Pressure-Lord_young  
 　Workplace pressure in the youth era
@@ -119,6 +128,9 @@ Trickster_Host
 　Wit × curiosity × fearless empathy
 　Draws hidden truths into the open
 　Carries the protagonist’s voice into the world
+
+👧Protagonist's future wife
+　Voice_Female_midterm
 
 👵 Old Age (Symbol of Quietude)
 Old_Lead
@@ -254,6 +266,8 @@ Trickster_Host
 機知 × 好奇心 × 恐れを知らない共感
 隠された真実を表舞台へ引き出す
 主人公の声を世界へ届ける
+
+🎶Voice_Female_midterm（主人公の未来の夫人）
 
 👵 Old Age（静けさの象徴）
 Old_Lead

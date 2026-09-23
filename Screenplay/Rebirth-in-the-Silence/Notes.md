@@ -6,23 +6,24 @@ This is a fictional casting list for a personal film concept.
 All actor names are used purely for creative exploration.
 
 Main Leads — Three Ages of the Protagonist
-Timothée Chalamet — Young_Lead_A (Fragile Shadow of Youth) 
-Joaquin Phoenix — Middle_Lead (Pilgrim of the Inferno) 
+Timothée Chalamet — Young_Lead_A (Fragile Shadow of Youth)
+Joaquin Phoenix — Middle_Lead (Pilgrim of the Inferno)
 Willem Dafoe — Old_Lead (The Quiet Witness)
 
 Early Office Era (Multinational IT × Quiet Reality)
 Tadanobu Asano — Quiet_Engineer
 
-Voice-Only Future Partner
-Sandra Cretu — Voice_Female (The Voice of Light)
+Silent.Voice
+Sandra Cretu — Voice_Female (Site of Silent.Voice / The Voice of Light)
 
 Silent Companions (Early Allies)
-Paul Bettany — Silent_Friend_A The protagonist’s only ally — “Pure Quietness × Silent Prayer”
+??? — Pure_Friend_young The protagonist’s only ally — “Pure Quietness × Silent Prayer”
+Paul Bettany — Pure_Friend_midterm The protagonist’s only ally — “Lives new life in Montreau × support Middle_Lead after his injury”
 
 Boss (The Man of Light and Power)
-Codename: Boss_Power
+Codename: Boss_Power_midterm
 Antonio Banderas — Boss_Power_A (CFO / Chief Financial Officer)
-Michael Fassbender — Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology) 
+Michael Fassbender — Boss_Power_B (CTO / Chief Technology Officer, Violence of Technology)
 Jesse Eisenberg— Boss_Power_C (CCO / Chief Compliance Officer, Ethics’ Shadow / The man who destroys the protagonist’s world)
 Matt Dillon — Boss_Power_D (Direct subordinate of the Ethics Committee)
 
@@ -30,8 +31,8 @@ Workplace Enforcer (Pressure of the Flame Zone)
 J.K. Simmons — Pressure_Lord
 
 AI Designer / Technical Madness (Cold Intelligence)
-Paul Dano — Tech_Shadow (Symbol of the Outer World / Quiet Madness that resents the protagonist) 
-Jesse Plemons — Tech_Shadow_B (Silent Surveillance / Pale Pressure of Wordless Hostility) 
+Paul Dano — Tech_Shadow (Symbol of the Outer World / Quiet Madness that resents the protagonist)
+Jesse Plemons — Tech_Shadow_B (Silent Surveillance / Pale Pressure of Wordless Hostility)
 Benedict Cumberbatch — Tech_Shadow_C (Cold Precision / Surgical Logic without Emotion)
 
 Investors — The Trinity of Madness
@@ -70,8 +71,8 @@ Guy Pearce — Ash_Tracker
 
 Psychiatric Ward (Entrance to the Bottom)
 Codename: Ward_Shadow
-Jared Leto — Ward_Shadow_A (Center of the Murky Zone / Depth of Madness / Drug-induced chaos) 
-Jeremy Allen White — Ward_Shadow_B (Fragile Quiet Madness / Shadow of Silence) 
+Jared Leto — Ward_Shadow_A (Center of the Murky Zone / Depth of Madness / Drug-induced chaos)
+Jeremy Allen White — Ward_Shadow_B (Fragile Quiet Madness / Shadow of Silence)
 Gary Oldman — Ward_Shadow_C (Salvation of the Shadow Zone / The only person the protagonist opens up to)
 
 Tech Icon (few-second CM Appearance)
@@ -91,6 +92,9 @@ Jeff Goldblum — Trickster_Host
 　Draws hidden truths into the open
 　The man who brings the protagonist’s voice to the world during the Rebirth Phase.
 
+Protagonist's future wife
+??? — Voice_Female_midterm
+
 Silent Companions (Spiritual Friends)
 Codename: Silent_Friends
 Björn Andrésen — Silent_Friend_A (Old age of Pure_Friend)
@@ -100,8 +104,8 @@ Stellan Skarsgård — Silent_Friend_C (Old age of Boss_Power_C)
 Grandchildren (Voices of the Future)
 Codename: Future_Voices
 
-Old Wife (Invisible Light / Voice-Only Presence)
-Sandra Cretu — Silent_Wife
+Silent_Wife  (Invisible Light / Back view-Only Presence)
+Sandra Cretu —（Voice-Only）
 
 ----------------------------------------------------------
 

@@ -306,6 +306,8 @@ Take responsibility first.”
 The protagonist inhales deeply.
 A shadow of resolve settles in his eyes.
 
+---------------------------------------
+
 Afternoon — The Workplace
 Executives are visiting with shareholders today.
 Boss_PowerA, B, C, D arrive to inspect the new office.
@@ -692,6 +694,8 @@ Investor_B,C はスケジュールの関係で後日来るとの事。
 この日は会社全体が和やかで、流れている空気も穏やかだ。
 
 主人公はその中で複雑な心境を内部に抱え、おびえる。
+
+---------------------------------------
 
 そんな中、隣の席の Quiet_Engineer が主人公に話しかける。
 
