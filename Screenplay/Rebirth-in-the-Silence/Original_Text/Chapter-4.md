@@ -1,4 +1,6 @@
-🌑 CHAPTER 4 — “Into the Depth of Silence”
+🎬 Rebirth in the Silence — Chapter 4
+“Into the Depth of Silence”
+
 INT. Same Dark Room — Night
 
 Complete stillness.
