@@ -282,7 +282,7 @@ Trickster_Host
 Senior_Lead
 
 👥 Silent Companions（霊的友人たち）
-Ward_Shadow_A_Senior（Ward_Shadow_A の老年期）
+Ward_Shadow_C_Senior（Ward_Shadow_C の老年期）
 Pure_Friend_Senior（Pure_Friend の老年期）
 Boss_Power_C_Senior（Boss_Power_C の老年期）
 

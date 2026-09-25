@@ -79,7 +79,7 @@ Chapter1、Chapter4 と同じ音。
 
 INT. 主人公の家・リビングルーム – 夕方
 静かな夕暮れ。
-老年期の主人公の家のリビングに、昔の友人たち──Ward_Shadow_A_Senior_ と Pure_Friend_Senior──が集まっている。
+老年期の主人公の家のリビングに、昔の友人たち──Ward_Shadow_C_Senior_ と Pure_Friend_Senior──が集まっている。
 
 Pure_Friend_Senior（回顧録シーン）
 「正常な人が異常な構造に長く触れれば、疲労するのは当然なんだ。
@@ -87,7 +87,7 @@ Pure_Friend_Senior（回顧録シーン）
 壊れたのは人じゃなくて、環境の方でね。
 ただ……環境の強さが、人間の限界を静かに超えていっただけなんだよ。」
 
-Ward_Shadow_A_Senior（回顧録シーン）
+Ward_Shadow_C_Senior（回顧録シーン）
 「結局……金と倫理って一致しないんだよ。
 プラットフォームは儲かる仕組みを優先して、
 その結果、倫理なんてどこかに消えた。
