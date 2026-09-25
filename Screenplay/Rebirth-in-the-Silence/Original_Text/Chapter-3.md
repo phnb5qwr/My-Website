@@ -433,6 +433,7 @@ The protagonist lowers his shoulders and leaves the room.
 ---------------------------------------
 
 Rebirth in the Silence — Chapter 3
+「責任の亀裂」
 
 数十年後——
 

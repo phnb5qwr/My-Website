@@ -18,11 +18,12 @@ Quiet_Engineer_young
 💧 Silent Companions (Early Allies)
 Pure_Friend_young
 　Pure Quietness × Silent Prayer
+
 Pure_Friend_midterm
 　“Lives new life in Montreau × support Middle_Lead after his injury”
 
 🎶Silent.Voice
-Sandra Cretu — Voice_Female (Site of Silent.Voice/The Voice of Light)
+Voice_Female (Site of Silent.Voice/The Voice of Light)
 
 🔥 Workplace Enforcer (Pressure of the Flame Era)
 Pressure-Lord_young  
@@ -133,23 +134,24 @@ Trickster_Host
 　Voice_Female_midterm
 
 👵 Old Age (Symbol of Quietude)
-Old_Lead
+Senior_Lead
 
 👥 Silent Companions (Spiritual Friends)
-Silent_Friend_A  
+Ward_Shadow_A_Senior
 　Old age of Ward_Shadow_A
 
-Silent_Friend_B  
+Pure_Friend_Senior  
 　Old age of Pure_Friend
 
-Silent_Friend_C  
+Boss_Power_C_Senior  
 　Old age of Boss_Power_C
 
 👶 Grandchildren (Voices of the Future)
 Future_Voices
 
-👩‍🦳 Old Wife (Invisible Light / Voice-Only Presence)
-Silent_Wife (Voice_Female)
+👩‍🦳 Senior_Wife (Invisible Light / Voice-Only Presence)
+Voice_Female_Senior (Old age of Voice_Female)
+　Old age of Voice_Female
 
 © 2026 Pi. All Rights Reserved.
 
@@ -172,6 +174,13 @@ Old_Lead
 🧑‍💻 Early Office Era（多国籍IT × 静圏リアリティ）
 Quiet_Engineer_young  
 　静かな技術者（青年期のみ）
+
+💧 Silent Companions (初期の味方)
+Pure_Friend_young
+　純粋な静けさ × 静かな祈り
+
+Pure_Friend_midterm
+　“モントリオールで新しい生活を始める × 怪我の後、Middle_Leadをサポート”
 
 🔥 Workplace Enforcer（炎圏の圧力）
 Pressure-Lord_young  
@@ -267,21 +276,21 @@ Trickster_Host
 隠された真実を表舞台へ引き出す
 主人公の声を世界へ届ける
 
-🎶Voice_Female_midterm（主人公の未来の夫人）
+👩‍🦳 Voice_Female_midterm（主人公の未来の夫人）
 
 👵 Old Age（静けさの象徴）
-Old_Lead
+Senior_Lead
 
 👥 Silent Companions（霊的友人たち）
-Silent_Friend_A（Ward_Shadow_A の老年期）
-Silent_Friend_B（Pure_Friend の老年期）
-Silent_Friend_C（Boss_Power_C の老年期）
+Ward_Shadow_A_Senior（Ward_Shadow_A の老年期）
+Pure_Friend_Senior（Pure_Friend の老年期）
+Boss_Power_C_Senior（Boss_Power_C の老年期）
 
 👶 Grandchildren（未来の声）
 Future_Voices
 
-👩‍🦳 Old Wife（見えない光／声だけの存在）
-Silent_Wife（Voice_Female）
+👩‍🦳 Senior_Wife（見えない光／声だけの存在）
+Voice_Female_Senior（Voice_Female の老年期）
 
 © 2026 Pi. All Rights Reserved.
 
