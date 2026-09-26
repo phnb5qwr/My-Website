@@ -59,7 +59,7 @@ NARRATION (Male, 70s–80s)
 What is true extremity?
 It is the moment when a person gives up speaking.
 
-Even now, I don’t want to talk about what happened.
+Even now, remembering it feels unbearable.
 I don’t want to remember it.
 
 But people say things.
@@ -83,8 +83,8 @@ They do not know what they are doing.
 ---------------------------------------
 
 The candle continues to burn.
- The darkness does not retreat.
- It only listens.
+The darkness does not retreat.
+It only listens.
 
 © 2026 Pi. All Rights Reserved.
 
@@ -151,7 +151,7 @@ SFX：fsshhh…
 本当の極限とは何か。
 それは、人が「話すことを諦める瞬間」だ。
 
-今でも、あの出来事について話したくない。
+今でも、思い出すことは耐えがたい。
 思い出したくもない。
 
 だが、人は言う。
@@ -171,7 +171,7 @@ SFX：fsshhh…
 彼らはただ、知らないのだ。
 
 …父よ、彼らをお許しください。
-彼らは、自分たちが何をしているのかわからないのです。
+彼らは何をしているのか、自分でわからないのです。
 
 ---------------------------------------
 
