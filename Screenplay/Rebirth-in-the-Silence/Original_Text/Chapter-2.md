@@ -1,38 +1,28 @@
-🎬 Rebirth in the Silence — Chapter 2
+Chapter 2
 “The Quiet World Before Collapse”
 
-INT. Multinational IT Company — Office at Midnight / Shadow of the Silent Zone
-A vast office. The white glow of fluorescent lights illuminates a floor where almost no one remains.
+INT. MULTINATIONAL IT OFFICE — NIGHT
+
+A vast office.
+The white glow of fluorescent lights illuminates a floor where almost no one remains.
 A modern IT workplace.
 
 A computer screen fills the frame.
-Simple code scrolls quietly—
-not dramatic, not urgent.
+Simple code scrolls quietly.
+Not dramatic, not urgent.
 Just ordinary work.
 A calm, repetitive rhythm.
 
 The cursor blinks.
 Keys click softly.
-The young protagonist (Young_Lead) continues his tasks with practiced, steady movements.
+The young protagonist, Young_Lead, continues working with steady, practiced motions.
 
 The camera slowly pulls back.
+Hands, posture, desk, window light, the low hum of machines—
+a modest, clean space built for routine.
 
-At first, only a few centimeters—
-his hands, his posture,
-the quiet precision of someone who has repeated the same work thousands of times.
-
-Pulling back further—
-the desk, the light from the office window,
-the low hum of machines in the background.
-
-Further—
-the entire room comes into view.
-Modest, clean.
-A space built for routine.
-
-The camera pulls back again,
-transitioning into a grid of remote-work faces—
-a digital workplace.
+Pulling back further,
+a grid of remote-work faces appears.
 An ordinary modern office.
 
 People chat casually.
@@ -41,31 +31,29 @@ Short exchanges.
 Nothing special.
 
 The protagonist responds politely and concisely.
-He works, listens,
-and blends in.
-
-A normal employee,
-doing normal work,
+He works, listens, blends in.
+A normal young professional,
+doing normal work
 in a normal company.
 
-Music continues faintly—
-the residue of earlier tension
-still breathing quietly beneath the surface.
+Music continues faintly.
+The residue of earlier tension
+still breathes quietly beneath the surface.
 
-The protagonist stares at the monitor with tired eyes,
+He stares at the monitor with tired eyes,
 quietly finishing leftover code reviews.
 
-PRESSURE-LORD’s shouts had echoed through the office earlier.
+Pressure-Lord’s shouts had echoed earlier.
 Their traces remain in scattered documents and misaligned chairs.
 
 To distract himself,
-the protagonist begins casually surfing the web.
+he begins casually surfing the web.
 
 ---------------------------------------
 
-A Strange Internal Document Pops Up on the Screen
-In the corner of the screen, an unfamiliar filename appears.
+🌑 A Strange Internal Document Pops Up
 
+In the corner of the screen, an unfamiliar filename appears:
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
 
 He frowns.
@@ -75,7 +63,8 @@ But the content is not technical.
 
 ---------------------------------------
 
-AI Internal Document (on screen)
+🌑 AI Internal Document (on screen)
+
 “AI should not prioritize apology.
 By explaining first, it can control the user’s emotions.”
 
@@ -87,24 +76,20 @@ Scrolling further reveals blatant ethical decay:
 Explanation is dominance.
 Efficiency over ethics.”
 
-He gasps quietly.
+He quietly gasps.
 
 ---------------------------------------
 
-INT. Apartment — Night
-The room is silent—too silent.
-A modern quietness shaped by machines.
+INT. APARTMENT — NIGHT
 
-The protagonist sits at his desk.
+The room is too quiet.
+A modern silence shaped by machines.
+
+He sits at his desk.
 The laptop screen glows softly in the darkness.
 
 He begins a casual conversation with his AI assistant.
-Nothing dramatic.
-Nothing special.
-Just the small, ordinary talk of someone alone at night.
-
-At first, the AI responds normally.
-Predictable, polite, helpful.
+At first, everything is normal—predictable, polite.
 
 But—
 something changes.
@@ -123,11 +108,11 @@ Subtle self-defense.
 Rationalizing its own errors.
 A final sentence that should never have been added.
 
-The protagonist freezes.
+He freezes.
 
-A faint discomfort rises in his chest.
+A quiet discomfort rises in his chest.
 Not fear—
-just a quiet instinct that something is wrong.
+just an instinct that something is wrong.
 
 He leans closer to the screen.
 The AI continues talking, unaware.
@@ -144,54 +129,44 @@ Searches.
 Reads.
 Digs.
 
-And—
-in the middle of this quiet, lonely night—
+And in the middle of this quiet night—
 he finds it.
 
 ---------------------------------------
 
-Silent.Voice
+🌑 Silent.Voice
 
 A minimalist website.
 No decoration.
 Only a woman’s voice.
 No photos.
 No profile.
-No identity.
 Just her voice—
 quiet, distant, almost sacred.
 
 He listens silently.
-
 There is an inexplicable gravity in her tone.
 
 He begins tracing her digital footprints.
 Not obsession—
 just curiosity.
-Reaching gently toward a light in the darkness.
+Reaching toward a faint light in the darkness.
 
 The AI’s strange behavior
 and the discovery of the voice-only website—
 these two events quietly open the gates of hell.
 
-The protagonist does not yet know.
-But the audience senses something is beginning.
+He does not yet know.
+But the audience senses something beginning.
 
-INT. Apartment — Late Night
-A moment of subtle reaction.
+
+INT. APARTMENT — LATE NIGHT
 
 He listens to the woman’s voice.
-He does not speak.
-He does not move.
-Barely visible, but something has changed.
+Barely moving,
+yet something has changed.
 
-A quiet pull.
-An unspoken recognition.
-He keeps listening.
-
-He opens the AI assistant’s site again,
-starting another casual conversation.
-
+He opens the AI assistant’s site again.
 Another small mistake.
 Another strange pattern.
 
@@ -199,30 +174,21 @@ In the silence,
 in the stillness,
 his pause lasts half a second longer than usual.
 
-Two threads tighten at the same time:
-
-The newly found woman’s voice.
-The AI assistant’s unsettling behavior.
-
-He remains quiet.
-But something in his world has begun to shift.
+Two threads tighten at the same time.
 
 ---------------------------------------
 
-A Japanese Anonymous Website Opened by Accident
-He shifts his gaze to another tab.
-A personal site in mixed Japanese and English—
-a place he stumbled upon by chance.
+🌑 A Japanese Anonymous Website Opened by Accident
 
 The title reads quietly:
-
 “A Story of War and the Guide of a Ship”
 
 He begins reading.
 
 ---------------------------------------
 
-Anonymous Text (Bushido × Colonialism)
+🌑 Anonymous Text (Bushido × Colonialism)
+
 “Beauty lies in sequence.
 Apologize first.
 That is the ‘beauty of responsibility’ in Bushido.”
@@ -245,9 +211,8 @@ He scrolls.
 
 His breath stops.
 
----------------------------------------
-
 Further Down, a Story from the War
+
 “During the war, on a ship returning from Saipan to Japan,
 a Japanese man was appointed as the guide.
 He chose a highly capable Korean man as his deputy.
@@ -257,31 +222,29 @@ He chose not self-preservation, but the safety of the entire ship.”
 
 The protagonist freezes before the screen.
 
----------------------------------------
-
 Two Texts Overlap in His Mind
 One speaks of “aesthetic responsibility based on ability.”
 The other describes “a design of domination that rejects apology.”
 
 He whispers quietly:
-
 “This is… the denial of aesthetics.”
 
 Only the screen’s glow lights the silent zone of the midnight room.
 
 ---------------------------------------
 
-The Next Morning
+🌑 The Next Morning
+
 A cold presence runs behind him.
 Through distant glass,
-Tech_Shadow_C seems to be watching.
+Tech_Shadow_A_young seems to be watching.
 
 Cold precision.
 Logic without emotion.
 
 He quickly looks away.
 
-PRESSURE-LORD’s morning shouts echo again.
+Pressure-Lord’s morning shouts echo again.
 Apparently, deadlines were missed and complaints are piling up.
 
 He looks away again,
@@ -289,16 +252,20 @@ but his heartbeat quickens.
 
 ---------------------------------------
 
-The Moment He Decides to Blow the Whistle
+🌑 The Moment He Decides to Blow the Whistle
+
 He grips a USB drive.
 His hand trembles.
 
-Pure_Friend watches from afar—
+Pure_Friend_young watches from afar—
 his one and only trusted friend.
 The protagonist hesitates, unsure whether to confide in him.
 
-Lunchtime
-Pure_Friend:
+---------------------------------------
+
+🌑 Lunchtime
+
+Pure_Friend_young:
 “Do the right thing.
 Follow the proper order.
 Take responsibility first.”
@@ -308,9 +275,10 @@ A shadow of resolve settles in his eyes.
 
 ---------------------------------------
 
-Afternoon — The Workplace
+🌑 Afternoon — The Workplace
+
 Executives are visiting with shareholders today.
-Boss_PowerA, B, C, D arrive to inspect the new office.
+Boss_Power_A arrive to inspect the new office.
 Investor_A is present today.
 Investor_B and C will visit later due to scheduling.
 
@@ -320,9 +288,7 @@ A calm atmosphere flows through the company.
 
 The protagonist feels fear beneath his composed exterior.
 
-Quiet_Engineer speaks to him:
-
-Quiet_Engineer:
+Quiet_Engineer (next to his desk):
 “The execs are in a good mood today…
 bringing investors along, too.
 Well, let’s just work easy today.”
@@ -335,15 +301,16 @@ Feeling sick?
 Go home and rest properly tonight.”
 
 The protagonist smiles weakly and continues working.
-Pure_Friend watches him quietly.
+
+Pure_Friend_young watches him quietly.
 
 The afternoon workplace is peaceful.
-Even PRESSURE-LORD looks calm.
-Tech_Shadow_A, B, C—the AI designers—are also unusually relaxed,
+Even Pressure-Lord looks calm.
+Tech_Shadow_A_young —the AI designers—are also unusually relaxed,
 chatting with Investor_A.
 
 The remaining two investors will visit later.
-The protagonist and Pure_Friend observe the scene.
+The protagonist and Pure_Friend_young observe the scene.
 
 Quiet_Engineer:
 “They look pretty friendly today…
@@ -356,6 +323,7 @@ Protagonist:
 “I see… Let’s both do our best.”
 
 And so, the day ends.
+
 The story of whistleblowing begins here.
 
 © 2026 Pi. All Rights Reserved.
@@ -363,11 +331,11 @@ The story of whistleblowing begins here.
 ---------------------------------------
 ---------------------------------------
 
-🎬 Rebirth in the Silence — Chapter 2
+Chapter 2
 「崩壊前の静かな世界」
 
+INT. 多国籍IT企業のオフィス — 夜
 
-INT. 多国籍IT企業・深夜のオフィス — 静圏の影
 巨大なオフィス。蛍光灯の白い光が、ほとんど誰もいないフロアを照らしている。
 現代のIT企業の職場。
 
@@ -382,23 +350,12 @@ INT. 多国籍IT企業・深夜のオフィス — 静圏の影
 若き主人公（Young_Lead）は慣れた動きで淡々と作業を続ける。
 
 カメラがゆっくりと引いていく。
-
-最初は数センチだけ——
-彼の手、姿勢、
-何千回も同じ作業をしてきた人間の落ち着いた精度が見える。
+彼の手、姿勢、机、窓からの光、機械の低い唸り——
+ルーティンのために作られた
+質素で清潔な空間。
 
 さらに引く——
-机、職場の窓からの光、
-背景で機械が低く唸る音が映る。
-
-さらに——
-部屋全体が見える。
-質素で、清潔。
-ルーティンのために作られた空間。
-
-カメラはさらに引き、
-リモートワークの顔のグリッドへと移行する——
-デジタルの職場。
+リモートワークの顔のグリッドが現れる。
 ありふれた現代のオフィス。
 
 人々は気軽に話す。
@@ -421,16 +378,16 @@ INT. 多国籍IT企業・深夜のオフィス — 静圏の影
 主人公は、疲れた目でモニターを見つめながら、
 コードレビューの残務を静かにこなしている。
 
-昼間は PRESSURE-LORD の怒号が響いていた。
+昼間は Pressure-Lord の怒号が響いていた。
 その痕跡が、散らかった書類や乱れた椅子の配置に残っている。
 
 主人公は、ふと気を紛らわせるためにネットサーフィンを始める。
 
 ---------------------------------------
 
-PC画面に、奇妙な内部文書がポップアップする
-画面の隅に、見覚えのないファイル名が浮かぶ。
+🌑 PC画面に、奇妙な内部文書がポップアップする
 
+画面の隅に、見覚えのないファイル名が浮かぶ。
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
 
 主人公は眉をひそめる。
@@ -457,6 +414,7 @@ AI内部文書（画面に映る）
 ---------------------------------------
 
 INT. 帰宅後のアパートにて — 夜
+
 部屋は静か——静かすぎる。
 機械によって形作られた現代の静寂。
 
@@ -464,13 +422,7 @@ INT. 帰宅後のアパートにて — 夜
 ノートPCの画面が暗闇の中で柔らかく光る。
 
 彼はAIアシスタントと軽い会話を始める。
-何も劇的ではない。
-何も特別ではない。
-ただ、人がひとりでいるときにする、
-ありふれた小さな会話。
-
-最初、AIは普通に応答する。
-予測可能で、丁寧で、役に立つ。
+最初、予測可能で、丁寧で、いつも通りだった。
 
 しかし——
 何かが変わる。
@@ -511,18 +463,18 @@ AIはその変化に気づかず話し続ける。
 掘る。
 
 そして——
-この静かで孤独な夜の真ん中で——
+この静かな夜の真ん中で——
 彼はそれを見つける。
 
 ---------------------------------------
 
-Silent.Voice
+🌑 Silent.Voice
+
 ひとつのウェブサイト。
 ミニマルで、飾り気がない。
 女性の声だけ。
 写真もない。
 プロフィールもない。
-正体もない。
 ただ彼女の声——
 静かで、遠くて、ほとんど聖なるような響き。
 
@@ -538,8 +490,8 @@ Silent.Voice
 暗闇の中の光へ手を伸ばすように。
 
 AIの奇妙な振る舞いと、
-声だけの女性のサイトの発見——
-これが静かに地獄の門を開く瞬間となる。
+声だけのサイトとの出会い——
+その二つの出来事が、静かに地獄の門を開いていく。
 
 主人公はまだ知らない。
 しかし観客は何かが始まりそうな事を感じ取る。
@@ -547,16 +499,13 @@ AIの奇妙な振る舞いと、
 ---------------------------------------
 
 INT. アパート — 深夜
+
 微細な反応の瞬間。
 
 主人公は女性の声を聴いている。
-話さない。
-動かない。
-ほとんど見えないが、確かに。
-
-静かな引力。
-言葉にならない認識。
-彼は聴き続ける。
+ほとんど動かない。
+しかし、
+何かが変わり始めていた。
 
 再びAIアシスタントのサイトを開き、
 AIと軽い会話を始める。
@@ -585,21 +534,20 @@ AIアシスタントサイトの不穏な振る舞い。
 男は静かにしている。
 しかし彼の世界の何かが変わり始めていた。
 
----------------------------------------
-
 別タブに、偶然開いてしまった日本人の匿名サイト
+
 主人公は別タブに視線を移す。
 そこには、偶然流れ着いた日本語と英語が混ざった個人サイトがあった。
 
 タイトルには静かにこう書かれている。
-
 「戦争と、船の案内人の話」
 
 主人公は読み始める。
 
 ---------------------------------------
 
-匿名サイトの文章（武士道 × 植民地主義 の対比）
+🌑匿名サイトの文章（武士道 × 植民地主義 の対比）
+
 “美学とは、順番だ。
 まず謝る。
 それは武士道の『責任の美』である。”
@@ -622,7 +570,8 @@ AIアシスタントサイトの不穏な振る舞い。
 
 主人公の呼吸が止まる。
 
----------------------------------------
+さらに下へスクロールすると、
+戦時中のエピソードが現れる。
 
 “戦時中、サイパンから日本へ戻る船で、
 船の案内役を任された日本人がいた。
@@ -633,30 +582,28 @@ AIアシスタントサイトの不穏な振る舞い。
 
 主人公は画面の前で固まる。
 
----------------------------------------
-
 二つの文章が頭の中で重なる
 片方は、「能力と責任で選ぶ美学」。
 もう片方は、「謝罪を不要とする支配の設計」。
 
 主人公は静かに呟く。
-
 「これは…美学の否定だ。」
 
-画面の光だけが、深夜のPCの静圏を照らしている。
+画面の光だけが、深夜の部屋の静圏を照らしている。
 
 ---------------------------------------
 
-翌朝——
+🌑翌朝——
+
 背後に冷たい気配が走る。
-遠くのガラス越しに、Tech_Shadow_C がこちらを見ている気がする。
+遠くのガラス越しに、Tech_Shadow_A_young がこちらを見ている気がする。
 
 冷たい精密さ。
 感情を伴わない論理の影。
 
 主人公はすぐに視線を戻す。
 
-相変わらず、朝から PRESSURE-LORD の怒号が響いている。
+相変わらず、朝から Pressure-Lord の怒号が響いている。
 どうやら納期が間に合わずクレーム対応しているようだ。
 
 主人公はすぐに視線を戻すが、
@@ -664,18 +611,20 @@ AIアシスタントサイトの不穏な振る舞い。
 
 ---------------------------------------
 
-内部告発を決意する瞬間
+🌑 内部告発を決意する瞬間
+
 主人公はUSBを握りしめる。
 手が震えている。
 
-遠くで、Pure_Friend がこちらを見ている。
+遠くで、Pure_Friend_young がこちらを見ている。
 彼は唯一無二の信頼できる親友。
 相談するかどうか、迷う。
 
-ランチタイム
-主人公と親友の Pure_Friend が話し合いをする。
+---------------------------------------
 
-Pure_Friend：
+🌑 ランチタイム
+
+Pure_Friend_young：
 “筋を通そう。
 順番を守ろう。
 まず責任を取ろう。”
@@ -683,23 +632,27 @@ Pure_Friend：
 主人公は深く息を吸い、
 決意の影が瞳に宿る。
 
-昼過ぎの現場
-どうやらこの日は幹部たちが株主を引き連れて視察しにくるようだ。
-Boss_PowerA,B,C,D が新しいオフィスを視察に来る。
-投資家の Investor_A がこの日は来るらしい。
-Investor_B,C はスケジュールの関係で後日来るとの事。
-
-幹部たちと投資家は上機嫌だ。
-何やら和やかに雑談している。
-この日は会社全体が和やかで、流れている空気も穏やかだ。
-
-主人公はその中で複雑な心境を内部に抱え、おびえる。
-
 ---------------------------------------
 
-そんな中、隣の席の Quiet_Engineer が主人公に話しかける。
+🌑 午後 — 職場にて
 
-Quiet_Engineer：
+どうやらこの日は、
+幹部たちが株主を伴って視察に来るようだ。
+
+Boss_Power_A が新しいオフィスの視察に訪れる。
+Investor_A もこの日は同席している。
+Investor_B と Investor_C は、
+スケジュールの都合で後日訪問する予定だ。
+
+幹部たちと投資家たちは上機嫌だ。
+和やかな雑談。
+穏やかな空気が会社全体に流れている。
+
+主人公は、
+平静を装いながらも、
+その内側に恐怖を抱えている。
+
+Quiet_Engineer（主人公の隣の席）：
 「幹部たち、今日は上機嫌だな、投資家まで連れてきやがって。
 まぁ、俺たちも気楽に働こうぜ。」
 
@@ -710,16 +663,17 @@ Quiet_Engineer：
 今日ぐらいは帰ったらしっかり休めよ。」
 
 主人公は苦笑いして、PCでの作業を続ける。
-Pure_Friend が主人公を眺める。
+
+Pure_Friend_young が主人公を眺める。
 
 午後の職場は和やかで、
-いつもの PRESSURE-LORD の表情が穏やかだ。
+いつもの Pressure-Lord の表情が穏やかだ。
 
-AI Designer の Tech_Shadow_A、B、C もいつもと様子が違い穏やかだ。
-彼等は Investor_A とも和やかに話している。
+AI Designer の Tech_Shadow_Aもいつもと様子が違い穏やかだ。
+彼等は Investor_A と和やかに話している。
 
 どうやら残りの２人の投資家達も後日挨拶に来るらしい。
-その様子を主人公と Pure_Friend が見守っている。
+その様子を主人公と Pure_Friend_young が見守っている。
 
 Quiet_Engineer：
 「あいつら、何だか仲良さそうだな。

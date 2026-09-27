@@ -1,4 +1,6 @@
-🎬 Rebirth in the Silence — Chapter 1
+🎬 Rebirth in the Silence
+
+Chapter 1
 “The Candle Scene”
 
 INT. DARK ROOM — NIGHT
@@ -91,7 +93,9 @@ It only listens.
 ---------------------------------------
 ---------------------------------------
 
-🎬 Rebirth in the Silence — Chapter 1
+🎬 Rebirth in the Silence
+
+Chapter 1
 「キャンドルのシーン」
 
 INT. 暗い部屋 — 夜
