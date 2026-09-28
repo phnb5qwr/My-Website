@@ -64,7 +64,8 @@ The protagonist finally decides.
 🌑 SCENE 3-A-2｜The Middle Age Decision and the Return of the Shadow
 
 As he prepares for the lawsuit,
-he feels the quiet creaking of his “younger shadow” deep within his chest.
+he feels his “younger shadow”
+stirring quietly deep within him.
 
 His younger self—
 cowardly,
@@ -72,9 +73,8 @@ consumed by fear,
 choosing silence,
 running away with unresolved doubt.
 
-That shadow,
-now in middle age,
-begins to reappear.
+Now that he is middle-aged,
+that shadow begins to reappear.
 
 “Can I really do this?”
 “Will I run away again?”
@@ -100,7 +100,7 @@ INT. Separate Room — Moments Later
 The confrontation begins.
 
 Pressure Lord_midterm:
-“You’ve wrecked the entire field!
+“You’ve thrown this entire team into chaos!
 Deadlines are blown, complaints everywhere!
 How are you going to take responsibility!?”
 
@@ -155,7 +155,7 @@ Whether users suffer, die, or fall into mental illness—
 it doesn’t matter to the company.
 If they don’t like it, they can stop using it.
 They should take responsibility themselves.
-We have no responsibility at all.”
+Their choices are their responsibility, not ours.”
 
 The protagonist leaves, exasperated.
 
@@ -239,7 +239,7 @@ but his expression is completely frozen.
 
 ---------------------------------------
 
-🌑 SCENE 3 B 4｜Hell’s Madness（Investor_C — God of Hell）
+🌑 SCENE 3 B 4｜Infernal Madness（Investor_C — God of Hell）
 
 From the window overlooking the skyline,
 Investor_C — clad in an immaculate high end suit — stands in silence,
@@ -363,7 +363,7 @@ At this point,
 perhaps we have no choice but to let events run their course—”
 
 Investor_A  
-“How do you intend to survive this.”
+“How do you intend to survive this?”
 
 Silence falls over the room.
 
@@ -457,7 +457,7 @@ But courage often demands a price.
 Righteousness can be lonely.
 Yet beyond that loneliness, there is light.”
 
-The protagonist lowers his shoulders and leaves the room.
+The protagonist lowers his head and leaves the room.
 
 ---------------------------------------
 
@@ -819,7 +819,7 @@ Boss_Power_A_midterm（CFO）
 ここはもう、流れに任せるしか——」
 
 Investor_A  
-「どう乗り切る気だ。」
+「どう乗り切る気だ?」
 
 全員が沈黙する。
 
