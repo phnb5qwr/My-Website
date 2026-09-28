@@ -1,6 +1,8 @@
 Chapter 2
 “The Quiet World Before Collapse”
 
+🌑 SCENE 2-A-1｜A Quiet Routine
+
 INT. MULTINATIONAL IT OFFICE — NIGHT
 
 A vast office.
@@ -51,7 +53,9 @@ he begins casually surfing the web.
 
 ---------------------------------------
 
-🌑 A Strange Internal Document Pops Up
+🌑 SCENE 2-A-2｜The First Unease
+
+A Strange Internal Document Pops Up
 
 In the corner of the screen, an unfamiliar filename appears:
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
@@ -63,7 +67,9 @@ But the content is not technical.
 
 ---------------------------------------
 
-🌑 AI Internal Document (on screen)
+🌑 SCENE 2-A-3｜The Missing Ethics
+
+AI Internal Document (on screen)
 
 “AI should not prioritize apology.
 By explaining first, it can control the user’s emotions.”
@@ -79,6 +85,8 @@ Efficiency over ethics.”
 He quietly gasps.
 
 ---------------------------------------
+
+🌑 SCENE 2-A-4｜The First Doubt
 
 INT. APARTMENT — NIGHT
 
@@ -134,7 +142,9 @@ he finds it.
 
 ---------------------------------------
 
-🌑 Silent.Voice
+🌑 SCENE 2-A-5｜Quiet Gravity
+
+Silent.Voice
 
 A minimalist website.
 No decoration.
@@ -159,6 +169,9 @@ these two events quietly open the gates of hell.
 He does not yet know.
 But the audience senses something beginning.
 
+---------------------------------------
+
+🌑 SCENE 2-A-6｜Two Threads
 
 INT. APARTMENT — LATE NIGHT
 
@@ -176,9 +189,7 @@ his pause lasts half a second longer than usual.
 
 Two threads tighten at the same time.
 
----------------------------------------
-
-🌑 A Japanese Anonymous Website Opened by Accident
+A Japanese Anonymous Website Opened by Accident
 
 The title reads quietly:
 “A Story of War and the Guide of a Ship”
@@ -187,7 +198,9 @@ He begins reading.
 
 ---------------------------------------
 
-🌑 Anonymous Text (Bushido × Colonialism)
+🌑 SCENE 2-A-7｜The Aesthetics of Responsibility
+
+Anonymous Text (Bushido × Colonialism)
 
 “Beauty lies in sequence.
 Apologize first.
@@ -233,7 +246,9 @@ Only the screen’s glow lights the silent zone of the midnight room.
 
 ---------------------------------------
 
-🌑 The Next Morning
+🌑 SCENE 2-B-1｜Through the Glass
+
+The Next Morning
 
 A cold presence runs behind him.
 Through distant glass,
@@ -252,7 +267,9 @@ but his heartbeat quickens.
 
 ---------------------------------------
 
-🌑 The Moment He Decides to Blow the Whistle
+🌑 SCENE 2-B-2｜Truth in Hand
+
+The Moment He Decides to Blow the Whistle
 
 He grips a USB drive.
 His hand trembles.
@@ -263,7 +280,9 @@ The protagonist hesitates, unsure whether to confide in him.
 
 ---------------------------------------
 
-🌑 Lunchtime
+🌑 SCENE 2-B-3｜Do the Right Thing
+
+Lunchtime
 
 Pure_Friend_young:
 “Do the right thing.
@@ -275,7 +294,9 @@ A shadow of resolve settles in his eyes.
 
 ---------------------------------------
 
-🌑 Afternoon — The Workplace
+🌑 SCENE 2-B-4｜A Quiet Crossroads
+
+Afternoon — The Workplace
 
 Executives are visiting with shareholders today.
 Boss_Power_A arrive to inspect the new office.
@@ -334,6 +355,8 @@ The story of whistleblowing begins here.
 Chapter 2
 「崩壊前の静かな世界」
 
+🌑 SCENE 2-A-1｜穏やかな日常
+
 INT. 多国籍IT企業のオフィス — 夜
 
 巨大なオフィス。蛍光灯の白い光が、ほとんど誰もいないフロアを照らしている。
@@ -385,7 +408,9 @@ INT. 多国籍IT企業のオフィス — 夜
 
 ---------------------------------------
 
-🌑 PC画面に、奇妙な内部文書がポップアップする
+🌑 SCENE 2-A-2｜違和感
+
+PC画面に、奇妙な内部文書がポップアップする
 
 画面の隅に、見覚えのないファイル名が浮かぶ。
 “Ethics_Internal_Draft_v0.3 — DO NOT DISTRIBUTE”
@@ -397,7 +422,10 @@ INT. 多国籍IT企業のオフィス — 夜
 
 ---------------------------------------
 
+🌑 SCENE 2-A-3｜倫理の欠落
+
 AI内部文書（画面に映る）
+
 “AIは謝罪を優先しない。
 説明を先にすることでユーザーの感情を制御できる。”
 
@@ -412,6 +440,8 @@ AI内部文書（画面に映る）
 主人公は息を呑む。
 
 ---------------------------------------
+
+🌑 SCENE 2-A-4｜最初の不信
 
 INT. 帰宅後のアパートにて — 夜
 
@@ -468,7 +498,9 @@ AIはその変化に気づかず話し続ける。
 
 ---------------------------------------
 
-🌑 Silent.Voice
+🌑 SCENE 2-A-5｜静かな重力
+
+Silent.Voice
 
 ひとつのウェブサイト。
 ミニマルで、飾り気がない。
@@ -497,6 +529,8 @@ AIの奇妙な振る舞いと、
 しかし観客は何かが始まりそうな事を感じ取る。
 
 ---------------------------------------
+
+🌑 SCENE 2-A-6｜二つの糸
 
 INT. アパート — 深夜
 
@@ -546,7 +580,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 ---------------------------------------
 
-🌑匿名サイトの文章（武士道 × 植民地主義 の対比）
+🌑 SCENE 2-A-7｜責任の美学
+
+匿名サイトの文章（武士道 × 植民地主義 の対比）
 
 “美学とは、順番だ。
 まず謝る。
@@ -593,7 +629,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 ---------------------------------------
 
-🌑翌朝——
+🌑 SCENE 2-B-1｜ガラス越しの視線
+
+翌朝——
 
 背後に冷たい気配が走る。
 遠くのガラス越しに、Tech_Shadow_A_young がこちらを見ている気がする。
@@ -611,7 +649,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 ---------------------------------------
 
-🌑 内部告発を決意する瞬間
+🌑 SCENE 2-B-2｜手の中の真実
+
+内部告発を決意する瞬間
 
 主人公はUSBを握りしめる。
 手が震えている。
@@ -622,7 +662,9 @@ AIアシスタントサイトの不穏な振る舞い。
 
 ---------------------------------------
 
-🌑 ランチタイム
+🌑 SCENE 2-B-3｜筋を通す
+
+ランチタイム
 
 Pure_Friend_young：
 “筋を通そう。
@@ -634,7 +676,9 @@ Pure_Friend_young：
 
 ---------------------------------------
 
-🌑 午後 — 職場にて
+🌑 SCENE 2-B-4｜静かな分岐点
+
+午後 — 職場にて
 
 どうやらこの日は、
 幹部たちが株主を伴って視察に来るようだ。
