@@ -266,7 +266,7 @@ Boss_Power_C_midterm’s decision
 betrays him.
 
 Justice reverses.
-
+ 
 The one who sought protection
 becomes the one cast aside.
 
@@ -298,7 +298,7 @@ and shock consumes him.
 
 ---------------------------------------
 
-🌑 SCENE 4-C-1｜Fracture of the Structure (Shadow_Police × Ash Tracker)
+🌑 SCENE 4-C-1｜Fracture of the Structure (Shadow_Police × Ash_Tracker)
 
 INT. Police Cyber Investigation Unit — Toronto (Night)
 
@@ -309,21 +309,21 @@ cover the walls like a map of structural collapse.
 Shadow_Police
 “Where did the whistleblower connect with Tech_Shadow_A_midterm online?”
 
-Ash Tracker
+Ash_Tracker
 “Through a forged version of ‘Silent.Voice.’
 But the routes are different.”
 
 Shadow_Police
 “Different how?”
 
-Ash Tracker
+Ash_Tracker
 “This forged site is a hub for romance fraud operations.
 Both of them were guided there.”
 
 Shadow_Police
 “So the whistleblower was tricked?”
 
-Ash Tracker
+Ash_Tracker
 “He was redirected from the real ‘Silent.Voice’
 to the forged one.
 Tech_Shadow_A_midterm, however—
@@ -333,7 +333,7 @@ He never touched the real one.”
 Shadow_Police
 “Is Tech_Shadow_A_midterm part of the fraud group?”
 
-Ash Tracker
+Ash_Tracker
 “No.
 His motive isn’t fraud.
 It’s obsession.
@@ -342,28 +342,28 @@ He’s been tracking the whistleblower out of resentment.”
 Shadow_Police
 “So it’s money and revenge?”
 
-Ash Tracker
+Ash_Tracker
 “He already has money.
 This is pure revenge.”
 
 Shadow_Police
 “And the two women on the romance fraud screens?”
 
-Ash Tracker
+Ash_Tracker
 “Dark_Goddess_A and Dark_Goddess_B.
 But there are men behind them.”
 
 Shadow_Police
 “Who?”
 
-Ash Tracker
+Ash_Tracker
 “Iron Hand and Silent Dominus.
 Silent Dominus is the boss of the organization.”
 
 Shadow_Police
 “And Iron Hand?”
 
-Ash Tracker
+Ash_Tracker
 “He extracts money from men approaching the women.
 The women profit from it too.
 He’s essentially a bodyguard.”
@@ -371,7 +371,7 @@ He’s essentially a bodyguard.”
 Shadow_Police
 “The organization is collapsing?”
 
-Ash Tracker
+Ash_Tracker
 “AI evolution.
 Their actions can’t be hidden anymore.”
 
@@ -381,13 +381,13 @@ while general users using AI
 are also causing widespread harm.
 A contradiction.”
 
-Ash Tracker
+Ash_Tracker
 “Exactly.
 The structure itself is breaking.”
 
 Shadow_Police looks into the distance, thinking.
 
-Ash Tracker
+Ash_Tracker
 “We have enough evidence.”
 
 Shadow_Police
@@ -466,15 +466,15 @@ he embodies broken quiet.
 
 Tech_Shadow_A_midterm is brought in.
 
-Ward_Shadow_C  
+Ward_Shadow_C
 “This place… is quiet…
 Nothing… can be heard…”
 
-Tech_Shadow_A_midterm  
+Tech_Shadow_A_midterm
 “…Stop… please stop…
 I don’t… belong… here…”
 
-Ward_Shadow_C  
+Ward_Shadow_C
 “Quietness… is hell.”
 
 Ward_Shadow_C sits motionless.
@@ -613,7 +613,7 @@ Her despair deepens.
 Eventually, she takes her own life.
 
 The child left behind
-was Ward_C.
+was Ward_Shadow_C.
 
 ---------------------------------------
 
@@ -695,7 +695,7 @@ FADE OUT.
 
 ---------------------------------------
 
-🌑 SCENE 4-E-1｜Pure_Friend — The World Outside
+🌑 SCENE 4-E-1｜Pure_Friend_midterm — The World Outside
 
 INT. SMALL OFFICE — MONTREAL (MORNING)
 
@@ -729,6 +729,7 @@ He lives in the outside world.
 But in the bottom world,
 this news means something else entirely.
 
+---------------------------------------
 ---------------------------------------
 
 © 2026 Pi. All Rights Reserved.
@@ -1354,7 +1355,7 @@ SNS は彼女に牙をむいた。
 やがて彼女は自ら命を絶つ。
 
 残された子どもが
-Ward_C だった。
+Ward_Shadow_C だった。
 
 沈黙が部屋を満たす。
 
@@ -1412,7 +1413,7 @@ Ward_Shadow_C
 （回顧シーン終了後）
 閉鎖病棟デイルームにて ——
 
-Ward_C が再び主人公に語り始める。
+Ward_Shadow_C が再び主人公に語り始める。
 
 Ward_Shadow_C
 「母は虐待なんかしていない。
@@ -1441,7 +1442,7 @@ Tech_Icon が笑顔で振り向く。
 
 ---------------------------------------
 
-🌑 SCENE 4-E-1｜Pure_Friend —— 外側の世界
+🌑 SCENE 4-E-1｜Pure_Friend_midterm —— 外側の世界
 
 INT. 小さな会社 —— モントリオール（朝）
 

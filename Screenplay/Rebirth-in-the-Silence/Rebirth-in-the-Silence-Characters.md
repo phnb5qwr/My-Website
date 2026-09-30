@@ -155,7 +155,7 @@ Police / Pursuers
 
 🔥 Investigator Hunting the Crime Syndicate
 (The Hell Beyond the Walls)
-Ash-Tracker
+Ash_Tracker
 
 ---------------------------------------
 
@@ -375,7 +375,7 @@ Shadow_Police
 
 🔥 犯罪組織を追う捜査官
 （外界の地獄）
-Ash-Tracker
+Ash_Tracker
 
 ---------------------------------------
 
