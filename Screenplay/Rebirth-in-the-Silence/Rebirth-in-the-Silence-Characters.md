@@ -1,8 +1,8 @@
-🎬 Rebirth in the Silence
+Rebirth in the Silence
 Complete Cast
 Character Archive
 
-🧩 Protagonist (Three Eras)
+Protagonist (Three Eras)
 
 Young_Lead
 The Fragile Shadow of Silence (Youth)
@@ -15,7 +15,7 @@ The Quiet Witness (Old Age)
 
 ---------------------------------------
 
-🧑‍💻 Early Office Era
+Early Office Era
 (Multinational IT × Silent Sphere Reality)
 
 Quiet_Engineer_young
@@ -23,7 +23,7 @@ The Quiet Engineer (Youth Era Only)
 
 ---------------------------------------
 
-💧 Silent Companions
+Silent Companions
 (Early Allies)
 
 Pure_Friend_young
@@ -35,7 +35,7 @@ Supports Middle_Lead After His Injury
 
 ---------------------------------------
 
-🔥 Workplace Enforcer
+Workplace Enforcer
 (Pressure from the Flame Sphere)
 
 Pressure-Lord
@@ -48,7 +48,7 @@ Different person, same archetypal role: “Pressure-Lord.”
 
 ---------------------------------------
 
-🧠 AI Designers / Technical Madness
+AI Designers / Technical Madness
 (Cold Intelligence)
 
 The nature of the shadow remains the same, but branches across eras and workplaces.
@@ -71,7 +71,7 @@ Knows the hidden mechanics of SNS structures
 Target of Shadow_Police investigations
 A shadow that reinforces the protagonist’s external hell
 
--
+---------------------------------------
 
 Tech_Shadow_B_midterm
 Silent Surveillance
@@ -85,7 +85,7 @@ The Cold Shadow Standing Behind the Protagonist
 
 ---------------------------------------
 
-👔 Boss
+Boss
 (Men of Light and Power)
 
 CXO characters branch across eras as the companies change.
@@ -100,7 +100,7 @@ CTO / Violence of Technology
 Boss_Power_D_midterm
 Head of Ethical Audit
 
--
+---------------------------------------
 
 Boss_Power_C_midterm
 CCO / Shadow of Ethics
@@ -112,8 +112,8 @@ Reunites with the protagonist in old age
 
 ---------------------------------------
 
-💼 Investors
-The Trinity of Madness
+Investors
+(The Trinity of Madness)
 
 The investors remain the same individuals across companies and eras.
 
@@ -128,38 +128,41 @@ God of Hell
 
 ---------------------------------------
 
-⚖ Judge
+Judge
 
 Judge_Silent
 The Pinnacle of Structural Violence
 
----------------------------------------
 
-🕸 Dark Goddesses
+Romance Scam group
+
+Dark Goddesses
 (Double Romance Scam)
 Dark_Goddess_A
 Dark_Goddess_B
 
-🥀 Romance Scam Enforcement Unit
+Romance Scam Enforcement Unit
+(Shadow of Violence)
 Iron-Hand
-Shadow of Violence
 
-🕶 Romance Scam Kingpin
+Romance Scam Kingpin
+(Master of Structural Violence)
 Silent-Dominus
-Master of Structural Violence
 
 ---------------------------------------
 
-👮 Shadow_Police
-Police / Pursuers
+Police Station
 
-🔥 Investigator Hunting the Crime Syndicate
+Police
+(Police / Pursuers)
+Shadow_Police
+
+Investigator Hunting the Crime Syndicate
 (The Hell Beyond the Walls)
 Ash_Tracker
 
----------------------------------------
 
-🏥 Psychiatric Ward
+Psychiatric Ward
 (Gateway to the Abyss)
 
 Ward_Shadow_A
@@ -168,7 +171,7 @@ Center of the Murky Sphere
 Ward_Shadow_B
 Fragile Madness of Silence
 
--
+---------------------------------------
 
 Ward_Shadow_C
 Salvation of the Shadow Sphere
@@ -179,14 +182,14 @@ Old Age Version of Ward_Shadow_C
 
 ---------------------------------------
 
-📺 Tech_Icon
+Tech_Icon
+(Appears Briefly in a Commercial)
 
-Appears Briefly in a Commercial
 Tech_Icon
 
 ---------------------------------------
 
-🎙 Media & Public Sphere
+Media & Public Sphere
 (Era of Rebirth × Global Quietude)
 
 Trickster_Host
@@ -200,12 +203,12 @@ Future Wife of the Protagonist
 
 ---------------------------------------
 
-👵 Old Age
-Symbol of Quietude
+Old Age
+(Symbol of Quietude)
 
 Senior_Lead
 
-👥 Silent Companions
+Silent Companions
 Spiritual Friends
 
 Ward_Shadow_C_Senior
@@ -217,19 +220,18 @@ Old Age Version of Pure_Friend
 Boss_Power_C_Senior
 Old Age Version of Boss_Power_C
 
-👶 Grandchildren
+Grandchildren
 Future_Voices
 Voices of the Future
 
-👩‍🦳 Senior_Wife
-The Invisible Light
-A Presence Known Only Through Her Voice
 Voice_Female_Senior
 Old Age Version of Voice_Female
 
 ---------------------------------------
 
 © 2026 Pi. All Rights Reserved.
+
+---------------------------------------
 
 ---------------------------------------
 ---------------------------------------
