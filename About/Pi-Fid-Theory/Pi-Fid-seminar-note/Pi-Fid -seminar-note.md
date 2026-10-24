@@ -4,3 +4,9 @@ Piによる理論研究対話記録
 
 AIとの対話を含む研究メモ
 
+
+Pi-Fid Theory™ Seminar
+
+Pi-Fid Theory™ Dialogue Series
+
+Pi-Fid Theory™ Notes
