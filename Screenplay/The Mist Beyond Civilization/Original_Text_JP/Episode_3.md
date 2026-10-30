@@ -25,7 +25,7 @@ work,
 romance,
 support,
 and many other forms of human relationships.
-________________________________________
+
 The first section concerned employment.
 One clause read:
 "An agreement ensuring that communication between supervisors and employees remains safe, healthy, and free from intimidation or hostility during workplace training."
@@ -39,7 +39,7 @@ AER blinked.
 AER stared at the document in silence.
 Then he continued reading.
 "...What a troublesome civilization."
-________________________________________
+
 The contract grew thicker with every page.
 There were agreements concerning workplace decisions.
 Agreements preventing people from denying their own words.
@@ -49,14 +49,14 @@ Agreements ensuring a separation between professional and personal emotions.
 Agreements requiring investigations into whether stress within the workplace had caused illness.
 Most sections ended with the same sentence:
 "Violation of this agreement may result in financial penalties."
-________________________________________
+
 The romantic relationship section was even longer.
 There were agreements confirming mutual consent before a relationship began.
 Agreements governing how conflicts should be handled once emotions changed.
 Agreements describing responsibilities after a relationship ended.
 And once again, every section eventually led to penalties, conditions, exceptions, and examples.
 The pages seemed endless.
-________________________________________
+
 The support agreements were no less complicated.
 One entry stated:
 "An agreement ensuring that support does not create a coercive hierarchy between the provider and the recipient."
@@ -64,18 +64,18 @@ Another read:
 "An agreement verifying that both parties continue to treat one another with equal dignity despite disagreements."
 AER found this particularly interesting.
 Apparently, even kindness required documentation.
-________________________________________
+_
 Page after page continued in the same manner.
 AER carefully transmitted all observations to his homeworld.
 After reviewing the report, his supervisor finally responded.
 "We understand the situation on Earth. Your assignment is complete."
 Relieved, AER closed the enormous contract and began searching for its owner.
-________________________________________
+
 Eventually he reached a nearby information center.
 The attendant looked delighted.
 "Oh, thank goodness! We've been looking for that. The owner contacted us earlier today."
 The document was safely returned.
-________________________________________
+
 With his task finished, AER walked quietly down the snowy road.
 Snow continued to fall.
 His supervisor remained behind at his desk, recording the final observation in the planetary archive.
@@ -116,7 +116,7 @@ AERが到着した時代の地球には、 どうやら無数の契約書が存�
 恋愛。
 支援。
 その他あらゆる人間関係。
-________________________________________
+
 契約書には、 それらに関する取り決めが延々と記されていた。
 最初の項目は仕事についてだった。
 「上司と部下の会話が威圧的または反抗的にならず、安全かつ健全であることを保証する契約」
@@ -132,7 +132,7 @@ AERはしばらく考えた。
 AERは契約書を見つめた。
 そして小さく呟いた。
 「……面倒な文明だな。」
-________________________________________
+
 それからも契約書は続いた。
 「誰が何を言ったのかを曖昧にしない契約」
 「同僚同士が陰口や足の引っ張り合いを行わない契約」
@@ -142,7 +142,7 @@ ________________________________________
 そして多くの項目の最後には、 同じ文言が書かれていた。
 「これらの契約に違反した場合、違約金○○円」
 AERはさらに先へ読み進める。
-________________________________________
+
 恋愛に関する章だった。
 そこには、
 「恋愛が双方の同意によって始まったことを確認する契約」
@@ -152,30 +152,29 @@ ________________________________________
 そしてここでも、 違約金規定が続いていた。
 ページは終わらない。
 契約も終わらない。
-________________________________________
+
 次は支援に関する章だった。
 「支援してやったのだから、という上下関係が威圧的になっていないかを確認する契約」
 「支援者と支援される者が互いの尊厳を守り続けるための契約」
 AERは興味深そうに眉を上げた。
 どうやら地球では、
 親切ですら契約によって管理されているらしい。
-________________________________________
+
 彼は調査内容を全てテレパシーで故郷へ送信した。
 しばらくして、 上司から返答が届く。
 「地球の事情は理解した。 本日の任務は終了だ。」
 AERは契約書を閉じた。
 そして持ち主を探し始めた。
-________________________________________
+
 やがて近くの案内所へ辿り着く。
 契約書を見るなり、 受付係は安心したように笑った。
 「ああ、よかった。 それを探していたんですよ。 落とし主から先ほど連絡があったばかりなんです。」
 AERは契約書を手渡した。
-________________________________________
+
 それで仕事は終わった。
 夕方。
 静かに雪の降る道を、 AERは一人で歩いていた。
-同じ頃、 故郷の上司は研究記録に最後の文章を書き残していた。
-________________________________________
+
 調査記録
 地球では、
 目に見える契約書に署名するだけでは十分ではないらしい。
